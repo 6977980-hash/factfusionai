@@ -696,7 +696,8 @@ final class FactFusion_Frontend {
 	 * @return string
 	 */
 	private static function category_tail( $category, $counts ) {
-		$html = '';
+		// Topic hubs and myth pages for this category (added by the theme's inc/content-depth.php).
+		$html = (string) apply_filters( 'factfusion_category_topics', '', $category );
 		$faq  = FactFusion_Categories::faq( $category );
 		if ( $faq ) {
 			$html .= '<section class="ff-section"><h2 class="wp-block-heading">' . esc_html__( 'Questions and answers', 'factfusion-ai' ) . '</h2><div class="ff-faq">';
