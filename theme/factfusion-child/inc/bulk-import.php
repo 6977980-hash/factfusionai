@@ -130,7 +130,6 @@ function ffc_bulk_run_batch() {
 				'status'              => 'pending',
 				'verification_status' => 'unverified',
 				'confidence_score'    => array( 'A' => 60, 'B' => 30, 'C' => 10 )[ $fact['q'] ] ?? 10,
-				'source_summary'      => 'Dataset import, quality ' . $fact['q'],
 				'is_ai_assisted'      => (int) $fact['g'],
 				'is_indexable'        => 1, // Safe: search engines only see published + verified facts.
 				'source_ids'          => $source_id ? array( $source_id ) : array(),

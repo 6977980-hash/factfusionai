@@ -27,6 +27,24 @@ add_action(
 	}
 );
 
+/**
+ * The import put "Dataset import, quality X" in source_summary. That field is sent to the
+ * AI explanation draft, so clear it; quality is still in confidence_score.
+ */
+add_action(
+	'admin_init',
+	static function () {
+		global $wpdb;
+		if ( get_option( 'ffc_import_summary_cleared' ) || ! get_option( 'ffc_import_indexable_fixed' ) || ! class_exists( 'FactFusion_DB' ) ) {
+			return;
+		}
+		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
+		$wpdb->query( $wpdb->prepare( 'UPDATE %i SET source_summary = %s WHERE source_summary LIKE %s', FactFusion_DB::table( 'facts' ), '', 'Dataset import%' ) );
+		update_option( 'ffc_import_summary_cleared', 1 );
+	},
+	20
+);
+
 add_action(
 	'admin_menu',
 	static function () {
