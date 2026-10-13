@@ -1,0 +1,95 @@
+<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","className":"ff-main ff-home","layout":{"type":"default"}} -->
+<main class="wp-block-group ff-main ff-home">
+	<!-- wp:group {"tagName":"section","className":"ff-hero","layout":{"type":"default"}} -->
+	<section class="wp-block-group ff-hero">
+		<!-- wp:group {"className":"ff-wrap ff-hero__grid","layout":{"type":"default"}} -->
+		<div class="wp-block-group ff-wrap ff-hero__grid">
+			<!-- wp:group {"className":"ff-hero__intro","layout":{"type":"default"}} -->
+			<div class="wp-block-group ff-hero__intro">
+				<!-- wp:heading {"level":1,"className":"ff-hero__title"} -->
+				<h1 class="wp-block-heading ff-hero__title"><span class="ff-hero__kicker">Random Fact Generator</span> One click. One true fact. <span class="ff-hero__accent">With its source.</span></h1>
+				<!-- /wp:heading -->
+
+				<!-- wp:paragraph {"className":"ff-lede"} -->
+				<p class="ff-lede">Every fact is checked by an editor against a named source, such as NASA or NOAA, before it appears here. Learn something surprising, then see exactly where it came from.</p>
+				<!-- /wp:paragraph -->
+
+				<!-- wp:html -->
+				[factfusion_home_stats]
+				<!-- /wp:html -->
+			</div>
+			<!-- /wp:group -->
+
+			<!-- wp:html -->
+			[factfusion_generator layout="hero"]
+			<!-- /wp:html -->
+		</div>
+		<!-- /wp:group -->
+	</section>
+	<!-- /wp:group -->
+
+	<!-- wp:html -->
+	[factfusion_home_sources]
+	<!-- /wp:html -->
+
+	<!-- wp:group {"className":"ff-wrap ff-home__body","layout":{"type":"default"}} -->
+	<div class="wp-block-group ff-wrap ff-home__body">
+		<!-- wp:html -->
+		[factfusion_home_categories]
+		<!-- /wp:html -->
+
+		<!-- wp:group {"className":"ff-home-duo ff-home-duo--play","layout":{"type":"default"}} -->
+		<div class="wp-block-group ff-home-duo ff-home-duo--play">
+			<!-- wp:html -->
+			[factfusion_home_quiz]
+			<!-- /wp:html -->
+
+			<!-- wp:group {"tagName":"section","className":"ff-panel ff-panel--dark ff-home-fotd","layout":{"type":"default"}} -->
+			<section class="wp-block-group ff-panel ff-panel--dark ff-home-fotd">
+				<!-- wp:heading -->
+				<h2 class="wp-block-heading">Fact of the Day</h2>
+				<!-- /wp:heading -->
+
+				<!-- wp:html -->
+				[factfusion_fotd]
+				<!-- /wp:html -->
+			</section>
+			<!-- /wp:group -->
+		</div>
+		<!-- /wp:group -->
+
+		<!-- wp:html -->
+		[factfusion_home_latest]
+		<!-- /wp:html -->
+
+		<!-- wp:html -->
+		[factfusion_home_steps]
+		<!-- /wp:html -->
+
+		<!-- wp:html -->
+		[factfusion_guides layout="cards"]
+		<!-- /wp:html -->
+
+		<!-- wp:html -->
+		[factfusion_home_embed]
+		<!-- /wp:html -->
+
+		<!-- wp:group {"tagName":"section","className":"ff-home-section ff-home-faq","layout":{"type":"default"}} -->
+		<section class="wp-block-group ff-home-section ff-home-faq">
+			<!-- wp:heading -->
+			<h2 class="wp-block-heading">Questions and answers</h2>
+			<!-- /wp:heading -->
+
+			<!-- wp:html -->
+			[factfusion_faq]
+			<!-- /wp:html -->
+		</section>
+		<!-- /wp:group -->
+	</div>
+	<!-- /wp:group -->
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->

@@ -1,0 +1,63 @@
+<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","className":"ff-main","layout":{"type":"constrained"}} -->
+<main class="wp-block-group ff-main">
+	<!-- wp:html -->
+	[factfusion_breadcrumbs]
+	<!-- /wp:html -->
+
+	<!-- wp:group {"tagName":"article","className":"ff-fact","layout":{"type":"default"}} -->
+	<article class="wp-block-group ff-fact">
+		<!-- wp:paragraph {"className":"ff-kicker","metadata":{"bindings":{"content":{"source":"factfusion/fact","args":{"key":"kicker"}}}}} -->
+		<p class="ff-kicker"></p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:heading {"level":1,"metadata":{"bindings":{"content":{"source":"factfusion/fact","args":{"key":"title"}}}}} -->
+		<h1 class="wp-block-heading">Fact title</h1>
+		<!-- /wp:heading -->
+
+		<!-- wp:paragraph {"className":"ff-fact__claim","metadata":{"bindings":{"content":{"source":"factfusion/fact","args":{"key":"claim"}}}}} -->
+		<p class="ff-fact__claim">The claim, in one or two sentences, appears here.</p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:paragraph {"className":"ff-fact__answer","metadata":{"bindings":{"content":{"source":"factfusion/fact","args":{"key":"short_answer"}}}}} -->
+		<p class="ff-fact__answer">The short answer appears here.</p>
+		<!-- /wp:paragraph -->
+
+		<!-- wp:html -->
+		[factfusion_fact_actions]
+		<!-- /wp:html -->
+
+		<!-- wp:heading -->
+		<h2 class="wp-block-heading">Explanation</h2>
+		<!-- /wp:heading -->
+
+		<!-- wp:html -->
+		[factfusion_fact_explanation]
+		<!-- /wp:html -->
+
+		<!-- wp:heading -->
+		<h2 class="wp-block-heading">Source and verification</h2>
+		<!-- /wp:heading -->
+
+		<!-- wp:html -->
+		[factfusion_fact_trust]
+		<!-- /wp:html -->
+
+		<!-- wp:html -->
+		[factfusion_fact_related]
+		<!-- /wp:html -->
+
+		<!-- wp:html -->
+		[factfusion_fact_embed]
+		<!-- /wp:html -->
+
+		<!-- wp:html -->
+		[factfusion_fact_report]
+		<!-- /wp:html -->
+	</article>
+	<!-- /wp:group -->
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->

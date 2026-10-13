@@ -1,0 +1,23 @@
+<!-- wp:template-part {"slug":"header","tagName":"header"} /-->
+
+<!-- wp:group {"tagName":"main","className":"ff-main","layout":{"type":"constrained"}} -->
+<main class="wp-block-group ff-main">
+	<!-- wp:html -->
+	[factfusion_breadcrumbs]
+	<!-- /wp:html -->
+
+	<!-- wp:heading {"level":1,"metadata":{"bindings":{"content":{"source":"factfusion/fact","args":{"key":"browse_title"}}}}} -->
+	<h1 class="wp-block-heading">All Facts</h1>
+	<!-- /wp:heading -->
+
+	<!-- wp:paragraph {"className":"ff-lede","metadata":{"bindings":{"content":{"source":"factfusion/fact","args":{"key":"browse_intro"}}}}} -->
+	<p class="ff-lede">Every fact here links to the source it was checked against.</p>
+	<!-- /wp:paragraph -->
+
+	<!-- wp:html -->
+	[factfusion_browse]
+	<!-- /wp:html -->
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","tagName":"footer"} /-->
