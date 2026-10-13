@@ -147,7 +147,17 @@ function ffc_today_run_job( $job, &$state ) {
 	if ( 'prepare' === $job['type'] ) {
 		$result = ffc_today_prepare_one( $fact );
 		if ( is_wp_error( $result ) ) {
-			$state['errors'][ (int) $fact->id ] = $result->get_error_message();
+			$message = $result->get_error_message();
+			$tries   = (int) ( $job['tries'] ?? 0 );
+			// 503 = Gemini overloaded, 429 = rate limit: both pass, so wait and try again.
+			if ( $tries < 3 && preg_match( '/\b(503|429|500|could not be reached)\b/', $message ) ) {
+				$job['tries']     = $tries + 1;
+				$state['queue'][] = $job;
+				$state['wait']    = 20 * ( $tries + 1 );
+				$state['errors'][ (int) $fact->id ] = $message . ' Retrying automatically…';
+				return;
+			}
+			$state['errors'][ (int) $fact->id ] = $message;
 			return;
 		}
 		unset( $state['errors'][ (int) $fact->id ] );
@@ -224,7 +234,8 @@ add_action(
 			}
 			$state['ids'] = array_values( array_diff( $state['ids'], array( $skip ) ) );
 		} elseif ( 'step' === $do && $state['queue'] ) {
-			$job = array_shift( $state['queue'] );
+			$job           = array_shift( $state['queue'] );
+			$state['wait'] = 0;
 			update_option( FFC_TODAY_OPTION, $state, false ); // Saved first, so a failed job is never retried forever.
 			ffc_today_run_job( $job, $state );
 		}
@@ -266,9 +277,13 @@ function ffc_today_page() {
 	<div class="wrap">
 		<h1>Today's 5</h1>
 		<?php if ( ! empty( $state['queue'] ) ) : ?>
+			<?php $ffc_wait = (int) ( $state['wait'] ?? 0 ); ?>
 			<p style="font-size:15px"><strong>Working…</strong> <?php echo (int) count( $state['queue'] ); ?> step(s) left. Keep this page open.</p>
+			<?php if ( $ffc_wait ) : ?>
+				<p>Gemini is busy right now. Trying again in <?php echo (int) $ffc_wait; ?> seconds.</p>
+			<?php endif; ?>
 			<div id="ffc-step"><?php ffc_today_button( 'step', 'Continue' ); ?></div>
-			<script>setTimeout(function(){ document.querySelector('#ffc-step form').submit(); }, 300);</script>
+			<script>setTimeout(function(){ document.querySelector('#ffc-step form').submit(); }, <?php echo (int) ( $ffc_wait * 1000 + 300 ); ?>);</script>
 		</div>
 			<?php
 			return;
