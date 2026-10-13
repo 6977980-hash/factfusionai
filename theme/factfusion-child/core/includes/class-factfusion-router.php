@@ -598,8 +598,8 @@ final class FactFusion_Router {
 		if ( $fact->is_ai_assisted ) {
 			$html .= '<p class="ff-ai-disclosure ff-meta">' . esc_html(
 				$verified
-					? __( 'The explanation on this page was drafted with AI assistance. A human editor checked the fact against its source before publishing.', 'factfusion-ai' )
-					: __( 'The explanation on this page was drafted with AI assistance and has not been verified yet.', 'factfusion-ai' )
+					? __( 'The headline, short answer and explanation on this page were drafted with AI assistance. A human editor checked them against the source before publishing.', 'factfusion-ai' )
+					: __( 'The text on this page was drafted with AI assistance and has not been verified yet.', 'factfusion-ai' )
 			) . '</p>';
 		}
 

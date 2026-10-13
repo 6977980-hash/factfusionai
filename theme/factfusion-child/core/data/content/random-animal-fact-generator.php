@@ -91,7 +91,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>FactFusion AI uses AI assistance for content organization, explanation drafting, and classification. All facts are verified by human editors before publishing.</p>
+<p>FactFusion AI uses AI assistance for content organization, drafting headlines, short answers and explanations, and classification. All facts are verified by human editors before publishing.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

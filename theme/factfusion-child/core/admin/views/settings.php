@@ -61,7 +61,7 @@ $ff_secrets = array(
 	<?php FactFusion_Admin::form_fields( 'save_settings' ); ?>
 
 	<h2><?php esc_html_e( 'AI drafting', 'factfusion-ai' ); ?></h2>
-	<p><?php esc_html_e( 'AI is used only when an editor asks for a draft explanation. It never delivers, publishes or sources a fact.', 'factfusion-ai' ); ?></p>
+	<p><?php esc_html_e( 'AI drafts headlines, short answers and explanations when an editor asks (Fact editor or Today\'s 5). It never sources or publishes a fact: an editor checks every draft against the source first.', 'factfusion-ai' ); ?></p>
 	<table class="form-table" role="presentation">
 		<?php
 		FactFusion_Admin::row(

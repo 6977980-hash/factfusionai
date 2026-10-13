@@ -360,8 +360,8 @@ final class FactFusion_Home {
 	 */
 	public static function shortcode_steps() {
 		$steps = array(
-			array( __( 'It starts from a source', 'factfusion-ai' ), __( 'A named source that publishes the information first-hand: a science agency, a national archive, a museum or a peer-reviewed study. AI never supplies a fact or a source.', 'factfusion-ai' ) ),
-			array( __( 'An editor checks it', 'factfusion-ai' ), __( 'The claim says only what the source says. It is compared with the source page, and nothing is published until the editor approves it.', 'factfusion-ai' ) ),
+			array( __( 'It starts from a source', 'factfusion-ai' ), __( 'A named source: a science agency, a museum, a peer-reviewed study or a reference work such as Wikipedia. Its tier, from A to D, shows which kind it is. AI never supplies a source.', 'factfusion-ai' ) ),
+			array( __( 'An editor checks it', 'factfusion-ai' ), __( 'An editor opens the source and checks that the claim says only what the source says. AI may draft the wording, but nothing is published until the editor approves it.', 'factfusion-ai' ) ),
 			array( __( 'You can check it too', 'factfusion-ai' ), __( 'Every fact links to its source and shows its tier from A to D, the date it was last verified and a confidence score.', 'factfusion-ai' ) ),
 		);
 		$link = sprintf( '<a class="ff-home-head__link" href="%s">%s</a>', esc_url( home_url( user_trailingslashit( 'how-we-verify-facts' ) ) ), esc_html__( 'Read our full method', 'factfusion-ai' ) );

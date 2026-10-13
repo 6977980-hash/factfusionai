@@ -87,7 +87,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>FactFusion AI uses AI assistance for content organization, explanation drafting, and classification. All facts are verified by human editors before publishing. A fact whose explanation was drafted with AI help says so on its page.</p>
+<p>FactFusion AI uses AI assistance for content organization, drafting headlines, short answers and explanations, and classification. All facts are verified by human editors before publishing. A fact whose explanation was drafted with AI help says so on its page.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -119,13 +119,13 @@ defined( 'ABSPATH' ) || exit;
 
 <!-- wp:details {"className":"ff-faq__item"} -->
 <details class="wp-block-details ff-faq__item"><summary>Where do the facts come from?</summary><!-- wp:paragraph -->
-<p>From named sources such as NASA, NOAA, the U.S. National Park Service, the U.S. National Institutes of Health, museums and archives. The source is linked under every fact.</p>
+<p>From named sources such as NASA, NOAA, the U.S. National Park Service, the U.S. National Institutes of Health, museums, archives and reference works such as Wikipedia. The source and its tier are shown under every fact.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 
 <!-- wp:details {"className":"ff-faq__item"} -->
 <details class="wp-block-details ff-faq__item"><summary>Does AI write the facts?</summary><!-- wp:paragraph -->
-<p>No. AI is never the source of a fact here. It helps to draft explanations and organize content, and a person checks every fact against its source before it is published.</p>
+<p>No. AI is never the source of a fact here. It helps to draft headlines, short answers and explanations and to organize content, and a person checks every fact against its source before it is published.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details -->
 

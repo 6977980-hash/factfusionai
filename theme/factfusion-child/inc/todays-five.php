@@ -5,14 +5,31 @@
  * FactFusion AI → Today's 5.
  * 1. "Prepare 5 facts" picks five A-quality pending facts from one category and has
  *    Gemini write the title, short answer and explanation for each.
- * 2. The editor reads the five cards (each shows its source link) and skips any that look wrong.
- * 3. "Publish these" marks the rest Verified and Published.
+ * 2. The editor opens each source, ticks "I checked the source" and picks a confidence level,
+ *    or skips the fact.
+ * 3. "Publish checked facts" publishes only the ticked ones, as Verified, with the editor as verifier.
+ *    At most FFC_TODAY_DAILY_CAP facts a day, so publishing stays at a pace a person can check.
  */
 
 defined( 'ABSPATH' ) || exit;
 
 const FFC_TODAY_OPTION = 'ffc_todays_five';
 const FFC_TODAY_COUNT  = 5;
+const FFC_TODAY_DAILY_CAP = 10;
+
+/** Confidence levels the editor picks from when publishing. */
+function ffc_today_confidence_levels() {
+	return array(
+		90 => 'High: the source states it directly',
+		75 => 'Good: the source supports it, wording simplified',
+		60 => 'Fair: the source gives an estimate or range',
+	);
+}
+
+/** Facts published through Today's 5 today (site time). */
+function ffc_today_published_today() {
+	return (int) get_option( 'ffc_today_published_' . wp_date( 'Ymd' ), 0 );
+}
 
 add_action(
 	'admin_menu',
@@ -125,18 +142,6 @@ function ffc_today_long_enough( $claim, $explanation ) {
  * Runs one queued job. Each AI call can take up to a minute, so every request does
  * a single job and the page moves on to the next one by itself (no gateway time-outs).
  */
-/** "How we checked this" paragraph, built from the fact's own source. */
-function ffc_today_checked_note( $fact ) {
-	$names = array();
-	foreach ( FactFusion_Sources::for_fact( (int) $fact->id ) as $source ) {
-		$names[] = $source->source_name;
-	}
-	$from = $names ? implode( ' and ', $names ) : 'the source listed below';
-	return '<p><strong>How we checked this.</strong> This fact comes from ' . esc_html( $from ) . ', linked below so you can read it yourself. '
-		. 'Before publishing, an editor compared the claim with that source to make sure it says the same thing, without exaggerating it. '
-		. 'If the source changes or you find a mistake, use the "Report a problem" link on this page and we will check it again.</p>';
-}
-
 function ffc_today_run_job( $job, &$state ) {
 	$fact = FactFusion_Facts::get( (int) $job['id'] );
 	if ( ! $fact || 'pending' !== $fact->status ) {
@@ -171,6 +176,9 @@ function ffc_today_run_job( $job, &$state ) {
 		}
 	} elseif ( 'publish' === $job['type'] ) {
 		$changes = array();
+		if ( empty( $job['confidence'] ) || empty( $job['editor'] ) ) {
+			return; // A job queued before the source check existed: publish it again from the card.
+		}
 		if ( '' === trim( (string) $fact->short_answer ) || FactFusion_Facts::word_count( $fact->explanation ) < 50 ) {
 			$state['notes'][] = '"' . $fact->title . '" was not published: the AI text is missing. Click "Retry AI" on its card, or Skip it.';
 			return;
@@ -178,17 +186,24 @@ function ffc_today_run_job( $job, &$state ) {
 		if ( FactFusion_Facts::word_count( $fact->explanation ) < FactFusion_Facts::MIN_EXPLANATION_WORDS ) {
 			if ( empty( $job['expanded'] ) ) {
 				// Lengthen first, then try publishing again.
-				array_unshift( $state['queue'], array( 'type' => 'expand', 'id' => (int) $fact->id ), array( 'type' => 'publish', 'id' => (int) $fact->id, 'expanded' => 1 ) );
+				array_unshift( $state['queue'], array( 'type' => 'expand', 'id' => (int) $fact->id ), array( 'expanded' => 1 ) + $job );
 				return;
 			}
-			// The AI could not lengthen it: add a short, true note on how the fact was checked.
-			$changes['explanation'] = $fact->explanation . ffc_today_checked_note( $fact );
+			// No filler text: the editor adds a line of their own instead.
+			$state['notes'][] = '"' . $fact->title . '" was not published: the explanation is still under ' . FactFusion_Facts::MIN_EXPLANATION_WORDS . ' words. Click "Edit", add a sentence of your own from the source, then publish.';
+			return;
+		}
+		if ( ffc_today_published_today() >= FFC_TODAY_DAILY_CAP ) {
+			$state['notes'][] = '"' . $fact->title . '" was not published: today\'s limit of ' . FFC_TODAY_DAILY_CAP . ' facts is reached. It stays here for tomorrow.';
+			return;
 		}
 		$result = ffc_today_update(
 			$fact,
 			$changes + array(
 				'status'              => 'published',
 				'verification_status' => 'verified',
+				'confidence_score'    => (int) $job['confidence'],
+				'author_id'           => (int) $job['editor'], // The person who checked it is the verifier shown on the page.
 				'is_indexable'        => 1,
 				'mark_reviewed'       => 1,
 			)
@@ -197,6 +212,8 @@ function ffc_today_run_job( $job, &$state ) {
 			$state['notes'][] = '"' . $fact->title . '" was not published: ' . implode( ' ', $result->get_error_messages() );
 		} else {
 			$state['ids'] = array_values( array_diff( $state['ids'], array( (int) $fact->id ) ) );
+			update_option( 'ffc_today_published_' . wp_date( 'Ymd' ), ffc_today_published_today() + 1, false );
+			ffc_after_publish( array( FactFusion_Facts::url( FactFusion_Facts::get( (int) $fact->id ) ) ) );
 		}
 	}
 }
@@ -214,13 +231,35 @@ add_action(
 		@set_time_limit( 120 ); // phpcs:ignore WordPress.PHP.NoSilencedErrors
 
 		if ( 'prepare' === $do ) {
+			if ( ffc_today_published_today() >= FFC_TODAY_DAILY_CAP ) {
+				wp_safe_redirect( admin_url( 'admin.php?page=ffc-today' ) );
+				exit;
+			}
 			$state['ids']    = ffc_today_pick_ids();
 			$state['notes']  = array();
 			$state['errors'] = array();
 			$state['queue'] = array_map( static fn( $id ) => array( 'type' => 'prepare', 'id' => $id ), $state['ids'] );
 		} elseif ( 'publish' === $do ) {
+			// Only facts the editor ticked as checked, each with the confidence they picked.
+			$checked = array_map( 'absint', (array) ( $_POST['checked'] ?? array() ) );
+			$levels  = ffc_today_confidence_levels();
 			$state['notes'] = array();
-			$state['queue'] = array_map( static fn( $id ) => array( 'type' => 'publish', 'id' => $id ), $state['ids'] );
+			$state['queue'] = array();
+			foreach ( $state['ids'] as $id ) {
+				$confidence = absint( $_POST['confidence'][ $id ] ?? 0 );
+				if ( ! in_array( $id, $checked, true ) ) {
+					continue;
+				}
+				if ( ! isset( $levels[ $confidence ] ) ) {
+					$state['notes'][] = 'Pick a confidence level for every fact you tick.';
+					continue;
+				}
+				$state['queue'][] = array( 'type' => 'publish', 'id' => $id, 'confidence' => $confidence, 'editor' => get_current_user_id() );
+			}
+			$state['notes'] = array_values( array_unique( $state['notes'] ) );
+			if ( ! $state['queue'] && ! $state['notes'] ) {
+				$state['notes'][] = 'Nothing was published. Tick "I opened the source and it says this" on each fact you checked.';
+			}
 		} elseif ( 'retry' === $do ) {
 			$retry          = absint( $_POST['id'] ?? 0 );
 			$state['notes'] = array();
@@ -273,6 +312,7 @@ function ffc_today_page() {
 	foreach ( FactFusion_Categories::all() as $cat ) {
 		$cats[ (int) $cat->id ] = $cat->name;
 	}
+	$ffc_left = FFC_TODAY_DAILY_CAP - ffc_today_published_today();
 	?>
 	<div class="wrap">
 		<h1>Today's 5</h1>
@@ -295,12 +335,19 @@ function ffc_today_page() {
 
 		<?php if ( ! FactFusion_AI::is_configured() ) : ?>
 			<div class="notice notice-error"><p>No Gemini API key is set on the server, so facts cannot be prepared. Add <code>define( 'GEMINI_API_KEY', '...' );</code> to wp-config.php.</p></div>
+		<?php elseif ( ! $facts && $ffc_left <= 0 ) : ?>
+			<p style="font-size:15px">Today's limit of <?php echo (int) FFC_TODAY_DAILY_CAP; ?> facts is done. Come back tomorrow. Publishing a few checked facts every day is better for Google than many at once.</p>
 		<?php elseif ( ! $facts ) : ?>
-			<p style="font-size:15px">Click once. Five facts from one category get a title, short answer and explanation written by AI. You read them, then publish.</p>
+			<p style="font-size:15px">Click once. Five facts from one category get a title, short answer and explanation written by AI. You check each one against its source, then publish. Left today: <?php echo (int) $ffc_left; ?>.</p>
 			<?php ffc_today_button( 'prepare', 'Prepare 5 facts', true ); ?>
 		<?php else : ?>
-			<p style="font-size:15px">Read each card. If one looks wrong, or the source link does not say it, click <strong>Skip</strong>. Then publish the rest.</p>
-			<p><?php ffc_today_button( 'publish', 'Publish these ' . count( $facts ), true ); ?></p>
+			<p style="font-size:15px">For each card: open the source link and check that it says the same thing, including every number and name. Then tick the box and pick a confidence level. If the source does not say it, click <strong>Skip</strong>. Left today: <?php echo (int) $ffc_left; ?>.</p>
+			<form id="ffc-publish" method="post" action="<?php echo esc_url( admin_url( 'admin-post.php' ) ); ?>">
+				<?php wp_nonce_field( 'ffc_today' ); ?>
+				<input type="hidden" name="action" value="ffc_today">
+				<input type="hidden" name="do" value="publish">
+				<p><button class="button button-primary button-hero" onclick="this.disabled=true;this.form.submit();this.textContent='Working…'">Publish checked facts</button></p>
+			</form>
 			<?php foreach ( $facts as $fact ) : ?>
 				<div style="background:#fff;border:1px solid #dcdcde;border-radius:6px;padding:16px 20px;margin:12px 0;max-width:820px">
 					<p style="margin:0;color:#646970"><?php echo esc_html( $cats[ (int) $fact->category_id ] ?? '' ); ?></p>
@@ -315,6 +362,16 @@ function ffc_today_page() {
 					<?php if ( ! empty( $state['errors'][ (int) $fact->id ] ) || '' === trim( (string) $fact->short_answer ) ) : ?>
 						<div class="notice notice-error inline"><p>AI could not write this one<?php echo empty( $state['errors'][ (int) $fact->id ] ) ? '' : ': ' . esc_html( $state['errors'][ (int) $fact->id ] ); ?></p></div>
 					<?php endif; ?>
+					<p style="background:#f6f7f7;padding:8px 10px;border-radius:4px">
+						<label><input type="checkbox" form="ffc-publish" name="checked[]" value="<?php echo (int) $fact->id; ?>"> <strong>I opened the source and it says this</strong></label>
+						&nbsp;
+						<select form="ffc-publish" name="confidence[<?php echo (int) $fact->id; ?>]">
+							<option value="">Confidence…</option>
+							<?php foreach ( ffc_today_confidence_levels() as $ffc_score => $ffc_label ) : ?>
+								<option value="<?php echo (int) $ffc_score; ?>"><?php echo esc_html( $ffc_score . ' · ' . $ffc_label ); ?></option>
+							<?php endforeach; ?>
+						</select>
+					</p>
 					<p>
 						<?php ffc_today_button( 'retry', 'Retry AI', false, (int) $fact->id ); ?>
 						<?php ffc_today_button( 'skip', 'Skip', false, (int) $fact->id ); ?>

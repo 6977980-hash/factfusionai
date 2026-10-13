@@ -25,7 +25,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Tier B:</strong> established reference works and institutions, such as major museums and encyclopedias.</li>
+<li><strong>Tier B:</strong> established reference works and institutions, such as major museums and encyclopedias, including Wikipedia.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -38,7 +38,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>The tier is shown as a badge next to the source on every fact page. We use Tier A or Tier B sources wherever they exist.</p>
+<p>The tier is shown as a badge next to the source on every fact page. We use Tier A or Tier B sources wherever they exist. Many of our newer facts cite Wikipedia, which is Tier B. Where a Tier A source exists, we prefer it and add it when the fact is next checked.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -96,16 +96,16 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>FactFusion AI uses AI assistance for content organization, explanation drafting, and classification. All facts are verified by human editors before publishing.</p>
+<p>FactFusion AI uses AI assistance for content organization, drafting headlines, short answers and explanations, and classification. All facts are verified by human editors before publishing.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>AI never supplies a fact, a source, a link, a date or an author. Facts come only from the linked sources.</li>
+<li>AI never adds a source, a link or an author, and never decides whether a fact is true. Each claim comes from its linked source.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>When an explanation was drafted with AI assistance, the fact page says so.</li>
+<li>AI may draft a fact's headline, short answer and explanation from the claim. An editor reads them against the source before publishing, and the fact page says when AI was used.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

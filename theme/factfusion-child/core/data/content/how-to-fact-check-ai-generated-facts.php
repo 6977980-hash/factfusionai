@@ -21,7 +21,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>None of that makes AI useless. It makes it a starting point. On this site AI helps to draft explanations and to organize content, but it is never the source of a fact, and every fact is checked by a person against its source before it is published.</p>
+<p>None of that makes AI useless. It makes it a starting point. On this site AI helps to draft headlines, short answers and explanations and to organize content, but it is never the source of a fact, and every fact is checked by a person against its source before it is published.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -199,7 +199,7 @@ defined( 'ABSPATH' ) || exit;
 
 <!-- wp:details {"className":"ff-faq__item"} -->
 <details class="wp-block-details ff-faq__item"><summary>Does FactFusion AI use AI?</summary><!-- wp:paragraph -->
-<p>Yes, for content organization, explanation drafting, and classification. All facts are verified by human editors before publishing, and AI is never the source of a fact.</p>
+<p>Yes, for content organization, drafting headlines, short answers and explanations, and classification. All facts are verified by human editors before publishing, and AI is never the source of a fact.</p>
 <!-- /wp:paragraph --></details>
 <!-- /wp:details --></div>
 <!-- /wp:group -->

@@ -123,7 +123,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Our <a href="{{page:random-fact-generator}}">random fact generator</a> chooses by chance, but only from facts that are already published, and a fact is published only after an editor has compared it with its source. No fact is written or invented by AI. So the facts are random in the way they reach you and verified in where they come from. The two words describe different things, and a fact can be both.</p>
+<p>Our <a href="{{page:random-fact-generator}}">random fact generator</a> chooses by chance, but only from facts that are already published, and a fact is published only after an editor has compared it with its source. No fact is invented by AI. So the facts are random in the way they reach you and verified in where they come from. The two words describe different things, and a fact can be both.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
