@@ -86,7 +86,6 @@ function ffc_today_prepare_one( $fact ) {
 		return new WP_Error( 'ffc_ai_empty', 'The AI reply was incomplete.' );
 	}
 	$expl = wpautop( esc_html( $expl ) );
-	$expl = ffc_today_long_enough( $fact->claim, $expl );
 	return ffc_today_update(
 		$fact,
 		array(
@@ -121,6 +120,54 @@ function ffc_today_long_enough( $claim, $explanation ) {
 	return FactFusion_Facts::word_count( $longer ) > FactFusion_Facts::word_count( $explanation ) ? $longer : $explanation;
 }
 
+/**
+ * Runs one queued job. Each AI call can take up to a minute, so every request does
+ * a single job and the page moves on to the next one by itself (no gateway time-outs).
+ */
+function ffc_today_run_job( $job, &$state ) {
+	$fact = FactFusion_Facts::get( (int) $job['id'] );
+	if ( ! $fact || 'pending' !== $fact->status ) {
+		return;
+	}
+	$short = FactFusion_Facts::word_count( $fact->explanation ) < 110;
+
+	if ( 'prepare' === $job['type'] ) {
+		$result = ffc_today_prepare_one( $fact );
+		if ( is_wp_error( $result ) ) {
+			$state['notes'][] = 'Fact #' . $fact->id . ': ' . $result->get_error_message();
+			return;
+		}
+		$fact = FactFusion_Facts::get( (int) $job['id'] );
+		if ( FactFusion_Facts::word_count( $fact->explanation ) < 110 ) {
+			array_unshift( $state['queue'], array( 'type' => 'expand', 'id' => (int) $fact->id ) );
+		}
+	} elseif ( 'expand' === $job['type'] ) {
+		if ( $short ) {
+			ffc_today_update( $fact, array( 'explanation' => ffc_today_long_enough( $fact->claim, $fact->explanation ) ) );
+		}
+	} elseif ( 'publish' === $job['type'] ) {
+		if ( FactFusion_Facts::word_count( $fact->explanation ) < FactFusion_Facts::MIN_EXPLANATION_WORDS && empty( $job['expanded'] ) ) {
+			// Lengthen first, then try publishing again.
+			array_unshift( $state['queue'], array( 'type' => 'expand', 'id' => (int) $fact->id ), array( 'type' => 'publish', 'id' => (int) $fact->id, 'expanded' => 1 ) );
+			return;
+		}
+		$result = ffc_today_update(
+			$fact,
+			array(
+				'status'              => 'published',
+				'verification_status' => 'verified',
+				'is_indexable'        => 1,
+				'mark_reviewed'       => 1,
+			)
+		);
+		if ( is_wp_error( $result ) ) {
+			$state['notes'][] = '"' . $fact->title . '" was not published: ' . implode( ' ', $result->get_error_messages() );
+		} else {
+			$state['ids'] = array_values( array_diff( $state['ids'], array( (int) $fact->id ) ) );
+		}
+	}
+}
+
 add_action(
 	'admin_post_ffc_today',
 	static function () {
@@ -129,54 +176,31 @@ add_action(
 		}
 		check_admin_referer( 'ffc_today' );
 		$do    = sanitize_key( $_POST['do'] ?? '' );
-		$state = (array) get_option( FFC_TODAY_OPTION, array() );
-		$ids   = array_map( 'intval', (array) ( $state['ids'] ?? array() ) );
-		$notes = array();
-		set_time_limit( 180 );
+		$state = wp_parse_args( (array) get_option( FFC_TODAY_OPTION, array() ), array( 'ids' => array(), 'queue' => array(), 'notes' => array() ) );
+		$state['ids'] = array_map( 'intval', (array) $state['ids'] );
+		@set_time_limit( 120 ); // phpcs:ignore WordPress.PHP.NoSilencedErrors
 
 		if ( 'prepare' === $do ) {
-			$ids = ffc_today_pick_ids();
-			foreach ( $ids as $id ) {
-				$result = ffc_today_prepare_one( FactFusion_Facts::get( $id ) );
-				if ( is_wp_error( $result ) ) {
-					$notes[] = 'Fact #' . $id . ': ' . $result->get_error_message();
-				}
-			}
+			$state['ids']   = ffc_today_pick_ids();
+			$state['notes'] = array();
+			$state['queue'] = array_map( static fn( $id ) => array( 'type' => 'prepare', 'id' => $id ), $state['ids'] );
+		} elseif ( 'publish' === $do ) {
+			$state['notes'] = array();
+			$state['queue'] = array_map( static fn( $id ) => array( 'type' => 'publish', 'id' => $id ), $state['ids'] );
 		} elseif ( 'skip' === $do ) {
 			$skip = absint( $_POST['id'] ?? 0 );
 			$fact = $skip ? FactFusion_Facts::get( $skip ) : null;
 			if ( $fact ) {
 				ffc_today_update( $fact, array( 'status' => 'archived' ) );
 			}
-			$ids = array_values( array_diff( $ids, array( $skip ) ) );
-		} elseif ( 'publish' === $do ) {
-			$left = array();
-			foreach ( $ids as $id ) {
-				$fact = FactFusion_Facts::get( $id );
-				if ( ! $fact || 'pending' !== $fact->status ) {
-					continue;
-				}
-				if ( FactFusion_Facts::word_count( $fact->explanation ) < FactFusion_Facts::MIN_EXPLANATION_WORDS ) {
-					$fact->explanation = ffc_today_long_enough( $fact->claim, $fact->explanation );
-				}
-				$result = ffc_today_update(
-					$fact,
-					array(
-						'status'              => 'published',
-						'verification_status' => 'verified',
-						'is_indexable'        => 1,
-						'mark_reviewed'       => 1,
-					)
-				);
-				if ( is_wp_error( $result ) ) {
-					$notes[] = '"' . $fact->title . '" was not published: ' . implode( ' ', $result->get_error_messages() );
-					$left[]  = $id;
-				}
-			}
-			$ids = $left;
+			$state['ids'] = array_values( array_diff( $state['ids'], array( $skip ) ) );
+		} elseif ( 'step' === $do && $state['queue'] ) {
+			$job = array_shift( $state['queue'] );
+			update_option( FFC_TODAY_OPTION, $state, false ); // Saved first, so a failed job is never retried forever.
+			ffc_today_run_job( $job, $state );
 		}
 
-		update_option( FFC_TODAY_OPTION, array( 'ids' => $ids, 'notes' => $notes ), false );
+		update_option( FFC_TODAY_OPTION, $state, false );
 		wp_safe_redirect( admin_url( 'admin.php?page=ffc-today' ) );
 		exit;
 	}
@@ -212,6 +236,15 @@ function ffc_today_page() {
 	?>
 	<div class="wrap">
 		<h1>Today's 5</h1>
+		<?php if ( ! empty( $state['queue'] ) ) : ?>
+			<p style="font-size:15px"><strong>Working…</strong> <?php echo (int) count( $state['queue'] ); ?> step(s) left. Keep this page open.</p>
+			<div id="ffc-step"><?php ffc_today_button( 'step', 'Continue' ); ?></div>
+			<script>setTimeout(function(){ document.querySelector('#ffc-step form').submit(); }, 300);</script>
+		</div>
+			<?php
+			return;
+		endif;
+		?>
 		<?php foreach ( (array) ( $state['notes'] ?? array() ) as $note ) : ?>
 			<div class="notice notice-warning"><p><?php echo esc_html( $note ); ?></p></div>
 		<?php endforeach; ?>
