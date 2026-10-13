@@ -167,7 +167,8 @@ function ffc_bulk_page() {
 	$offset  = (int) get_option( FFC_BULK_OFFSET, 0 );
 	$total   = $stats['total'] ? $stats['total'] : count( (array) json_decode( (string) file_get_contents( FFC_BULK_FILE ), true ) );
 	$done    = $offset >= $total;
-	$next    = wp_nonce_url( admin_url( 'tools.php?page=ffc-bulk&run=1' ), 'ffc_bulk' );
+	// Built by hand: wp_nonce_url() returns an HTML-escaped URL (&amp;), which breaks the JS redirect.
+	$next    = add_query_arg( array( 'page' => 'ffc-bulk', 'run' => 1, '_wpnonce' => wp_create_nonce( 'ffc_bulk' ) ), admin_url( 'tools.php' ) );
 	?>
 	<div class="wrap">
 		<h1>Import 10k Facts</h1>
