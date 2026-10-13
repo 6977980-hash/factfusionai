@@ -23,23 +23,27 @@ add_action(
 	'init',
 	static function () {
 		$want = FFC_ADSENSE_PUB ? 'adsense' : 'none';
-		if ( get_option( 'ffc_privacy_ads_state' ) === $want ) {
+		if ( get_option( 'ffc_privacy_ads_state_v2' ) === $want ) {
 			return;
 		}
 		$page = get_page_by_path( 'privacy-policy' );
 		if ( $page ) {
-			$from = FFC_ADSENSE_PUB ? FFC_PRIVACY_OLD : FFC_PRIVACY_NEW;
-			$to   = FFC_ADSENSE_PUB ? FFC_PRIVACY_NEW : FFC_PRIVACY_OLD;
-			if ( str_contains( $page->post_content, $from ) ) {
+			// Match the AdSense paragraph loosely: WordPress may store its quotes or links slightly differently.
+			$content = FFC_ADSENSE_PUB
+				? str_replace( FFC_PRIVACY_OLD, FFC_PRIVACY_NEW, $page->post_content )
+				: preg_replace( '/We use Google AdSense to show ads\..*?sites that use its services<\/a>\./s', FFC_PRIVACY_OLD, $page->post_content );
+			if ( is_string( $content ) && $content !== $page->post_content ) {
 				wp_update_post(
-					array(
-						'ID'           => $page->ID,
-						'post_content' => str_replace( $from, $to, $page->post_content ),
+					wp_slash(
+						array(
+							'ID'           => $page->ID,
+							'post_content' => $content,
+						)
 					)
 				);
 			}
 		}
-		update_option( 'ffc_privacy_ads_state', $want );
+		update_option( 'ffc_privacy_ads_state_v2', $want );
 	},
 	20
 );
