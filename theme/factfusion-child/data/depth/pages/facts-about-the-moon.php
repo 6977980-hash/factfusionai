@@ -44,7 +44,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:html -->
-<ul class="ff-guides__list"><li><a href="{{home}}/is-there-a-dark-side-of-the-moon/">Is there a dark side of the Moon?</a> (Misleading)</li></ul>
+<ul class="ff-guides__list"><li><a href="{{home}}/is-there-a-dark-side-of-the-moon/">Is there a dark side of the Moon?</a> (myth: misleading)</li></ul>
 <!-- /wp:html -->
 
 <!-- wp:heading -->

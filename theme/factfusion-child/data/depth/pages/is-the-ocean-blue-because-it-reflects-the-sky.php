@@ -1,6 +1,6 @@
 <?php defined( 'ABSPATH' ) || exit; ?>
 <!-- wp:html -->
-<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--mostly-false">Verdict: Mostly false</span><p>Mostly no. NOAA says the ocean is blue because water absorbs colors in the red part of the light spectrum, leaving blue light for us to see.</p></div>
+<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--mostly-false">The myth: Mostly false</span><p>Mostly no. NOAA says the ocean is blue because water absorbs colors in the red part of the light spectrum, leaving blue light for us to see.</p></div>
 <!-- /wp:html -->
 
 <!-- wp:heading -->

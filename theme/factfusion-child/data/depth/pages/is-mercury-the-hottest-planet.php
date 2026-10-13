@@ -1,6 +1,6 @@
 <?php defined( 'ABSPATH' ) || exit; ?>
 <!-- wp:html -->
-<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--false">Verdict: False</span><p>No. NASA says Venus is the hottest planet, with surface temperatures of about 872 degrees Fahrenheit (467 Celsius), hotter than Mercury's daytime highs of about 800°F (430°C).</p></div>
+<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--false">The myth: False</span><p>No. NASA says Venus is the hottest planet, with surface temperatures of about 872 degrees Fahrenheit (467 Celsius), hotter than Mercury's daytime highs of about 800°F (430°C).</p></div>
 <!-- /wp:html -->
 
 <!-- wp:heading -->

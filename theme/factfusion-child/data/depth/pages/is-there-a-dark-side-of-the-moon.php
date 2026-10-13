@@ -1,6 +1,6 @@
 <?php defined( 'ABSPATH' ) || exit; ?>
 <!-- wp:html -->
-<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--misleading">Verdict: Misleading</span><p>Not quite. NASA says the side we cannot see from Earth is the far side, and it gets just as much sunlight as the side we do see.</p></div>
+<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--misleading">The myth: Misleading</span><p>Not quite. NASA says the side we cannot see from Earth is the far side, and it gets just as much sunlight as the side we do see.</p></div>
 <!-- /wp:html -->
 
 <!-- wp:heading -->

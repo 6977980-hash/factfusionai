@@ -371,9 +371,10 @@ add_shortcode(
 				continue;
 			}
 			$items .= sprintf(
-				'<li class="ff-card ff-myth-card"><span class="ff-verdict ff-verdict--%1$s">%2$s</span> <a class="ff-fact-list__title" href="%3$s">%4$s</a><p>%5$s</p></li>',
+				'<li class="ff-card ff-myth-card"><a class="ff-fact-list__title" href="%3$s">%4$s</a><p><span class="ff-verdict ff-verdict--%1$s">%2$s</span> %5$s</p></li>',
 				esc_attr( sanitize_title( $def['verdict'] ) ),
-				esc_html( $def['verdict'] ),
+				/* translators: %s: verdict word. */
+				esc_html( sprintf( __( 'Myth: %s', 'factfusion-ai' ), $def['verdict'] ) ),
 				esc_url( get_permalink( $page ) ),
 				esc_html( get_the_title( $page ) ),
 				esc_html( $def['description'] )
@@ -549,6 +550,9 @@ add_filter(
 		$post = get_post();
 		if ( ! $post || (int) $post->ID !== get_queried_object_id() || doing_filter( 'get_the_excerpt' ) || ! isset( FactFusion_Pages::definitions()[ $post->post_name ] ) ) {
 			return $content;
+		}
+		if ( false !== stripos( $content, 'last updated' ) ) {
+			return $content; // The page states its own date already.
 		}
 		$stamp = get_post_modified_time( 'U', true, $post );
 		return '<p class="ff-meta ff-updated">' . sprintf(

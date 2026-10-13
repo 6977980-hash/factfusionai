@@ -1,6 +1,6 @@
 <?php defined( 'ABSPATH' ) || exit; ?>
 <!-- wp:html -->
-<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--false">Verdict: False</span><p>Yes, often. The National Weather Service says the Empire State Building is hit an average of 23 times a year, so the saying that lightning never strikes twice is false.</p></div>
+<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--false">The myth: False</span><p>Yes, often. The National Weather Service says the Empire State Building is hit an average of 23 times a year, so the saying that lightning never strikes twice is false.</p></div>
 <!-- /wp:html -->
 
 <!-- wp:heading -->

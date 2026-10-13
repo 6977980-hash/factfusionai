@@ -1,6 +1,6 @@
 <?php defined( 'ABSPATH' ) || exit; ?>
 <!-- wp:html -->
-<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--false">Verdict: False</span><p>No. NASA says the wall is difficult or impossible to see from Earth orbit without high-powered lenses, and China's first astronaut, Yang Liwei, said he could not see it.</p></div>
+<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--false">The myth: False</span><p>No. NASA says the wall is difficult or impossible to see from Earth orbit without high-powered lenses, and China's first astronaut, Yang Liwei, said he could not see it.</p></div>
 <!-- /wp:html -->
 
 <!-- wp:heading -->

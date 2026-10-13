@@ -1,6 +1,6 @@
 <?php defined( 'ABSPATH' ) || exit; ?>
 <!-- wp:html -->
-<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--misleading">Verdict: Misleading</span><p>Not quite. NOAA Ocean Exploration reports that 28.7% of the global seafloor had been mapped with modern high-resolution technology as of April 2026, while less than 0.001% of the deep seafloor has been seen by explorers.</p></div>
+<div class="ff-verdict-box"><span class="ff-verdict ff-verdict--misleading">The myth: Misleading</span><p>Not quite. NOAA Ocean Exploration reports that 28.7% of the global seafloor had been mapped with modern high-resolution technology as of April 2026, while less than 0.001% of the deep seafloor has been seen by explorers.</p></div>
 <!-- /wp:html -->
 
 <!-- wp:heading -->

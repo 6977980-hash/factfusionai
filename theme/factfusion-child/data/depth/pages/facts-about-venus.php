@@ -56,7 +56,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:html -->
-<ul class="ff-guides__list"><li><a href="{{home}}/is-mercury-the-hottest-planet/">Is Mercury the hottest planet?</a> (False)</li></ul>
+<ul class="ff-guides__list"><li><a href="{{home}}/is-mercury-the-hottest-planet/">Is Mercury the hottest planet?</a> (myth: false)</li></ul>
 <!-- /wp:html -->
 
 <!-- wp:heading -->

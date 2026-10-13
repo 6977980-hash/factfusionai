@@ -60,7 +60,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:html -->
-<ul class="ff-guides__list"><li><a href="{{home}}/have-we-only-explored-5-percent-of-the-ocean/">Have we only explored 5 percent of the ocean?</a> (Misleading)</li><li><a href="{{home}}/is-the-ocean-blue-because-it-reflects-the-sky/">Is the ocean blue because it reflects the sky?</a> (Mostly false)</li></ul>
+<ul class="ff-guides__list"><li><a href="{{home}}/have-we-only-explored-5-percent-of-the-ocean/">Have we only explored 5 percent of the ocean?</a> (myth: misleading)</li><li><a href="{{home}}/is-the-ocean-blue-because-it-reflects-the-sky/">Is the ocean blue because it reflects the sky?</a> (myth: mostly false)</li></ul>
 <!-- /wp:html -->
 
 <!-- wp:heading -->
