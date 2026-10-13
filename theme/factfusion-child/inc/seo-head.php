@@ -436,6 +436,20 @@ function ffc_llms_txt() {
 	$lines[] = '- [Facts sitemap](' . FactFusion_SEO::sitemap_url() . '): every indexable fact page with its last-modified date';
 	$lines[] = '- [Facts API](' . rest_url( 'factfusion/v1/facts' ) . '): published facts as JSON, free to use with a link back';
 	$lines[] = '- [RSS feed](' . home_url( '/feed/' ) . '): the newest facts';
+	if ( function_exists( 'ffc_auth_url' ) ) {
+		$extra = array(
+			'open-data' => array( 'Open dataset', 'every verified fact with its sources, as CSV and JSON, CC BY 4.0' ),
+			'facts-api' => array( 'Facts API docs', 'endpoints, fields and limits' ),
+			'changelog' => array( 'Change log', 'facts added, updated and withdrawn, and corrections' ),
+			'quiz'      => array( 'Fact quiz', 'questions built from verified facts' ),
+		);
+		foreach ( $extra as $slug => $text ) {
+			$url = ffc_auth_url( $slug );
+			if ( $url ) {
+				$lines[] = '- [' . $text[0] . '](' . $url . '): ' . $text[1];
+			}
+		}
+	}
 	return implode( "\n", $lines ) . "\n";
 }
 
