@@ -15,28 +15,31 @@ const FFC_PRIVACY_OLD = 'We do not use advertising cookies.';
 const FFC_PRIVACY_NEW = 'We use Google AdSense to show ads. Google and its partners use cookies to show ads based on your visits to this and other websites. Google\'s use of advertising cookies lets it and its partners serve ads based on your visits to our site and/or other sites on the Internet. You can opt out of personalised advertising at <a href="https://adssettings.google.com">Google Ads Settings</a>, or opt out of some third-party vendors\' cookies at <a href="https://www.aboutads.info/choices/">aboutads.info</a>. Visitors in the EEA, the UK and Switzerland are asked for consent before personalised ads are shown. Read <a href="https://policies.google.com/technologies/partner-sites">how Google uses information from sites that use its services</a>.';
 
 /**
- * One-time update of the live Privacy Policy page. Only the old sentence is swapped,
- * so any other edits made in WordPress are kept. Runs again only if the sentence comes back.
+ * Keeps the advertising sentence in the live Privacy Policy page in step with AdSense:
+ * the AdSense paragraph while a publisher ID is set, "We do not use advertising cookies."
+ * while it is empty. Only that sentence is swapped, so other edits made in WordPress stay.
  */
 add_action(
 	'init',
 	static function () {
-		if ( get_option( 'ffc_privacy_adsense' ) ) {
+		$want = FFC_ADSENSE_PUB ? 'adsense' : 'none';
+		if ( get_option( 'ffc_privacy_ads_state' ) === $want ) {
 			return;
 		}
 		$page = get_page_by_path( 'privacy-policy' );
-		if ( ! $page ) {
-			return;
+		if ( $page ) {
+			$from = FFC_ADSENSE_PUB ? FFC_PRIVACY_OLD : FFC_PRIVACY_NEW;
+			$to   = FFC_ADSENSE_PUB ? FFC_PRIVACY_NEW : FFC_PRIVACY_OLD;
+			if ( str_contains( $page->post_content, $from ) ) {
+				wp_update_post(
+					array(
+						'ID'           => $page->ID,
+						'post_content' => str_replace( $from, $to, $page->post_content ),
+					)
+				);
+			}
 		}
-		if ( str_contains( $page->post_content, FFC_PRIVACY_OLD ) ) {
-			wp_update_post(
-				array(
-					'ID'           => $page->ID,
-					'post_content' => str_replace( FFC_PRIVACY_OLD, FFC_PRIVACY_NEW, $page->post_content ),
-				)
-			);
-		}
-		update_option( 'ffc_privacy_adsense', 1 );
+		update_option( 'ffc_privacy_ads_state', $want );
 	},
 	20
 );
