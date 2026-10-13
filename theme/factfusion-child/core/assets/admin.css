@@ -1,0 +1,108 @@
+/* FactFusion AI admin screens. */
+
+.factfusion-wrap .factfusion-cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+	gap: 16px;
+	margin: 16px 0 24px;
+}
+
+.factfusion-wrap .factfusion-card {
+	padding: 16px 20px;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	background: #fff;
+}
+
+.factfusion-wrap .factfusion-card h2 {
+	margin-top: 0;
+}
+
+.factfusion-wrap .factfusion-card progress {
+	width: 100%;
+}
+
+.factfusion-wrap .factfusion-figure {
+	margin: 0;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 1.2;
+}
+
+.factfusion-wrap .factfusion-filters {
+	clear: both;
+	margin: 12px 0;
+}
+
+.factfusion-wrap .factfusion-col-number {
+	width: 6rem;
+}
+
+.factfusion-wrap .factfusion-badge {
+	display: inline-block;
+	padding: 2px 8px;
+	border-radius: 999px;
+	background: #f0f0f1;
+	color: #1d2327;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 1.6;
+}
+
+.factfusion-wrap .factfusion-badge--published,
+.factfusion-wrap .factfusion-badge--verified,
+.factfusion-wrap .factfusion-badge--resolved {
+	background: #d1f0d9;
+	color: #0a4b1d;
+}
+
+.factfusion-wrap .factfusion-badge--pending,
+.factfusion-wrap .factfusion-badge--in_review,
+.factfusion-wrap .factfusion-badge--new {
+	background: #fcf0c3;
+	color: #5c4400;
+}
+
+.factfusion-wrap .factfusion-badge--disputed,
+.factfusion-wrap .factfusion-badge--outdated,
+.factfusion-wrap .factfusion-badge--rejected {
+	background: #fbd9d9;
+	color: #7a1212;
+}
+
+.factfusion-wrap .factfusion-badge--tier {
+	background: #dbe7fb;
+	color: #12397a;
+}
+
+.factfusion-wrap .factfusion-checklist {
+	max-height: 16rem;
+	overflow-y: auto;
+	padding: 8px 12px;
+	border: 1px solid #8c8f94;
+	border-radius: 4px;
+	background: #fff;
+}
+
+.factfusion-wrap .factfusion-checklist label {
+	display: block;
+	padding: 4px 0;
+}
+
+.factfusion-wrap .factfusion-errors {
+	margin: 0.5em 0;
+	list-style: disc inside;
+}
+
+.factfusion-wrap .factfusion-format {
+	max-width: 48rem;
+}
+
+.factfusion-wrap .factfusion-delete {
+	margin-left: 12px;
+	color: #b32d2e;
+}
+
+.factfusion-wrap .factfusion-meta {
+	color: #50575e;
+}
