@@ -113,6 +113,8 @@ function ffd_sync( $force = false ) {
 	if ( function_exists( 'wp_clean_themes_cache' ) ) {
 		wp_clean_themes_cache();
 	}
+	// New theme code can change every page, so clear the page cache (LiteSpeed on Hostinger).
+	do_action( 'litespeed_purge_all' );
 	return true;
 }
 
