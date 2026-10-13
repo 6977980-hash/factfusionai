@@ -276,3 +276,18 @@ add_action(
 		);
 	}
 );
+
+/*
+ * Homepage lede (parent theme template): most newer facts cite Wikipedia, not NASA or NOAA.
+ */
+add_filter(
+	'render_block_core/paragraph',
+	static function ( $html ) {
+		$old = 'against a named source, such as NASA or NOAA, before it appears here.';
+		if ( is_string( $html ) && str_contains( $html, $old ) ) {
+			$html = str_replace( $old, 'against a named source, such as NASA, NOAA or Wikipedia, before it appears here.', $html );
+		}
+		return $html;
+	},
+	10
+);
