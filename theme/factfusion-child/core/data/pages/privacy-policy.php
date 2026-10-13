@@ -56,7 +56,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We do not use advertising cookies. We may use Google Analytics 4 to understand which pages are useful. It is loaded only if you choose "Accept analytics" in the cookie notice. If you decline, or if no notice is shown, it does not run. When it does run, Google Analytics sets cookies and sends usage information to Google. You can change your choice at any time with the "Cookie settings" link at the bottom of any page.</p>
+<p>We use Google AdSense to show ads. Google and its partners use cookies to show ads based on your visits to this and other websites. Google's use of advertising cookies lets it and its partners serve ads based on your visits to our site and/or other sites on the Internet. You can opt out of personalised advertising at <a href="https://adssettings.google.com">Google Ads Settings</a>, or opt out of some third-party vendors' cookies at <a href="https://www.aboutads.info/choices/">aboutads.info</a>. Visitors in the EEA, the UK and Switzerland are asked for consent before personalised ads are shown. Read <a href="https://policies.google.com/technologies/partner-sites">how Google uses information from sites that use its services</a>. We may use Google Analytics 4 to understand which pages are useful. It is loaded only if you choose "Accept analytics" in the cookie notice. If you decline, or if no notice is shown, it does not run. When it does run, Google Analytics sets cookies and sends usage information to Google. You can change your choice at any time with the "Cookie settings" link at the bottom of any page.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
