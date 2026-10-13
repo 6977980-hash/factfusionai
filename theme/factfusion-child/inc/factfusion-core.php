@@ -12,6 +12,9 @@
 defined( 'ABSPATH' ) || exit;
 
 if ( defined( 'FACTFUSION_VERSION' ) ) {
+	if ( get_option( 'ffc_theme_core_active' ) ) {
+		delete_option( 'ffc_theme_core_active' ); // The plugin is back; set up again if it goes.
+	}
 	return;
 }
 
@@ -47,6 +50,27 @@ function factfusion_child_core_activate() {
 	update_option( 'factfusion_rules_version', FactFusion_Router::RULES_VERSION );
 }
 add_action( 'after_switch_theme', 'factfusion_child_core_activate' );
+
+/*
+ * The first time the theme runs the engine (the plugin was just deactivated or deleted), run
+ * the same setup once. Deactivating the plugin can drop the /fact/ and /facts/ URL rules, and
+ * the stored rules version would otherwise stop them being rebuilt.
+ */
+add_action(
+	'init',
+	static function () {
+		if ( get_option( 'ffc_theme_core_active' ) ) {
+			return;
+		}
+		update_option( 'ffc_theme_core_active', time(), true );
+		factfusion_child_core_activate();
+		do_action( 'litespeed_purge_all' );
+		if ( ! headers_sent() ) {
+			header( 'X-LiteSpeed-Purge: *', false );
+		}
+	},
+	100
+);
 
 // plugins_loaded has already fired when a theme loads, so boot straight away.
 FactFusion_DB::maybe_upgrade();
