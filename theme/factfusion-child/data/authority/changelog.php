@@ -21,6 +21,11 @@ return array(
 	),
 	array(
 		'date'  => '2026-10-13',
+		'title' => 'Four flagged facts corrected, and one "first" claim narrowed',
+		'text'  => 'We corrected the four flagged facts against their sources: the Great Red Spot is now about 1.3 times as wide as Earth (JPL, Juno-era measurements), the Moon drifts about 1.5 inches a year (JPL laser ranging), sunlight takes about 8 minutes and 20 seconds to reach Earth (Smithsonian), and the 170,000-year figure now says what NASA says: energy takes that long to get from the core to the top of the convection zone. The Colin Pitchfork fact now says it was the first murder case solved with DNA profiling, not the first criminal case.',
+	),
+	array(
+		'date'  => '2026-10-13',
 		'title' => 'Four facts flagged for re-checking',
 		'text'  => 'While writing "How we know" notes we found four facts whose wording may not match the current source exactly: the size of Jupiter\'s Great Red Spot, how far the Moon drifts from Earth each year, how long sunlight takes to reach Earth, and how long energy takes to leave the Sun\'s core. They are being re-checked against their sources.',
 	),
