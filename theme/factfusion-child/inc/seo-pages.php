@@ -45,16 +45,15 @@ add_filter(
 add_action(
 	'template_redirect',
 	static function () {
-		// phpcs:ignore WordPress.Security.NonceVerification.Recommended -- public search.
-		if ( is_admin() || ! is_search() || ! isset( $_GET['s'] ) || is_feed() ) {
+		// Also catches /search/word/, the address Rank Math turns ?s= into.
+		if ( is_admin() || ! is_search() || is_feed() ) {
 			return;
 		}
-		// phpcs:ignore WordPress.Security.NonceVerification.Recommended
-		$search = mb_substr( trim( sanitize_text_field( wp_unslash( $_GET['s'] ) ) ), 0, 100 );
+		$search = mb_substr( trim( sanitize_text_field( (string) get_query_var( 's' ) ) ), 0, 100 );
 		wp_safe_redirect( '' === $search ? FactFusion_Router::browse_url() : FactFusion_Router::browse_url( null, 1, $search ), 301 );
 		exit;
 	},
-	1
+	0
 );
 
 /*
