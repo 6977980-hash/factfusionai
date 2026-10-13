@@ -213,7 +213,6 @@ function ffc_today_run_job( $job, &$state ) {
 		} else {
 			$state['ids'] = array_values( array_diff( $state['ids'], array( (int) $fact->id ) ) );
 			update_option( 'ffc_today_published_' . wp_date( 'Ymd' ), ffc_today_published_today() + 1, false );
-			ffc_after_publish( array( FactFusion_Facts::url( FactFusion_Facts::get( (int) $fact->id ) ) ) );
 		}
 	}
 }

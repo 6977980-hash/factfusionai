@@ -8,7 +8,7 @@
  *   comes from NASA/NOAA or that AI writes nothing: newer facts often cite Wikipedia (Tier B),
  *   and AI drafts the headline, short answer and explanation that an editor then checks.
  * - Dataset claims that were themselves written by AI are taken out of the review queue.
- * - The facts sitemap is never page-cached, and new facts are sent to IndexNow.
+ * - The facts sitemap is never page-cached. IndexNow's key file is served here (pings: inc/seo-data.php).
  */
 
 defined( 'ABSPATH' ) || exit;
@@ -64,40 +64,6 @@ function ffc_indexnow_key() {
 		update_option( 'ffc_indexnow_key', $key, true );
 	}
 	return $key;
-}
-
-/**
- * Call after facts are published: clears the server page cache (so the sitemap, homepage
- * and category pages show them) and tells IndexNow about the new URLs.
- *
- * @param string[] $urls Public URLs that changed.
- */
-function ffc_after_publish( $urls ) {
-	do_action( 'litespeed_purge_all' );
-	if ( ! headers_sent() ) {
-		header( 'X-LiteSpeed-Purge: *', false ); // Works with Hostinger's server cache even without the LiteSpeed plugin.
-	}
-	$urls = array_values( array_filter( (array) $urls ) );
-	if ( ! $urls || FFC_LIVE_HOST !== wp_parse_url( home_url(), PHP_URL_HOST ) ) {
-		return;
-	}
-	$key = ffc_indexnow_key();
-	wp_remote_post(
-		'https://api.indexnow.org/indexnow',
-		array(
-			'blocking' => false,
-			'timeout'  => 5,
-			'headers'  => array( 'Content-Type' => 'application/json; charset=utf-8' ),
-			'body'     => wp_json_encode(
-				array(
-					'host'        => FFC_LIVE_HOST,
-					'key'         => $key,
-					'keyLocation' => home_url( '/' . $key . '.txt' ),
-					'urlList'     => $urls,
-				)
-			),
-		)
-	);
 }
 
 /*
@@ -248,8 +214,7 @@ function ffc_trust_fix_run() {
 	// 5. The three facts published on 13 Oct, corrected.
 	$log['facts_fixed'] = ffc_trust_fix_facts();
 
-	FactFusion_Facts::changed();
-	ffc_after_publish( $log['facts_fixed'] );
+	FactFusion_Facts::changed(); // Clears the changed pages and tells IndexNow (inc/seo-data.php).
 	return $log;
 }
 

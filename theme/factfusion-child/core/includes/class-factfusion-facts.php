@@ -408,6 +408,7 @@ final class FactFusion_Facts {
 	 */
 	public static function set_sources( $fact_id, $source_ids ) {
 		global $wpdb;
+		FactFusion_Sources::forget();
 		$table = FactFusion_DB::table( 'fact_sources' );
 		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
 		$wpdb->delete( $table, array( 'fact_id' => (int) $fact_id ), array( '%d' ) );

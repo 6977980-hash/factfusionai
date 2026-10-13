@@ -14,6 +14,13 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 final class FactFusion_Sources {
 
+	/**
+	 * Sources per fact ID, read once per request.
+	 *
+	 * @var array<int,object[]>
+	 */
+	private static $by_fact = array();
+
 	const TIERS = array( 'A', 'B', 'C', 'D' );
 
 	/**
@@ -110,15 +117,27 @@ final class FactFusion_Sources {
 	 */
 	public static function for_fact( $fact_id ) {
 		global $wpdb;
-		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
-		return $wpdb->get_results(
-			$wpdb->prepare(
-				'SELECT s.* FROM %i s INNER JOIN %i l ON l.source_id = s.id WHERE l.fact_id = %d ORDER BY s.tier ASC, s.source_name ASC',
-				FactFusion_DB::table( 'sources' ),
-				FactFusion_DB::table( 'fact_sources' ),
-				$fact_id
-			)
-		);
+		$fact_id = (int) $fact_id;
+		// Cards, schema and the share image all ask for the same fact's sources on one request.
+		if ( ! isset( self::$by_fact[ $fact_id ] ) ) {
+			// phpcs:ignore WordPress.DB.DirectDatabaseQuery
+			self::$by_fact[ $fact_id ] = (array) $wpdb->get_results(
+				$wpdb->prepare(
+					'SELECT s.* FROM %i s INNER JOIN %i l ON l.source_id = s.id WHERE l.fact_id = %d ORDER BY s.tier ASC, s.source_name ASC',
+					FactFusion_DB::table( 'sources' ),
+					FactFusion_DB::table( 'fact_sources' ),
+					$fact_id
+				)
+			);
+		}
+		return self::$by_fact[ $fact_id ];
+	}
+
+	/**
+	 * Forgets the sources read on this request, after a change.
+	 */
+	public static function forget() {
+		self::$by_fact = array();
 	}
 
 	/**
@@ -195,11 +214,13 @@ final class FactFusion_Sources {
 		if ( $id ) {
 			// phpcs:ignore WordPress.DB.DirectDatabaseQuery
 			$ok = $wpdb->update( $table, $row, array( 'id' => (int) $id ), $formats, array( '%d' ) );
+			self::forget();
 			return false === $ok ? new WP_Error( 'ff_db', __( 'The source could not be saved.', 'factfusion-ai' ) ) : (int) $id;
 		}
 
 		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
 		$ok = $wpdb->insert( $table, $row, $formats );
+		self::forget();
 		return $ok ? (int) $wpdb->insert_id : new WP_Error( 'ff_db', __( 'The source could not be saved.', 'factfusion-ai' ) );
 	}
 
@@ -217,6 +238,7 @@ final class FactFusion_Sources {
 		}
 		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
 		$wpdb->delete( FactFusion_DB::table( 'sources' ), array( 'id' => (int) $id ), array( '%d' ) );
+		self::forget();
 		return true;
 	}
 }

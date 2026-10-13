@@ -15,6 +15,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 final class FactFusion_Categories {
 
 	/**
+	 * Every category, read once per request.
+	 *
+	 * @var object[]|null
+	 */
+	private static $rows = null;
+
+	/**
 	 * The 12 launch categories: slug, name, icon, description.
 	 */
 	const DEFAULTS = array(
@@ -61,13 +68,29 @@ final class FactFusion_Categories {
 	 */
 	public static function all( $active_only = false ) {
 		global $wpdb;
-		$table = FactFusion_DB::table( 'categories' );
-		if ( $active_only ) {
+		if ( null === self::$rows ) {
+			// One query per request; pages ask for categories many times.
 			// phpcs:ignore WordPress.DB.DirectDatabaseQuery
-			return $wpdb->get_results( $wpdb->prepare( 'SELECT * FROM %i WHERE is_active = %d ORDER BY sort_order ASC, name ASC', $table, 1 ) );
+			self::$rows = (array) $wpdb->get_results( $wpdb->prepare( 'SELECT * FROM %i ORDER BY sort_order ASC, name ASC', FactFusion_DB::table( 'categories' ) ) );
 		}
-		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
-		return $wpdb->get_results( $wpdb->prepare( 'SELECT * FROM %i ORDER BY sort_order ASC, name ASC', $table ) );
+		if ( ! $active_only ) {
+			return self::$rows;
+		}
+		return array_values(
+			array_filter(
+				self::$rows,
+				static function ( $row ) {
+					return (int) $row->is_active;
+				}
+			)
+		);
+	}
+
+	/**
+	 * Forgets the categories read on this request, after a change.
+	 */
+	public static function forget() {
+		self::$rows = null;
 	}
 
 	/**
@@ -77,9 +100,12 @@ final class FactFusion_Categories {
 	 * @return object|null
 	 */
 	public static function get( $id ) {
-		global $wpdb;
-		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
-		return $wpdb->get_row( $wpdb->prepare( 'SELECT * FROM %i WHERE id = %d', FactFusion_DB::table( 'categories' ), $id ) );
+		foreach ( self::all() as $row ) {
+			if ( (int) $row->id === (int) $id ) {
+				return $row;
+			}
+		}
+		return null;
 	}
 
 	/**
@@ -89,9 +115,12 @@ final class FactFusion_Categories {
 	 * @return object|null
 	 */
 	public static function get_by_slug( $slug ) {
-		global $wpdb;
-		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
-		return $wpdb->get_row( $wpdb->prepare( 'SELECT * FROM %i WHERE slug = %s', FactFusion_DB::table( 'categories' ), $slug ) );
+		foreach ( self::all() as $row ) {
+			if ( (string) $row->slug === (string) $slug ) {
+				return $row;
+			}
+		}
+		return null;
 	}
 
 	/**
@@ -155,11 +184,13 @@ final class FactFusion_Categories {
 		if ( $id ) {
 			// phpcs:ignore WordPress.DB.DirectDatabaseQuery
 			$ok = $wpdb->update( $table, $row, array( 'id' => (int) $id ), $formats, array( '%d' ) );
+			self::forget();
 			return false === $ok ? new WP_Error( 'ff_db', __( 'The category could not be saved.', 'factfusion-ai' ) ) : (int) $id;
 		}
 
 		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
 		$ok = $wpdb->insert( $table, $row, $formats );
+		self::forget();
 		return $ok ? (int) $wpdb->insert_id : new WP_Error( 'ff_db', __( 'The category could not be saved.', 'factfusion-ai' ) );
 	}
 
@@ -287,6 +318,7 @@ final class FactFusion_Categories {
 		}
 		// phpcs:ignore WordPress.DB.DirectDatabaseQuery
 		$wpdb->delete( FactFusion_DB::table( 'categories' ), array( 'id' => (int) $id ), array( '%d' ) );
+		self::forget();
 		return true;
 	}
 }
