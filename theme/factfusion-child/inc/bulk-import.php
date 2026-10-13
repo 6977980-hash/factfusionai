@@ -3,7 +3,7 @@
  * One-time bulk import of the open-source science facts dataset
  * (github.com/Royal-lobster/science-facts-project, MIT) from data/facts-10k.json.
  *
- * Every fact goes in as "pending", "unverified" and not indexable, so no new
+ * Every fact goes in as "pending" and "unverified", so no new
  * public pages appear until a person checks and publishes each one.
  * Quality from the dataset is kept in confidence_score: A = 60, B = 30, C = 10.
  *
@@ -132,7 +132,7 @@ function ffc_bulk_run_batch() {
 				'confidence_score'    => array( 'A' => 60, 'B' => 30, 'C' => 10 )[ $fact['q'] ] ?? 10,
 				'source_summary'      => 'Dataset import, quality ' . $fact['q'],
 				'is_ai_assisted'      => (int) $fact['g'],
-				'is_indexable'        => 0,
+				'is_indexable'        => 1, // Safe: search engines only see published + verified facts.
 				'source_ids'          => $source_id ? array( $source_id ) : array(),
 			)
 		);
@@ -171,7 +171,7 @@ function ffc_bulk_page() {
 	?>
 	<div class="wrap">
 		<h1>Import 10k Facts</h1>
-		<p>Facts are added as <strong>pending</strong> and <strong>not indexable</strong>. Nothing becomes a public page until it is checked and published.</p>
+		<p>Facts are added as <strong>pending</strong>. Nothing becomes a public page until it is checked and published in FactFusion AI → Review queue.</p>
 		<p>Progress: <?php echo (int) $offset; ?> / <?php echo (int) $total; ?> &middot;
 			imported <?php echo (int) $stats['imported']; ?> &middot;
 			skipped as duplicate <?php echo (int) $stats['duplicate']; ?> &middot;
