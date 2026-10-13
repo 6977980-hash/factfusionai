@@ -147,9 +147,10 @@ function ffc_today_run_job( $job, &$state ) {
 	if ( 'prepare' === $job['type'] ) {
 		$result = ffc_today_prepare_one( $fact );
 		if ( is_wp_error( $result ) ) {
-			$state['notes'][] = 'Fact #' . $fact->id . ': ' . $result->get_error_message();
+			$state['errors'][ (int) $fact->id ] = $result->get_error_message();
 			return;
 		}
+		unset( $state['errors'][ (int) $fact->id ] );
 		$fact = FactFusion_Facts::get( (int) $job['id'] );
 		if ( FactFusion_Facts::word_count( $fact->explanation ) < 110 ) {
 			array_unshift( $state['queue'], array( 'type' => 'expand', 'id' => (int) $fact->id ) );
@@ -160,6 +161,10 @@ function ffc_today_run_job( $job, &$state ) {
 		}
 	} elseif ( 'publish' === $job['type'] ) {
 		$changes = array();
+		if ( '' === trim( (string) $fact->short_answer ) || FactFusion_Facts::word_count( $fact->explanation ) < 50 ) {
+			$state['notes'][] = '"' . $fact->title . '" was not published: the AI text is missing. Click "Retry AI" on its card, or Skip it.';
+			return;
+		}
 		if ( FactFusion_Facts::word_count( $fact->explanation ) < FactFusion_Facts::MIN_EXPLANATION_WORDS ) {
 			if ( empty( $job['expanded'] ) ) {
 				// Lengthen first, then try publishing again.
@@ -194,17 +199,23 @@ add_action(
 		}
 		check_admin_referer( 'ffc_today' );
 		$do    = sanitize_key( $_POST['do'] ?? '' );
-		$state = wp_parse_args( (array) get_option( FFC_TODAY_OPTION, array() ), array( 'ids' => array(), 'queue' => array(), 'notes' => array() ) );
+		$state = wp_parse_args( (array) get_option( FFC_TODAY_OPTION, array() ), array( 'ids' => array(), 'queue' => array(), 'notes' => array(), 'errors' => array() ) );
 		$state['ids'] = array_map( 'intval', (array) $state['ids'] );
 		@set_time_limit( 120 ); // phpcs:ignore WordPress.PHP.NoSilencedErrors
 
 		if ( 'prepare' === $do ) {
-			$state['ids']   = ffc_today_pick_ids();
-			$state['notes'] = array();
+			$state['ids']    = ffc_today_pick_ids();
+			$state['notes']  = array();
+			$state['errors'] = array();
 			$state['queue'] = array_map( static fn( $id ) => array( 'type' => 'prepare', 'id' => $id ), $state['ids'] );
 		} elseif ( 'publish' === $do ) {
 			$state['notes'] = array();
 			$state['queue'] = array_map( static fn( $id ) => array( 'type' => 'publish', 'id' => $id ), $state['ids'] );
+		} elseif ( 'retry' === $do ) {
+			$retry          = absint( $_POST['id'] ?? 0 );
+			$state['notes'] = array();
+			unset( $state['errors'][ $retry ] );
+			$state['queue'] = array( array( 'type' => 'prepare', 'id' => $retry ) );
 		} elseif ( 'skip' === $do ) {
 			$skip = absint( $_POST['id'] ?? 0 );
 			$fact = $skip ? FactFusion_Facts::get( $skip ) : null;
@@ -286,7 +297,11 @@ function ffc_today_page() {
 							Source: <a href="<?php echo esc_url( $source->url ); ?>" target="_blank" rel="noopener"><?php echo esc_html( $source->source_name ); ?></a>&nbsp;
 						<?php endforeach; ?>
 					</p>
+					<?php if ( ! empty( $state['errors'][ (int) $fact->id ] ) || '' === trim( (string) $fact->short_answer ) ) : ?>
+						<div class="notice notice-error inline"><p>AI could not write this one<?php echo empty( $state['errors'][ (int) $fact->id ] ) ? '' : ': ' . esc_html( $state['errors'][ (int) $fact->id ] ); ?></p></div>
+					<?php endif; ?>
 					<p>
+						<?php ffc_today_button( 'retry', 'Retry AI', false, (int) $fact->id ); ?>
 						<?php ffc_today_button( 'skip', 'Skip', false, (int) $fact->id ); ?>
 						<a class="button-link" href="<?php echo esc_url( admin_url( 'admin.php?page=factfusion-facts&view=edit&id=' . (int) $fact->id ) ); ?>">Edit</a>
 					</p>
