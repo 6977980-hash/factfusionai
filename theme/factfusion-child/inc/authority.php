@@ -451,7 +451,7 @@ add_shortcode(
 <p>Suggested credit:</p>
 <pre class="ffc-auth__code"><?php echo esc_html( $credit ); ?></pre>
 <p>The license covers our own text: titles, claims, short answers and explanations. The source pages we link to belong to their publishers and keep their own licenses.</p>
-<p>Many of our newer claims started from the open <a href="https://github.com/Royal-lobster/science-facts-project" rel="noopener">science-facts-project</a> dataset by Royal-lobster (MIT License). We rewrite each one and check it against its source before it is published.</p>
+<p>Many of our newer claims started from the open <a href="https://github.com/Royal-lobster/science-facts-project" rel="noopener">science-facts-project</a> dataset by Royal-lobster, used under the <a href="https://opensource.org/license/mit" rel="license noopener">MIT License</a>. We check each one against its source before it is published, and reword it where the source says less.</p>
 
 <h2 class="wp-block-heading">What is in the dataset</h2>
 <p>Only facts that are published on the site and marked verified. Drafts, facts waiting for review and withdrawn facts are left out. Categories: <?php echo wp_kses_post( implode( ', ', $cats ) ); ?>.</p>
