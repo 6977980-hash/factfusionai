@@ -1,0 +1,1962 @@
+[
+ {
+  "claim": "An enzyme is a biological macromolecule, usually a protein, that acts as a biological catalyst, accelerating chemical reactions without being consumed in the process. The molecules on which enzymes act are called substrates, which are converted into products.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An enzyme is a biological macromolecule, usually a protein, that acts as a biological catalyst, accelerating chemical reactions without being consumed in the process. The molecules on which enzymes act are called substrates, which are converted into products.",
+  "source_url": "https://en.wikipedia.org/wiki/Enzyme",
+  "note": ""
+ },
+ {
+  "claim": "A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Viruses infect all life forms, from animals and plants to microorganisms, including bacteria and archaea.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism. Viruses infect all life forms, from animals and plants to microorganisms, including bacteria and archaea.",
+  "source_url": "https://en.wikipedia.org/wiki/Virus",
+  "note": ""
+ },
+ {
+  "claim": "Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell. They constitute a large domain of prokaryotic microorganisms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell. They constitute a large domain of prokaryotic microorganisms.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteria",
+  "note": ""
+ },
+ {
+  "claim": "An antibiotic is a type of antimicrobial substance active against bacteria. It is the most important type of antibacterial agent for fighting bacterial infections, and antibiotic medications are widely used in the treatment and prevention of such infections.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An antibiotic is a type of antimicrobial substance which is active against bacteria. It is the most important type of antibacterial agent for fighting bacterial infections, and antibiotic medications are widely used in the treatment and prevention of such infections.",
+  "source_url": "https://en.wikipedia.org/wiki/Antibiotic",
+  "note": ""
+ },
+ {
+  "claim": "Plate tectonics (from Latin tectonicus, from Ancient Greek τεκτονικός (tektonikós) 'pertaining to building') is the scientific theory that Earth's lithosphere comprises a number of large tectonic plates, which have been slowly moving since 3–4 billion years ago. The model builds on the concept of continental drift, an idea developed during the first decades of the 20th century.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Plate tectonics (from Latin tectonicus, from Ancient Greek τεκτονικός (tektonikós) 'pertaining to building') is the scientific theory that Earth's lithosphere comprises a number of large tectonic plates, which have been slowly moving since 3–4 billion years ago. The model builds on the concept of continental drift, an idea developed during the first decades of the 20th century.",
+  "source_url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+  "note": ""
+ },
+ {
+  "claim": "A volcano is commonly defined as a vent or fissure in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface. On Earth, volcanoes are most often found where tectonic plates are diverging or converging, and because most of Earth's plate boundaries are underwater, most volcanoes are found underwater.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "A volcano is a vent or fissure in the crust of a planetary-mass object that allows hot lava, volcanic ash, and gases",
+  "source_url": "https://en.wikipedia.org/wiki/Volcano",
+  "note": "Post-pass: only part confirmed verbatim (Second sentence (plate boundaries, most volcanoes underwater) confirmed but returned only paraphrased)"
+ },
+ {
+  "claim": "A tsunami ( (t)soo-NAH-mee, (t)suu-; from Japanese: 津波, lit. 'harbour wave', pronounced [tsɯnami]) is a series of waves in a water body caused by the displacement of a large volume of water, generally in an ocean or a large lake.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A tsunami (...) is a series of waves in a water body caused by the displacement of a large volume of water, generally in an ocean or a large lake.",
+  "source_url": "https://en.wikipedia.org/wiki/Tsunami",
+  "note": ""
+ },
+ {
+  "claim": "Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system. Climate change in a broader sense also includes previous long-term changes to Earth's climate.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system. ... In a broader sense, climate change also includes previous long-term changes to Earth's climate.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_change",
+  "note": ""
+ },
+ {
+  "claim": "The greenhouse effect occurs when heat-trapping gases in a planet's atmosphere prevent the planet from losing heat to space, raising its surface temperature. Surface heating can happen from an internal heat source (as in the case of Jupiter) or come from an external source, such as a host star.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The greenhouse effect occurs when heat-trapping gases in a planet's atmosphere prevent the planet from losing heat to space, raising its surface temperature. Surface heating can happen from an internal heat source (as in the case of Jupiter) or come from an external source, such as a host star.",
+  "source_url": "https://en.wikipedia.org/wiki/Greenhouse_effect",
+  "note": ""
+ },
+ {
+  "claim": "The ozone layer or ozone shield is a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet radiation. It contains a high concentration of ozone (O3) in relation to other parts of the atmosphere, although still small in relation to other gases in the stratosphere.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "The ozone layer or ozone shield is a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet radiation.",
+  "source_url": "https://en.wikipedia.org/wiki/Ozone_layer",
+  "note": "Post-pass: only part confirmed verbatim (Concentration sentence confirmed but returned paraphrased)"
+ },
+ {
+  "claim": "The water cycle (or hydrologic cycle or hydrological cycle) is a biogeochemical cycle that involves the continuous change in form of water on, above and below the surface of the Earth across different reservoirs. The mass of water on Earth remains fairly constant over time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The water cycle (or hydrologic cycle or hydrological cycle) is a biogeochemical cycle that involves the continuous change in form of water on, above and below the surface of the Earth across different reservoirs. The mass of water on Earth remains fairly constant over time.",
+  "source_url": "https://en.wikipedia.org/wiki/Water_cycle",
+  "note": ""
+ },
+ {
+  "claim": "The rock cycle is a basic concept in geology that describes transitions through geologic time among the three main rock types: sedimentary, metamorphic, and igneous. Each rock type is altered when it is forced out of its equilibrium conditions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The rock cycle is a basic concept in geology that describes transitions through geologic time among the three main rock types: sedimentary, metamorphic, and igneous. Each rock type is altered when it is forced out of its equilibrium conditions.",
+  "source_url": "https://en.wikipedia.org/wiki/Rock_cycle",
+  "note": ""
+ },
+ {
+  "claim": "A fossil (from Classical Latin fossilis, lit. 'obtained by digging') is any preserved remains, impression, or trace of any once-living thing from a past geological age.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A fossil (from Classical Latin fossilis, lit. 'obtained by digging') is any preserved remains, impression, or trace of any once-living thing from a past geological age.",
+  "source_url": "https://en.wikipedia.org/wiki/Fossil",
+  "note": ""
+ },
+ {
+  "claim": "An ice age is a term describing periods of time when the reduction in the temperature of Earth's surface and atmosphere results in the presence or expansion of continental and polar ice sheets and alpine glaciers. The term is applied in several different senses to very long and comparatively short periods of cooling.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An ice age is a period of time when decreased temperature of Earth's surface and atmosphere ... The term is applied in several different senses to very long and comparatively short periods of cooling.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Lead wording revised slightly; substance unchanged"
+ },
+ {
+  "claim": "Permafrost (from perma- 'permanent' and frost) is soil or underwater sediment which continuously remains below 0 °C (32 °F) for two years or more; the oldest permafrost has been continuously frozen for around 700,000 years. Whilst the shallowest permafrost has a vertical extent of below a meter (3 ft), the deepest is greater than 1,500 m (4,900 ft).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "soil or underwater sediment which continuously remains below 0 °C (32 °F) for two years or more ... the oldest permafrost has been continuously frozen for around 700,000 years ... the shallowest permafrost has a vertical extent of below a meter (3 ft) ... the deepest is greater than 1,500 m (4,900 ft)",
+  "source_url": "https://en.wikipedia.org/wiki/Permafrost",
+  "note": ""
+ },
+ {
+  "claim": "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. ... The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.",
+  "source_url": "https://en.wikipedia.org/wiki/Solar_System",
+  "note": ""
+ },
+ {
+  "claim": "The Sun is the star at the centre of the Solar System. It is a massive, nearly perfect sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy from its surface mainly as visible light and infrared radiation with 10% at ultraviolet energies.",
+  "verdict": "overstated",
+  "corrected_claim": "The Sun is the star located at the centre of the Solar System. It is a massive sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating its energy mainly as visible light and infrared radiation with 10% at ultraviolet energies.",
+  "quote": "The Sun is the star located at the centre of the Solar System. It is a massive sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy from its surface mainly as visible light and infrared radiation with 10% at ultraviolet energies.",
+  "source_url": "https://en.wikipedia.org/wiki/Sun",
+  "note": "Current page no longer says 'nearly perfect sphere'."
+ },
+ {
+  "claim": "The Moon is the only natural satellite of Earth. It orbits around Earth at an average distance of 384,399 kilometres (238,854 mi), a distance roughly 30 times the width of Earth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Moon is the only natural satellite of Earth. It orbits Earth at an average distance of 384,399 kilometers (238,854 mi). ... a distance roughly 30 times the width of Earth.",
+  "source_url": "https://en.wikipedia.org/wiki/Moon",
+  "note": ""
+ },
+ {
+  "claim": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance.",
+  "source_url": "https://en.wikipedia.org/wiki/Mars",
+  "note": ""
+ },
+ {
+  "claim": "Jupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Jupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun.",
+  "source_url": "https://en.wikipedia.org/wiki/Jupiter",
+  "note": ""
+ },
+ {
+  "claim": "Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth.",
+  "source_url": "https://en.wikipedia.org/wiki/Saturn",
+  "note": ""
+ },
+ {
+  "claim": "An exoplanet or extrasolar planet is a planet outside of the Solar System. The first confirmed detection of an exoplanet was in 1992 around a pulsar, and the first detection around a main-sequence star was in 1995.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An exoplanet or extrasolar planet is a planet outside the Solar System. The first confirmed detection of an exoplanet was in 1992 around a pulsar, and the first detection around a main-sequence star was in 1995.",
+  "source_url": "https://en.wikipedia.org/wiki/Exoplanet",
+  "note": ""
+ },
+ {
+  "claim": "A galaxy is a system of stars, stellar remnants, interstellar gas, dust, and dark matter bound together by gravity. The word is derived from the Greek galaxias (γαλαξίας), literally 'milky', a reference to the Milky Way galaxy that contains the Solar System.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A galaxy is a physical system of stars, stellar remnants, interstellar gas, dust, and dark matter bound together by gravity. The word is derived from the Greek galaxias (γαλαξίας), meaning 'milky', a reference to the Milky Way galaxy that contains the Solar System.",
+  "source_url": "https://en.wikipedia.org/wiki/Galaxy",
+  "note": ""
+ },
+ {
+  "claim": "The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way. It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way. It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224.",
+  "source_url": "https://en.wikipedia.org/wiki/Andromeda_Galaxy",
+  "note": ""
+ },
+ {
+  "claim": "A supernova (pl.: supernovae) is a powerful and luminous explosion of a star. A supernova occurs during the last evolutionary stages of a massive star, or when a white dwarf is triggered into runaway nuclear fusion.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A supernova (pl.: supernovae) is a powerful and luminous explosion of a star. A supernova occurs during the last evolutionary stages of a massive star, or when a white dwarf is triggered into runaway nuclear fusion.",
+  "source_url": "https://en.wikipedia.org/wiki/Supernova",
+  "note": ""
+ },
+ {
+  "claim": "A quasar ( KWAY-zar) is an extremely luminous active galactic nucleus (AGN). It is sometimes known as a quasi-stellar object, abbreviated QSO.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A quasar ... is an extremely luminous active galactic nucleus (AGN). It is sometimes known as a quasi-stellar object, abbreviated QSO.",
+  "source_url": "https://en.wikipedia.org/wiki/Quasar",
+  "note": ""
+ },
+ {
+  "claim": "The cosmic microwave background (CMB, CMBR), or relic radiation, is microwave radiation that fills all space in the observable universe. With a standard optical telescope, the background space between stars and galaxies is almost completely dark.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The cosmic microwave background (CMB, CMBR), or relic radiation, is microwave radiation that fills all space in the observable universe. With a standard optical telescope, the background space between stars and galaxies is almost completely dark.",
+  "source_url": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+  "note": ""
+ },
+ {
+  "claim": "The Big Bang is a physical theory that describes how the universe expanded from an initial state of high density and temperature. Various cosmological models based on the Big Bang concept explain a broad range of phenomena, including the abundance of light elements, the cosmic microwave background (CMB) radiation, and large-scale structure.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Big Bang is a physical theory that describes how the universe expanded from an early state of high density and temperature. Various cosmological models based on the Big Bang concept explain a broad range of phenomena, including the abundance of light elements, the cosmic microwave background (CMB) radiation, the redshift of galaxies and the large-scale structure of the universe.",
+  "source_url": "https://en.wikipedia.org/wiki/Big_Bang",
+  "note": ""
+ },
+ {
+  "claim": "The Hubble Space Telescope (HST or Hubble) is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Hubble Space Telescope (HST or Hubble) is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy.",
+  "source_url": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+  "note": ""
+ },
+ {
+  "claim": "The immune system is a network of biological systems that protects an organism from diseases. It detects and responds to a wide variety of pathogens, such as viruses, bacteria, and parasites, as well as cancer cells and objects, such as wood splinters—distinguishing them from the organism's own healthy tissue.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The immune system is a network of biological systems that protects an organism from diseases. It detects and responds to a wide variety of pathogens, such as viruses, bacteria, and parasites, as well as cancer cells and foreign objects, such as wood splinters—distinguishing them from the organism's own healthy tissue.",
+  "source_url": "https://en.wikipedia.org/wiki/Immune_system",
+  "note": ""
+ },
+ {
+  "claim": "A vaccine is a biological preparation that provides active acquired immunity to a particular infectious or malignant disease. The safety and effectiveness of vaccines has been widely studied and verified.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A vaccine is a biological preparation that provides active acquired immunity to a particular infectious or malignant disease. ... The safety and effectiveness of vaccines has been widely studied and verified.",
+  "source_url": "https://en.wikipedia.org/wiki/Vaccine",
+  "note": ""
+ },
+ {
+  "claim": "Cancer is a group of diseases involving uncontrolled cell growth resulting in tumors with the potential to invade or spread to other parts of the body. These contrast with benign tumors, which do not spread.",
+  "verdict": "overstated",
+  "corrected_claim": "Cancer is a group of diseases involving uncontrolled cell growth, typically resulting in tumors with the potential to invade or spread to other parts of the body. These malignant tumors contrast with benign tumors, which do not spread.",
+  "quote": "Cancer is a group of diseases involving uncontrolled cell growth typically resulting in tumors with the potential to invade or spread to other parts of the body. These malignant tumors contrast with benign tumors, which do not spread.",
+  "source_url": "https://en.wikipedia.org/wiki/Cancer",
+  "note": "claim drops the hedge 'typically'"
+ },
+ {
+  "claim": "The heart is a muscular organ found in humans and other animals. This organ pumps blood through the blood vessels.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The heart is a muscular organ found in humans and other animals. This organ pumps blood through the blood vessels.",
+  "source_url": "https://en.wikipedia.org/wiki/Heart",
+  "note": ""
+ },
+ {
+  "claim": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. It consists of nervous tissue and is typically located in the head (cephalization), usually near organs for special senses such as vision, hearing, and olfaction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. It consists of nervous tissue and is typically located in the head (cephalization), usually near organs for special senses such as vision, hearing, and olfaction.",
+  "source_url": "https://en.wikipedia.org/wiki/Brain",
+  "note": ""
+ },
+ {
+  "claim": "In humans, the kidneys are two reddish-brown bean-shaped blood-filtering organs that are a multilobar, multipapillary form of mammalian kidneys, usually without signs of external lobulation. They are located on the left and right in the retroperitoneal space, and in adult humans are about 12 centimetres (4+1⁄2 inches) in length.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In humans, the kidneys are two reddish-brown bean-shaped blood-filtering organs that are a multilobar, multipapillary form of mammalian kidneys, usually without signs of external lobulation. They are located on the left and right in the retroperitoneal space, and in adult humans are about 12 centimetres (4+1⁄2 inches) in length.",
+  "source_url": "https://en.wikipedia.org/wiki/Kidney",
+  "note": ""
+ },
+ {
+  "claim": "Blood is a body fluid in the circulatory system of humans and other vertebrates that delivers necessary substances such as nutrients and oxygen to the cells, and transports metabolic waste products away from those same cells. Blood is composed of blood cells suspended in plasma.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Blood is a body fluid in the circulatory system of humans and other vertebrates that delivers necessary substances such as nutrients and oxygen to the cells of the body, and transports metabolic waste products away from those same cells. Blood is composed of blood cells suspended in plasma.",
+  "source_url": "https://en.wikipedia.org/wiki/Blood",
+  "note": ""
+ },
+ {
+  "claim": "The lymphatic system, or lymphoid system, is an organ system in vertebrates that is part of the immune system and complementary to the circulatory system. It consists of a large network of lymphatic vessels, lymph nodes, lymphoid organs, lymphatic tissue and lymph.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The lymphatic system, or lymphoid system, is an organ system in vertebrates that is part of the immune system and complementary to the circulatory system. It consists of a large network of lymphatic vessels, lymph nodes, lymphoid organs, lymphatic tissue and lymph.",
+  "source_url": "https://en.wikipedia.org/wiki/Lymphatic_system",
+  "note": ""
+ },
+ {
+  "claim": "In biology, the nervous system is the highly complex part of an animal that coordinates its actions and sensory information by transmitting signals to and from different parts of its body. The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine system to respond to such events.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In biology, the nervous system is the highly complex part of an animal that coordinates its actions and sensory information by transmitting signals to and from different parts of its body. The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine system to respond to such events.",
+  "source_url": "https://en.wikipedia.org/wiki/Nervous_system",
+  "note": ""
+ },
+ {
+  "claim": "The endocrine system is a messenger system in an organism comprising feedback loops of hormones that are released by internal glands directly into the circulatory system and that target and regulate distant organs. In vertebrates, the hypothalamus is the neural control center for all endocrine systems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The endocrine system is a messenger system in an organism comprising feedback loops of hormones that are released by internal glands directly into the circulatory system and that target and regulate distant organs. ... In vertebrates, the hypothalamus is the neural control center for all endocrine systems.",
+  "source_url": "https://en.wikipedia.org/wiki/Endocrine_system",
+  "note": ""
+ },
+ {
+  "claim": "An allergy is an exaggerated immune response where the body mistakenly identifies an ordinarily harmless allergen as a threat. Allergic reactions give rise to allergic diseases such as hay fever, allergic conjunctivitis, allergic asthma, atopic dermatitis, food allergies, and anaphylaxis.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An allergy is an exaggerated immune response where the body mistakenly identifies an ordinarily harmless allergen as a threat. Allergic reactions give rise to allergic diseases such as hay fever, allergic conjunctivitis, allergic asthma, atopic dermatitis, food allergies, and anaphylaxis.",
+  "source_url": "https://en.wikipedia.org/wiki/Allergy",
+  "note": ""
+ },
+ {
+  "claim": "An infection is the invasion of tissues by pathogens, their multiplication, and the reaction of host tissues to the infectious agent and the toxins they produce. An infectious disease, also known as a transmissible disease or communicable disease, is an illness resulting from an infection.",
+  "verdict": "overstated",
+  "corrected_claim": "An infection is the invasion of tissues by pathogens, their multiplication, and the reaction of host tissues to the infectious agent and the toxins they produce. An infectious disease is an illness resulting from an infection, and some infectious diseases are also communicable (transmissible).",
+  "quote": "An infection is the invasion of tissues by pathogens, their multiplication, and the reaction of host tissues to the infectious agent and the toxins they produce. An infectious disease is an illness resulting from an infection, and some infectious diseases are also communicable (transmissible).",
+  "source_url": "https://en.wikipedia.org/wiki/Infection",
+  "note": "Current page says only some infectious diseases are communicable, not that the terms are synonyms."
+ },
+ {
+  "claim": "A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs, which enable computers to perform a wide range of tasks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs.",
+  "source_url": "https://en.wikipedia.org/wiki/Computer",
+  "note": ""
+ },
+ {
+  "claim": "A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A transistor is a semiconductor device used to amplify or switch electrical signals and power. It is one of the basic building blocks of modern electronics.",
+  "source_url": "https://en.wikipedia.org/wiki/Transistor",
+  "note": ""
+ },
+ {
+  "claim": "A semiconductor is a material with electrical conductivity between that of a conductor and an insulator. Its conductivity can be modified by adding impurities (\"doping\") to its crystal structure.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A semiconductor is a material with electrical conductivity between that of a conductor and an insulator. Its conductivity can be modified by adding impurities (\"doping\") to its crystal structure.",
+  "source_url": "https://en.wikipedia.org/wiki/Semiconductor",
+  "note": ""
+ },
+ {
+  "claim": "An integrated circuit (IC), also known as a microchip or simply chip, is a compact assembly of electronic circuits formed from various electronic components — such as transistors, resistors, and capacitors — and their interconnections. These components are fabricated onto a thin, flat piece (\"chip\") of semiconductor material, most commonly silicon.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An integrated circuit (IC), also known as a microchip or simply chip, is a compact assembly of electronic circuits formed from various electronic components, such as transistors, resistors, and capacitors, and their interconnections. These components are fabricated onto a thin, flat piece (\"chip\") of semiconductor material, most commonly silicon.",
+  "source_url": "https://en.wikipedia.org/wiki/Integrated_circuit",
+  "note": ""
+ },
+ {
+  "claim": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies.",
+  "source_url": "https://en.wikipedia.org/wiki/Internet",
+  "note": ""
+ },
+ {
+  "claim": "A quantum computer is a (real or theoretical) computer that exploits superposed and entangled states. Quantum computers can be viewed as sampling from quantum systems that evolve in ways that may be described as operating on an enormous number of possibilities simultaneously, though still subject to strict computational constraints.",
+  "verdict": "overstated",
+  "corrected_claim": "A quantum computer is a computer that represents and processes information using quantum states, exploiting phenomena such as superposition, interference and entanglement.",
+  "quote": "A quantum computer is a computer that represents and processes information using quantum states. Quantum computations exploit phenomena such as superposition, interference, and entanglement.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "article lead has been rewritten; 'sampling from quantum systems... enormous number of possibilities' sentence not on page"
+ },
+ {
+  "claim": "Nanotechnology is the manipulation of matter with at least one dimension sized from 1 to 100 nanometers (nm). At this scale, commonly known as the nanoscale, surface area and quantum mechanical effects become important in describing properties of matter.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nanotechnology is the manipulation of matter with at least one dimension size measuring between 1 to 100 nanometers (nm). At this scale, commonly known as the nanoscale, surface area and quantum mechanical effects become important in describing the properties of matter.",
+  "source_url": "https://en.wikipedia.org/wiki/Nanotechnology",
+  "note": ""
+ },
+ {
+  "claim": "3D printing, also called additive manufacturing, is the construction of a three-dimensional object from a CAD model or a digital 3D model. It can be done in a variety of processes in which material is deposited, joined or solidified under computer control, with the material being added together (e.g.",
+  "verdict": "overstated",
+  "corrected_claim": "3D printing, also called additive manufacturing, is the construction of a three-dimensional object from a CAD model or a digital 3D model, with material deposited, joined or solidified under computer control, typically layer by layer.",
+  "quote": "3D printing, also called additive manufacturing, is the construction of a three-dimensional object from a CAD model or a digital 3D model. It can be done in a variety of processes in which material is deposited, joined or solidified under computer control, with the material being added together (e.g. plastics, liquids, or powder grains being fused) typically layer by layer.",
+  "source_url": "https://en.wikipedia.org/wiki/3D_printing",
+  "note": "Claim text is truncated mid-sentence ('(e.g.'); content otherwise matches."
+ },
+ {
+  "claim": "Renewable energy (also called green energy) is energy made from renewable natural resources that are replenished on a human timescale. The most widely used renewable energy types are solar energy, wind power, and hydropower.",
+  "verdict": "overstated",
+  "corrected_claim": "Renewable energy (also called green energy) is energy made from renewable natural resources that are replenished on a human timescale. The most widely used renewable energy types are solar energy, wind power, bioenergy/biomass, and hydropower.",
+  "quote": "Renewable energy (also called green energy) is energy made from renewable natural resources that are replenished on a human timescale. The most widely used renewable energy types are solar energy, wind power, bioenergy/biomass, and hydropower.",
+  "source_url": "https://en.wikipedia.org/wiki/Renewable_energy",
+  "note": "Current page also lists bioenergy/biomass among the most widely used types"
+ },
+ {
+  "claim": "A solar cell, also known as a photovoltaic cell (PV cell), is an electronic device that converts the energy of light directly into electricity by using the photovoltaic effect. It is a type of photoelectric cell, a device whose electrical characteristics (such as current, voltage, or resistance) vary when it is exposed to light.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A solar cell, also known as a photovoltaic cell (PV cell), is an electronic device that converts the energy of light directly into electricity by using the photovoltaic effect. It is a type of photoelectric cell, a device whose electrical characteristics (such as current, voltage, or resistance) vary when it is exposed to light.",
+  "source_url": "https://en.wikipedia.org/wiki/Solar_cell",
+  "note": ""
+ },
+ {
+  "claim": "A prime number (or a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers. A natural number greater than 1 that is not prime is called a composite number.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A prime number (or a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers. A natural number greater than 1 that is not prime is called a composite number.",
+  "source_url": "https://en.wikipedia.org/wiki/Prime_number",
+  "note": ""
+ },
+ {
+  "claim": "The number π ( ; spelled out as pi) is a mathematical constant, approximately equal to 3.14159, that is the ratio of a circle's circumference to its diameter. It appears in many formulae across mathematics and physics, and some of these formulae are commonly used for defining π, to avoid relying on the definition of the length of a curve.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The number π (/paɪ/; spelled out as pi) is a mathematical constant, approximately equal to 3.14159, that is the ratio of a circle's circumference to its diameter. It appears in many formulae across mathematics and physics, and some of these formulae are commonly used for defining π",
+  "source_url": "https://en.wikipedia.org/wiki/Pi",
+  "note": ""
+ },
+ {
+  "claim": "Infinity is something which is boundless, limitless, endless. It is denoted by ∞, called the infinity symbol.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Infinity is something which is boundless, limitless, or endless. It is denoted by ∞, called the infinity symbol.",
+  "source_url": "https://en.wikipedia.org/wiki/Infinity",
+  "note": ""
+ },
+ {
+  "claim": "In mathematics, a fractal is a geometric shape containing detailed structure at arbitrarily small scales, usually having a fractal dimension strictly exceeding the topological dimension. Many fractals appear similar at various scales, as illustrated in successive magnifications of the Mandelbrot set.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In mathematics, a fractal is a geometric shape containing detailed structure at arbitrarily small scales, usually having a fractal dimension strictly exceeding the topological dimension. Many fractals appear similar at various scales, as illustrated in successive magnifications of the Mandelbrot set.",
+  "source_url": "https://en.wikipedia.org/wiki/Fractal",
+  "note": ""
+ },
+ {
+  "claim": "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. It focuses on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Chaos theory is a branch of mathematics and an interdisciplinary area of scientific study. It focuses on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions.",
+  "source_url": "https://en.wikipedia.org/wiki/Chaos_theory",
+  "note": ""
+ },
+ {
+  "claim": "Probability is a branch of mathematics and statistics concerning events and numerical descriptions of how likely they are to occur. The probability of an event is a number between 0 and 1; the larger the probability, the more likely an event is to occur.",
+  "verdict": "overstated",
+  "corrected_claim": "Probability concerns events and numerical descriptions of how likely they are to occur. The probability of an event is a number between 0 and 1; the larger the probability, the more likely an event is to occur.",
+  "quote": "Probability concerns events and numerical descriptions of how likely they are to occur. The probability of an event is a number between 0 and 1; the larger the probability, the more likely an event is to occur.",
+  "source_url": "https://en.wikipedia.org/wiki/Probability",
+  "note": "Current page no longer calls it 'a branch of mathematics and statistics'."
+ },
+ {
+  "claim": "Statistics (from German: Statistik, orig. \"description of a state, a country\") is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Statistics (from German: Statistik, orig. \"description of a state, a country\") is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.",
+  "source_url": "https://en.wikipedia.org/wiki/Statistics",
+  "note": ""
+ },
+ {
+  "claim": "Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations. Originally called infinitesimal calculus or the calculus of infinitesimals, it has two major branches, differential calculus and integral calculus.",
+  "verdict": "overstated",
+  "corrected_claim": "Calculus is the branch of mathematics that studies continuous change. Originally called infinitesimal calculus or the calculus of infinitesimals, it has two major branches, differential calculus and integral calculus.",
+  "quote": "Calculus is the branch of mathematics that studies continuous change, ... Originally called infinitesimal calculus or the calculus of infinitesimals, ... it has two major branches, differential calculus and integral calculus.",
+  "source_url": "https://en.wikipedia.org/wiki/Calculus",
+  "note": "lead rewritten; geometry/algebra analogy no longer on page"
+ },
+ {
+  "claim": "Elephants are the largest living land animals. Three living species are currently recognised: the African bush elephant (Loxodonta africana), the African forest elephant (L.",
+  "verdict": "overstated",
+  "corrected_claim": "Elephants are the largest living land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant.",
+  "quote": "Elephants are the largest living land animals. Three living species are currently recognised: the African bush elephant (Loxodonta africana), the African forest elephant (L. cyclotis), and the Asian elephant (Elephas maximus).",
+  "source_url": "https://en.wikipedia.org/wiki/Elephant",
+  "note": "claim text is truncated mid-list ('(L.'); content itself matches"
+ },
+ {
+  "claim": "The blue whale (Balaenoptera musculus) is a species of baleen whale and the largest marine mammal in the rorqual family Balaenopteridae. Reaching a maximum confirmed length of 29.9–30.5 m (98–100 ft) and weighing up to 190–200 t (190–200 long tons; 210–220 short tons), it is the largest animal known to have ever existed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The blue whale (Balaenoptera musculus) is a species of baleen whale and the largest marine mammal in the rorqual family Balaenopteridae. Reaching a maximum confirmed length of 29.9–30.5 m (98–100 ft) and weighing up to 190–200 t (190–200 long tons; 210–220 short tons), it is the largest animal known to have ever existed.",
+  "source_url": "https://en.wikipedia.org/wiki/Blue_whale",
+  "note": ""
+ },
+ {
+  "claim": "The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or simply great white, is the largest living macropredatory shark and fish. It is a mackerel shark and closely related to the mako sharks, the porbeagle and the salmon shark.",
+  "verdict": "overstated",
+  "corrected_claim": "The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or great white, is a large shark closely related to the mako sharks, the porbeagle, and the salmon shark.",
+  "quote": "The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or great white, is a large shark. It is closely related to the mako sharks, the porbeagle, and the salmon shark.",
+  "source_url": "https://en.wikipedia.org/wiki/Great_white_shark",
+  "note": "Current lead no longer calls it the 'largest living macropredatory shark and fish'"
+ },
+ {
+  "claim": "An octopus (pl.: octopuses or octopodes) is a soft-bodied, eight-limbed mollusc of the order Octopoda (, ok-TOP-ə-də). The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An octopus (pl.: octopuses or octopodes) is a soft-bodied, eight-limbed mollusc of the order Octopoda ... The order consists of some 300 species and is grouped within the class Cephalopoda with squids, cuttlefish, and nautiloids.",
+  "source_url": "https://en.wikipedia.org/wiki/Octopus",
+  "note": ""
+ },
+ {
+  "claim": "The chimpanzee (; Pan troglodytes), also simply known as the chimp, is a species of great ape native to the forests and savannahs of tropical Africa. It has four confirmed subspecies and a fifth proposed one.",
+  "verdict": "overstated",
+  "corrected_claim": "The chimpanzee (Pan troglodytes), or chimp, is a medium-sized great ape found in the forests and savannas of equatorial Africa. It has four confirmed subspecies and a fifth proposed one.",
+  "quote": "The chimpanzee (Pan troglodytes), commonly abbreviated to chimp, is a medium-sized great ape species found in the forests and savannas of equatorial Africa. It has four confirmed subspecies and a fifth proposed one.",
+  "source_url": "https://en.wikipedia.org/wiki/Chimpanzee",
+  "note": "page now says 'equatorial Africa', not 'tropical Africa'; claim has stray '(;' pronunciation residue"
+ },
+ {
+  "claim": "A honey bee (also spelled honeybee) is a eusocial flying insect from the genus Apis of the largest bee family, Apidae. Honey bees are known for their construction of perennial nests within cavities (i.e.",
+  "verdict": "overstated",
+  "corrected_claim": "A honey bee is a eusocial flying insect from the genus Apis of the largest bee family, Apidae, known for building perennial nests within cavities (beehives) containing hexagonal cells made of secreted wax.",
+  "quote": "A honey bee (also spelled honeybee) is a eusocial flying insect from the genus Apis of the largest bee family, Apidae. Honey bees are known for their construction of perennial nests within cavities (i.e. beehives) containing hexagonal cells made of secreted wax",
+  "source_url": "https://en.wikipedia.org/wiki/Honey_bee",
+  "note": "Claim text is truncated mid-sentence ('(i.e.'); content otherwise matches."
+ },
+ {
+  "claim": "Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. Ants evolved from vespoid wasp ancestors in the Cretaceous period.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. Ants evolved from vespoid wasp ancestors in the Cretaceous period.",
+  "source_url": "https://en.wikipedia.org/wiki/Ant",
+  "note": ""
+ },
+ {
+  "claim": "Tardigrades ( ), also known as water bears or moss piglets, are a phylum of eight-legged segmented micro-animals. They were first described by the German zoologist Johann August Ephraim Goeze in 1773, who called them Kleiner Wasserbär 'little water bear'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tardigrades, also known as water bears or moss piglets, are a phylum of eight-legged segmented micro-animals. They were first described by the German zoologist Johann August Ephraim Goeze in 1773, who called them Kleiner Wasserbär 'little water bear'.",
+  "source_url": "https://en.wikipedia.org/wiki/Tardigrade",
+  "note": ""
+ },
+ {
+  "claim": "The axolotl ( ; from Classical Nahuatl: āxōlōtl [aːˈʃoːloːtɬ] ) (Ambystoma mexicanum) is a species of paedomorphic mole salamander. They mature into the terrestrial adult form without undergoing metamorphosis; the adults remain fully aquatic with obvious external gills.",
+  "verdict": "overstated",
+  "corrected_claim": "The axolotl (Ambystoma mexicanum) is a neotenic mole salamander: it reaches sexual maturity without undergoing metamorphosis, and adults remain fully aquatic with obvious external gills.",
+  "quote": "The axolotl ([…]; Ambystoma mexicanum) is a species of mole salamander. It is neotenic, reaching sexual maturity without undergoing metamorphosis, and the adults remain fully aquatic with obvious external gills.",
+  "source_url": "https://en.wikipedia.org/wiki/Axolotl",
+  "note": "page says neotenic and 'reaching sexual maturity', not maturing into a terrestrial adult form"
+ },
+ {
+  "claim": "The platypus (Ornithorhynchus anatinus), sometimes referred to as the duck-billed platypus, is a semiaquatic, egg-laying mammal endemic to eastern Australia, including Tasmania. The platypus is the sole living representative of its family Ornithorhynchidae and genus Ornithorhynchus, though a number of related species appear in the fossil record.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The platypus (Ornithorhynchus anatinus), sometimes referred to as the duck-billed platypus, is a semiaquatic, egg-laying mammal endemic to eastern Australia, including Tasmania. The platypus is the sole living representative of the family Ornithorhynchidae and genus Ornithorhynchus, though a number of related species appear in the fossil record.",
+  "source_url": "https://en.wikipedia.org/wiki/Platypus",
+  "note": ""
+ },
+ {
+  "claim": "The electric eels are a genus, Electrophorus, of neotropical freshwater fish from South America in the family Gymnotidae, of which they are the only members of the subfamily Electrophorinae. They are known for their ability to stun their prey by generating electricity, delivering shocks at up to 860 volts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The electric eels are a genus, Electrophorus, of neotropical freshwater fish from South America in the family Gymnotidae, of which they are the only members of the subfamily Electrophorinae. They are known for their ability to stun their prey by generating electricity, delivering shocks at up to 860 volts.",
+  "source_url": "https://en.wikipedia.org/wiki/Electric_eel",
+  "note": ""
+ },
+ {
+  "claim": "The Komodo dragon (Varanus komodoensis), also known as the Komodo monitor, is a large reptile of the monitor lizard family Varanidae that is endemic to the Indonesian islands of Komodo, Rinca, Flores, Gili Dasami, and Gili Motang. The largest extant population lives within the Komodo National Park in Eastern Indonesia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Komodo dragon (Varanus komodoensis), also known as the Komodo monitor, is a large reptile of the monitor lizard family Varanidae that is endemic to the Indonesian islands of Komodo, Rinca, Flores, Gili Dasami, and Gili Motang. The largest extant population lives within the Komodo National Park in Eastern Indonesia.",
+  "source_url": "https://en.wikipedia.org/wiki/Komodo_dragon",
+  "note": ""
+ },
+ {
+  "claim": "The peregrine falcon (Falco peregrinus), also referred to simply as the peregrine, is a cosmopolitan bird of prey (raptor) in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head.",
+  "verdict": "overstated",
+  "corrected_claim": "The peregrine falcon (Falco peregrinus) is a bird of prey in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head.",
+  "quote": "The peregrine falcon (Falco peregrinus), also referred to simply as the peregrine, is a bird of prey (raptor) in the family Falconidae known for its speed. A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head.",
+  "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+  "note": "'cosmopolitan' not in current lead"
+ },
+ {
+  "claim": "Hummingbirds are birds native to the Americas and comprise the biological family Trochilidae. With approximately 375 species and 113 genera, they occur from Alaska to Tierra del Fuego, but most species are found in Central and South America.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Hummingbirds are birds native to the Americas and comprise the biological family Trochilidae. With approximately 375 species and 113 genera, they occur from Alaska to Tierra del Fuego, but most species are found in Central and South America.",
+  "source_url": "https://en.wikipedia.org/wiki/Hummingbird",
+  "note": ""
+ },
+ {
+  "claim": "In botany, a tree is a perennial plant with an elongated stem, or trunk, usually supporting branches and leaves. In some usages, the definition of a tree may be narrower, e.g., including only woody plants with secondary growth, only plants that are usable as lumber, or only plants above a specified height.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In botany, a tree is a perennial plant with an elongated stem, or trunk, usually supporting branches and leaves. In some usages, the definition of a tree may be narrower, e.g., including only woody plants with secondary growth,",
+  "source_url": "https://en.wikipedia.org/wiki/Tree",
+  "note": ""
+ },
+ {
+  "claim": "Flowers, also known as blossoms and blooms, are the reproductive structures of flowering plants. Typically, they are structured in four circular levels around the end of a stalk.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Flowers, also known as blossoms and blooms, are the reproductive structures of flowering plants. Typically, they are structured in four circular levels around the end of a stalk.",
+  "source_url": "https://en.wikipedia.org/wiki/Flower",
+  "note": ""
+ },
+ {
+  "claim": "In botany, a seed is a plant structure containing an embryo and stored nutrients in a protective coat called a testa. More generally, the term seed means anything that can be sown, which may include seed and husk or tuber.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In botany, a seed is a plant structure containing an embryo and stored nutrients in a protective coat called a testa. More generally, the term seed means anything that can be sown, which may include seed and husk or tuber.",
+  "source_url": "https://en.wikipedia.org/wiki/Seed",
+  "note": ""
+ },
+ {
+  "claim": "In vascular plants, the roots are the organs of a plant that are modified to provide anchorage for the plant and take in water and nutrients into the plant body, which allows plants to grow taller and faster. They are most often below the surface of the soil, but roots can also be aerial or aerating, that is, growing up above the ground or especially above water.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In vascular plants, the roots are the organs of a plant that are modified to provide anchorage for the plant and take in water and nutrients into the plant body, which allows plants to grow taller and faster. They are most often below the surface of the soil, but roots can also be aerial or aerating, that is, growing up above the ground or especially above water.",
+  "source_url": "https://en.wikipedia.org/wiki/Root",
+  "note": ""
+ },
+ {
+  "claim": "A leaf (pl.: leaves) is a principal appendage of the stem of a vascular plant, usually borne laterally above ground and specialized for photosynthesis. Leaves are collectively called foliage, as in \"autumn foliage\", while the leaves, stem, flower, and fruit collectively form the shoot system.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A leaf (pl.: leaves) is a principal appendage of the stem of a vascular plant, usually borne laterally above ground and specialized for photosynthesis. Leaves are collectively called foliage, as in \"autumn foliage\", while the leaves, stem, flower, and fruit collectively form the shoot system.",
+  "source_url": "https://en.wikipedia.org/wiki/Leaf",
+  "note": ""
+ },
+ {
+  "claim": "In biology, phototropism, formerly called heliotropism, is the growth of an organism in response to a light stimulus. Phototropism is most often observed in plants, but can also occur in other organisms such as fungi.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In biology, phototropism, formerly called heliotropism, is the growth of an organism in response to a light stimulus. Phototropism is most often observed in plants, but can also occur in other organisms such as fungi.",
+  "source_url": "https://en.wikipedia.org/wiki/Phototropism",
+  "note": ""
+ },
+ {
+  "claim": "Carnivorous plants are plants that derive some or most of their nutrients from trapping and consuming animals or protozoans, typically insects and other arthropods, and occasionally small mammals and birds. They have adapted to grow in waterlogged sunny places where the soil is thin or poor in nutrients, especially nitrogen, such as acidic bogs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Carnivorous plants are plants that derive some or most of their nutrients from trapping and consuming animals or protozoans, typically insects and other arthropods, and occasionally small mammals and birds. They have adapted to grow in waterlogged sunny places where the soil is thin or poor in nutrients, especially nitrogen, such as acidic bogs.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Bamboos are a diverse group of mostly evergreen perennial flowering plants making up the subfamily Bambusoideae of the grass family Poaceae. Giant bamboos are the largest members of the grass family, in the case of Dendrocalamus sinicus having individual stalks (culms) reaching a length of 46 meters (151 ft), up to 36 centimeters (14 in) in diameter and a weight of up to 450 kilograms (1,000 lb).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bamboos are a diverse group of mostly evergreen perennial flowering plants making up the subfamily Bambusoideae of the grass family Poaceae. Giant bamboos are the largest members of the grass family, in the case of Dendrocalamus sinicus having individual stalks (culms) reaching a length of 46 meters (151 ft), up to 36 centimeters (14 in) in diameter and a weight of up to 450 kilograms (1,000 lb).",
+  "source_url": "https://en.wikipedia.org/wiki/Bamboo",
+  "note": ""
+ },
+ {
+  "claim": "Orchids are plants that belong to the family Orchidaceae (), a diverse and widespread group of flowering plants with blooms that are often colourful and fragrant. Orchids are cosmopolitan plants, living in diverse habitats on every continent except Antarctica.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Orchids are plants that belong to the family Orchidaceae ... a diverse and widespread group of flowering plants with blooms that are often colourful and fragrant. Orchids are cosmopolitan plants, living in diverse habitats on every continent except Antarctica.",
+  "source_url": "https://en.wikipedia.org/wiki/Orchid",
+  "note": ""
+ },
+ {
+  "claim": "A cactus (pl.: cacti, cactuses, or less commonly, cactus) is a member of the plant family Cactaceae (), a family of the order Caryophyllales comprising about 127 genera with some 1,750 known species. The word cactus derives, through Latin, from the Ancient Greek word κάκτος (káktos), a name originally used by Theophrastus for a spiny plant whose identity is now not certain.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A cactus (pl.: cacti, cactuses, or less commonly, cactus) is a member of the plant family Cactaceae ... a family of the order Caryophyllales comprising about 127 genera with some 1,750 known species. The word cactus derives, through Latin, from the Ancient Greek word κάκτος (káktos), a name originally used by Theophrastus for a spiny plant whose identity is now not certain.",
+  "source_url": "https://en.wikipedia.org/wiki/Cactus",
+  "note": ""
+ },
+ {
+  "claim": "Mosses are small, non-vascular flowerless plants in the taxonomic division Bryophyta (, ) sensu stricto. Bryophyta (sensu lato, Schimp.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Moss",
+  "note": "page fragment (claim cut off mid-sentence)"
+ },
+ {
+  "claim": "The tallest tree ever measured reliably is Hyperion, a Coast redwood (Sequoia sempervirens) in California's Redwood National Park, standing at 116.07 meters (380.8 feet).",
+  "verdict": "overstated",
+  "corrected_claim": "The tallest living tree ever reliably measured is Hyperion, a coast redwood in California, which reached 116.22 metres (381.3 ft) in 2026.",
+  "quote": "It reached 116.22 metres (381.3 ft) in 2026.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "height outdated: page now gives 116.22 m (2026), not 116.07 m"
+ },
+ {
+  "claim": "The oldest verified living tree is Methuselah, a Great Basin bristlecone pine (Pinus longaeva) in California, aged 4,857 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Great Basin bristlecone pine (Pinus longaeva) | 4,857 | Methuselah | Inyo County, California, United States",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "The General Sherman Tree, a giant sequoia, is the largest tree by volume at 1,487 cubic meters (52,500 cubic feet) of wood.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Giant sequoia (Sequoiadendron giganteum) | 1,487 | 52,500 | General Sherman Tree | Sequoia National Park",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "A wild fig tree growing in Echo Caves near Ohrigstad, South Africa, has roots going 120 meters (400 feet) deep, the deepest roots known of any tree.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has roots going 120 m (400 ft) deep, giving it the deepest roots known of any tree.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "The Árbol del Tule, a Montezuma cypress in Mexico, has the stoutest trunk in the world with a diameter of 11.62 meters (38.1 feet).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Montezuma cypress (Taxodium mucronatum) | 11.62 | 38.1 | Árbol del Tule | Santa Maria del Tule, Oaxaca, Mexico",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "The Thimmamma Marrimanu banyan tree in India has the broadest crown of any tree, spreading 180 meters (591 feet) in diameter with hundreds of trunks.",
+  "verdict": "overstated",
+  "corrected_claim": "The Thimmamma Marrimanu banyan in Andhra Pradesh, India, has the broadest crown of any tree, about 180 metres (591 ft) across.",
+  "quote": "Banyan (Ficus benghalensis) | 180 | 591 | Thimmamma Marrimanu | Anantapur, Kadiri, Andhra Pradesh, India",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "'hundreds of trunks' not stated on page"
+ },
+ {
+  "claim": "Historical records suggest a Mountain ash (Eucalyptus regnans) tree measured in Australia in 1865 reached 147.2 meters (483 feet), but this cannot be verified today.",
+  "verdict": "overstated",
+  "corrected_claim": "A mountain ash in Australia that fell in 1865 was reportedly measured by Gustav Klein at 483 feet (147 m) long, though such historic records are likely greatly exaggerated.",
+  "quote": "Fallen in 1865 and measured by Mr. Gustav Klein at 483 feet in length. ... Some, if not most, of these records are likely greatly exaggerated.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "tree was measured after it fell; page says such records are likely greatly exaggerated"
+ },
+ {
+  "claim": "Plants can sense and respond to at least 15 different environmental stimuli including light, gravity, touch, temperature, chemicals, moisture, infections, and sound.",
+  "verdict": "overstated",
+  "corrected_claim": "Plants react to a broad range of stimuli, including chemicals, gravity, light, moisture, infections, temperature, oxygen and carbon dioxide levels, parasites, disease, physical disruption, sound and touch.",
+  "quote": "plants are capable of reacting to a broad range of stimuli, including chemicals, gravity, light, moisture, infections, temperature, oxygen and carbon dioxide concentrations, parasite infestation, disease, physical disruption, sound, and touch",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "Page lists about 13 stimuli, not 'at least 15'"
+ },
+ {
+  "claim": "The Mimosa pudica (sensitive plant) rapidly folds its leaves in response to touch, generating electrical signals similar to action potentials in animal neurons.",
+  "verdict": "overstated",
+  "corrected_claim": "The sensitive plant Mimosa pudica quickly folds its leaves at the slightest touch, and plants in general can show rapid electrical responses in the form of action potentials.",
+  "quote": "responds to even the slightest physical touch by quickly folding its thin pinnate leaves such that they point downwards ... they can be electrically excitable and can display rapid electrical responses in the form of APs",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "Page does not directly tie Mimosa's folding to action-potential-like signals"
+ },
+ {
+  "claim": "Plants have internal circadian clocks synchronized with solar time, allowing them to track day length and determine the season, which controls flowering time (photoperiodism).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Plants keep track of the time of day with a circadian clock. This internal clock is synchronized with solar time every day using sunlight, temperature, and other cues ... how long the day is ... This is how many plants know when to flower (see photoperiodism).",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "The first computer bug was an actual bug — a moth found trapped in Harvard's Mark II computer relay on September 9, 1947, which was taped into the logbook with the note 'First actual case of bug being found.'",
+  "verdict": "overstated",
+  "corrected_claim": "Around 1947, operators traced an error in Harvard's Mark II computer to a real moth trapped in a relay; it was taped into the logbook with the note 'First actual case of bug being found.' The term 'bug' itself was already engineering jargon by the 1870s.",
+  "quote": "While Hopper was working on the Mark II and Mark III as Harvard faculty in about 1947, operators traced an error in the Mark II to a moth trapped in a relay. The moth was removed from the mechanism and taped in a log book with the note \"First actual case of bug being found.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "note": "page does not call it the first computer bug (term dates to 1870s) and gives 'about 1947', not Sept 9"
+ },
+ {
+  "claim": "SHA-1 was broken in 2017 by Google and CWI Amsterdam, who produced two different PDF files with the same hash — requiring 9 quintillion calculations equivalent to 6,500 years of single-CPU time.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2017, CWI Amsterdam and Google announced the SHAttered attack on SHA-1, generating two different PDF files with the same hash in about 2^63.1 SHA-1 evaluations, equivalent to 6,500 years of single-CPU computation.",
+  "quote": "the CWI (Centrum Wiskunde & Informatica) and Google announced the SHAttered attack ... they generated two different PDF files with the same SHA-1 hash in roughly 263.1 SHA-1 evaluations ... the equivalent processing power of 6,500 years of single-CPU computations and 110 years of single-GPU computations",
+  "source_url": "https://en.wikipedia.org/wiki/SHA-1",
+  "note": "Source gives 2^63.1 evaluations, not '9 quintillion'; '263.1' in quote is the page's rendered 2^63.1."
+ },
+ {
+  "claim": "The halting problem, proved undecidable by Alan Turing in 1936, shows it's mathematically impossible to create an algorithm that can determine whether any arbitrary program will eventually finish running.",
+  "verdict": "overstated",
+  "corrected_claim": "Alan Turing proved in 1937 that the halting problem is undecidable: no general algorithm can correctly decide, for every arbitrary program and input, whether the program will eventually finish running.",
+  "quote": "Alan Turing proved in 1937 that the halting problem is undecidable, meaning that no general algorithm exists that can correctly solve the problem for all possible program–input pairs.",
+  "source_url": "https://en.wikipedia.org/wiki/Halting_problem",
+  "note": "Page dates Turing's proof to 1937, not 1936"
+ },
+ {
+  "claim": "The P vs NP problem carries a $1 million prize and is considered the most important open problem in computer science — solving it would either revolutionize cryptography or prove certain problems are fundamentally hard.",
+  "verdict": "overstated",
+  "corrected_claim": "P versus NP is one of the Millennium Prize Problems, carrying a US$1,000,000 prize, and has been called the most important open problem in computer science; a proof that P = NP could upend cryptography.",
+  "quote": "each of which carries a US$1,000,000 prize for the first correct solution. ... The problem has been called the most important open problem in computer science. ... A solution showing P = NP could upend the field of cryptography, which relies on certain problems being difficult.",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": "page hedges ('has been called', 'could upend'); claim more certain"
+ },
+ {
+  "claim": "In 1996, the Ariane 5 rocket exploded 40 seconds after launch because a 64-bit floating-point number was converted to a 16-bit integer — a $370 million software bug caused by code reused from the slower Ariane 4.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1996 the first Ariane 5 rocket was destroyed 40 seconds after takeoff by an overflow in a floating-point to integer conversion, in guidance software reused from Ariane 4, which never produced values that large.",
+  "quote": "The European Space Agency's Ariane flight V88 was destroyed 40 seconds after takeoff (June 4, 1996). The first flight of the Ariane 5 rocket self-destructed due to an overflow occurring during a floating-point to integer conversion in the on-board guidance software. The same software had been used successfully in the Ariane 4 program, but the Ariane 5 produced larger values",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "64-bit/16-bit and $370 million not on the page"
+ },
+ {
+  "claim": "The Therac-25 radiation therapy machine killed at least five patients in the 1980s due to a race condition bug that only occurred when operators typed commands very quickly.",
+  "verdict": "overstated",
+  "corrected_claim": "A bug in the software controlling the Therac-25 radiation therapy machine was directly responsible for at least five patient deaths in the 1980s, when it gave excessive doses of radiation.",
+  "quote": "A bug in the code controlling the Therac-25 radiation therapy machine was directly responsible for at least five patient deaths in the 1980s when it administered excessive quantities of beta radiation.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "race condition / fast typing not on the page"
+ },
+ {
+  "claim": "Knight Capital Group lost $440 million in just 45 minutes on August 1, 2012, when a software deployment error caused old unused code to execute during high-frequency trading.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Knight Capital Group lost $440 million in 45 minutes on August 1, 2012 due to the improper deployment of software on servers and the re-use of a critical software flag that caused old unused software code to execute during trading.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "The Vancouver Stock Exchange index lost about 25 points per month due to repeated rounding — initialized at 1000 in 1982, it erroneously showed 524 by November 1983, when it was corrected to 1098.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In January 1982 the index was initialized at 1000 and subsequently updated and truncated to three decimal places on each trade. ... The accumulated truncations led to an erroneous loss of around 25 points per month. Over the weekend of November 25–28, 1983, the error was corrected, raising the value of the index from its Friday closing figure of 524.811 to 1098.892.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "The USS Yorktown, a 'smart ship,' was left dead in the water for nearly 3 hours in September 1997 after a crew member entered a zero into a database, causing a division by zero error.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'smart ship' USS Yorktown was left dead in the water for nearly 3 hours in September 1997 after a divide-by-zero error.",
+  "quote": "Smart ship USS Yorktown was left dead in the water in September 1997 for nearly 3 hours after a divide by zero error.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "crew member entering a zero into a database not on the page"
+ },
+ {
+  "claim": "In 2007, a group of F-22 Raptor fighters experienced total navigation and communication system failures when they crossed the International Date Line — the aircraft had to follow tanker planes back to Hawaii.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2007, six F-22 Raptors lost their navigation completely, plus communications, when their computers crashed crossing the International Date Line. The fighters made it back to Hawaii by following their tankers.",
+  "quote": "a group of six F-22 Raptors flying from Hickam AFB, Hawaii, experienced multiple computer crashes coincident with their crossing of the 180th meridian of longitude (the International Date Line). The computer failures included at least navigation (completely lost) and communication. The fighters were able to return to Hawaii by following their tankers",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "page says navigation was completely lost, not 'total' communication failure"
+ },
+ {
+  "claim": "The Prisoner's Dilemma demonstrates that two rational individuals acting in their own self-interest may not produce the optimal outcome — both players choosing to 'defect' yields worse results than mutual cooperation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The dilemma arises from the fact that while defecting is rational for each agent, cooperation yields a higher payoff for each.",
+  "source_url": "https://en.wikipedia.org/wiki/Prisoner%27s_dilemma",
+  "note": ""
+ },
+ {
+  "claim": "John Nash proved in 1950 that every finite game has at least one Nash equilibrium — a state where no player can benefit by unilaterally changing their strategy — earning him the 1994 Nobel Prize in Economics.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1950 John Nash proved that every finite game has at least one Nash equilibrium (possibly in mixed strategies), a state in which no player can do better by unilaterally changing their strategy.",
+  "quote": "John Nash showed that there is a Nash equilibrium, possibly in mixed strategies, for every finite game. ... In 1950 Nash proved that every ... no player can do better by unilaterally changing their strategy",
+  "source_url": "https://en.wikipedia.org/wiki/Nash_equilibrium",
+  "note": "Page does not mention the 1994 Nobel Prize; equilibrium may require mixed strategies."
+ },
+ {
+  "claim": "The Ultimatum Game shows humans reject 'unfair' offers of free money — when offered 20% or less of a sum, most people refuse even though getting something is rationally better than nothing.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Ultimatum Game, people tend to offer fair 50:50 splits, and offers of less than 30% are often rejected — even though rejecting means walking away with nothing.",
+  "quote": "people offer \"fair\" (i.e., 50:50) splits, and offers of less than 30% are often rejected.",
+  "source_url": "https://en.wikipedia.org/wiki/Ultimatum_game",
+  "note": "Page says offers under 30% are 'often' rejected; no 20% figure, no 'most people', and rejection rates fall at high stakes"
+ },
+ {
+  "claim": "Arrow's Impossibility Theorem, proved in 1951, shows that no voting system can satisfy all fairness criteria simultaneously — there's no perfect way to convert individual preferences into a group decision.",
+  "verdict": "overstated",
+  "corrected_claim": "Arrow's impossibility theorem, proved by Kenneth Arrow in 1950, shows that no ranked-choice group decision procedure can satisfy all of a set of reasonable fairness conditions; it does not apply to rated voting systems.",
+  "quote": "When Kenneth Arrow proved his theorem in 1950, it inaugurated the modern field of social choice theory ... is not applicable to rated voting systems",
+  "source_url": "https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem",
+  "note": "page gives 1950 not 1951; theorem applies to ranked (ordinal) systems only, not all voting systems"
+ },
+ {
+  "claim": "The Tulip Mania of 1637 in the Netherlands saw single tulip bulbs sell for more than 10 times a skilled craftsman's annual income — often cited as the first recorded speculative bubble in history.",
+  "verdict": "overstated",
+  "corrected_claim": "At the peak of tulip mania in February 1637, certain tulip bulbs sold for more than 10 times the annual income of a skilled artisan. It is generally considered the first recorded speculative bubble, though many modern scholars think it was less destructive than popular accounts claim.",
+  "quote": "At the peak of tulip mania in February 1637, certain tulip bulbs sold for more than 10 times the annual income of a skilled artisan. ... It is generally considered to have been the first recorded speculative bubble or asset bubble in history. ... Many modern scholars believe that the mania was not as destructive as he describes.",
+  "source_url": "https://en.wikipedia.org/wiki/Tulip_mania",
+  "note": "page adds that the traditional account is contested"
+ },
+ {
+  "claim": "The endowment effect, discovered by Richard Thaler, shows people value things they own 2-3 times higher than identical items they don't own — explaining why people often refuse to sell possessions for their market value.",
+  "verdict": "overstated",
+  "corrected_claim": "The term 'endowment effect' was coined in 1980 by economist Richard Thaler; in a classic mug study, owners' asking price was about twice what buyers were willing to pay.",
+  "quote": "The term endowment effect however was first explicitly coined in 1980 by the economist ... was approximately twice as high as the amount they were willing to pay to acquire the mug.",
+  "source_url": "https://en.wikipedia.org/wiki/Endowment_effect",
+  "note": "Thaler coined the term (effect noted since 1960s); page gives ~2x in the mug study, not 2-3x."
+ },
+ {
+  "claim": "The Winner's Curse in auction theory describes how the winning bidder in a common-value auction tends to overpay — if your bid wins, it likely means everyone else thought the item was worth less.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The winner, then, is the bidder making the highest estimate. ... Thus, the auction's winner is likely to overpay.",
+  "source_url": "https://en.wikipedia.org/wiki/Winner%27s_curse",
+  "note": ""
+ },
+ {
+  "claim": "The Tragedy of the Commons, articulated by Garrett Hardin in 1968, explains why shared resources get depleted — individual rational behavior leads to collective ruin when everyone exploits a common resource.",
+  "verdict": "overstated",
+  "corrected_claim": "Garrett Hardin's 'tragedy of the commons' argues that when everyone pursues self-interest in a shared resource it is rational for each to overuse it, depleting it for all, though Elinor Ostrom and others found the tragedy less inevitable than Hardin claimed.",
+  "quote": "Ruin is the destination toward which all men rush, each pursuing his own best interest. ... Some scholars have argued that over-exploitation of the common resource is by no means inevitable.",
+  "source_url": "https://en.wikipedia.org/wiki/Tragedy_of_the_commons",
+  "note": "page notes significant criticism (Ostrom) that ruin is not inevitable; 1968 date not confirmed in fetched text"
+ },
+ {
+  "claim": "Loss aversion, a key finding of Kahneman and Tversky, shows that losses feel about twice as painful as equivalent gains feel good — explaining why people hold losing stocks too long and sell winners too early.",
+  "verdict": "overstated",
+  "corrected_claim": "Loss aversion, first proposed by Amos Tversky and Daniel Kahneman, describes how losses tend to be treated as if they were twice as large as an equivalent gain, though several studies have questioned how general the effect is.",
+  "quote": "Loss aversion was first proposed by Amos Tversky and Daniel Kahneman as an important component of prospect theory. ... Empirically, losses tend to be treated as if they were twice as large as an equivalent gain. ... Multiple studies have questioned the existence of loss aversion.",
+  "source_url": "https://en.wikipedia.org/wiki/Loss_aversion",
+  "note": "stock-holding explanation not on page; page notes studies questioning loss aversion"
+ },
+ {
+  "claim": "The Vickrey auction (second-price sealed-bid) makes it optimal for bidders to reveal their true valuations — the winner pays the second-highest bid, removing incentives for strategic underbidding.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The highest bidder wins but the price paid is the second-highest bid. ... The dominant strategy in a Vickrey auction with a single, indivisible item is for each bidder to bid their true value of the item. ... The strategy of underbidding is also dominated by bidding truthfully.",
+  "source_url": "https://en.wikipedia.org/wiki/Vickrey_auction",
+  "note": ""
+ },
+ {
+  "claim": "Insects are the most diverse group of animals on Earth, with more than one million described species—representing more than half of all known animal species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Insects are the most diverse group of animals, with more than a million described species; they represent more than half of all animal species.",
+  "source_url": "https://en.wikipedia.org/wiki/Insect",
+  "note": ""
+ },
+ {
+  "claim": "The giant dragonfly-like insect Meganeura monyi, which lived around 300 million years ago, had a wingspan of up to 75 cm (2.5 feet)—made possible by the higher oxygen levels of the late Carboniferous period.",
+  "verdict": "overstated",
+  "corrected_claim": "Meganeura, a giant dragonfly-like insect from the Late Carboniferous about 300 million years ago, had a wingspan of around 65–75 cm; one hypothesis links its size to higher oxygen levels, though this is disputed.",
+  "quote": "from the Late Carboniferous (about 300 million years ago) ... a wingspan around 65–75 cm (2.13–2.46 ft) ... that Meganeura was able to fly only because the atmosphere of Earth at that time contained more oxygen ... little correlation exists between body size and atmospheric oxygen content in invertebrates",
+  "source_url": "https://en.wikipedia.org/wiki/Meganeura",
+  "note": "oxygen explanation is a disputed hypothesis on the page, not established"
+ },
+ {
+  "claim": "Insects are the only invertebrates that have evolved the ability to fly, and insect flight evolved only once in evolutionary history.",
+  "verdict": "overstated",
+  "corrected_claim": "Insects are the only group of invertebrates that have evolved wings and flight.",
+  "quote": "Insects are the only group of invertebrates that have evolved wings and flight.",
+  "source_url": "https://en.wikipedia.org/wiki/Insect_flight",
+  "note": "page does not say flight evolved only once (only the indirect flight mechanism 'probably evolved once')"
+ },
+ {
+  "claim": "Male moths can detect the pheromones of female moths over distances of more than a kilometer using their highly sensitive antennae.",
+  "verdict": "overstated",
+  "corrected_claim": "Male moths can reliably track a female releasing pheromones up to a kilometre away, thanks to their highly sensitive antennae.",
+  "quote": "Male moths have extremely acute capacity to detect scent ... can reliably track a female who is releasing pheromones up to a kilometre away ... due to their highly sensitive antennae.",
+  "source_url": "https://en.wikipedia.org/wiki/Moth",
+  "note": "Source says up to a kilometre, not more than a kilometre."
+ },
+ {
+  "claim": "The African cicada Brevisana brevis produces sounds measured at 106.7 decibels at a distance of 50 cm—making it one of the loudest insects in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Cicada",
+  "note": "Page does not mention Brevisana brevis or the 106.7 dB figure"
+ },
+ {
+  "claim": "Some moths produce ultrasonic clicks that jam bat sonar, effectively disrupting the bat's echolocation and helping the moth escape predation.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Tiger_moth",
+  "note": "source URL is a disambiguation page (aircraft etc.); no content on moth clicks"
+ },
+ {
+  "claim": "Fireflies produce 'cold light' with no infrared or ultraviolet frequencies—the most efficient light production known in nature, with nearly 100% of energy converted to light.",
+  "verdict": "overstated",
+  "corrected_claim": "Fireflies produce a 'cold light', with no infrared or ultraviolet frequencies.",
+  "quote": "Fireflies produce a \"cold light\", with no infrared or ultraviolet frequencies.",
+  "source_url": "https://en.wikipedia.org/wiki/Firefly",
+  "note": "efficiency / nearly 100% claim not on the page"
+ },
+ {
+  "claim": "Female 'femme fatale' Photuris fireflies mimic the flash patterns of Photinus species to lure males of that species close—then eat them to acquire toxic defensive chemicals.",
+  "verdict": "overstated",
+  "corrected_claim": "Female Photuris fireflies engage in aggressive mimicry, imitating the light signals of other species' females, such as Photinus, to attract, kill and eat the unsuspecting males.",
+  "quote": "engage in aggressive mimicry, imitating the light signals that other firefly species' females use to attract mates ... to attract, kill and eat the unsuspecting males of those other species.",
+  "source_url": "https://en.wikipedia.org/wiki/Photuris",
+  "note": "acquiring toxic defensive chemicals not mentioned on the page"
+ },
+ {
+  "claim": "In Malaysia and the Great Smoky Mountains of Tennessee, thousands of fireflies synchronize their flashes with remarkable precision, blinking in unison in a phenomenon still not fully understood.",
+  "verdict": "overstated",
+  "corrected_claim": "Along river banks in the Malaysian jungles fireflies synchronize their flashes precisely, and a synchronous display occurs every June near Elkmont, Tennessee, in the Great Smoky Mountains.",
+  "quote": "At night along river banks in the Malaysian jungles, fireflies synchronize their light emissions precisely. ... occurs annually near Elkmont, Tennessee, in the Great Smoky Mountains during the first weeks of June.",
+  "source_url": "https://en.wikipedia.org/wiki/Firefly",
+  "note": "'thousands' and 'not fully understood' not stated; page gives hypotheses"
+ },
+ {
+  "claim": "Ant queens can live up to 30 years—estimated to be 100 times longer than solitary insects of similar size—while worker ants typically live 1-3 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The queens can live for up to 30 years, and workers live from 1 to 3 years. ... Ant queens are estimated to live 100 times as long as solitary insects of a similar size.",
+  "source_url": "https://en.wikipedia.org/wiki/Ant",
+  "note": ""
+ },
+ {
+  "claim": "The Maillard reaction, which gives browned food its distinctive flavor, was first described by French chemist Louis Camille Maillard in 1912 while he was attempting to reproduce biological protein synthesis.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is named after French chemist Louis Camille Maillard, who first described it in 1912 while attempting to reproduce biological protein synthesis.",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": ""
+ },
+ {
+  "claim": "According to Nobel Prize winner Jean-Marie Lehn, 'The Maillard reaction is, by far, the most widely practiced chemical reaction in the world.'",
+  "verdict": "overstated",
+  "corrected_claim": "Nobel Prize-winning chemist Jean-Marie Lehn has said: 'The Maillard is, by far, the most widely practiced chemical reaction in the world.'",
+  "quote": "The Maillard is, by far, the most widely practiced chemical reaction in the world",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": "Quote slightly altered (source reads 'The Maillard is', not 'The Maillard reaction is')."
+ },
+ {
+  "claim": "The Maillard reaction typically proceeds rapidly between 140 to 165°C (280 to 330°F), which is why many recipes call for oven temperatures in this range.",
+  "verdict": "overstated",
+  "corrected_claim": "The Maillard reaction typically proceeds rapidly from around 140 to 165°C (280 to 330°F), and many recipes call for an oven temperature high enough to ensure it occurs.",
+  "quote": "The reaction is a form of non-enzymatic browning which typically proceeds rapidly from around 140 to 165 °C (280 to 330 °F). ... Many recipes call for an oven temperature high enough to ensure that a Maillard reaction occurs.",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": "Source does not say recipes use oven temperatures 'in this range', only high enough for the reaction."
+ },
+ {
+  "claim": "The Maillard reaction can produce hundreds of different flavor compounds depending on the food's chemical constituents, temperature, cooking time, and presence of air.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the cooking process, Maillard reactions can produce hundreds of different flavor compounds ... the temperature, the cooking time, and the presence of air.",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": ""
+ },
+ {
+  "claim": "Acrylamide, a probable carcinogen, can form during the Maillard reaction at high temperatures, particularly in foods like French fries.",
+  "verdict": "overstated",
+  "corrected_claim": "At high temperatures, the Maillard reaction can form acrylamide, a probable carcinogen.",
+  "quote": "At high temperatures, a probable carcinogen called acrylamide can form.",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": "Source does not link acrylamide to French fries (fries are mentioned only for their golden-brown color)."
+ },
+ {
+  "claim": "The Maillard reaction is accelerated in alkaline environments, which is why lye is applied to pretzels to darken them.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This process is accelerated in an alkaline environment (e.g., lye applied to darken pretzels; see lye roll)",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": ""
+ },
+ {
+  "claim": "The compound 2-acetyl-1-pyrroline, produced by the Maillard reaction, gives jasmine rice and the herb pandan their distinctive aromas, with an odor threshold below 0.06 nanograms per liter.",
+  "verdict": "overstated",
+  "corrected_claim": "2-acetyl-1-pyrroline gives varieties of cooked rice and the herb pandan their typical smells, and it has an odor threshold below 0.06 nanograms per liter.",
+  "quote": "The structurally related compound 2-acetyl-1-pyrroline has a similar smell and also occurs naturally without heating. ... Both compounds have odor thresholds below 0.06 nanograms per liter.",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": "Source says 'varieties of cooked rice', not jasmine rice, and notes the compound also occurs naturally without heating."
+ },
+ {
+  "claim": "The Maillard reaction even occurs in archaeology—it's responsible for the tanning of bog bodies preserved in peat, turning skin brown and hair red over centuries.",
+  "verdict": "overstated",
+  "corrected_claim": "The Maillard process also shows up in archaeology: in bodies preserved in peat bogs, the acidic peat slowly tans skin and can turn hair red or ginger.",
+  "quote": "In archaeology, the Maillard process occurs when bodies are preserved in peat bogs. The acidic peat environment causes a tanning or browning of skin tones and can turn hair to a red or ginger tone.",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": "Source says it develops slowly over time; 'over centuries' is not stated."
+ },
+ {
+  "claim": "Caramelization and the Maillard reaction are distinct processes—caramelization is the pyrolysis of sugars alone, while the Maillard reaction requires amino acids.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Caramelization is an entirely different process from Maillard browning ... the Maillard reaction involves amino acids, whereas caramelization is the pyrolysis of certain sugars.",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": ""
+ },
+ {
+  "claim": "The Maillard reaction even occurs when champagne ages in the bottle, contributing to its complex flavor profile.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Maillard reactions also occur in dried fruit and when champagne ages in the bottle.",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": ""
+ },
+ {
+  "claim": "The first written account of using medicine and entomology to solve criminal cases is attributed to the Chinese book 'Xi Yuan Lu' (Washing Away of Wrongs), written in 1248 by Song Ci, making it the world's earliest forensic science manual.",
+  "verdict": "overstated",
+  "corrected_claim": "The first written account of using medicine and entomology to solve criminal cases is attributed to the book Xi Yuan Lu (Washing Away of Wrongs), written in China in 1248 by Song Ci.",
+  "quote": "The first written account of using medicine and entomology to solve criminal cases ... is attributed to the book of Xi Yuan Lu (translated as Washing Away of Wrongs ... written in China in 1248 by Song Ci",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": "Page does not call it the world's earliest forensic science manual."
+ },
+ {
+  "claim": "In 1235, a Chinese murder case was solved when an investigator had villagers place their sickles in a line—flies were attracted to invisible blood traces on only one sickle, revealing the murderer.",
+  "verdict": "overstated",
+  "corrected_claim": "In a murder case dated 1235, a Chinese magistrate had villagers assemble and set down their sickles — within minutes blow flies swarmed one sickle, drawn to traces of blood unseen by the naked eye, exposing the killer.",
+  "quote": "The local magistrate had the villagers assemble in the town square, where they would temporarily relinquish their sickles. Within minutes, a swarm of blow flies gathered around one sickle and no others, attracted to traces of blood unseen by the naked eye.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Page does not say the sickles were placed 'in a line'"
+ },
+ {
+  "claim": "Sir Alec Jeffreys invented DNA fingerprinting in 1984 at the University of Leicester by realizing that certain DNA regions have highly variable repetitive sequences unique to each individual.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "DNA profiling was discovered by British geneticist Sir Alec Jeffreys in 1984 ... working at the University of Leicester ... some regions of DNA have highly variable repetitive sequences that are unique to each individual",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "Colin Pitchfork became the first person convicted using DNA evidence in 1988, after being caught when a coworker revealed he had someone else submit a DNA sample on his behalf during a mass screening.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1988 Colin Pitchfork was convicted of two murders in Leicestershire after it emerged he had coerced his coworker Ian Kelly to stand in for him when providing a blood sample during DNA screening.",
+  "quote": "had coerced his coworker Ian Kelly to stand in for him when providing a blood sample ... the subsequent conviction of Colin Pitchfork on January 2, 1988.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "page does not call Pitchfork the first person convicted by DNA (it names Tommie Lee Andrews 1987 as first US conviction); 'coworker revealed' not stated"
+ },
+ {
+  "claim": "Richard Buckland was the first person exonerated using DNA evidence in 1986, despite having confessed to murder—the same DNA technology that freed him went on to catch the real killer.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1986, Richard Buckland was exonerated, despite having admitted to the rape and murder of a teenager near Leicester ... This was the first use of DNA fingerprinting in a criminal investigation, and the first to prove a suspect's innocence. ... The following year Colin Pitchfork was identified as the perpetrator of the same murder, in addition to another, using the same techniques that had cleared Buckland.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "Although 99.9% of human DNA sequences are the same in every person, enough DNA is different that it is possible to distinguish one individual from another, unless they are monozygotic (identical) twins.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Although 99.9% of human DNA sequences are the same in every person, enough of the DNA is different that it is possible to distinguish one individual from another, unless they are monozygotic (identical) twins.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "Francis Galton calculated in 1892 that the chance of two different individuals having the same fingerprints was about 1 in 64 billion.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the chance of a \"false positive\" (two different individuals having the same fingerprints) was about 1 in 64 billion. ... his 1892 book Finger Prints",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "Fingerprints form around the 15th week of fetal development and remain unchanged until after death when decomposition begins.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These unique features are formed at around the 15th week of fetal development ... remain until after death, when decomposition begins",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "In 1892, Francisca Rojas of Argentina became the first person convicted of murder based on fingerprint evidence, after a bloody thumbprint on a door matched her right thumb.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1892, the case of Francisca Rojas became the first known murder case solved using fingerprint analysis: a bloody thumb mark on a door matched her right thumb, and she then confessed.",
+  "quote": "found a bloody thumb mark on a door ... When it was compared with Rojas' prints, it was found to be identical with her right thumb. She then confessed to the murder of her sons. ... This was the first known murder case to be solved using fingerprint analysis.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Source says first known murder case solved by fingerprints and that she confessed; it does not say she was convicted."
+ },
+ {
+  "claim": "The Henry Classification System, developed in colonial India and still used today, classifies fingerprints into three basic patterns: loops (60-65% of all fingerprints), whorls (30-35%), and arches (5%).",
+  "verdict": "overstated",
+  "corrected_claim": "The Henry Classification System, developed in India and implemented in most English-speaking countries, sorts fingerprints into loops (60-65%), whorls (30-35%) and arches (5%).",
+  "quote": "The Henry Classification System was developed in India and implemented in most English-speaking countries. ... which constitute 60–65 percent, 30–35 percent, and 5 percent of all fingerprints respectively",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Source does not say 'colonial' or 'still used today'."
+ },
+ {
+  "claim": "The !Xóõ language of Botswana has up to 164 consonants including 111 click sounds — the most consonants of any known language.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": "Page does not mention !Xóõ consonant counts"
+ },
+ {
+  "claim": "Click consonants are so loud they can be heard up to several kilometers away — they're articulated by creating a vacuum with the tongue and releasing it explosively.",
+  "verdict": "overstated",
+  "corrected_claim": "Clicks are made by trapping a pocket of air that the tongue rarefies with a sucking action before the closure is released — some may be the loudest consonants in their language.",
+  "quote": "The enclosed pocket of air is rarefied by a sucking action of the tongue ... The forward closure is then released ... producing what may be the loudest consonants in the language",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": "Page gives no 'kilometres away' audibility; only says they may be the loudest consonants in the language"
+ },
+ {
+  "claim": "The Taa language has 45 to 115 click phonemes (depending on analysis), and over 70% of words in its dictionary begin with a click.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has 45 to 115 click phonemes, depending on analysis ... over 70% of words in the dictionary of this language begin with a click",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": ""
+ },
+ {
+  "claim": "Damin, an extinct Australian ritual language, is the only non-African language ever documented to use click consonants as regular speech sounds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The only non-African language known to have clicks as regular speech sounds is Damin, a ritual code once used by speakers of Lardil in Australia",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": ""
+ },
+ {
+  "claim": "Korean Hangul was designed by one person (King Sejong the Great) in 1443 — one of the only purposefully invented alphabets that became a national writing system.",
+  "verdict": "overstated",
+  "corrected_claim": "Joseon king Sejong the Great was responsible for creating Hangul, an intentionally designed script announced around late 1443 to early 1444 and officially published in 1446.",
+  "quote": "Joseon king Sejong the Great (r. 1418–1450) was responsible for Hangul's creation ... most scholars believe he was significantly personally involved in creating it. ... The script was announced around late 1443 to early 1444 and officially published in 1446",
+  "source_url": "https://en.wikipedia.org/wiki/Hangul",
+  "note": "Source does not say a single person designed it or that it is one of the only invented alphabets to become a national script."
+ },
+ {
+  "claim": "Hangul's consonant shapes are based on diagrams of the human mouth and tongue positions used to make each sound — making it arguably the world's most scientific alphabet.",
+  "verdict": "overstated",
+  "corrected_claim": "The shapes of Hangul's 5 basic consonants are based on those of human speech organs, and linguists have described it as among the best writing systems in use.",
+  "quote": "The shapes of 5 basic consonants are based on those of human speech organs ... Hangul has been described by various linguists and historians as the best or among the best actively used writing systems",
+  "source_url": "https://en.wikipedia.org/wiki/Hangul",
+  "note": "Only the 5 basic consonants are mouth-based; 'most scientific alphabet' is not stated."
+ },
+ {
+  "claim": "Basque (Euskara) is Europe's only surviving language isolate — it has no known relatives and predates the arrival of Indo-European languages.",
+  "verdict": "overstated",
+  "corrected_claim": "Basque is a language isolate in Europe, with no known living relatives, although ancient Aquitanian is commonly regarded as related to it or a direct ancestor.",
+  "quote": "It has no known living relatives, although Aquitanian is commonly regarded as related to or a direct ancestor of Basque.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "'Europe's only surviving isolate' and 'predates Indo-European' not on the page; Aquitanian caveat omitted"
+ },
+ {
+  "claim": "Sumerian, spoken in ancient Mesopotamia until around 1800 BC, remains a language isolate despite being one of the best-documented ancient languages.",
+  "verdict": "overstated",
+  "corrected_claim": "Sumerian, spoken in Mesopotamia until around 1800 BC and used as a classical language until 100 AD, is a well-attested language isolate.",
+  "quote": "Spoken in Mesopotamia until around 1800 BC, but used as a classical language until 100 AD. ... Long-extinct, but well-attested language of ancient Sumer.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "'one of the best-documented' not stated"
+ },
+ {
+  "claim": "Kusunda, spoken by only 23 people in Nepal, is a language isolate with no known relatives — and almost went extinct without ever being studied.",
+  "verdict": "overstated",
+  "corrected_claim": "Kusunda, a moribund language of Nepal with 23 speakers, is a language isolate not demonstrably related to any other language.",
+  "quote": "The recent discovery of a few speakers shows that it is not demonstrably related to anything else.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "'almost went extinct without being studied' not on the page"
+ },
+ {
+  "claim": "Nicaraguan Sign Language emerged spontaneously in the 1970s-80s when deaf children were brought together in schools — the first documented case of a language being created from scratch.",
+  "verdict": "overstated",
+  "corrected_claim": "Nicaraguan Sign Language emerged rapidly after 1977 when hundreds of deaf children were brought together in new schools in Managua; Steven Pinker called it 'the only time that we've seen a language being created out of thin air.'",
+  "quote": "The conditions necessary for a language to arise occurred in 1977. ... a new language rapidly began to emerge. ... The Nicaraguan case is unique in history ... the only time that we've seen a language being created out of thin air.",
+  "source_url": "https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language",
+  "note": "'first documented case' is Pinker's view quoted on page, not stated as fact; page also says 'rare opportunity'"
+ },
+ {
+  "claim": "Bacteriophages are the most abundant biological entity on Earth — estimated 10^31 exist, outnumbering all other organisms combined.",
+  "verdict": "overstated",
+  "corrected_claim": "There are estimated to be more than 10^31 bacteriophages on the planet — more than every living organism on Earth, including bacteria, combined.",
+  "quote": "It is estimated there are more than 10^31 bacteriophages on the planet, more than every living organism on Earth, including bacteria, combined.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page calls phages 'among the most common' entities; 'most abundant' is said only of viruses in the ocean water column"
+ },
+ {
+  "claim": "Up to 70% of marine bacteria may be infected by bacteriophages at any given time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "up to 70% of marine bacteria may be infected by bacteriophages",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": ""
+ },
+ {
+  "claim": "Viruses are the second largest component of biomass in the world's oceans after prokaryotes, with up to 9×10^8 virions per milliliter found in microbial mats.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the second largest component of biomass after prokaryotes ... where up to 9×10^8 virions per millilitre have been found in microbial mats at the surface",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": ""
+ },
+ {
+  "claim": "Phage therapy was used as an alternative to antibiotics in the Soviet Union since the 1920s, decades before Western medicine rediscovered it.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacteriophages were used as an alternative to antibiotics in the Soviet Union and Central Europe from the 1920s, while the West abandoned them for general use.",
+  "quote": "Bacteriophages were used from the 1920s as an alternative to antibiotics in the Soviet Union and Central Europe ... they were abandoned for general use in the West for several reasons.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page says Soviet Union and Central Europe; 'rediscovered decades later' by the West not stated"
+ },
+ {
+  "claim": "The smallest bacteriophage genomes encode as few as four genes, while the largest contain hundreds of genes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Their genomes may encode as few as four genes (e.g. MS2) and as many as hundreds of genes.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": ""
+ },
+ {
+  "claim": "The largest bacteriophage genomes reach 735 kilobases — larger than some bacterial genomes.",
+  "verdict": "overstated",
+  "corrected_claim": "The largest known bacteriophage genomes reach a size of 735 kilobases.",
+  "quote": "The largest bacteriophage genomes reach a size of 735 kb.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page gives 735 kb but makes no comparison with bacterial genomes"
+ },
+ {
+  "claim": "Bacteriophages communicate with each other using a protein called 'arbitrium' to decide whether to kill host cells or remain dormant.",
+  "verdict": "overstated",
+  "corrected_claim": "The bacteriophage Φ3T makes a short viral protein, named 'arbitrium' by its discoverers, that signals other phages to lie dormant.",
+  "quote": "the bacteriophage Φ3T makes a short viral protein that signals other bacteriophages to lie dormant ... Arbitrium is the name given to this protein by the researchers who discovered it.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page describes one phage (Φ3T) signalling dormancy; generalised to all phages"
+ },
+ {
+  "claim": "Three Nobel Prizes have been awarded for bacteriophage research — in 1969 for viral replication and in 2018 for phage display technology.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacteriophage research has won Nobel Prizes — in 1969 to Delbrück, Hershey and Luria, and in 2018 to George Smith and Gregory Winter for phage display.",
+  "quote": "Max Delbrück, Alfred Hershey, and Salvador Luria ... George Smith and Gregory Winter",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page describes two prizes (1969, 2018), not three"
+ },
+ {
+  "claim": "The Hershey-Chase experiment in 1952 used bacteriophages to prove that DNA — not protein — is the genetic material of life.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "as contributor to the Hershey–Chase experiment in 1952, provided convincing evidence that DNA, not protein, was the genetic material of life",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": ""
+ },
+ {
+  "claim": "Some bacteriophages inject their DNA using a hypodermic syringe-like motion, contracting their tail to pierce bacterial cell membranes.",
+  "verdict": "overstated",
+  "corrected_claim": "Myovirus bacteriophages use a hypodermic syringe-like motion to inject their genetic material into a bacterium, with their tail contracting during the process.",
+  "quote": "Myovirus bacteriophages use a hypodermic syringe-like motion to inject their genetic material into the cell ... the tail contracts, possibly with the help of ATP present in the tail",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page does not say the tail pierces the membrane; applies to myoviruses"
+ },
+ {
+  "claim": "Sleep literally cleans your brain - during slumber, cerebrospinal fluid flushes through the brain to wash away harmful proteins and toxins that build up during the day.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Sleep literally cleans your brain. During slumber, more cerebrospinal fluid flushes through the brain to wash away harmful proteins and toxins that build up during the day.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "A cat's brain has 300 million neurons compared to a dog's 160 million, and the cerebral cortex structure is about 90 percent similar to the human brain.",
+  "verdict": "overstated",
+  "corrected_claim": "Cats have some 300 million neurons compared with 160 million in dogs, and their brains have a structure that is about 90 percent similar to ours.",
+  "quote": "the brains of cats have an amazing surface folding and a structure that is about 90 percent similar to ours. ... cats have some 300 million neurons, as compared to 160 million in dogs.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": "Source says the brain's structure is ~90% similar, not specifically the cerebral cortex."
+ },
+ {
+  "claim": "Hungry cats trick their owners into feeding them by mimicking babies - they make urgent crying sounds in the 220 to 520-hertz frequency range (similar to human babies at 300-600 hertz) while purring at a lower frequency.",
+  "verdict": "overstated",
+  "corrected_claim": "According to a 2009 study, hungry cats get fed by mimicking babies: they mix an urgent cry in the 220 to 520-hertz range (babies cry at about 300 to 600 hertz) with purring at a lower frequency.",
+  "quote": "According to a 2009 study, they do it by mimicking babies crying. ... Cats in want of food will make an urgent cry or meowing sound in the 220 to 520-hertz frequency range ... while purring at a lower frequency ... Babies also cry in this frequency range (usually between 300 and 600 hertz)",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": "Finding comes from a single 2009 study, which the claim omits."
+ },
+ {
+  "claim": "Elephants appear to grieve their dead - they vocalize, use their trunks to 'hug' the body, stay with carcasses for hours, and sometimes attempt to bury dead elephants by covering them with leaves and soil.",
+  "verdict": "overstated",
+  "corrected_claim": "Elephants seem to show signs of grief: when they see a dead elephant they may vocalize, 'hug' it with their trunks or stay with the carcass for hours, and some have tried to bury the body by covering it in leaves and soil.",
+  "quote": "they seem to show signs that they experience grief when a member of their family (or another elephant) dies. When they see a dead elephant, they may vocalize, use their trunks to 'hug' the dead animal, or stay with the carcass for hours. Some elephants have also tried to bury the dead body by covering it in leaves and soil.",
+  "source_url": "https://www.mentalfloss.com/animals/12-interesting-facts-about-elephants",
+  "note": "page hedges ('seem to show signs', 'we can't know exactly'); claim more definite"
+ },
+ {
+  "claim": "Ravens are so intelligent they will pretend to hide food in one place while actually hiding it in another if they know another raven is watching them.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "If a raven knows another raven is watching it hide its food, it will pretend to put the food in one place while really hiding it in another.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/10-fascinating-facts-about-ravens",
+  "note": ""
+ },
+ {
+  "claim": "Ravens use 'hand' gestures to communicate - they point with their beaks to indicate objects to other birds and hold up objects to get attention, the first time researchers observed naturally occurring gestures in any non-primate animal.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "A study in Austria found that ravens point with their beaks to indicate an object to another bird, just as we do with our fingers. ... This is the first time researchers have observed naturally occurring gestures in any animal other than primates.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/10-fascinating-facts-about-ravens",
+  "note": "Post-pass: only part confirmed verbatim (holding up objects confirmed only as paraphrase)"
+ },
+ {
+  "claim": "If a female Emperor Penguin's baby dies, she will often 'kidnap' an unrelated chick.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "If a female Emperor Penguin's baby dies, she will often \"kidnap\" an unrelated chick.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/20-fun-facts-about-penguins-world-penguin-day",
+  "note": ""
+ },
+ {
+  "claim": "Dogs are capable of understanding up to 250 words and gestures - the average dog is as intelligent as a 2-year-old child.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Dogs are capable of understanding up to 250 words and gestures. The average dog is as intelligent as a 2-year-old child.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "In Switzerland, it's illegal to own only one guinea pig because they're social creatures - the law aims to prevent guinea pigs from getting lonely.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In Switzerland, it's illegal to own only one guinea pig. They're social creatures. The law aims to prevent guinea pigs from getting lonely.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "'social creatures' appears in photo caption"
+ },
+ {
+  "claim": "Foreign Accent Syndrome is a rare side effect of brain trauma where patients speak their native language in a foreign accent.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Foreign Accent Syndrome is a rare side effect of brain trauma. It's when patients speak their native language in a foreign accent.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Cats cannot taste sweet things due to a defect in the gene that codes for part of the mammalian sweet taste receptor - this defect occurs in domestic cats, cheetahs, and tigers alike.",
+  "verdict": "overstated",
+  "corrected_claim": "Cats aren't interested in sweet things because of a defect in the gene that codes for part of the mammalian sweet taste receptor; the defect occurs in domestic cats, cheetahs and tigers.",
+  "quote": "Cats aren't interested in sweet stuff because of a defect in the gene that codes for part of the mammalian sweet taste receptor. ... The defect occurs on the T1R2 protein in domestic cats, as well as in cheetahs and tigers.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": "Source says cats aren't interested in sweet stuff, not that they cannot taste it."
+ },
+ {
+  "claim": "Cats can be allergic to humans - feline asthma, which affects 1 in 200 cats, can be triggered by human dandruff, cigarette smoke, and dusty houses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They can be allergic to you. ... feline asthma—which affects one in 200 cats—is on the rise thanks to human lifestyle. ... caused by cigarette smoke, dusty houses, human dandruff, pollen and some kinds of cat litters",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": ""
+ },
+ {
+  "claim": "About half of all cats don't respond to catnip at all - sensitivity to Nepeta cataria is inherited, with cats having one sensitive parent having a 50% chance of developing the sensitivity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "half the cats in the world don't respond at all. ... Sensitivity to Nepeta cataria is inherited; ... cats with one catnip-sensitive parent have just a one-in-two chance of developing the sensitivity.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": ""
+ },
+ {
+  "claim": "Penguin coloring is camouflage - from above, their black back blends into ocean depths, while from below, their white belly is hidden against the bright surface.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A penguin's striking coloring is a matter of camouflage ... its black back blends into the murky depths of the ocean. From below, its white belly is hidden against the bright surface.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/20-fun-facts-about-penguins-world-penguin-day",
+  "note": ""
+ },
+ {
+  "claim": "Bloodcurdling is more than an expression - research shows watching horror movies can increase certain clotting proteins in our bloodstreams.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bloodcurdling isn't just an expression. Research shows that watching horror movies can increase a certain clotting protein in our bloodstreams.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "source says one clotting protein"
+ },
+ {
+  "claim": "There is a medical term for ice cream headaches - sphenopalatine ganglioneuralgia, caused by rapid cooling of the capillaries in the sinuses.",
+  "verdict": "overstated",
+  "corrected_claim": "There's a real medical term for ice cream headaches: sphenopalatine ganglioneuralgia.",
+  "quote": "There's a medical term for ice cream headaches. It's sphenopalatine ganglioneuralgia.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "source gives no cause (capillaries in sinuses not mentioned)"
+ },
+ {
+  "claim": "Blood donors in Sweden receive a thank-you text message when their blood is actually used to help a patient.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Blood donors in Sweden receive a thank-you text when their blood is used.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Cats have a gene called Taqpep that determines whether they have stripes, spots, or blotched patterns - blotched cats have mutations on both copies of the gene.",
+  "verdict": "overstated",
+  "corrected_claim": "The Taqpep gene establishes whether a cat gets a striped, spotted or blotched pattern, and blotched cats carry mutations on both copies of the gene.",
+  "quote": "the Taqpep gene establishes a periodic pattern for stripes or a spotted or blotched pattern ... Blotched cats had mutations on both copies of the gene, while striped cats did not.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": "Source presents this as what researchers believe/found in a study; wording of 'determines' slightly stronger."
+ },
+ {
+  "claim": "Cats are susceptible to more than 250 hereditary disorders similar to human diseases, including retinitis pigmentosa, Feline Immunodeficiency Virus (related to HIV), and their own form of Alzheimer's Disease.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Cats are susceptible to more than 250 hereditary disorders, and many of them are similar to diseases that humans get. ... A genetic defect in a cat's DNA can cause retinitis pigmentosa ... Feline Immunodeficiency Virus is a genetic relative of HIV. ... Felines even have their own form of Alzheimer's Disease",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": ""
+ },
+ {
+  "claim": "For some penguin species, pudgy males with enough fat to survive weeks without eating are most desirable mates - males incubate eggs while females hunt for weeks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In some species, it is the male penguin which incubates the eggs while females leave to hunt for weeks at a time. Because of this, pudgy males—with enough fat storage to survive weeks without eating—are most desirable.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/20-fun-facts-about-penguins-world-penguin-day",
+  "note": ""
+ },
+ {
+  "claim": "Cat domestication began in China approximately 5,300 years ago, not Ancient Egypt as previously believed - cats were attracted to ancient farming villages by rodents living on stored grain.",
+  "verdict": "overstated",
+  "corrected_claim": "Scientists once believed cats were domesticated in Ancient Egypt about 4,000 years ago, but research shows once-wild cats lived close to farmers in China some 5,300 years ago, drawn to farming villages by rodents living on stored grain.",
+  "quote": "Scientists once believed that cats were domesticated in Ancient Egypt approximately 4000 years ago ... a breed of once-wild cats lived in close proximity to farmers in China some 5300 years ago. ... Even if these cats were not yet domesticated",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": "Source says these cats may not yet have been domesticated; it does not say domestication began in China."
+ },
+ {
+  "claim": "Thomas Edison may have accidentally created graphene in 1879 while testing carbon-based bamboo filaments for light bulbs - 125 years before it was officially isolated in 2004.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Researchers at Rice University suggest Edison may have inadvertently created graphene in 1879 ... a \"wonder material\" that wasn't officially made until 125 years later. ... successfully isolated in 2004 by physicists Andre Geim and Konstantin Novoselov.",
+  "source_url": "https://www.sciencealert.com/did-edison-make-a-wonder-material-125-years-before-its-official-creation",
+  "note": "bamboo filaments are mentioned in the Rice team's replication"
+ },
+ {
+  "claim": "Volvo gave away the patent for the three-point seat belt in 1962 for free - specifically to save lives rather than profit from the invention.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Volvo gave away the 1962 patent for their revolutionary three-point seat belt for free. The company did this to save lives.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "The tin can was patented in 1810 by Peter Durand, but the can opener wasn't patented until 1858 - for 48 years, people used chisels and hammers to open cans.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Peter Durand patented the tin can in 1810. Ezra Warner patented a can opener in 1858. In between, people used chisels and hammers.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Marie Curie remains the only person to earn Nobel Prizes in two different sciences (Physics in 1903 and Chemistry in 1911).",
+  "verdict": "overstated",
+  "corrected_claim": "Marie Curie remains the only person to earn Nobel Prizes in two different sciences.",
+  "quote": "Marie Curie remains the only person to earn Nobel Prizes in two different sciences.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "years and fields (Physics 1903, Chemistry 1911) not on the page"
+ },
+ {
+  "claim": "In traditional vampire folklore, bloodsuckers have arithmomania - a compulsion to count - which is why Count von Count on Sesame Street loves numbers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Count von Count's love of numbers isn't just a quirky character trait. In traditional vampire folklore, the bloodsuckers have arithmomania, a compulsion to count.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "King Mongkut of Siam offered to send elephants to the U.S. to breed in forests in 1861, but Lincoln's Secretary of State declined because America already used steam power.",
+  "verdict": "overstated",
+  "corrected_claim": "King Mongkut of Siam offered to send pairs of elephants to the U.S. to breed in its forests; in 1862 Lincoln's Secretary of State William Seward graciously declined, saying the U.S. already used steam power to transport goods.",
+  "quote": "Mongkut proposed that Siam would send pairs of male and female elephants to the U.S. to breed in the forests.",
+  "source_url": "https://www.mentalfloss.com/animals/12-interesting-facts-about-elephants",
+  "note": "page does not date the offer to 1861; the refusal came in 1862"
+ },
+ {
+  "claim": "The ancient Chihuahua breed (Techichi) was kept as lap dogs by Toltecs in Mexico as early as the 9th century CE - the breed later shrunk after being crossed with smaller hairless dogs from Asia.",
+  "verdict": "overstated",
+  "corrected_claim": "Chihuahuas are believed to descend from the ancient Techichi, which Toltecs in Mexico kept as lap dogs as early as the 9th century CE; it's thought the breed shrank after being crossed with a smaller hairless dog from Asia.",
+  "quote": "Chihuahuas are believed to be descendants of an ancient breed, the Techichi. Toltecs in Mexico kept these pups as lap dogs as early as the 9th century CE. It's thought that after being crossed with a smaller hairless dog from Asia ... the breed shrank in size.",
+  "source_url": "https://www.mentalfloss.com/animals/dogs/10-feisty-facts-about-chihuahuas",
+  "note": "Source hedges ('believed', 'it's thought'); Techichi is the ancestor, not the Chihuahua itself."
+ },
+ {
+  "claim": "An ancient Egyptian pet cemetery included a Rüppell's fox, a Barbary falcon, and over 500 cats.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The pet cemetery consisted mostly of domestic cats (Felis silvestris catus), with 536 individuals. ... A Rüppell's fox (Vulpes rueppellii) and a Barbary falcon (Falco peregrinus pelegrinoides) were also found within the cemetery.",
+  "source_url": "https://en.wikipedia.org/wiki/Berenice_pet_cemetery",
+  "note": "Cemetery dates to Roman Egypt"
+ },
+ {
+  "claim": "Approximately 85 per cent of Welsh children were not in school in 1821.",
+  "verdict": "overstated",
+  "corrected_claim": "One estimate is that 85 per cent of children in Wales aged five to fifteen were not in day school in 1821.",
+  "quote": "One estimate is that 85 per cent of children in Wales between five and fifteen years old were not in day school in 1821.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_education_in_Wales_(1701%E2%80%931870)",
+  "note": "page frames it as one estimate, for ages 5-15 and day school"
+ },
+ {
+  "claim": "The Lost City Hydrothermal Field, discovered 700 meters beneath the Atlantic in 2000, has been venting hydrogen and methane for at least 120,000 years - its carbonate chimneys reach up to 60 meters tall and may represent conditions where life first emerged on Earth.",
+  "verdict": "overstated",
+  "corrected_claim": "The Lost City Hydrothermal Field, discovered in 2000 more than 700 meters beneath the surface, has been puffing out hydrogen and methane for at least 120,000 years, and its tallest chimney stands 60 meters tall.",
+  "quote": "Discovered by scientists in 2000, more than 700 meters (2,300 feet) beneath the surface ... For at least 120,000 years and maybe longer ... standing 60 meters (nearly 200 feet) tall",
+  "source_url": "https://www.sciencealert.com/lost-city-deep-beneath-the-ocean-is-unlike-anything-seen-before-on-earth",
+  "note": "Origin-of-life link is attributed to the drilled core, not the chimneys; depth is 'more than' 700 m"
+ },
+ {
+  "claim": "The Lost City Hydrothermal Field produces up to 100 times more hydrogen and methane than black smoker vents, which rely on magma heat.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the Lost City's ecosystem doesn't depend on the heat of magma ... whereas the Lost City's chimneys produce up to 100 times more hydrogen and methane",
+  "source_url": "https://www.sciencealert.com/lost-city-deep-beneath-the-ocean-is-unlike-anything-seen-before-on-earth",
+  "note": ""
+ },
+ {
+  "claim": "Scientists recovered a record-breaking 1,268-meter-long core sample from the Lost City Hydrothermal Field in 2024 - it may provide evidence of how life first emerged on Earth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a record-breaking recovery of mantle rock in the form of a 1,268-meter-long core sample ... crucial evidence on how life emerged",
+  "source_url": "https://www.sciencealert.com/lost-city-deep-beneath-the-ocean-is-unlike-anything-seen-before-on-earth",
+  "note": ""
+ },
+ {
+  "claim": "Seahorses have a hidden kingdom - Sweetings Pond in the Bahamas contains a unique population that scientists are working to understand and protect.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A saltwater pond in the Bahamas hosts a never before seen wonder: a thriving, isolated population of seahorses.",
+  "source_url": "https://www.nationalgeographic.com/animals/article/seahorse-sweetings-pond-bahamas",
+  "note": "title refers to the 'hidden kingdom of seahorses'; protection via Seahorse National Park"
+ },
+ {
+  "claim": "The Challenger Deep in the Mariana Trench reaches 11,034 meters below sea level - the deepest known point in Earth's oceans.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q98",
+  "note": "Wikidata page (Pacific Ocean) loaded but has no depth/Challenger Deep data."
+ },
+ {
+  "claim": "The Kuril-Kamchatka Trench plunges 10,542 meters deep, making it one of the deepest oceanic trenches in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q118525",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The Philippine Sea contains Bakunawa deep at 10,925 meters, making it one of the deepest points in the ocean.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q60558345",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The Atlantic Ocean reaches 8,605 meters at its deepest point in the Milwaukee Deep of the Puerto Rico Trench.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q97",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The Indian Ocean's deepest point is 7,450 meters in the Java Trench, yet it contains the warmest ocean waters.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1239",
+  "note": "Wikidata not reachable (fetch error)."
+ },
+ {
+  "claim": "The Southern Ocean reaches 7,235 meters deep and surrounds Antarctica with the coldest ocean water on Earth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q7354",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Fossil evidence shows penguin ancestors survived the mass extinction that killed the dinosaurs - the earliest penguin relative dates back approximately 60 million years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Fossils place the earliest penguin relative at some 60 million years ago ... an ancestor of the birds we see today survived the mass extinction of the dinosaurs.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/20-fun-facts-about-penguins-world-penguin-day",
+  "note": ""
+ },
+ {
+  "claim": "Bones found at Seymour Island indicate that 37-40 million years ago, penguins stood 6 feet tall and weighed 250 pounds - today's Emperor penguins are about 4 feet tall and 100 pounds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bones found at Seymour Island indicate that, 37 to 40 million years ago, penguins stood at a formidable 6 feet tall and weighed 250 pounds. Emperor penguins today are about 4 feet tall and 100 pounds.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Sharks are older than trees - their ancestors evolved approximately 450 million years ago, while trees appeared around 350 million years ago.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.mentalfloss.com/random-facts",
+  "note": "shark/tree fact not found on the random-facts page"
+ },
+ {
+  "claim": "The distant horse relative Palaeotherium was first misidentified as an amphibious animal, then as a canine.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Consequently, he hypothesized that the animal was extinct, had an amphibious lifestyle, and fed on both plants and fish. ... suggesting initially that they could have belonged to the canid genus Canis based on dental morphology.",
+  "source_url": "https://en.wikipedia.org/wiki/Palaeotherium",
+  "note": ""
+ },
+ {
+  "claim": "The Trilobite Wilderness is so rich in trilobite fossils that in places virtually every rock contains a fossil.",
+  "verdict": "overstated",
+  "corrected_claim": "The Trilobite Wilderness is so rich in fossils that in places virtually every piece of extracted rock contains pieces of fossil trilobite.",
+  "quote": "in places virtually every piece of extracted rock contains pieces of fossil trilobite.",
+  "source_url": "https://en.wikipedia.org/wiki/Trilobite_Wilderness",
+  "note": "Source says every piece of extracted rock, not every rock."
+ },
+ {
+  "claim": "The Eoscorpius, despite living hundreds of millions of years ago, has been noted for its similarity to modern scorpions.",
+  "verdict": "overstated",
+  "corrected_claim": "Eoscorpius, a scorpion genus that lived from the Early Carboniferous to the Early Permian, has been noted for its extensive similarities to modern scorpions.",
+  "quote": "The genus lived from the Early Carboniferous to the Asselian age of the Early Permian. ... It has been noted for its extensive similarities to modern scorpions.",
+  "source_url": "https://en.wikipedia.org/wiki/Eoscorpius",
+  "note": "Page gives geological periods, not 'hundreds of millions of years'"
+ },
+ {
+  "claim": "A long-legged lovebird (Agapornis longipes) lived in humanity's cradle (Cradle of Humankind).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "an extinct species of lovebird that lived in what is now Gauteng, South Africa ... has the proportionally longest legs of all known lovebirds ... All known fossilized remains of Agapornis longipes originate from the Cradle of Humankind",
+  "source_url": "https://en.wikipedia.org/wiki/Agapornis_longipes",
+  "note": ""
+ },
+ {
+  "claim": "Remains from the largest rodent in history were found in Uruguay.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A remarkable discovery was made of the biggest rodent ever found.",
+  "source_url": "https://en.wikipedia.org/wiki/Paleontology_in_Uruguay",
+  "note": ""
+ },
+ {
+  "claim": "The discovery of Laquintasaura challenged the idea that early dinosaurs could not survive in equatorial regions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Previous research had cast doubt on whether dinosaurs lived around the equator during their early evolution ... its geographic placement in an equatorial region demonstrates early dinosaur presence in equatorial latitudes",
+  "source_url": "https://en.wikipedia.org/wiki/Laquintasaura",
+  "note": ""
+ },
+ {
+  "claim": "Continental tectonic plates drift at the same speed fingernails grow - up to 20 millimeters per year.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Continental plates drift as fast as fingernails grow. They can travel as much as 20 millimeters per year.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Scientists have catalogued 402 bright streaks (lineae) on Mercury's surface that tend to cluster on sun-facing slopes of craters - they may still be forming today through the flow of heat and volatile materials like sulfur from below.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "have put together a survey covering 402 of them. ... the long bright lines on Mercury's surface tend to cluster on the sun-facing slopes of its craters. ... the study authors suspect that the streaks are still forming and evolving on Mercury today. ... the flow of heat and volatile materials, like sulfur, from below the planet's surface.",
+  "source_url": "https://www.sciencealert.com/strange-bright-lines-on-mercury-suggest-its-not-dead-after-all",
+  "note": ""
+ },
+ {
+  "claim": "Planet Earth news, feature and articles Earth is one big spinning mystery in a constant state of change.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/planet-earth",
+  "note": "page fragment"
+ },
+ {
+  "claim": "By Ashley Hamer Published 27 October 25 4 Comments Plants Fruits and vegetables quiz: Do you know where pumpkins, blueberries and broccoli come from?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/planet-earth",
+  "note": "page fragment"
+ },
+ {
+  "claim": "By Dr Jo Cutler Published 28 November 25 Climate change World's first global carbon tax was about to be introduced.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/planet-earth",
+  "note": "page fragment"
+ },
+ {
+  "claim": "With more than 4.5 billion years of history locked inside a ball of molten rock and iron, our planet is made up of a vast array of geological wonders, carved by the oceans, shaped by the shifting plates beneath our feet and sculpted by weather across the surface.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/planet-earth",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Our team of expert science writers and editors are here to reveal our planet&rsquo;s secrets &mdash; from the deepest depths of the ocean , through the coldest places on Earth to the very edge of space &mdash; keeping you up to date with the latest discoveries with planet Earth news, articles and features.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/planet-earth",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Antarctica 6 million-year-old ice discovered in Antarctica shatters records &mdash; and there's ancient air trapped inside Exoplanets Strange discovery offers 'missing link' in planet formation Space Is there anything 'below' Earth in space?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/planet-earth",
+  "note": "page fragment"
+ },
+ {
+  "claim": "By Laura Geggel Published 23 October 25 Plants Plants self-organize in a 'hidden order,' echoing pattern found across nature By Olivia Ferrari Published 22 October 25 5 Comments Plants Pollution Are biodegradable plastics really worth the hype?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/planet-earth",
+  "note": "page fragment"
+ },
+ {
+  "claim": "By Naveena Sadasivam Published 22 November 25 Climate change Global warming is forcing Earth's systems toward 'doom loop' tipping points.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/planet-earth",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Space has a distinct smell - astronauts describe it as a bouquet of diesel fumes, gunpowder, and barbecue, mostly produced by dying stars.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Space has a distinct smell. It smells like a bouquet of diesel fumes, gunpowder, and barbecue. The aroma is mostly produced by dying stars.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Russian cosmonauts used to pack a shotgun in case they landed in Siberia - for protection against bears.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Russian cosmonauts used to pack a shotgun in case they landed in Siberia. They'd use the shotgun to fend off bears.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Apollo 17 astronaut Harrison Schmitt was allergic to moon dust - it caused the inside of his nose to swell and affected his throat.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Apollo 17 astronaut Harrison Schmitt was allergic to moon dust. The moon dust caused the inside of his nose to swell, and also messed with his throat.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "A solar eclipse helped end a six-year war in 585 BCE - when the sky suddenly darkened during a battle between the Lydians and the Medes, soldiers took it as a sign to cease fighting.",
+  "verdict": "overstated",
+  "corrected_claim": "A solar eclipse helped end a six-year war in 585 BCE, when the sky suddenly darkened during a battle between the Lydians and the Medes in modern Turkey.",
+  "quote": "A solar eclipse helped end a six-year war in 585 BCE. When the sky suddenly darkened during a battle between the Lydians and the Medes in modern Turkey",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "soldiers' interpretation as a sign to stop not confirmed verbatim"
+ },
+ {
+  "claim": "Mercury's surface has mysterious bright streaks that appear to be caused by very recent geological activity - the 'dead' planet may still be geologically active after 4.5 billion years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Mercury is far from being 'dead' or dull, as astronomers once supposed. ... a sign of very recent geological activity. ... has had 4.5 billion years to cool off.",
+  "source_url": "https://www.sciencealert.com/strange-bright-lines-on-mercury-suggest-its-not-dead-after-all",
+  "note": ""
+ },
+ {
+  "claim": "Space news, features and articles Space is a seemingly infinite world of wonder and discovery, filled with mysterious black holes , stunning solar flares , elusive exoplanets and countless cosmic oddities .",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/space",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Space NASA launches Pandora telescope, taking JWST's search for habitable worlds to a new level Exoplanets Strange discovery offers 'missing link' in planet formation Space Is there anything 'below' Earth in space?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/space",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Our team of expert science writers and editors are ready to hold a lens like that of the James Webb Space Telescope beyond Earth, keeping those on this planet up to date with the latest space news, articles and features.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/space",
+  "note": "page fragment"
+ },
+ {
+  "claim": "By Laura Nicole Driessen Published 10 November 25 Extraterrestrial Life Chinese scientists hunt for alien radio signals in 'potentially habitable' TRAPPIST-1 system By Mark Thompson Published 14 September 25 Extraterrestrial Life Where could alien life exist in our solar system?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/space",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Best Drones Best Binoculars Next Full Moon Lego Star Wars deals Solar System Planets Best Star Projectors When you purchase through links on our site, we may earn an affiliate commission.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.space.com/science-astronomy",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Dolphins sleep with one hemisphere of their brain at a time for 15-20 minutes - this allows them to continue swimming, breathing, and watching for predators 24/7.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "By resting one hemisphere of their brain at a time ... for 15 to 20 minutes at a time ... dolphins can continue swimming, breathing, and watching for predators 24/7",
+  "source_url": "https://www.mentalfloss.com/animals/facts-about-dolphins",
+  "note": ""
+ },
+ {
+  "claim": "Being a 'night owl' is linked to higher heart attack and stroke risk according to a major study.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Over 14 years, the night owls had a 16 percent higher risk of a first heart attack or stroke",
+  "source_url": "https://www.sciencealert.com/major-study-links-being-a-night-owl-to-higher-heart-attack-and-stroke-risk",
+  "note": "study of 300,000+ UK Biobank adults; lifestyle factors appear to drive it"
+ },
+ {
+  "claim": "Scientists Find Hidden Pathways Pancreatic Cancer Uses to Spread Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "headline fragment not found on current ScienceDaily news feed (page content rotates)"
+ },
+ {
+  "claim": "Instead of attacking cancer cells head-on, the experimental ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "page fragment; also not found on current ScienceDaily news feed"
+ },
+ {
+  "claim": "Using advanced mineral analysis, researchers searched nearby river sediments ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "page fragment; also not found on current ScienceDaily news feed"
+ },
+ {
+  "claim": "In the U.S., the vast majority of non-hospitalized patients described brain fog, ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "page fragment; also not found on current ScienceDaily news feed"
+ },
+ {
+  "claim": "The new electrode works with realistic exhaust gases rather than requiring purified CO2.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "page fragment; also not found on current ScienceDaily news feed"
+ },
+ {
+  "claim": "Ancient Oceans Stayed Oxygen Rich Despite Extreme Warming Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "headline fragment not found on current ScienceDaily news feed (page content rotates)"
+ },
+ {
+  "claim": "Researchers found that SGLT2 inhibitors, widely used to treat diabetes and heart disease, preserved kidney ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "page fragment; also not found on current ScienceDaily news feed"
+ },
+ {
+  "claim": "A large study tracking more than 300,000 adults found that middle-aged and older night owls had poorer ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "page fragment; also not found on current ScienceDaily news feed"
+ },
+ {
+  "claim": "New Catalyst Makes Plastic Upcycling 10x More Efficient Than Platinum Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "headline fragment not found on current ScienceDaily news feed (page content rotates)"
+ },
+ {
+  "claim": "New research reveals a hidden trick: cancer cells can package the immune-blocking protein PD-L1 into tiny particles that circulate through ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "page fragment; also not found on current ScienceDaily news feed"
+ }
+]
