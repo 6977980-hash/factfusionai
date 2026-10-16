@@ -72,3 +72,115 @@ function ffc_fact_fix_v2_run() {
 	FactFusion_Facts::changed(); // Cache purge and IndexNow (inc/seo-data.php).
 	return $log;
 }
+
+/*
+ * Second round (16 Oct 2026): five Today's 5 facts whose wording went beyond their sources.
+ * Tier C sources get confidence 75; a fact that now rests on Wikipedia gets that source added.
+ */
+add_action(
+	'init',
+	static function () {
+		if ( get_option( 'ffc_fact_fix_v3' ) || ! class_exists( 'FactFusion_Facts' ) || ! add_option( 'ffc_fact_fix_v3_lock', time(), '', false ) ) {
+			return;
+		}
+		update_option( 'ffc_fact_fix_v3', ffc_fact_fix_v3_run(), false );
+		delete_option( 'ffc_fact_fix_v3_lock' );
+	},
+	99
+);
+
+/** Slug => corrected text, plus 'add_source' / 'drop_source_url' for source changes. */
+function ffc_fact_fix_v3_data() {
+	return array(
+		'male-moth-pheromone-detection' => array(
+			'claim'            => 'Male moths can track a female releasing pheromones from up to about a kilometer away, using their highly sensitive antennae.',
+			'short_answer'     => 'Male moths can follow the scent of a female\'s pheromones from up to about a kilometer (0.6 miles) away. They pick it up with their feathery, highly sensitive antennae.',
+			'explanation'      => "Pheromones are chemical signals that animals release to communicate with others of their own species. Many female moths give off a pheromone when they are ready to mate, and the scent drifts away from them on the wind in very thin traces.\n\nMale moths detect these traces with their antennae, which in many species are large and feathery. The extra surface lets them catch a few scent molecules out of the air. Wikipedia's article on moths says a male can reliably track a female who is releasing pheromones up to a kilometer away.\n\nThat is a long way for an insect a few centimeters long, and it shows how much moths rely on smell rather than sight to find a mate, especially since many of them fly at night.",
+			'confidence_score' => 90,
+		),
+		'meganeura-monyi-the-giant-dragonfly' => array(
+			'claim'            => 'The giant dragonfly-like insect Meganeura monyi lived about 300 million years ago and had a wingspan of about 65 to 75 cm (up to about 2.5 feet). Why it grew so large is still debated.',
+			'short_answer'     => 'Meganeura monyi, a dragonfly-like insect that lived about 300 million years ago, had a wingspan of about 65 to 75 cm (up to about 2.5 feet). Scientists still debate why it could grow so large.',
+			'explanation'      => "Meganeura monyi lived in the Late Carboniferous period, about 300 million years ago. It looked much like a modern dragonfly, but it was far bigger: its wingspan reached about 65 to 75 centimeters, with a single wing about 32 centimeters long. It is one of the largest flying insects known.\n\nA popular explanation is that the air then held more oxygen than it does today, which would let a large insect breathe through its small air tubes. Wikipedia's article on Meganeura notes that this idea is still debated. Giant relatives of Meganeura also lived later, in the Late Permian, when oxygen levels had already dropped.\n\nSo the size is well established from fossils, while the reason for it remains an open question.",
+			'confidence_score' => 90,
+		),
+		'cat-domestication-began-in-china' => array(
+			'title'            => 'Cat Domestication Began in the Near East, Not Egypt',
+			'slug'             => 'cat-domestication-began-in-the-near-east',
+			'question'         => 'Where did cat domestication begin?',
+			'claim'            => 'Cat domestication began in the Near East around 7500 BCE, long before ancient Egypt: the earliest known tamed wildcat was buried near a person on Cyprus. Leopard cats were tamed separately in China, but they left no trace in today\'s house cats.',
+			'short_answer'     => 'Cat domestication began in the Near East about 9,500 years ago, not in ancient Egypt. The oldest sign is a wildcat buried near a person on Cyprus around 7500 BCE. Leopard cats were tamed separately in China, but today\'s house cats do not descend from them.',
+			'explanation'      => "For a long time people thought cats were first domesticated in ancient Egypt, where they were honored from around 3100 BCE. Older evidence has changed that picture.\n\nOn the island of Cyprus, archaeologists found an African wildcat buried close to a human grave at Shillourokambos, dated to about 7500 to 7200 BCE. Wikipedia's article on the cat calls it the earliest known sign of a tamed wildcat, and says domestication most likely started in the Near East around that time. House cats are thought to descend from the African wildcat.\n\nIn China, a different small cat, the leopard cat, was also tamed in early farming villages. But that line left no trace in the cats people keep today. Egyptian wildcats did add to the house cat's family tree, only later.",
+			'confidence_score' => 90,
+			'add_source'       => array(
+				'source_name' => 'Wikipedia: Cat',
+				'url'         => 'https://en.wikipedia.org/wiki/Cat',
+				'tier'        => 'B',
+				'title'       => 'Cat',
+				'publisher'   => 'Wikipedia',
+			),
+			'drop_source_url'  => 'mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends',
+		),
+		'what-does-space-smell-like' => array(
+			'claim'            => 'Astronauts describe a distinct smell after spacewalks, likened to diesel fumes, gunpowder and barbecue. Some scientists link it to compounds made by dying stars, but the cause is not settled.',
+			'short_answer'     => 'Astronauts say space has a distinct smell, like diesel fumes, gunpowder and barbecue, which they notice on suits and gear after spacewalks. Some scientists link it to compounds made by dying stars, but the cause is not settled.',
+			'explanation'      => "Space itself is a near-perfect vacuum, so nobody can sniff it directly. What astronauts notice is a smell that clings to their suits, helmets and tools when they come back inside after a spacewalk. They have described it as a mix of diesel fumes, gunpowder and barbecue, or of seared steak and hot metal.\n\nMental Floss reports that the smell is linked to compounds produced by dying stars. That is one idea. Another is that the odor comes from reactions on the surface of suits and equipment once they meet the air inside the station. The cause has not been settled.\n\nWhat is clear is that the smell is real and familiar to many astronauts, even if science has not yet pinned down exactly where it comes from.",
+			'confidence_score' => 75,
+		),
+		'volvo-gave-away-the-three-point-seat-belt-patent' => array(
+			'claim'            => 'Volvo introduced the three-point seat belt, developed by Nils Bohlin, in 1959 and made the design patent open so other carmakers could use it for free.',
+			'short_answer'     => 'Volvo introduced the three-point seat belt, designed by engineer Nils Bohlin, in 1959 and made the patent open so any carmaker could use it for free. It chose saving lives over profit.',
+			'explanation'      => "A three-point seat belt crosses both the lap and the chest and is fixed to the car at three points. It spreads the force of a crash across the strongest parts of the body. Swedish engineer Nils Bohlin developed its modern form for Volvo, and Volvo made it standard equipment in 1959.\n\nInstead of keeping the invention to itself, Volvo made the design patent open in the interest of safety, so other car manufacturers could fit the same belt without paying. Bohlin's U.S. patent was granted in 1962, which is why that year sometimes appears in this story.\n\nBecause anyone could use it, the three-point belt spread across the car industry and became the standard design still found in cars today.",
+			'confidence_score' => 75,
+			'add_source'       => array(
+				'source_name' => 'Wikipedia: Seat belt',
+				'url'         => 'https://en.wikipedia.org/wiki/Seat_belt',
+				'tier'        => 'B',
+				'title'       => 'Seat belt',
+				'publisher'   => 'Wikipedia',
+			),
+		),
+	);
+}
+
+function ffc_fact_fix_v3_run() {
+	global $wpdb;
+	$log = array();
+	foreach ( ffc_fact_fix_v3_data() as $slug => $text ) {
+		$fact = FactFusion_Facts::get_by_slug( $slug );
+		if ( ! $fact ) {
+			$log[ $slug ] = 'missing';
+			continue;
+		}
+		$source_ids = FactFusion_Facts::source_ids( (int) $fact->id );
+		if ( ! empty( $text['drop_source_url'] ) ) {
+			foreach ( FactFusion_Sources::for_fact( (int) $fact->id ) as $source ) {
+				if ( false !== strpos( (string) $source->url, $text['drop_source_url'] ) ) {
+					$source_ids = array_diff( $source_ids, array( (int) $source->id ) );
+				}
+			}
+		}
+		if ( ! empty( $text['add_source'] ) ) {
+			$existing  = FactFusion_Sources::find_by_url( $text['add_source']['url'] );
+			$source_id = $existing ? (int) $existing->id : FactFusion_Sources::save( $text['add_source'] + array( 'is_active' => 1, 'date_accessed' => '2026-10-16' ) );
+			if ( ! is_wp_error( $source_id ) ) {
+				$source_ids[] = (int) $source_id;
+			}
+		}
+		$question = $text['question'] ?? '';
+		unset( $text['add_source'], $text['drop_source_url'], $text['question'] );
+
+		$data                = array_merge( (array) $fact, $text );
+		$data['slug']        = $text['slug'] ?? $slug; // A changed slug gets a 301 from the old one (inc/seo-data.php).
+		$data['explanation'] = wpautop( esc_html( $text['explanation'] ) );
+		$data['source_ids']  = array_values( array_unique( array_map( 'intval', $source_ids ) ) );
+		$saved               = FactFusion_Facts::save( $data, (int) $fact->id );
+		if ( ! is_wp_error( $saved ) && '' !== $question && function_exists( 'ffc_depth_db_ready' ) && ffc_depth_db_ready() ) {
+			// phpcs:ignore WordPress.DB.DirectDatabaseQuery
+			$wpdb->update( FactFusion_DB::table( 'facts' ), array( 'question' => $question ), array( 'id' => (int) $fact->id ) );
+		}
+		$log[ $slug ] = is_wp_error( $saved ) ? $saved->get_error_message() : 'fixed';
+	}
+	FactFusion_Facts::changed();
+	return $log;
+}
