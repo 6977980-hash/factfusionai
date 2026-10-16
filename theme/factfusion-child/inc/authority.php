@@ -316,7 +316,7 @@ function ffc_dataset_build( $force = false ) {
 			'license'     => 'CC BY 4.0',
 			'license_url' => FFC_DATASET_LICENSE,
 			'attribution' => 'Facts from ' . $site . ' (' . home_url( '/' ) . '), CC BY 4.0',
-			'notes'       => 'Our text (titles, claims, answers, explanations) is CC BY 4.0. The linked source pages keep their own licenses.',
+			'notes'       => 'Our text (titles, claims, answers, explanations) is CC BY 4.0. The linked source pages keep their own licenses. Many newer claims started from the science-facts-project dataset by Royal-lobster (MIT License, https://github.com/Royal-lobster/science-facts-project).',
 			'generated'   => $generated,
 			'count'       => count( $rows ),
 			'facts'       => $rows,
@@ -451,6 +451,7 @@ add_shortcode(
 <p>Suggested credit:</p>
 <pre class="ffc-auth__code"><?php echo esc_html( $credit ); ?></pre>
 <p>The license covers our own text: titles, claims, short answers and explanations. The source pages we link to belong to their publishers and keep their own licenses.</p>
+<p>Many of our newer claims started from the open <a href="https://github.com/Royal-lobster/science-facts-project" rel="noopener">science-facts-project</a> dataset by Royal-lobster (MIT License). We rewrite each one and check it against its source before it is published.</p>
 
 <h2 class="wp-block-heading">What is in the dataset</h2>
 <p>Only facts that are published on the site and marked verified. Drafts, facts waiting for review and withdrawn facts are left out. Categories: <?php echo wp_kses_post( implode( ', ', $cats ) ); ?>.</p>

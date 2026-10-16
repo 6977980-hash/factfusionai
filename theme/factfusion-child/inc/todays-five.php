@@ -26,6 +26,36 @@ function ffc_today_confidence_levels() {
 	);
 }
 
+/**
+ * Highest confidence an editor may give a fact, by its best source tier. A magazine or
+ * trivia source (Tier C or D) can support a fact, but not at "the source states it directly".
+ */
+function ffc_today_max_confidence( $fact_id ) {
+	$tiers = wp_list_pluck( FactFusion_Sources::for_fact( (int) $fact_id ), 'tier' );
+	return array_intersect( array( 'A', 'B' ), $tiers ) ? 90 : 75;
+}
+
+/**
+ * Source pages that collect many unrelated trivia items. A fact linked only to one of these
+ * cannot be checked quickly and is often overstated, so Today's 5 does not pick it.
+ */
+function ffc_today_list_pages() {
+	return array( 'mentalfloss.com/amazing-facts' );
+}
+
+/** SQL that leaves out facts citing a trivia list page (empty when there are none). */
+function ffc_today_skip_lists_sql() {
+	global $wpdb;
+	$likes = array();
+	foreach ( ffc_today_list_pages() as $page ) {
+		$likes[] = $wpdb->prepare( 's.url LIKE %s', '%' . $wpdb->esc_like( $page ) . '%' );
+	}
+	if ( ! $likes ) {
+		return '';
+	}
+	return $wpdb->prepare( ' AND f.id NOT IN (SELECT l2.fact_id FROM %i l2 INNER JOIN %i s ON s.id = l2.source_id WHERE ' . implode( ' OR ', $likes ) . ')', FactFusion_DB::table( 'fact_sources' ), FactFusion_DB::table( 'sources' ) ); // phpcs:ignore WordPress.DB.PreparedSQL
+}
+
 /** Facts published through Today's 5 today (site time). */
 function ffc_today_published_today() {
 	return (int) get_option( 'ffc_today_published_' . wp_date( 'Ymd' ), 0 );
@@ -59,15 +89,16 @@ function ffc_today_pick_ids() {
 	global $wpdb;
 	$table = FactFusion_DB::table( 'facts' );
 	$links = FactFusion_DB::table( 'fact_sources' );
-	// phpcs:disable WordPress.DB.DirectDatabaseQuery
-	$cats = $wpdb->get_col( $wpdb->prepare( 'SELECT DISTINCT f.category_id FROM %i f INNER JOIN %i l ON l.fact_id = f.id WHERE f.status = %s AND f.confidence_score >= %d AND f.category_id > 0 ORDER BY f.category_id', $table, $links, 'pending', 60 ) );
+	$skip  = ffc_today_skip_lists_sql();
+	// phpcs:disable WordPress.DB.DirectDatabaseQuery, WordPress.DB.PreparedSQL
+	$cats = $wpdb->get_col( $wpdb->prepare( 'SELECT DISTINCT f.category_id FROM %i f INNER JOIN %i l ON l.fact_id = f.id WHERE f.status = %s AND f.confidence_score >= %d AND f.category_id > 0' . $skip . ' ORDER BY f.category_id', $table, $links, 'pending', 60 ) );
 	if ( ! $cats ) {
 		return array();
 	}
 	$turn = (int) get_option( 'ffc_today_turn', 0 );
 	update_option( 'ffc_today_turn', $turn + 1, false );
 	$cat = (int) $cats[ $turn % count( $cats ) ];
-	$ids = $wpdb->get_col( $wpdb->prepare( 'SELECT DISTINCT f.id FROM %i f INNER JOIN %i l ON l.fact_id = f.id WHERE f.status = %s AND f.confidence_score >= %d AND f.category_id = %d ORDER BY f.fact_number ASC LIMIT %d', $table, $links, 'pending', 60, $cat, FFC_TODAY_COUNT ) );
+	$ids = $wpdb->get_col( $wpdb->prepare( 'SELECT DISTINCT f.id FROM %i f INNER JOIN %i l ON l.fact_id = f.id WHERE f.status = %s AND f.confidence_score >= %d AND f.category_id = %d' . $skip . ' ORDER BY f.fact_number ASC LIMIT %d', $table, $links, 'pending', 60, $cat, FFC_TODAY_COUNT ) );
 	// phpcs:enable
 	return array_map( 'intval', $ids );
 }
@@ -260,6 +291,10 @@ add_action(
 					$state['notes'][] = 'Pick a confidence level for every fact you tick.';
 					continue;
 				}
+				if ( $confidence > ffc_today_max_confidence( $id ) ) {
+					$state['notes'][] = 'A fact with only a Tier C or D source (magazine, news or trivia site) can get at most 75. Pick 75 or 60 for it.';
+					continue;
+				}
 				$state['queue'][] = array( 'type' => 'publish', 'id' => $id, 'confidence' => $confidence, 'editor' => get_current_user_id() );
 			}
 			$state['notes'] = array_values( array_unique( $state['notes'] ) );
@@ -362,7 +397,7 @@ function ffc_today_page() {
 					<?php echo wp_kses_post( $fact->explanation ); ?>
 					<p>
 						<?php foreach ( FactFusion_Sources::for_fact( (int) $fact->id ) as $source ) : ?>
-							Source: <a href="<?php echo esc_url( $source->url ); ?>" target="_blank" rel="noopener"><?php echo esc_html( $source->source_name ); ?></a>&nbsp;
+							Source: <a href="<?php echo esc_url( $source->url ); ?>" target="_blank" rel="noopener"><?php echo esc_html( $source->source_name ); ?></a> (Tier <?php echo esc_html( $source->tier ); ?>)&nbsp;
 						<?php endforeach; ?>
 					</p>
 					<?php if ( ! empty( $state['errors'][ (int) $fact->id ] ) || '' === trim( (string) $fact->short_answer ) ) : ?>
@@ -374,6 +409,11 @@ function ffc_today_page() {
 						<select form="ffc-publish" name="confidence[<?php echo (int) $fact->id; ?>]">
 							<option value="">Confidence…</option>
 							<?php foreach ( ffc_today_confidence_levels() as $ffc_score => $ffc_label ) : ?>
+								<?php
+								if ( $ffc_score > ffc_today_max_confidence( (int) $fact->id ) ) {
+									continue; // Tier C or D source: 75 at most.
+								}
+								?>
 								<option value="<?php echo (int) $ffc_score; ?>"><?php echo esc_html( $ffc_score . ' · ' . $ffc_label ); ?></option>
 							<?php endforeach; ?>
 						</select>
