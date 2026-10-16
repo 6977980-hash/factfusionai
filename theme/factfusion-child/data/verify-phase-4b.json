@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "Adults can learn vocabulary and explicit grammar rules better than children — but children beat adults at implicit pattern learning.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Second-language_acquisition",
+  "note": "Page does not compare adults and children on vocabulary/explicit grammar vs implicit learning"
+ },
+ {
+  "claim": "Cactus stems perform photosynthesis instead of leaves, using their green skin to capture sunlight.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the absence of true leaves, cacti's enlarged stems carry out photosynthesis.",
+  "source_url": "https://en.wikipedia.org/wiki/Cactus",
+  "note": ""
+ },
+ {
+  "claim": "Tungsten carbide is so hard it's used to make armor-piercing ammunition, with a Mohs hardness of 9-9.5 (diamond is 10).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tungsten carbide is extremely hard, ranking about 9.0–9.5 on the Mohs scale, and with a Vickers number of around 2600. ... is often used in armor-piercing ammunition, especially where depleted uranium is not available",
+  "source_url": "https://en.wikipedia.org/wiki/Tungsten_carbide",
+  "note": ""
+ },
+ {
+  "claim": "MySQL's name comes from co-founder Michael Widenius's daughter My — his other daughter Maria inspired MariaDB, the MySQL fork.",
+  "verdict": "overstated",
+  "corrected_claim": "MySQL is named after co-founder Michael 'Monty' Widenius's daughter My.",
+  "quote": "Its name is a combination of \"My\", the name of co-founder Michael Widenius' daughter My,",
+  "source_url": "https://en.wikipedia.org/wiki/MySQL",
+  "note": "MariaDB/Maria not mentioned on page."
+ },
+ {
+  "claim": "Adeno-associated virus (AAV) integrates into a specific location on human chromosome 19 — remarkably predictable.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The AAV genome integrates most frequently into the site mentioned, while random incorporations into the genome take place with a negligible frequency.",
+  "source_url": "https://en.wikipedia.org/wiki/Adeno-associated_virus",
+  "note": "Site AAVS1 on chromosome 19; wild-type only, vectors lack this"
+ },
+ {
+  "claim": "Gluten-free diets aren't healthier unless you have celiac disease or gluten sensitivity—they may actually lack nutrients.",
+  "verdict": "overstated",
+  "corrected_claim": "A gluten-free diet may lead to nutritional deficiencies, since many gluten-free substitutes are lower in nutritional quality.",
+  "quote": "the GFD diet may lead to nutritional deficiencies due to difficulties accessing nutritionally balanced gluten-free food. ... Many gluten-free substitutions are lower in nutritional quality",
+  "source_url": "https://en.wikipedia.org/wiki/Coeliac_disease",
+  "note": "Page doesn't say gluten-free diets aren't healthier for people without coeliac disease"
+ },
+ {
+  "claim": "Cognitive reserve from bilingualism may delay dementia symptoms by 4-5 years — one of the most studied benefits of bilingualism.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "More recently, however, this claim has come under strong criticism",
+  "source_url": "https://en.wikipedia.org/wiki/Multilingualism",
+  "note": "Page gives no 4-5 year figure and says the dementia-delay claim has come under strong criticism."
+ },
+ {
+  "claim": "Glochids on prickly pear cacti are tiny barbed spines that detach easily and cause painful irritation.",
+  "verdict": "overstated",
+  "corrected_claim": "Prickly pear cacti carry glochids, small hairlike prickles that readily stick to skin or hair and then detach from the plant; if swallowed they cause discomfort of the throat, lips and tongue.",
+  "quote": "small, hairlike prickles called glochids that readily adhere to skin or hair, then detach from the plant. ... If the outer layer is not properly removed, glochids can be ingested, causing discomfort of the throat, lips, and tongue.",
+  "source_url": "https://en.wikipedia.org/wiki/Opuntia",
+  "note": "Page calls them hairlike prickles; does not say barbed or describe painful skin irritation."
+ },
+ {
+  "claim": "Damascus steel, famous for its legendary sharpness and wavy patterns, may have contained carbon nanotubes formed accidentally during forging, according to research.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2006 German study reported nanowires and carbon nanotubes in a Damascus steel blade, though later studies have not confirmed this and the structures may have been cementite.",
+  "quote": "revealing nanowires and carbon nanotubes in a blade forged from Damascus steel ... The claim that carbon nanowires were found has not been confirmed by further studies",
+  "source_url": "https://en.wikipedia.org/wiki/Damascus_steel",
+  "note": "Omits that the nanotube finding is unconfirmed/disputed"
+ },
+ {
+  "claim": "PostgreSQL, originally called POSTGRES, has been in development since 1986 at UC Berkeley — it's known for standards compliance and extensibility.",
+  "verdict": "overstated",
+  "corrected_claim": "PostgreSQL, originally named POSTGRES, grew out of a post-Ingres project begun at UC Berkeley in 1985, with papers describing it from 1986 — it emphasizes extensibility and SQL compliance.",
+  "quote": "PostgreSQL was originally named POSTGRES ... He returned to Berkeley in 1985, and began a post-Ingres project ... Starting in 1986, published papers described the basis of the system ... emphasizing extensibility and SQL compliance",
+  "source_url": "https://en.wikipedia.org/wiki/PostgreSQL",
+  "note": "Page dates project start to 1985; 1986 is when papers began"
+ },
+ {
+  "claim": "Archaea have cell membranes with ether-linked lipids — fundamentally different from bacterial fatty acid membranes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "One property unique to archaea is the abundant use of ether-linked lipids in their cell membranes. ... whereas bacteria and eukaryotes have membranes composed mainly of glycerol-ester lipids.",
+  "source_url": "https://en.wikipedia.org/wiki/Archaea",
+  "note": ""
+ },
+ {
+  "claim": "Non-celiac gluten sensitivity is a real condition, but affects far fewer people than currently self-diagnose with it.",
+  "verdict": "overstated",
+  "corrected_claim": "Non-coeliac gluten sensitivity is a recognised functional disorder causing intestinal and other symptoms in response to gluten, diagnosed by ruling out coeliac disease and wheat allergy.",
+  "quote": "is a functional disorder that causes intestinal and extraintestinal symptoms in response to gluten ... The diagnosis of NCGS is made by excluding coeliac disease and wheat allergy",
+  "source_url": "https://en.wikipedia.org/wiki/Coeliac_disease",
+  "note": "Self-diagnosis vs actual prevalence not on page"
+ },
+ {
+  "claim": "The 'bilingual advantage' in executive function is now disputed — many studies fail to replicate the original findings.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There is no evidence for a bilingual advantage in executive function ... Current meta-analyses find no effect. ... repeated failures to replicate",
+  "source_url": "https://en.wikipedia.org/wiki/Multilingualism",
+  "note": "Page goes further: no evidence for the advantage."
+ },
+ {
+  "claim": "The jumping cholla cactus doesn't actually jump, but its segments detach so easily that people feel 'attacked' when brushed.",
+  "verdict": "overstated",
+  "corrected_claim": "The jumping cholla gets its name from how easily its stems detach when brushed; the merest touch often leaves a person with bits of cactus hanging on their clothes.",
+  "quote": "which comes from the ease with which the stems detach from the main plant when brushed ... the merest touch will often leave a person with bits of cactus hanging on their clothes",
+  "source_url": "https://en.wikipedia.org/wiki/Cylindropuntia_fulgida",
+  "note": "Page does not say people feel 'attacked'"
+ },
+ {
+  "claim": "High-entropy alloys contain five or more elements in roughly equal proportions, creating unusual properties that can't be achieved with traditional alloys.",
+  "verdict": "overstated",
+  "corrected_claim": "High-entropy alloys mix (usually) five or more elements in equal or relatively large proportions, and some have considerably better strength-to-weight ratios, fracture resistance and corrosion resistance than conventional alloys.",
+  "quote": "High-entropy alloys (HEAs) are alloys that are formed by mixing equal or relatively large proportions of (usually) five or more elements ... some HEAs have considerably better strength-to-weight ratios, with a higher degree of fracture resistance",
+  "source_url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+  "note": "Page says some HEAs outperform conventional alloys, not that properties are unachievable otherwise"
+ },
+ {
+  "claim": "SQLite is the most deployed database engine in the world — it's embedded in every smartphone, browser, and countless applications.",
+  "verdict": "overstated",
+  "corrected_claim": "According to its developers, SQLite is the most widely deployed database engine — it is included by default in Android, iOS and Windows 10 onwards, and used inside browsers and apps like Lightroom and TurboTax.",
+  "quote": "According to its developers, SQLite is the most widely deployed database engine",
+  "source_url": "https://en.wikipedia.org/wiki/SQLite",
+  "note": "Superlative is the developers' claim; 'every smartphone' not stated"
+ },
+ {
+  "claim": "Lokiarchaeota was discovered in 2015 and may represent the transition from archaea to eukaryotes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Promethearchaeaceae was introduced in 2015 after the identification of a candidate genome ... provides evidence on the transition from archaea to eukaryotes.",
+  "source_url": "https://en.wikipedia.org/wiki/Lokiarchaeota",
+  "note": ""
+ },
+ {
+  "claim": "The FODMAP diet, which limits fermentable carbohydrates, helps many IBS sufferers but is often confused with gluten-free diets.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Coeliac_disease",
+  "note": "Page does not discuss the low-FODMAP diet helping IBS or being confused with gluten-free diets"
+ },
+ {
+  "claim": "Bilingual children don't get confused by two languages — they keep them separate from infancy and code-switch appropriately.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Bilingualism_in_children",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "Lithops (living stones) are so well camouflaged that they're often stepped on before being noticed in their native habitat.",
+  "verdict": "overstated",
+  "corrected_claim": "Lithops (living stones) are camouflaged as small stones so effectively that new species continue to be discovered.",
+  "quote": "Because their camouflage is so effective, new species continue to be discovered.",
+  "source_url": "https://en.wikipedia.org/wiki/Lithops",
+  "note": "Page does not say they are often stepped on."
+ },
+ {
+  "claim": "The mantis shrimp's club can withstand repeated high-velocity impacts due to its unique helicoidal structure of chitin fibers, inspiring impact-resistant materials.",
+  "verdict": "overstated",
+  "corrected_claim": "The mantis shrimp's striking appendages are being studied as a microscale analogue for new macroscale material structures.",
+  "quote": "The appendages are being studied as a microscale analogue for new macroscale material structures.",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis_shrimp",
+  "note": "Page does not mention the helicoidal chitin structure or repeated-impact resistance."
+ },
+ {
+  "claim": "ACID (Atomicity, Consistency, Isolation, Durability) properties guarantee reliable database transactions — coined by Andreas Reuter and Theo Härder in 1983.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1983, Andreas Reuter and Theo Härder coined the acronym ACID, building on earlier work by Jim Gray.",
+  "source_url": "https://en.wikipedia.org/wiki/ACID",
+  "note": ""
+ },
+ {
+  "claim": "Asgard archaea have genes for actin and other cytoskeleton proteins — archaeal ancestors of eukaryotes.",
+  "verdict": "overstated",
+  "corrected_claim": "Asgard archaea have a regulated actin cytoskeleton and encode many eukaryotic signature proteins — they are considered the closest prokaryotic relatives of eukaryotes.",
+  "quote": "Asgard archaea have a regulated actin cytoskeleton ... Asgard archaea encode many eukaryotic signature proteins.",
+  "source_url": "https://en.wikipedia.org/wiki/Asgard_(archaea)",
+  "note": "Source calls them closest relatives, not ancestors"
+ },
+ {
+  "claim": "Calorie counts on food labels can legally be off by up to 20% in the US.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "The idea that bilingualism confuses children was used to justify banning minority languages in schools — now known to be false.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Bilingualism_in_children",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "Lithops have 'windows' on top of their leaves that allow light to reach photosynthetic cells inside the plant body.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a partially or completely translucent top surface known as a leaf window, which allows light to enter the interior of the leaves for photosynthesis.",
+  "source_url": "https://en.wikipedia.org/wiki/Lithops",
+  "note": ""
+ },
+ {
+  "claim": "Auxetic materials have a negative Poisson's ratio—they get thicker perpendicular to the applied force when stretched, unlike normal materials which get thinner.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a negative Poisson's ratio, so that axial elongation causes transversal elongation",
+  "source_url": "https://en.wikipedia.org/wiki/Auxetic",
+  "note": ""
+ },
+ {
+  "claim": "Amazon DynamoDB, Google's Bigtable, and Facebook's Cassandra pioneered web-scale databases — sacrificing some ACID guarantees for massive scalability.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Distributed_database",
+  "note": "Page does not mention DynamoDB, Bigtable, Cassandra or ACID trade-offs"
+ },
+ {
+  "claim": "LUCA (Last Universal Common Ancestor) lived 3.5-3.8 billion years ago — the ancestor of all life on Earth.",
+  "verdict": "overstated",
+  "corrected_claim": "LUCA, the hypothesized latest common ancestral population of all life on Earth, is placed by most studies at least 3.5 billion years ago, and a 2024 study estimated around 4.2 billion years ago.",
+  "quote": "by 3.5 billion years ago ... around 4.2 bya (with a confidence interval of 4.33–4.09 bya).",
+  "source_url": "https://en.wikipedia.org/wiki/Last_universal_common_ancestor",
+  "note": "3.5-3.8 Ga is only an older (2000) estimate; recent studies suggest ~4.2 Ga."
+ },
+ {
+  "claim": "A 'serving size' on nutrition labels is often much smaller than what most people actually eat in one sitting.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Machine translation has improved dramatically with neural networks — but still struggles with idioms, context, and ambiguity.",
+  "verdict": "overstated",
+  "corrected_claim": "Neural machine translation has made rapid progress in recent years, but outputs typically still need human post-editing, and ambiguous passages remain a common problem.",
+  "quote": "A deep learning-based approach to MT, neural machine translation has made rapid progress in recent years. ... Common issues include the translation of ambiguous parts",
+  "source_url": "https://en.wikipedia.org/wiki/Machine_translation",
+  "note": "Page does not specifically cite idioms as a neural MT weakness."
+ },
+ {
+  "claim": "Tillandsia (air plants) are the only genus with species adapted to every climate zone from tropical to temperate.",
+  "verdict": "overstated",
+  "corrected_claim": "Tillandsia (air plants) have established themselves in diverse environments, from equatorial tropical rainforests to precipitation-poor areas, across a range stretching from the southeastern United States to central Argentina.",
+  "quote": "Tillandsia have naturally been established in diverse environments such as equatorial tropical rain forests",
+  "source_url": "https://en.wikipedia.org/wiki/Tillandsia",
+  "note": "Page makes no 'only genus in every climate zone' claim; native range is tropical and subtropical America."
+ },
+ {
+  "claim": "Hydrogels can absorb up to 500-1000 times their dry weight in water while maintaining structural integrity, used in contact lenses and drug delivery.",
+  "verdict": "overstated",
+  "corrected_claim": "Hydrogels can absorb and retain large amounts of water (some peptide-based hydrogels hold about one hundred times their own weight), and they are used in soft contact lenses and studied as vehicles for drug delivery.",
+  "quote": "A short-peptide-based hydrogel matrix, capable of holding about one hundred times its own weight in water. ... They have replaced hard contact lenses. ... Hydrogels have been considered as vehicles for drug delivery.",
+  "source_url": "https://en.wikipedia.org/wiki/Hydrogel",
+  "note": "Page gives about 100 times own weight, not 500-1000 times."
+ },
+ {
+  "claim": "The SQL injection attack was first publicly demonstrated in 1998 — it remains in the OWASP Top 10 vulnerabilities over 25 years later.",
+  "verdict": "overstated",
+  "corrected_claim": "Public discussion of SQL injection began in the late 1990s, including a 1998 Phrack Magazine article — and by 2021 injection flaws were still detected in 94% of applications analyzed by OWASP.",
+  "quote": "Discussions of SQL injection began in the late 1990's, including in a 1998 article in Phrack Magazine. ... By 2021, injection remained a widespread issue, detected in 94% of analyzed applications",
+  "source_url": "https://en.wikipedia.org/wiki/SQL_injection",
+  "note": "Page says discussion began then, not 'first demonstrated'; current OWASP status for SQL injection specifically not given"
+ },
+ {
+  "claim": "Horizontal gene transfer may have preceded vertical inheritance in early life — genes flowing freely before species existed.",
+  "verdict": "overstated",
+  "corrected_claim": "Some biologists have postulated that biologically significant lateral gene transfer has existed since the beginning of life on Earth, though the fact that LUCA can be identified suggests such transfers were relatively limited.",
+  "quote": "biologically significant lateral gene transfer has existed since the beginning of life on Earth ... However, a LUCA can be identified, so horizontal transfers must have been relatively limited.",
+  "source_url": "https://en.wikipedia.org/wiki/Horizontal_gene_transfer",
+  "note": "Page does not say HGT preceded vertical inheritance or flowed freely before species; it says early transfers were relatively limited."
+ },
+ {
+  "claim": "'Natural flavors' on ingredient lists can include hundreds of different chemical compounds, not necessarily from the named food.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Google Translate now supports over 130 languages — but quality varies enormously between well-resourced and low-resource languages.",
+  "verdict": "overstated",
+  "corrected_claim": "As of September 2026, Google Translate supports 249 languages and language varieties, but quality varies widely: most languages from Africa, Asia and the Pacific tend to score poorly.",
+  "quote": "As of September 2026, Google Translate supports 249 languages and language varieties at various levels. ... Most languages from Africa, Asia, and the Pacific tend to score poorly",
+  "source_url": "https://en.wikipedia.org/wiki/Google_Translate",
+  "note": "'Over 130' is outdated; page gives 249"
+ },
+ {
+  "claim": "Pineapples take 2-3 years to produce one fruit, and the plant usually dies after fruiting, with pups taking over.",
+  "verdict": "overstated",
+  "corrected_claim": "A pineapple plant grows for 12 to 20 months before its stem forms a flower spike, and suckers around the base can be left to produce additional fruits.",
+  "quote": "After 12 to 20 months, the stem grows into a spike-like inflorescence ... These suckers may be removed for propagation, or left to produce additional fruits on the original plant.",
+  "source_url": "https://en.wikipedia.org/wiki/Pineapple",
+  "note": "Page gives 12-20 months / within a year, not 2-3 years; plant dying after fruiting not stated"
+ },
+ {
+  "claim": "Bioactive glass can bond directly to bone and stimulate bone growth—used in over a million patients for bone repair since the 1980s.",
+  "verdict": "overstated",
+  "corrected_claim": "Bioactive glass was the first material found to form a strong bond with living bone, and it facilitates new bone formation.",
+  "quote": "Bioactive glass was the first material found to create a strong bond with living bone tissue. ... Bioactive glass bonds to bone –facilitating new bone formation.",
+  "source_url": "https://en.wikipedia.org/wiki/Bioactive_glass",
+  "note": "'Over a million patients since the 1980s' not on page"
+ },
+ {
+  "claim": "Kevin Mitnick was once the FBI's most wanted hacker — after prison, he became a security consultant; the 'Free Kevin' movement made him a hacker folk hero.",
+  "verdict": "overstated",
+  "corrected_claim": "After a well-publicized pursuit, the FBI arrested Kevin Mitnick in 1995; after his release in 2000 he became a security consultant, public speaker and author, while his supporters argued his punishment was excessive.",
+  "quote": "After a well-publicized pursuit, the Federal Bureau of Investigation arrested Mitnick on February 15, 1995 ... After his release in 2000, Mitnick became a security consultant, public speaker, and author.",
+  "source_url": "https://en.wikipedia.org/wiki/Kevin_Mitnick",
+  "note": "Page does not call him the FBI's most wanted hacker (only book titles) or describe a 'Free Kevin' folk-hero movement."
+ },
+ {
+  "claim": "Nanoarchaeota are symbiotic archaea only 400 nm in diameter — among the smallest cells known.",
+  "verdict": "overstated",
+  "corrected_claim": "Nanoarchaeota are obligate symbionts that grow attached to an archaeal host, with tiny cells between 100 and 400 nm in diameter.",
+  "quote": "Nanoarchaeotes are obligate symbionts that grow attached to an archaeal host known as Ignicoccus. Cultivated nanoarchaeotes are ectosymbionts with small cell diameters (~100–400 nm) and reduced genomes (0.491–0.606 Mbp).",
+  "source_url": "https://en.wikipedia.org/wiki/Nanoarchaeota",
+  "note": "'Among the smallest cells known' not stated."
+ },
+ {
+  "claim": "Food coloring Yellow #5 and Red #40 are derived from petroleum but are considered safe by the FDA after extensive testing.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Page does not mention Yellow 5, Red 40 or petroleum"
+ },
+ {
+  "claim": "Large language models like GPT can generate fluent text but don't 'understand' language the way humans do — a key debate in AI.",
+  "verdict": "overstated",
+  "corrected_claim": "Whether large language models truly understand language is an open debate: in a 2022 survey NLP researchers were evenly split, with skeptics calling LLMs 'stochastic parrots' that remix existing writing.",
+  "quote": "could (ever) understand natural language in some nontrivial sense. ... simply remixing and recombining existing writing",
+  "source_url": "https://en.wikipedia.org/wiki/Large_language_model",
+  "note": "Page presents understanding as disputed (researchers evenly split), not as settled that LLMs don't understand."
+ },
+ {
+  "claim": "Pineapple is the only commercially important fruit in the bromeliad family.",
+  "verdict": "overstated",
+  "corrected_claim": "The pineapple is the most economically significant plant in the bromeliad family, Bromeliaceae.",
+  "quote": "it is the most economically significant plant in the family Bromeliaceae",
+  "source_url": "https://en.wikipedia.org/wiki/Pineapple",
+  "note": "Page says 'most economically significant', not 'only commercially important'"
+ },
+ {
+  "claim": "Hydroxyapatite, the mineral component of bone and teeth, is synthesized for bone grafts and dental implant coatings because the body accepts it as natural tissue.",
+  "verdict": "overstated",
+  "corrected_claim": "Hydroxyapatite makes up about 70% by weight of human bone and 70-80% of the mass of dentin and enamel, and because of its biocompatibility it is used as a bone filler and as a coating on prostheses.",
+  "quote": "Up to 50% by volume and 70% by weight of human bone is a modified form of hydroxyapatite, known as bone mineral. ... hydroxyapatite is available and used as a bone filler and as coatings on prostheses",
+  "source_url": "https://en.wikipedia.org/wiki/Hydroxyapatite",
+  "note": "Page says bone filler and prosthesis coatings due to biocompatibility; does not say the body accepts it as natural tissue or specify dental implant coatings."
+ },
+ {
+  "claim": "Stuxnet (2010) was the first known cyberweapon to cause physical damage — it destroyed about 1,000 Iranian nuclear centrifuges by making them spin out of control.",
+  "verdict": "overstated",
+  "corrected_claim": "Stuxnet, first uncovered in 2010, may have destroyed up to 1,000 Iranian centrifuges by pushing them from their normal speed of 1,064 Hz to 1,410 Hz and then slowing them, stressing the tubes.",
+  "quote": "Stuxnet is a malicious computer worm first uncovered on 17 June 2010 ... may have destroyed up to 1,000 centrifuges (10 percent) sometime between November 2009 and late January 2010. ... The stresses from the excessive, then slower, speeds caused the aluminium centrifugal tubes to expand",
+  "source_url": "https://en.wikipedia.org/wiki/Stuxnet",
+  "note": "Page doesn't call it the first cyberweapon to cause physical damage; 1,000 is an 'up to' estimate"
+ },
+ {
+  "claim": "Nanoarchaeum equitans attaches to Ignicoccus cells and lacks genes for most metabolic pathways — dependent on its host.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nanoarchaeum appears to be an obligate symbiont on the archaeon Ignicoccus; it must be in contact with the host organism to survive. ... It lacks almost all of the genes required for the synthesis of amino acids, nucleotides, cofactors, and lipids",
+  "source_url": "https://en.wikipedia.org/wiki/Nanoarchaeum_equitans",
+  "note": ""
+ },
+ {
+  "claim": "Carrageenan, derived from seaweed, is used as a thickener in many foods but has been controversial due to inflammation concerns.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Molecular_gastronomy",
+  "note": "Carrageenan not mentioned on the page."
+ },
+ {
+  "claim": "The Turing test for AI was originally a language test — whether a machine could fool humans in conversation.",
+  "verdict": "overstated",
+  "corrected_claim": "In the modern version of the Turing test, an evaluator judges a text transcript of a natural-language conversation between a human and a machine, and the machine passes if the evaluator cannot reliably tell them apart.",
+  "quote": "In the modern version, a human evaluator judges a text transcript of a natural-language conversation between a human and a machine. The evaluator tries to identify the machine, and the machine passes if the evaluator cannot reliably tell them apart.",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_test",
+  "note": "Page describes the conversation format as the 'modern version', not the original"
+ },
+ {
+  "claim": "Pineapples contain bromelain, an enzyme that digests protein—this is why fresh pineapple makes your mouth tingle.",
+  "verdict": "overstated",
+  "corrected_claim": "Bromelain, a mixture of protein-digesting enzymes, is present in all parts of the pineapple plant.",
+  "quote": "Bromelain is present in all parts of the pineapple plant (Ananas sp.) ... Bromelain extract is a mixture of protein-digesting (proteolytic) enzymes",
+  "source_url": "https://en.wikipedia.org/wiki/Bromelain",
+  "note": "Mouth-tingling explanation not on page"
+ },
+ {
+  "claim": "Polylactic acid (PLA) is a biodegradable plastic made from corn starch or sugarcane, decomposing in industrial composters within 90 days.",
+  "verdict": "overstated",
+  "corrected_claim": "PLA is made from fermented plant starch such as corn or sugarcane and is biodegradable under industrial composting, where about half of it can decompose in 60 days — but in home compost or soil full breakdown can take close to three decades.",
+  "quote": "The monomer is typically made from fermented plant starch such as from corn, cassava, sugarcane or sugar beet pulp. ... PLA can partly (about half) decompose into water and carbon dioxide in 60 days",
+  "source_url": "https://en.wikipedia.org/wiki/Polylactic_acid",
+  "note": "Page gives partial decomposition in 60 days, not full decomposition in 90"
+ },
+ {
+  "claim": "The WannaCry ransomware (2017) affected 200,000 computers in 150 countries — it was stopped when a researcher registered a domain that acted as a kill switch.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "which estimates that around 200,000 computers were infected across 150 countries. ... Registering a domain name for a DNS sinkhole stopped the attack spreading as a worm.",
+  "source_url": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack",
+  "note": "Page's main estimate is more than 300,000 computers"
+ },
+ {
+  "claim": "Thaumarchaea are the most abundant archaea in the ocean — dominating ammonia oxidation.",
+  "verdict": "overstated",
+  "corrected_claim": "Thaumarchaeota (now Nitrososphaeria) make up about 1% of the sea-surface metagenome and are important ammonia oxidizers, overall more dominant than ammonia-oxidizing bacteria.",
+  "quote": "Metagenomic sequencing indicates that they constitute ~1% of the sea surface metagenome across many sites. ... Nitrososphaeria are important ammonia oxidizers in aquatic and terrestrial environments",
+  "source_url": "https://en.wikipedia.org/wiki/Thaumarchaeota",
+  "note": "'Most abundant archaea in the ocean' not stated."
+ },
+ {
+  "claim": "Xanthan gum, a common food additive, is produced by fermenting sugar with the bacterium Xanthomonas campestris.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page does not mention xanthan gum"
+ },
+ {
+  "claim": "Computational linguistics combines computer science and linguistics — powering everything from spell-check to virtual assistants.",
+  "verdict": "overstated",
+  "corrected_claim": "Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, drawing on linguistics, computer science, AI and mathematics.",
+  "quote": "Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, ... In general, computational linguistics draws upon linguistics, computer science, artificial intelligence, mathematics,",
+  "source_url": "https://en.wikipedia.org/wiki/Computational_linguistics",
+  "note": "Spell-check and virtual assistants not mentioned"
+ },
+ {
+  "claim": "Papaya also contains protein-digesting enzymes (papain), traditionally used as meat tenderizer.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Papain breaks down tough meat fibres, and was used before European contact to tenderise meat",
+  "source_url": "https://en.wikipedia.org/wiki/Papain",
+  "note": ""
+ },
+ {
+  "claim": "Bacterial cellulose produced by Gluconacetobacter xylinus is purer than plant cellulose and is used for wound dressings and artificial blood vessels.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In general, microbial cellulose is more chemically pure, containing no hemicellulose or lignin ... It has been tested and successfully used as a wound dressing, especially in burn cases. ... A recent application of microbial cellulose has been as synthetic blood vessels and stents.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacterial_cellulose",
+  "note": ""
+ },
+ {
+  "claim": "The SolarWinds hack (2020) compromised 18,000 organizations including US government agencies — attackers inserted malware into legitimate software updates.",
+  "verdict": "overstated",
+  "corrected_claim": "In the SolarWinds hack (2020), attackers planted malware in Orion software updates; around 18,000 government and private users downloaded compromised versions, and multiple US federal departments were breached.",
+  "quote": "Of these, around 18,000 government and private users downloaded compromised versions.",
+  "source_url": "https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach",
+  "note": "18,000 downloaded compromised versions; not all were compromised"
+ },
+ {
+  "claim": "Candidatus Prometheoarchaeum took 12 years to culture — the closest archaeal relative to eukaryotes.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Candidatus_Prometheoarchaeum",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "High-fructose corn syrup is not significantly different from table sugar metabolically—both are roughly 50% fructose and 50% glucose.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Corpus linguistics studies language through massive databases of real text — revealing patterns invisible to intuition alone.",
+  "verdict": "overstated",
+  "corrected_claim": "Corpus linguistics studies language through large, usually machine-readable collections of real text, letting linguists run quantitative analyses on concepts that are hard to test qualitatively.",
+  "quote": "Corpus linguistics is an empirical method for the study of language by text corpus (plural corpora). Today, corpora are generally machine-readable data collections.",
+  "source_url": "https://en.wikipedia.org/wiki/Corpus_linguistics",
+  "note": "Page says nothing about patterns invisible to intuition; 'massive databases' is embellished"
+ },
+ {
+  "claim": "Kiwifruit contains actinidin, another protein-digesting enzyme that can prevent gelatin from setting.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Actinidain is a type of cysteine protease enzyme found in fruits, including kiwifruit.",
+  "source_url": "https://en.wikipedia.org/wiki/Actinidin",
+  "note": "Discovered when jellies made with kiwifruit did not solidify"
+ },
+ {
+  "claim": "Silk fibroin from silkworms is FDA-approved for use in medical devices and can be processed into films, scaffolds, and microspheres for tissue engineering.",
+  "verdict": "overstated",
+  "corrected_claim": "Silk fibroin solutions can be made into films, sponges, hydrogels, scaffolds, membranes and even silk fibre paper, with uses in biomedicine and textiles.",
+  "quote": "These materials include films, sponges, hydrogels, scaffolds, membranes, and silk fiber paper.",
+  "source_url": "https://en.wikipedia.org/wiki/Fibroin",
+  "note": "FDA approval, microspheres and tissue engineering not on page"
+ },
+ {
+  "claim": "Log4Shell (2021) was called 'the single biggest, most critical vulnerability of the last decade' — a logging library flaw affected millions of applications.",
+  "verdict": "overstated",
+  "corrected_claim": "Log4Shell (2021), a flaw in the Log4j logging library, was called 'by far the single biggest, most critical vulnerability ever' and potentially affected hundreds of millions of devices.",
+  "quote": "[Log4Shell] is by far the single biggest, most critical vulnerability ever. ... is estimated to have had the potential to affect hundreds of millions of devices.",
+  "source_url": "https://en.wikipedia.org/wiki/Log4Shell",
+  "note": "Quote is 'ever', not 'of the last decade'; page says hundreds of millions of devices, not applications."
+ },
+ {
+  "claim": "Sulfolobus species have internal cytoplasm compartments — approaching eukaryotic complexity.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Sulfolobus",
+  "note": "Page does not mention internal cytoplasmic compartments in Sulfolobus"
+ },
+ {
+  "claim": "Agave nectar, marketed as healthy, actually has more fructose than high-fructose corn syrup.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": "Superfood page does not mention agave nectar"
+ },
+ {
+  "claim": "Zipf's law states that the most common word in a language appears twice as often as the second — this pattern holds across languages.",
+  "verdict": "overstated",
+  "corrected_claim": "Under Zipf's law the most common word occurs about twice as often as the next most common; the law holds for most natural languages, and even Esperanto, though the reason is still not well understood.",
+  "quote": "It is usually found that the most common word occurs approximately twice as often as the next common one ... Although Zipf's law holds for most natural languages, and even certain artificial ones such as Esperanto and Toki Pona, the reason is still not well understood.",
+  "source_url": "https://en.wikipedia.org/wiki/Zipf%27s_law",
+  "note": "Holds for most languages approximately, with notable deviations."
+ },
+ {
+  "claim": "The corpse flower Rafflesia has no chlorophyll—it steals all nutrients from its host vine through specialized structures.",
+  "verdict": "overstated",
+  "corrected_claim": "Rafflesia, also called the corpse flower, has no stems, leaves or roots — it is a holoparasite of Tetrastigma vines, spreading its absorptive haustorium inside the vine's tissue.",
+  "quote": "The plant has no stems, leaves or roots. ... It is a holoparasite of vines in the genus Tetrastigma ... spreading its absorptive organ, the haustorium, inside the tissue of the vine.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "Chlorophyll and 'all nutrients' not explicitly stated"
+ },
+ {
+  "claim": "Chitosan derived from shrimp shells has antimicrobial properties and is used in wound dressings, water purification, and biodegradable food packaging.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is made by treating the chitin shells of shrimp and other crustaceans with an alkaline substance ... Chitosan also has an intrinsic antimicrobial activity ... Chitosan is used within some wound dressings to decrease bleeding. ... Among biodegradable options, chitosan films and chitosan composite films come closest to fulfilling all of these goals.",
+  "source_url": "https://en.wikipedia.org/wiki/Chitosan",
+  "note": "Water filtration also mentioned"
+ },
+ {
+  "claim": "The Equifax breach (2017) exposed personal data of 147 million people — caused by failing to patch a known Apache Struts vulnerability for months.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Private records of 147.9 million Americans ... The Equifax data breach began on May 12, 2017, when Equifax had not yet updated its credit dispute website ... A key security patch for Apache Struts... was released on March 7, 2017",
+  "source_url": "https://en.wikipedia.org/wiki/2017_Equifax_data_breach",
+  "note": "Patch released March 7, breach May 12"
+ },
+ {
+  "claim": "Staphylococcus epidermidis protects skin by producing antimicrobials against pathogens.",
+  "verdict": "overstated",
+  "corrected_claim": "Staphylococcus epidermidis helps protect the skin from colonization by pathogens and directly interferes with harmful pathogens.",
+  "quote": "protecting the skin microbiota from colonization of skin pathogens ... The skin commensal will directly interfere with harmful pathogens.",
+  "source_url": "https://en.wikipedia.org/wiki/Staphylococcus_epidermidis",
+  "note": "Page does not explicitly say it produces antimicrobials in general"
+ },
+ {
+  "claim": "Coconut oil is higher in saturated fat than butter—health claims about it are largely unsupported by scientific evidence.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": "Superfood page does not mention coconut oil"
+ },
+ {
+  "claim": "The word 'the' makes up about 7% of all English text — more than any other word.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Most_common_words_in_English",
+  "note": "Page gives no percentage for 'the'; only ranks it first."
+ },
+ {
+  "claim": "Hydnora africana grows completely underground except for its flower, which smells of feces to attract dung beetles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The plant grows underground, except for a fleshy flower that emerges above ground and emits an odour of faeces ... The rotting odour serves to attract dung beetles and other insects",
+  "source_url": "https://en.wikipedia.org/wiki/Hydnora_africana",
+  "note": ""
+ },
+ {
+  "claim": "Carbon fiber reinforced polymers (CFRP) have strength-to-weight ratios 10 times better than steel, revolutionizing aerospace and automotive industries.",
+  "verdict": "overstated",
+  "corrected_claim": "Carbon fiber reinforced polymers can reach about 3 GPa tensile strength, more than 10 times that of mild steel, and their high strength-to-weight ratio makes them a staple of aerospace and high-end car racing.",
+  "quote": "typically very strong (e.g., 3 GPa ultimate tensile strength, more than 10 times mild steel). ... CFRPs are extensively used in high-end automobile racing.",
+  "source_url": "https://en.wikipedia.org/wiki/Carbon_fiber_reinforced_polymer",
+  "note": "10x figure is tensile strength vs mild steel, not strength-to-weight; 'revolutionizing' not stated"
+ },
+ {
+  "claim": "Two-factor authentication reduces account compromise by 99% — yet adoption remains low because users find it inconvenient.",
+  "verdict": "overstated",
+  "corrected_claim": "Accounts with multi-factor authentication enabled are significantly less likely to be compromised, though drawbacks such as tracking hardware tokens have kept many approaches from becoming widespread.",
+  "quote": "Accounts with MFA enabled are significantly less likely to be compromised. ... There are drawbacks to multi-factor authentication that are keeping many approaches from becoming widespread.",
+  "source_url": "https://en.wikipedia.org/wiki/Multi-factor_authentication",
+  "note": "No 99% figure on page."
+ },
+ {
+  "claim": "Propionibacterium acnes (now Cutibacterium) lives in skin pores and is associated with acne.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "it was later named Propionibacterium acnes for its ability to generate propionic acid. ... predominantly live deep within follicles and pores ... Acne vulgaris is the disease most commonly associated with C. acnes infection.",
+  "source_url": "https://en.wikipedia.org/wiki/Cutibacterium_acnes",
+  "note": ""
+ },
+ {
+  "claim": "Saturated fat's role in heart disease is more complex than once thought—newer research suggests dietary context matters more than single nutrients.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "About 100 words make up 50% of all English text — and most are function words like 'the', 'of', 'and', 'to'.",
+  "verdict": "overstated",
+  "corrected_claim": "The top 100 lemmas account for half of all the words in the Oxford English Corpus.",
+  "quote": "These top 100 lemmas listed below account for 50% of all the words in the Oxford English Corpus.",
+  "source_url": "https://en.wikipedia.org/wiki/Most_common_words_in_English",
+  "note": "Page does not call them function words."
+ },
+ {
+  "claim": "Balanophora are parasitic plants that look like mushrooms, with flowers so tiny they need magnification to see properly.",
+  "verdict": "overstated",
+  "corrected_claim": "Balanophora are parasitic flowering plants, known in Taiwan and China as 'snake-fungus' — their tiny flowers produce some of the smallest seeds known, weighing as little as 7 micrograms.",
+  "quote": "The tiny flowers produce some of the smallest seeds known, weighing as little as 7 micrograms each.",
+  "source_url": "https://en.wikipedia.org/wiki/Balanophora",
+  "note": "Page does not say they look like mushrooms or that flowers need magnification"
+ },
+ {
+  "claim": "Fiberglass (glass-reinforced plastic) was first patented in 1936 and is now one of the most widely used composite materials, found in boats, cars, and bathtubs.",
+  "verdict": "overstated",
+  "corrected_claim": "Owens Corning produced its patented 'Fiberglas' in 1936, the same year a suitable resin for making glass-fibre composites was developed; today the material is used in aircraft, boats, automobiles and bathtubs.",
+  "quote": "adapted by Owens Corning to produce its patented \"Fiberglas\" (spelled with one \"s\") in 1936 ... Applications include aircraft, boats, automobiles, bath tubs and enclosures",
+  "source_url": "https://en.wikipedia.org/wiki/Fiberglass",
+  "note": "Earliest glass-fibre patent was 1880; 1936 was Owens Corning's Fiberglas, not the first GRP patent; 'most widely used' not stated"
+ },
+ {
+  "claim": "Bcrypt, designed in 1999, intentionally makes password hashing slow — this makes brute-force attacks impractical even with modern hardware.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is based on the Blowfish cipher and presented at USENIX in 1999. ... bcrypt is an adaptive function: over time, the iteration count can be increased to make it slower, so it remains resistant to brute-force search attacks even with increasing computation power.",
+  "source_url": "https://en.wikipedia.org/wiki/Bcrypt",
+  "note": ""
+ },
+ {
+  "claim": "Corynebacterium produces the armpit smell — your body odor is bacterial metabolism.",
+  "verdict": "overstated",
+  "corrected_claim": "Some Corynebacterium species are linked to armpit problems: C. striatum may cause axillary odor, and several species can cause trichomycosis axillaris.",
+  "quote": "Several species of Corynebacterium can cause trichomycosis axillaris. C. striatum may cause axillary odor.",
+  "source_url": "https://en.wikipedia.org/wiki/Corynebacterium",
+  "note": "Page only says C. striatum may cause axillary odor, not that Corynebacterium produces all armpit smell"
+ },
+ {
+  "claim": "Cholesterol in eggs doesn't significantly raise blood cholesterol for most people—the body adjusts its own production in response.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "The average educated adult knows about 20,000-35,000 words — but uses only a few thousand in daily speech.",
+  "verdict": "overstated",
+  "corrected_claim": "Estimates of vocabulary size for young adult native English speakers range from about 17,000 to 42,000 dictionary words, depending partly on education.",
+  "quote": "Estimates for young adult English native speakers range ... 17,000 to 42,000 dictionary words",
+  "source_url": "https://en.wikipedia.org/wiki/Vocabulary",
+  "note": "Page gives 17,000-42,000 range (avg 42,000 lemmas at age 20); no figure for words used in daily speech"
+ },
+ {
+  "claim": "Mistletoe seeds are so sticky that birds wipe their beaks on branches to remove them—planting new mistletoe.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The seeds are coated with a sticky material called viscin. ... The seed sticks to the beak and the bird wipes it off onto the branch",
+  "source_url": "https://en.wikipedia.org/wiki/Mistletoe",
+  "note": ""
+ },
+ {
+  "claim": "Reinforced concrete combines concrete's compressive strength with steel's tensile strength, enabling structures like skyscrapers that neither material could achieve alone.",
+  "verdict": "overstated",
+  "corrected_claim": "In reinforced concrete, the concrete resists compression while steel reinforcement handles tension — one of the first skyscrapers built this way was the 16-story Ingalls Building of 1904.",
+  "quote": "A composite section where the concrete resists compression and reinforcement ... One of the first skyscrapers made with reinforced concrete was the 16-story Ingalls Building",
+  "source_url": "https://en.wikipedia.org/wiki/Reinforced_concrete",
+  "note": "'Neither material could achieve alone' not stated as such"
+ },
+ {
+  "claim": "Quicksort's worst case is O(n²), but its average case O(n log n) with excellent cache performance makes it the default sorting algorithm in many libraries.",
+  "verdict": "overstated",
+  "corrected_claim": "Quicksort's worst case is O(n²), but rarely; its fast O(n log n) average runtime drove its practical dominance, and it became Unix's default library sort subroutine.",
+  "quote": "This fast average runtime is another reason for quicksort's practical dominance over other sorting algorithms. ... Quicksort gained widespread adoption, appearing, for example, in Unix as the default library sort subroutine.",
+  "source_url": "https://en.wikipedia.org/wiki/Quicksort",
+  "note": "'Excellent cache performance' as a reason for library adoption not stated"
+ },
+ {
+  "claim": "Demodex mites live in human hair follicles and feed on skin cells — you have them in your eyelashes.",
+  "verdict": "overstated",
+  "corrected_claim": "Demodex mites live in human hair follicles and sebaceous glands, eating skin cells and oils, and are so often found on the face that they are called eyelash mites.",
+  "quote": "While D. folliculorum is found in hair follicles, D. brevis lives in sebaceous glands connected to hair follicles. ... the mite has pin-like mouthparts for eating skin cells and oils that accumulate in the hair follicles.",
+  "source_url": "https://en.wikipedia.org/wiki/Demodex",
+  "note": "Page does not state everyone has them in their eyelashes"
+ },
+ {
+  "claim": "The glycemic index of white bread is higher than table sugar because bread starches are rapidly broken down to glucose.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Shakespeare used about 31,000 different words in his works — twice the vocabulary of a typical educated adult today.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Shakespeare%27s_influence",
+  "note": "Page failed to load (fetch error / not found)"
+ },
+ {
+  "claim": "Some species of mistletoe can photosynthesize but still parasitize host trees for water and minerals.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "All mistletoe species are hemiparasites because they do perform some photosynthesis for some period of their life cycle. ... through which they extract water and nutrients from the host plant",
+  "source_url": "https://en.wikipedia.org/wiki/Mistletoe",
+  "note": "Source says all species are hemiparasites."
+ },
+ {
+  "claim": "MAX phases are layered ceramics that combine ceramic and metallic properties—heat resistant like ceramics but machinable and thermally conductive like metals.",
+  "verdict": "overstated",
+  "corrected_claim": "MAX phases are layered materials with both metallic and ceramic characteristics: stiff and lightweight like ceramics, yet machinable as easily as some metals and electrically and thermally conductive.",
+  "quote": "exhibiting both metallic and ceramic characteristics under various conditions. ... While MAX phases are stiff, they can be machined as easily as some metals. ... The MAX phases are electrically and thermally conductive due to the metallic-like nature of their bonding.",
+  "source_url": "https://en.wikipedia.org/wiki/MAX_phases",
+  "note": "Page says 'plastic at high temperatures', not explicitly heat resistant like ceramics."
+ },
+ {
+  "claim": "The traveling salesman problem (TSP) is NP-hard — finding the optimal route visiting all cities exactly once has exponential complexity.",
+  "verdict": "overstated",
+  "corrected_claim": "The traveling salesman problem — finding the shortest route that visits each city exactly once and returns home — is NP-hard; brute force becomes impractical even for only 20 cities.",
+  "quote": "It is an NP-hard problem in combinatorial optimization ... so this solution becomes impractical even for only 20 cities.",
+  "source_url": "https://en.wikipedia.org/wiki/Travelling_salesman_problem",
+  "note": "Page says worst-case time grows superpolynomially (no more than exponentially), not proven exponential."
+ },
+ {
+  "claim": "Brevibacterium linens gives Limburger cheese its distinctive foot-like smell — same bacteria on feet.",
+  "verdict": "overstated",
+  "corrected_claim": "Brevibacterium linens, a bacterium used to ferment cheeses like Limburger, is also present everywhere on human skin, where it causes foot odor through sulfur-containing compounds.",
+  "quote": "Brevibacterium linens is ubiquitously present on the human skin, where it causes foot odor. The familiar odor is due to sulfur-containing compounds known as S-methyl thioesters.",
+  "source_url": "https://en.wikipedia.org/wiki/Brevibacterium_linens",
+  "note": "Page lists Limburger as fermented with B. linens but does not describe its smell"
+ },
+ {
+  "claim": "Eating fat doesn't directly make you fat—excess calories from any source are stored as body fat.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "The Oxford English Dictionary contains over 600,000 word entries — but many are obsolete or highly specialized.",
+  "verdict": "overstated",
+  "corrected_claim": "The Oxford English Dictionary contains over 500,000 entries — and as a historical dictionary it records each word's earliest senses, whether current or obsolete.",
+  "quote": "OED currently contains over 500,000 entries.",
+  "source_url": "https://en.wikipedia.org/wiki/Oxford_English_Dictionary",
+  "note": "Page says over 500,000 (520,779 as of Jan 2026), not 600,000"
+ },
+ {
+  "claim": "Sandalwood is a hemiparasite—it has green leaves but parasitizes roots of surrounding trees for nutrients.",
+  "verdict": "overstated",
+  "corrected_claim": "Indian sandalwood is an evergreen tree that parasitises the roots of other tree species through haustoria on its own roots — without major harm to its hosts, of which there can be up to 300 species.",
+  "quote": "The plant parasitises the roots of other tree species, with a haustorium adaptation on its own roots, but without major detriment to its hosts.",
+  "source_url": "https://en.wikipedia.org/wiki/Santalum_album",
+  "note": "Term 'hemiparasite' and green-leaf photosynthesis not on page"
+ },
+ {
+  "claim": "Magnetocaloric materials heat up when magnetized and cool when demagnetized—they could enable refrigerators without compressors or harmful refrigerants.",
+  "verdict": "overstated",
+  "corrected_claim": "Certain magnetocaloric materials warm up when a magnetic field is applied and cool below their original temperature when it is removed, an effect that can be used for refrigeration.",
+  "quote": "certain materials warm up when a magnetic field is applied ... Removing the magnetism, the material then cools to below its original temperature. ... This can be used to achieve refrigeration",
+  "source_url": "https://en.wikipedia.org/wiki/Magnetic_refrigeration",
+  "note": "Page does not mention harmful refrigerants and says it likely won't replace vapor compression without better materials."
+ },
+ {
+  "claim": "Bloom filters can tell you if an element is 'probably in the set' or 'definitely not' — they trade false positives for extreme space efficiency.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "False positive matches are possible, but false negatives are not – in other words, a query returns either \"possibly in set\" or \"definitely not in set\". ... Bloom filters have a substantial space advantage over other data structures for representing sets.",
+  "source_url": "https://en.wikipedia.org/wiki/Bloom_filter",
+  "note": ""
+ },
+ {
+  "claim": "Foot bacteria attract mosquitoes — the more diverse your foot microbiome, the more bites you get.",
+  "verdict": "overstated",
+  "corrected_claim": "Mosquitoes prefer to feed on people with type O blood, an abundance of skin bacteria and high body heat, as skin bacteria metabolize sweat and sebum.",
+  "quote": "Mosquitoes prefer to feed on people with type O blood, an abundance of skin bacteria, and high body heat ... skin-associated bacteria metabolize components of sweat and sebum, contributing to individual variation",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": "No mention of feet or microbiome diversity."
+ },
+ {
+  "claim": "Your body can only absorb about 25-35 grams of protein per meal—excess is oxidized for energy or converted to other compounds.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "English adds about 1,000 new words to dictionaries each year — from technology, culture, and borrowings from other languages.",
+  "verdict": "overstated",
+  "corrected_claim": "Neologisms are often driven by changes in culture and technology, and many new terms enter languages through translation.",
+  "quote": "Neologisms are often driven by changes in culture and technology.",
+  "source_url": "https://en.wikipedia.org/wiki/Neologism",
+  "note": "No figure of 1,000 new dictionary words per year on page."
+ },
+ {
+  "claim": "Indian paintbrush (Castilleja) is partially parasitic on grass roots, stealing some nutrients while still photosynthesizing.",
+  "verdict": "overstated",
+  "corrected_claim": "Indian paintbrush (Castilleja) is hemiparasitic on the roots of grasses and forbs, and can even take up alkaloids from the plants it parasitizes.",
+  "quote": "They are hemiparasitic on the roots of grasses and forbs. ... In addition Castilleja species will take up alkaloids from other plants when parasitizing them.",
+  "source_url": "https://en.wikipedia.org/wiki/Castilleja",
+  "note": "Page says grasses and forbs; photosynthesis not mentioned"
+ },
+ {
+  "claim": "Thermoelectric materials can convert heat directly into electricity (Seebeck effect) or use electricity for cooling (Peltier effect) with no moving parts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the Seebeck effect (creating a voltage from temperature difference) ... the Peltier effect (driving heat flow with an electric current) ... Thermoelectric generators have the advantage of no moving parts",
+  "source_url": "https://en.wikipedia.org/wiki/Thermoelectric_materials",
+  "note": ""
+ },
+ {
+  "claim": "Consistent hashing, invented in 1997, distributes data across servers so that adding/removing servers minimizes data movement — crucial for distributed systems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The term \"consistent hashing\" was introduced by David Karger et al. at MIT ... the vast majority of the BLOBs maintain their prior server assignments ... Consistent hashing is also the cornerstone of distributed hash tables",
+  "source_url": "https://en.wikipedia.org/wiki/Consistent_hashing",
+  "note": ""
+ },
+ {
+  "claim": "Bacteria under your arms can hydrolyze testosterone into smelly steroids — different bacteria, different smells.",
+  "verdict": "overstated",
+  "corrected_claim": "Different armpit bacteria make different smells: Corynebacterium jeikeium, more common in men, gives a rancid, cheese-like smell, while Staphylococcus haemolyticus in women gives a fruity, onion-like one.",
+  "quote": "This causes male armpits to give off a rancid/cheese-like smell ... female armpits give off a more fruity/onion-like smell.",
+  "source_url": "https://en.wikipedia.org/wiki/Body_odor",
+  "note": "Testosterone hydrolysis by underarm bacteria not on page"
+ },
+ {
+  "claim": "Combining rice and beans provides complete protein with all essential amino acids, which is why this combination appears in many traditional cuisines.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "The term 'skunked term' describes words whose meaning is disputed (like 'hopefully') — using them risks criticism from all sides.",
+  "verdict": "overstated",
+  "corrected_claim": "A 'skunked term', coined by Bryan A. Garner, is a word like 'hopefully' whose shifting meaning or controversy makes it hard to use — Garner recommends avoiding such terms if they may distract readers.",
+  "quote": "The term was coined by the lexicographer Bryan A. Garner in Garner's Modern American Usage ... Garner recommends avoiding such terms if their use may distract readers from the intended meaning of a text.",
+  "source_url": "https://en.wikipedia.org/wiki/Skunked_term",
+  "note": "Page frames risk as distracting readers, not 'criticism from all sides'"
+ },
+ {
+  "claim": "Broomrape (Orobanche) is a complete parasite that devastates crops—it has no chlorophyll and steals everything from hosts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As they have no chlorophyll, the broomrapes are totally dependent on other plants for nutrients. ... In heavily infested areas, branched broomrape can cause total crop failure.",
+  "source_url": "https://en.wikipedia.org/wiki/Orobanche",
+  "note": ""
+ },
+ {
+  "claim": "Bismuth telluride is the most commonly used thermoelectric material, found in portable coolers and car seat heaters/coolers.",
+  "verdict": "overstated",
+  "corrected_claim": "Bismuth telluride, when alloyed with antimony or selenium, is an efficient thermoelectric material used for refrigeration or portable power generation.",
+  "quote": "It is a semiconductor, which, when alloyed with antimony or selenium, is an efficient thermoelectric material for refrigeration or portable power generation.",
+  "source_url": "https://en.wikipedia.org/wiki/Bismuth_telluride",
+  "note": "Page does not say 'most commonly used' or mention coolers/car seats"
+ },
+ {
+  "claim": "Big O notation was introduced by Paul Bachmann in 1894 — over a century before its widespread use in analyzing algorithms.",
+  "verdict": "overstated",
+  "corrected_claim": "The big O symbol was introduced by number theorist Paul Bachmann in 1894 — Donald Knuth popularized it in computer science in the 1970s.",
+  "quote": "The symbol O was first introduced by the number theorist Paul Bachmann in 1894 ... In the 1970s, big O was popularized in computer science by Donald Knuth",
+  "source_url": "https://en.wikipedia.org/wiki/Big_O_notation",
+  "note": "Popularized in CS in the 1970s, under a century later"
+ },
+ {
+  "claim": "Oral bacteria form plaque biofilms within hours of brushing — teeth are never truly 'clean'.",
+  "verdict": "overstated",
+  "corrected_claim": "Dental biofilm begins to form on a tooth only minutes after brushing: a salivary pellicle coats the clean surface and within hours bacteria bind to it.",
+  "quote": "Dental biofilm begins to form on the tooth only minutes after brushing.",
+  "source_url": "https://en.wikipedia.org/wiki/Dental_plaque",
+  "note": "'Teeth are never truly clean' is an embellishment; page says formation begins within minutes"
+ },
+ {
+  "claim": "Eating protein before carbohydrates may reduce post-meal blood sugar spikes by slowing digestion.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Descriptive linguists study how people actually use language; prescriptive grammarians tell people how they should use it.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "which studies what a language is like, as opposed to prescriptive, which declares what a language should be like.",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_description",
+  "note": ""
+ },
+ {
+  "claim": "Striga (witchweed) is among the world's most damaging parasitic plants, attacking cereal crops and affecting millions of farmers.",
+  "verdict": "overstated",
+  "corrected_claim": "Witchweed (Striga) is one of the most destructive pathogens in Africa, attacking cereal crops and affecting 40% of Africa's arable savanna, with up to $13 billion lost every year.",
+  "quote": "witchweed is one of the most destructive pathogens in Africa. ... Some species are serious pathogens of cereal crops, with the greatest effects being in savanna agriculture in Africa. ... Witchweed affects 40% of Africa's arable savanna region, resulting in up to $13 billion lost every year.",
+  "source_url": "https://en.wikipedia.org/wiki/Striga",
+  "note": "Page says most destructive in Africa, not world; no 'millions of farmers' figure"
+ },
+ {
+  "claim": "Photocatalytic titanium dioxide can break down pollutants and kill bacteria when exposed to UV light, used in self-cleaning windows and air purifiers.",
+  "verdict": "overstated",
+  "corrected_claim": "Under UV light, nanosized titanium dioxide acts as a photocatalyst that can break down pollutants in air and wastewater, a property behind self-cleaning glass and antimicrobial coatings.",
+  "quote": "the development of self-cleaning glass ... the photocatalytic destruction of organic matter could also be exploited in coatings with antimicrobial applications.",
+  "source_url": "https://en.wikipedia.org/wiki/Titanium_dioxide",
+  "note": "Page does not mention air purifiers or explicitly killing bacteria."
+ },
+ {
+  "claim": "Greedy algorithms make locally optimal choices at each step — they're simple but don't always find the global optimum.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "at each step, makes the choice that is locally optimal ... in some cases the greedy algorithm does not yield an optimal solution",
+  "source_url": "https://en.wikipedia.org/wiki/Greedy_algorithm",
+  "note": ""
+ },
+ {
+  "claim": "Porphyromonas gingivalis linked to gum disease has been found in Alzheimer's brain plaques.",
+  "verdict": "overstated",
+  "corrected_claim": "Gingipains from the gum-disease bacterium Porphyromonas gingivalis have been found in the hippocampus and cerebral cortex of Alzheimer's patients, and associated with tau load.",
+  "quote": "Both RgpB and Kgp were discovered from hippocampus and cerebral cortex of AD patients ... P. gingivalis 16S rRNA was also discovered in the cerebral cortex and csf of AD brains.",
+  "source_url": "https://en.wikipedia.org/wiki/Porphyromonas_gingivalis",
+  "note": "Page says found in brain tissue/CSF, not specifically plaques; link described as association"
+ },
+ {
+  "claim": "The 100 folds in a chef's toque (tall white hat) are said to represent 100 ways to cook an egg.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The 100 folds in a chef's toque are said to represent 100 ways to cook an egg.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Double negatives are standard in many languages (Spanish, French, Russian) — the English rule against them is a recent invention.",
+  "verdict": "overstated",
+  "corrected_claim": "Spanish, French and Russian are negative-concord languages where double negatives are normal; in English, grammarians codified a rule against them in the 1700s, though there is no evidence prescriptivism caused the shift.",
+  "quote": "\"Prescriptive grammarians\" recorded and codified a shift away from the double negative in the 1700s. ... no evidence exists that the loss was driven by prescriptivism",
+  "source_url": "https://en.wikipedia.org/wiki/Double_negative",
+  "note": "English rule dates to the 1700s, and page cautions the shift was not driven by prescriptivism"
+ },
+ {
+  "claim": "Striga seeds can remain dormant in soil for 20+ years, germinating only when they detect chemicals from host roots.",
+  "verdict": "overstated",
+  "corrected_claim": "Striga seeds may remain viable in the soil for over 10 years, germinating when host roots release strigolactones.",
+  "quote": "which may remain viable in the soil for over 10 years. ... Host root exudate contain strigolactones, signaling molecules that promote Striga seed germination.",
+  "source_url": "https://en.wikipedia.org/wiki/Striga",
+  "note": "Page says over 10 years, not 20+"
+ },
+ {
+  "claim": "Superhydrophobic surfaces inspired by lotus leaves repel water so effectively that droplets roll off carrying dirt particles—enabling self-cleaning materials.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Dirt particles are picked up by water droplets due to the micro- and nanoscopic architecture on the surface ... have developed treatments, coatings, paints, roof tiles, fabrics and other surfaces",
+  "source_url": "https://en.wikipedia.org/wiki/Lotus_effect",
+  "note": ""
+ },
+ {
+  "claim": "Dynamic programming, named by Richard Bellman in the 1950s, solves problems by breaking them into overlapping subproblems — the name was chosen to impress a Secretary of Defense who disliked mathematics.",
+  "verdict": "overstated",
+  "corrected_claim": "Dynamic programming was developed by Richard Bellman in the 1950s; Bellman said he chose the name to shield his work from Secretary of Defense Wilson, who hated the word 'research', though this account may be inaccurate.",
+  "quote": "The method was developed by Richard Bellman in the 1950s ... He was Secretary of Defense, and he actually had a pathological fear and hatred of the word",
+  "source_url": "https://en.wikipedia.org/wiki/Dynamic_programming",
+  "note": "Wilson hated the word 'research', not mathematics; page notes the story may be inaccurate"
+ },
+ {
+  "claim": "Fusobacterium nucleatum oral bacteria have been found in colorectal tumors — oral microbes gone astray.",
+  "verdict": "overstated",
+  "corrected_claim": "Fusobacterium nucleatum has a demonstrated association with colorectal cancer, and Fusobacterium species have been found at higher quantities in certain colon tumors than in surrounding tissue — though it is unclear whether this is cause or correlation.",
+  "quote": "F. nucleatum has a demonstrated association with colorectal cancer, notably studied by Susan Bullman. ... Fusobacterium species have been found at higher quantities in certain types of colon tumors",
+  "source_url": "https://en.wikipedia.org/wiki/Fusobacterium_nucleatum",
+  "note": "Page adds caveat that causal link is unclear; oral origin not confirmed in fetched text"
+ },
+ {
+  "claim": "Guinness once estimated that 93,000 liters of beer are lost in facial hair each year in the UK alone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Guinness once estimated that 93,000 liters of beer are lost in facial hair each year in the UK alone.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "The split infinitive rule ('to boldly go') was invented by 19th century grammarians imitating Latin — where splitting is impossible.",
+  "verdict": "overstated",
+  "corrected_claim": "The rule against split infinitives ('to boldly go') is not known in any text before the 19th century, and is often said to rest on a misguided comparison with Latin, where an infinitive cannot be split — though that argument may be a straw man.",
+  "quote": "is not known to appear in any text before the 19th century. ... the split-infinitive prohibition is based solely on a misguided comparison with Latin. ... a Latin infinitive cannot be split. ... the argument from the classical languages may be a straw man argument",
+  "source_url": "https://en.wikipedia.org/wiki/Split_infinitive",
+  "note": "Page caveats the Latin origin as possibly a straw man"
+ },
+ {
+  "claim": "The corpse flower's underground tuber can weigh over 75 kg (165 lbs), storing nutrients for years between blooms.",
+  "verdict": "overstated",
+  "corrected_claim": "The corpse flower stores sugars from its leaf as starch in an underground tuber, which may weigh more than 90 kg (200 lb).",
+  "quote": "it may weigh more than 90 kg (200 lb).",
+  "source_url": "https://en.wikipedia.org/wiki/Amorphophallus_titanum",
+  "note": "Page gives 90 kg (200 lb), not 75 kg; 'for years between blooms' not stated"
+ },
+ {
+  "claim": "The pitcher plant's surface is so slippery that insects slide off into its digestive fluid—inspiring SLIPS (Slippery Liquid-Infused Porous Surfaces) coatings.",
+  "verdict": "overstated",
+  "corrected_claim": "The slippery peristome of Nepenthes pitchers causes insects to 'aquaplane' and slip and fall into the pitcher.",
+  "quote": "the slippery surface of the peristome causes insects to \"aquaplane\", or slip and fall, into the pitcher.",
+  "source_url": "https://en.wikipedia.org/wiki/Nepenthes",
+  "note": "SLIPS coatings not mentioned."
+ },
+ {
+  "claim": "Knuth-Morris-Pratt (1977) finds patterns in text in O(n) time by never backtracking — a significant improvement over naive O(nm) string matching.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The three also published the algorithm jointly in 1977. ... then it uses that table to do an efficient search of the string in O(n). ... The KMP algorithm has a better worst-case performance than the straightforward algorithm. ... If the length of w is k, then the worst-case performance is O(k⋅n).",
+  "source_url": "https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm",
+  "note": "Page avoids re-examining previously matched characters; naive worst case written O(k·n)."
+ },
+ {
+  "claim": "Clostridia include both deadly pathogens (C. botulinum, C. tetani) and beneficial gut bacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "Clostridia include producers of some of the most dangerous toxins known, such as C. tetani and C. botulinum, yet Clostridia are also common gut residents, some linked to healthy function.",
+  "quote": "Examples are tetanus toxin (known as tetanospasmin) produced by C. tetani and botulinum toxin produced by C. botulinum. ... Clostridia bacteria are commonly found in the gut microbiome. ... Other Clostridium bacteria in the gut have been linked to brain connectivity and healthy function.",
+  "source_url": "https://en.wikipedia.org/wiki/Clostridia",
+  "note": "'Beneficial' only supported as 'linked to healthy function', partly preliminary research"
+ },
+ {
+  "claim": "Scientists at Purdue built a licking machine to solve the Tootsie Pop mystery - on average, it takes 364 licks to get to the center.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "But on average, a licking machine made at Purdue needed 364.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "The rule against ending sentences with prepositions was mocked by Churchill: 'This is the sort of nonsense up with which I will not put.'",
+  "verdict": "overstated",
+  "corrected_claim": "Overzealous avoidance of stranded prepositions is mocked by a quip apocryphally attributed to Churchill: 'This is the sort of tedious nonsense up with which I will not put.'",
+  "quote": "the quip apocryphally attributed to Winston Churchill: This is the sort of tedious nonsense up with which I will not put.",
+  "source_url": "https://en.wikipedia.org/wiki/Preposition_stranding",
+  "note": "Page says the Churchill attribution is apocryphal"
+ },
+ {
+  "claim": "Konjac (Amorphophallus konjac) is related to the corpse flower and its corm is used to make shirataki noodles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is a relative of the titan arum (A. titanum), one of the largest flowering plants in the world ... Food made from the corm is known as konnyaku in Japanese... which can be made into white or black cake, as well as a kind of noodle called shirataki",
+  "source_url": "https://en.wikipedia.org/wiki/Konjac",
+  "note": "Titan arum is the corpse flower."
+ },
+ {
+  "claim": "Stainless steel was discovered accidentally by Harry Brearley in 1913 when he noticed a discarded chromium-steel alloy hadn't rusted in a scrap pile.",
+  "verdict": "overstated",
+  "corrected_claim": "While seeking a corrosion-resistant alloy for gun barrels in 1913, Harry Brearley of Sheffield discovered what he called 'rustless steel' — later named stainless steel.",
+  "quote": "While seeking a corrosion-resistant alloy for gun barrels in 1913, Harry Brearley of the Brown-Firth research laboratory in Sheffield, England, discovered ... Brearley initially called his new alloy \"rustless steel\".",
+  "source_url": "https://en.wikipedia.org/wiki/Stainless_steel",
+  "note": "Accidental discovery in scrap pile not stated on page"
+ },
+ {
+  "claim": "The A* algorithm (1968) finds optimal paths in graphs — it's used in game pathfinding, GPS navigation, and robotic motion planning.",
+  "verdict": "overstated",
+  "corrected_claim": "The A* algorithm (1968), created for the Shakey mobile robot project, finds shortest paths in weighted graphs — it is often used for pathfinding in video games and for finding routes on maps.",
+  "quote": "A* is often used for the common pathfinding problem in applications such as video games, ... A* was created as part of the Shakey project, which had the aim of building a mobile robot that could plan its own actions.",
+  "source_url": "https://en.wikipedia.org/wiki/A*_search_algorithm",
+  "note": "Page says practical travel-routing (GPS) systems generally outperform A*"
+ },
+ {
+  "claim": "Clostridium tetani spores are everywhere in soil — any deep wound can cause tetanus without vaccination.",
+  "verdict": "overstated",
+  "corrected_claim": "Clostridium tetani spores are extremely hardy and found in soil worldwide; tetanus generally starts when spores enter the body through a wound, and tetanus toxoid vaccines prevent the toxin's action.",
+  "quote": "C. tetani spores are extremely hardy and can be found globally in soil ... Disease generally begins with spores entering the body through a wound. ... The toxin's action can be prevented with tetanus toxoid vaccines,",
+  "source_url": "https://en.wikipedia.org/wiki/Clostridium_tetani",
+  "note": "'Everywhere' and 'any deep wound can cause tetanus' more absolute than page"
+ },
+ {
+  "claim": "A keto diet for weight loss may have a serious downside - a mouse study found concerning effects that warrant further research.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the increased risk of other health problems may not be worth the potential upside of weight loss.",
+  "source_url": "https://www.sciencealert.com/mouse-study-flags-a-serious-downside-to-popular-weight-loss-diet",
+  "note": ""
+ },
+ {
+  "claim": "African American Vernacular English (AAVE) has its own consistent grammar — including the 'habitual be' for ongoing actions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the use of be to indicate that performance of the verb is of a habitual nature",
+  "source_url": "https://en.wikipedia.org/wiki/African-American_Vernacular_English",
+  "note": "DeBose describes a broader and systematic TMA grammar"
+ },
+ {
+  "claim": "Arrow poison frogs get their toxins from the alkaloids in ants and beetles they eat, which the arthropods got from plants.",
+  "verdict": "overstated",
+  "corrected_claim": "Poison dart frogs do not synthesize their poisons — they sequester alkaloids from arthropod prey such as ants, mites and small beetles.",
+  "quote": "dart frogs do not synthesize their poisons, but sequester the chemicals from arthropod prey items ... The diet of Dendrobatidae is what gives them the alkaloids/toxins that are found in their skin.",
+  "source_url": "https://en.wikipedia.org/wiki/Poison_dart_frog",
+  "note": "Page does not say the arthropods get the alkaloids from plants"
+ },
+ {
+  "claim": "Maraging steels achieve yield strengths up to 2,400 MPa through precipitation hardening with nickel, cobalt, and molybdenum—used in aerospace and missile casings.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1,400–2,400 MPa (200–350 ksi) ... 17–19 wt% Ni, 8–12 wt% Co, 3–5 wt% Mo and 0.2–1.6 wt% Ti ... allows it to be formed into thinner rocket and missile skins than other steels.",
+  "source_url": "https://en.wikipedia.org/wiki/Maraging_steel",
+  "note": ""
+ },
+ {
+  "claim": "Monte Carlo Tree Search, used by AlphaGo, explores game trees by random simulation — it doesn't need evaluation functions like traditional game AI.",
+  "verdict": "overstated",
+  "corrected_claim": "Pure Monte Carlo tree search plays games out to the end with random moves and does not need an explicit evaluation function; AlphaGo combined MCTS with artificial neural networks.",
+  "quote": "In each playout, the game is played out to the very end by selecting moves at random. ... pure Monte Carlo tree search does not need an explicit evaluation function. ... it uses Monte Carlo tree search with artificial neural networks",
+  "source_url": "https://en.wikipedia.org/wiki/Monte_Carlo_tree_search",
+  "note": "Only pure MCTS needs no evaluation function; AlphaGo used neural networks."
+ },
+ {
+  "claim": "Clostridium perfringens can double in just 10 minutes — one of the fastest-growing bacteria known.",
+  "verdict": "overstated",
+  "corrected_claim": "Clostridium perfringens has the shortest reported generation time of any organism: just 6.3 minutes in thioglycolate medium.",
+  "quote": "It has the shortest reported generation time of any organism at 6.3 minutes in thioglycolate medium.",
+  "source_url": "https://en.wikipedia.org/wiki/Clostridium_perfringens",
+  "note": "Source gives 6.3 minutes (shortest of any organism), not 10 minutes"
+ },
+ {
+  "claim": "Researchers speculate that cocoa butter forms crystals on sugar while chocolate is tempered.",
+  "verdict": "overstated",
+  "corrected_claim": "When chocolate is tempered, sugar molecules are theorized to act as crystallization nuclei for the fat.",
+  "quote": "Sugar lowers the melting point of crystal structures, as the sugar molecules are theorized to act as crystallization nuclei.",
+  "source_url": "https://en.wikipedia.org/wiki/Tempered_chocolate",
+  "note": "Page says sugar is theorized to act as nuclei; does not literally say researchers speculate cocoa butter forms crystals on sugar."
+ },
+ {
+  "claim": "In AAVE, 'He be working' means he works regularly (habitual aspect) — a grammatical distinction Standard English lacks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the use of be to indicate that performance of the verb is of a habitual nature",
+  "source_url": "https://en.wikipedia.org/wiki/African-American_Vernacular_English",
+  "note": "Example 'He be working Tuesdays'; other dialects need adverbs like 'usually'"
+ },
+ {
+  "claim": "Curare, the famous arrow poison from South America, comes from plants like Strychnos toxifera and causes paralysis.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is a common name for various alkaloid arrow poisons originating from plant extracts ... Used as a paralyzing agent by indigenous peoples in Central and South America for hunting ... scientifically known as Strychnos toxifera",
+  "source_url": "https://en.wikipedia.org/wiki/Curare",
+  "note": ""
+ },
+ {
+  "claim": "Inconel superalloys can maintain strength at temperatures up to 1,000°C, used in jet engine turbine blades where temperatures melt ordinary metals.",
+  "verdict": "overstated",
+  "corrected_claim": "Inconel retains strength over a wide temperature range, keeping high strength and fatigue resistance at temperatures up to 650 °C, which makes it common in gas turbine blades, seals and combustors.",
+  "quote": "Inconel retains strength over a wide temperature range, ... such as high strength and fatigue resistance, at elevated temperatures, specifically those up to 650 °C (1,202 °F). ... It is common in gas turbine blades, seals, and combustors,",
+  "source_url": "https://en.wikipedia.org/wiki/Inconel",
+  "note": "Page gives up to 650 °C, not 1,000 °C; no claim about melting ordinary metals."
+ },
+ {
+  "claim": "Unicode now includes over 149,000 characters covering 161 scripts — including emoji, which were added in 2010.",
+  "verdict": "overstated",
+  "corrected_claim": "Unicode 17.0 defines 159,801 characters across 172 scripts, and emoji were added in Unicode 6.0 in October 2010.",
+  "quote": "Version 17.0 defines 159,801 characters and 172 scripts used in various ordinary, literary, academic and technical contexts.",
+  "source_url": "https://en.wikipedia.org/wiki/Unicode",
+  "note": "Figures outdated: page gives 159,801 characters and 172 scripts"
+ },
+ {
+  "claim": "Gas gangrene bacteria produce tissue-destroying enzymes and hydrogen gas — causing crackling under skin.",
+  "verdict": "overstated",
+  "corrected_claim": "Clostridium bacteria behind gas gangrene release alpha and theta toxins that cause necrotizing tissue damage, and gas escaping the dying tissue produces a distinctive crackling under the skin (crepitus).",
+  "quote": "Bacterium of the Clostridial species produce two toxins: alpha and theta toxins, which cause necrotizing damage to tissues. ... a degree of loud and distinctive crepitus caused by gas escaping the necrotic tissue",
+  "source_url": "https://en.wikipedia.org/wiki/Gas_gangrene",
+  "note": "Page does not say the gas is hydrogen (one case: 5.9% hydrogen, mostly nitrogen); damage attributed to toxins"
+ },
+ {
+  "claim": "Almost 45 percent of Taiwan's beer purchases come from rechao (stir-fry) restaurants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "According to a 2023 article and book, almost 45% of Taiwan's beer purchases comes from rechao restaurants.",
+  "source_url": "https://en.wikipedia.org/wiki/Rechao",
+  "note": ""
+ },
+ {
+  "claim": "Sociolinguists study how language varies by class, region, age, and gender — revealing social structures through speech patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "Sociolinguists study how language varies with social class, region, age and gender — working-class speakers, for example, tend to use less of what is deemed the standard language.",
+  "quote": "Class and occupation are among the most important linguistic markers found in society. ... Dialectology studies variations in language based primarily on geographic distribution and their associated features. ... Younger people are more likely to recognize and use today's slang while older generations may not recognize new slang ... men and women, on average, tend to use slightly different language styles",
+  "source_url": "https://en.wikipedia.org/wiki/Sociolinguistics",
+  "note": "'revealing social structures' not stated as such"
+ },
+ {
+  "claim": "Curare led to modern muscle relaxants used in surgery—it paralyzes muscles without affecting consciousness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "became a widely used paralyzing agent during medical and surgical procedures ... superseded by a number of synthetic curare-like agents ... curare poisoning mimics total locked-in syndrome ... making it practically impossible for the victim to confirm consciousness while paralyzed",
+  "source_url": "https://en.wikipedia.org/wiki/Curare",
+  "note": ""
+ },
+ {
+  "claim": "Single-crystal turbine blades grown with no grain boundaries can operate at higher temperatures, improving jet engine efficiency by 10-20%.",
+  "verdict": "overstated",
+  "corrected_claim": "Single-crystal solids, lacking grain boundaries, are ideal for high-temperature, close-tolerance parts such as jet engine turbine blades.",
+  "quote": "making single-crystal solids ideal for high temperature, close tolerance part applications, such as turbine blades.",
+  "source_url": "https://en.wikipedia.org/wiki/Single_crystal",
+  "note": "10-20% efficiency gain not on page"
+ },
+ {
+  "claim": "The ASCII code for 'A' is 65 and 'a' is 97 — differing by exactly 32, which is why case conversion is just a single bit flip.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "caused the characters to differ in bit pattern from the upper case by a single bit, which simplified case-insensitive character matching and the construction of keyboards and printers.",
+  "source_url": "https://en.wikipedia.org/wiki/ASCII",
+  "note": "65 and 97 from the code table"
+ },
+ {
+  "claim": "Clostridioides difficile infection causes nearly 500,000 cases and 29,000 deaths annually in the US.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2011, Clostridioides difficile infection caused about 453,000 cases and 29,000 deaths in the United States.",
+  "quote": "About 453,000 cases occurred in the United States in 2011, resulting in 29,000 deaths.",
+  "source_url": "https://en.wikipedia.org/wiki/Clostridioides_difficile_infection",
+  "note": "Figures are for 2011, not an annual rate"
+ },
+ {
+  "claim": "The Christmas carp traditionally swims in a bathtub for a few days before becoming Christmas Eve dinner.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The carp is traditionally taken home and kept for a few days in a bathtub.",
+  "source_url": "https://en.wikipedia.org/wiki/Christmas_carp",
+  "note": ""
+ },
+ {
+  "claim": "William Labov's 1966 department store study showed New York's /r/ pronunciation correlated perfectly with store prestige.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/William_Labov",
+  "note": "Department store /r/ study not mentioned on the Labov page"
+ },
+ {
+  "claim": "Ayahuasca combines two plants: one with DMT (Psychotria viridis) and one with MAO inhibitors (Banisteriopsis caapi).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Traditional ayahuasca brews are usually made with Banisteriopsis caapi as an MAOI ... B. caapi with other plants like Psychotria viridis",
+  "source_url": "https://en.wikipedia.org/wiki/Ayahuasca",
+  "note": ""
+ },
+ {
+  "claim": "Thermal barrier coatings made of yttria-stabilized zirconia protect turbine blades, allowing engines to operate 100-200°C hotter than the blade material alone could survive.",
+  "verdict": "overstated",
+  "corrected_claim": "Thermal barrier coatings, typically made of yttria-stabilized zirconia, let turbine engines run with gas temperatures above the melting point of the superalloy blades they protect.",
+  "quote": "The ceramic topcoat is typically composed of yttria-stabilized zirconia (YSZ), which has very low conductivity ... Combined with cool air flow, TBCs increase the allowable gas temperature above that of the superalloy melting point.",
+  "source_url": "https://en.wikipedia.org/wiki/Thermal_barrier_coating",
+  "note": "Page gives no 100-200 C figure."
+ },
+ {
+  "claim": "Base64 encoding increases data size by 33% — it's used to embed binary data in text formats like email and JSON.",
+  "verdict": "overstated",
+  "corrected_claim": "Base64 encoding increases data size by 33% — it is used to send email attachments and to embed binary data such as images in text like HTML.",
+  "quote": "Base64 encoding increases the size by 33% plus about 4% additional if inserting line breaks ... is often used to embed binary data such as a digital image in text such as HTML",
+  "source_url": "https://en.wikipedia.org/wiki/Base64",
+  "note": "JSON not mentioned on the page"
+ },
+ {
+  "claim": "C. diff spores can survive on hospital surfaces for months — persistent nosocomial threat.",
+  "verdict": "overstated",
+  "corrected_claim": "C. diff spores can live for long periods on surfaces and resist alcohol hand rubs and routine cleaning, making it the most prevalent US healthcare infection.",
+  "quote": "may serve as a reservoir for C. difficile spores, which can live for long periods of time on surfaces. ... C. difficile is the most prevalent US healthcare infection, posing serious health risks and substantial care costs.",
+  "source_url": "https://en.wikipedia.org/wiki/Clostridioides_difficile",
+  "note": "Page gives no 'months' duration"
+ },
+ {
+  "claim": "50 Lan occupied the number-one spot in Taiwan's bubble tea market for most of 2023.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "50 Lan occupied the number one spot in Taiwan's bubble tea market and over that year was the most sought-after choice among every age demographic.",
+  "source_url": "https://en.wikipedia.org/wiki/50_Lan",
+  "note": ""
+ },
+ {
+  "claim": "Vocal fry (creaky voice) became stigmatized when associated with young women — though it's common in all genders.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2014 study found young adult women using vocal fry were perceived as less competent and less hirable, while male voices with vocal fry carry different, sometimes opposite, connotations.",
+  "quote": "Young adult women using vocal fry were perceived as sounding ... less competent, less educated, less trustworthy, less attractive, and less hirable. ... male voices with vocal fry carry different, and sometimes opposite, connotations",
+  "source_url": "https://en.wikipedia.org/wiki/Vocal_fry",
+  "note": "Page says young women use vocal fry more often than men in American English; 'common in all genders' not supported"
+ },
+ {
+  "claim": "Indigenous people somehow discovered that combining these two specific plants makes DMT orally active—a biochemical mystery.",
+  "verdict": "overstated",
+  "corrected_claim": "Ayahuasca's harmala alkaloids are necessary to make its DMT orally active, yet no one can say for certain where the practice of combining the plants originated.",
+  "quote": "necessary to make the DMT orally active ... No one can say for certain where the practice may have originated.",
+  "source_url": "https://en.wikipedia.org/wiki/Ayahuasca",
+  "note": "Page gives no 'biochemical mystery' framing; origin simply uncertain, and B. caapi addition may have come later"
+ },
+ {
+  "claim": "Invar (iron-nickel alloy) has an extremely low coefficient of thermal expansion, expanding only one-tenth as much as steel when heated—crucial for precision instruments.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In one commercial grade called Invar 36 it consists of approximately 36% nickel and 64% iron. ... Common grades of Invar have a coefficient of thermal expansion ... ordinary steels have values of around 11–15 ppm/°C. ... Invar is used where high dimensional stability is required, such as precision instruments, clocks",
+  "source_url": "https://en.wikipedia.org/wiki/Invar",
+  "note": "About 1.2 ppm/°C vs 11-15 for steel, roughly one-tenth."
+ },
+ {
+  "claim": "JSON was 'discovered' by Douglas Crockford around 2001 — he didn't invent it, just recognized that JavaScript object literals were a useful data format.",
+  "verdict": "overstated",
+  "corrected_claim": "Douglas Crockford first specified and popularized JSON, sending the first JSON message in April 2001; the format is a subset of JavaScript's object literal notation.",
+  "quote": "Crockford first specified and popularized the JSON format. ... sent the first JSON message in April 2001 with Chip Morningstar. ... JSON is a subset of the object literal notation of JavaScript.",
+  "source_url": "https://en.wikipedia.org/wiki/JSON",
+  "note": "Page says Crockford specified and popularized JSON; it does not frame it as 'discovered' rather than invented."
+ },
+ {
+  "claim": "Streptococcus pyogenes ('flesh-eating bacteria') can kill within 24 hours of first symptoms.",
+  "verdict": "overstated",
+  "corrected_claim": "Streptococcus pyogenes can cause necrotizing fasciitis, a life-threatening surgical emergency; severe invasive infections have a mortality rate of 25%.",
+  "quote": "can lead to necrotizing fasciitis, a life-threatening surgical emergency ... over 650,000 of the cases are severe and invasive, and these cases have a mortality rate of 25%.",
+  "source_url": "https://en.wikipedia.org/wiki/Streptococcus_pyogenes",
+  "note": "No 'kill within 24 hours' claim or 'flesh-eating' label on page"
+ },
+ {
+  "claim": "Lukken, a traditional dessert waffle from West Flanders, gets its name from the Dutch word for 'luck'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "thin dessert waffles ... traditionally made in West Flanders to celebrate the New Year and other feasts. The term lukken is derived from the Dutch word for luck, geluk.",
+  "source_url": "https://en.wikipedia.org/wiki/Lukken",
+  "note": ""
+ },
+ {
+  "claim": "Uptalk (rising intonation on statements) is used by all genders but criticized mainly in women — revealing gendered language attitudes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the differences in frequency are not significant enough to brand HRT as an exclusively female speech pattern ... Because HRT has been popularized as \"Valley Girl Speak\", it has acquired an almost exclusively feminine gender connotation.",
+  "source_url": "https://en.wikipedia.org/wiki/High_rising_terminal",
+  "note": ""
+ },
+ {
+  "claim": "Coca leaves have been chewed in South America for thousands of years—coca is the source of cocaine but whole leaves are mild.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Chewing coca leaves dates back at least 8,000 years in South America ... Coca leaf is the raw material for the manufacture of the drug cocaine ... The effects of the coca leaf are milder than those of the purified drug because the concentration of cocaine is much lower.",
+  "source_url": "https://en.wikipedia.org/wiki/Coca",
+  "note": ""
+ },
+ {
+  "claim": "Negative thermal expansion materials like zirconium tungstate actually shrink when heated, used to compensate for thermal expansion in precision assemblies.",
+  "verdict": "overstated",
+  "corrected_claim": "Zirconium tungstate contracts continuously when heated from 0.3 to 1050 K, and such isotropic negative-thermal-expansion materials are easy to use as thermal expansion compensators.",
+  "quote": "This compound contracts continuously over a temperature range of 0.3 to 1050 K ... making it easier to apply them as thermal expansion compensators.",
+  "source_url": "https://en.wikipedia.org/wiki/Negative_thermal_expansion",
+  "note": "'Precision assemblies' use not stated."
+ },
+ {
+  "claim": "XML was designed to be human-readable and machine-readable — but its verbosity led developers to prefer JSON for most web APIs.",
+  "verdict": "overstated",
+  "corrected_claim": "XML was designed to be both human-readable and machine-readable, but it has regularly been criticized for verbosity, and JSON, YAML and S-expressions are frequently proposed as simpler alternatives.",
+  "quote": "It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. ... XML and its extensions have regularly been criticized for verbosity, complexity and redundancy.",
+  "source_url": "https://en.wikipedia.org/wiki/XML",
+  "note": "Page does not say developers prefer JSON for most web APIs."
+ },
+ {
+  "claim": "Vibrio vulnificus from raw oysters has 50% mortality — deadliest foodborne infection in the US.",
+  "verdict": "overstated",
+  "corrected_claim": "Vibrio vulnificus is the most common cause of seafood-related death in the US, and in people with chronic liver disease, raw contaminated oysters can cause sepsis with over 50% mortality.",
+  "quote": "The consumption of contaminated raw oysters in those with chronic liver disease causes primary sepsis with a mortality rate of over 50%. ... Vibrio vulnificus is the most common cause of death due to seafood in the United States",
+  "source_url": "https://en.wikipedia.org/wiki/Vibrio_vulnificus",
+  "note": "50% mortality applies to sepsis in people with chronic liver disease; page says most common cause of seafood (not all foodborne) deaths"
+ },
+ {
+  "claim": "The Toffee Crisp manufacturer once made a 10-kilogram (22 lb) version.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nestlé's Fawdon factory celebrated the brand's 50th birthday by raffling a 10-kilogram (22 lb) version",
+  "source_url": "https://en.wikipedia.org/wiki/Toffee_Crisp",
+  "note": ""
+ },
+ {
+  "claim": "The ampersand symbol (&) is formed from the letters in 'et', the Latin word for 'and'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The ampersand symbol is formed from the letters in et.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Original Coca-Cola contained coca leaf extract until 1903; today a 'decocainized' extract is still used for flavor.",
+  "verdict": "overstated",
+  "corrected_claim": "Coca-Cola launched with cocaine as a key ingredient; fresh coca leaves were dropped in 1903, and since about 1929 it has used a cocaine-free coca leaf extract, still made today in New Jersey.",
+  "quote": "In 1903, the fresh coca leaves were removed from the formula. ... Since then (by 1929), Coca-Cola has used a cocaine-free coca leaf extract. ... Today, that extract is prepared at a Stepan Company plant in Maywood, New Jersey.",
+  "source_url": "https://en.wikipedia.org/wiki/Coca-Cola",
+  "note": "Coca extract wasn't dropped in 1903; fresh leaves were, spent leaves with trace cocaine used after 1904, cocaine-free by 1929"
+ },
+ {
+  "claim": "Bulk metallic glasses can be twice as strong as steel while being elastic enough to be deformed like plastic, with no grain boundaries to cause weakness.",
+  "verdict": "overstated",
+  "corrected_claim": "Amorphous steel has been made with three times the strength of conventional steel; metallic glasses can sustain larger elastic deformations than crystalline alloys and can be injection-molded like polymers, and lack weak grain boundaries.",
+  "quote": "Batches of amorphous steel with three times the strength of conventional steel alloys have been produced. ... they can sustain larger reversible (\"elastic\") deformations than crystalline alloys. ... The absence of grain boundaries, the weak spots of crystalline materials, leads to better wear resistance",
+  "source_url": "https://en.wikipedia.org/wiki/Bulk_metallic_glass",
+  "note": "Strength figure differs; 'deformed like plastic' refers to processing like polymers"
+ },
+ {
+  "claim": "YAML's name originally stood for 'Yet Another Markup Language' — it was later backronymed to 'YAML Ain't Markup Language' to emphasize it's for data, not documents.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Originally YAML was said to mean Yet Another Markup Language, ... YAML Ain't Markup Language, ... to distinguish its purpose as data-oriented rather than document markup.",
+  "source_url": "https://en.wikipedia.org/wiki/YAML",
+  "note": ""
+ },
+ {
+  "claim": "Burkholderia cepacia is harmless to most but deadly to cystic fibrosis patients — host-dependent virulence.",
+  "verdict": "overstated",
+  "corrected_claim": "The Burkholderia cepacia complex mostly causes pneumonia in immunocompromised people with lung disease — in the 1980s, B. cepacia outbreaks among cystic fibrosis patients had a 35% death rate.",
+  "quote": "most often cause pneumonia in immunocompromised individuals with underlying lung disease ... In the 1980s, outbreaks of B. cepacia in individuals with CF were associated with a 35% death rate.",
+  "source_url": "https://en.wikipedia.org/wiki/Burkholderia_cepacia_complex",
+  "note": "Page does not say harmless to most people"
+ },
+ {
+  "claim": "Chocolate is included as an ingredient in 18th-century Italian recipes for pappardelle, fried liver, black polenta, and lasagna sauce.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "18th-century Italian recipes contain chocolate as an ingredient in recipes for pappardelle, fried liver, black polenta ... a 1786 manuscript from Macerata records a lasagna sauce containing chocolate, alongside anchovies, walnuts and almonds",
+  "source_url": "https://en.wikipedia.org/wiki/Chocolate_in_savory_cooking",
+  "note": ""
+ },
+ {
+  "claim": "The word 'penguin' originally referred to great auks (Pinguinus impennis), a now-extinct species in the Northern Hemisphere - Southern explorers used the name for similar-looking birds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the 16th century, the word penguin actually referred to great auks, a now-extinct species that inhabited the seas around eastern Canada. When explorers traveled to the Southern Hemisphere, they saw black and white birds that resembled auks, and called them penguins.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/20-fun-facts-about-penguins-world-penguin-day",
+  "note": ""
+ },
+ {
+  "claim": "Coffee was supposedly discovered when Ethiopian goatherds noticed their goats acting energetic after eating coffee berries.",
+  "verdict": "overstated",
+  "corrected_claim": "According to a legend not recorded before 1671, a goatherder (Ethiopian or Arab) noticed the energizing effects when his flock nibbled the bright red berries of a certain bush, and chewed the fruit himself.",
+  "quote": "One account involves a 9th-century Ethiopian or Arab goatherder, Kaldi, who, noticing the energizing effects when his flock nibbled on the bright red berries of a certain bush, chewed on the fruit himself.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_coffee",
+  "note": "Page says Ethiopian or Arab goatherder and that the legend is likely apocryphal (not before 1671)."
+ },
+ {
+  "claim": "Prince Rupert's drops can withstand hammer blows on the bulb end but explode violently if the thin tail is broken due to extreme internal stress from rapid cooling.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the ability to withstand a blow from a hammer or a bullet on the bulbous end without breaking ... when the tail is snipped, the drop disintegrates explosively into powder ... These droplets are characterized internally by very high residual stresses",
+  "source_url": "https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop",
+  "note": ""
+ },
+ {
+  "claim": "The first emoji were created by Shigetaka Kurita for a Japanese mobile carrier in 1999 — the original set had only 176 characters.",
+  "verdict": "overstated",
+  "corrected_claim": "Shigetaka Kurita created a famous set of 176 emoji in 1999 for NTT DoCoMo's i-mode, though earlier sets existed, such as SoftBank's 1997 set and the 1988 Sharp PA-8500.",
+  "quote": "created by Shigetaka Kurita in 1999 for NTT DoCoMo's i-mode ... Kurita's 176 emoji were brightly colored, albeit with a single color per grapheme. ... SoftBank's 1997 set was launched by the company's J-Phone arm",
+  "source_url": "https://en.wikipedia.org/wiki/Emoji",
+  "note": "Page says earlier emoji sets existed, so Kurita's were not the first"
+ },
+ {
+  "claim": "Bartonella henselae causes cat scratch disease — bacteria transmitted by cat scratches and flea bites.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bartonella henselae, formerly Rochalimæa henselae, is a bacterium that is the causative agent of cat-scratch disease ... is transmitted to humans through scratches, bites, or flea vectors associated with domestic and feral cats.",
+  "source_url": "https://en.wikipedia.org/wiki/Bartonella_henselae",
+  "note": ""
+ },
+ {
+  "claim": "Kim Jong Il had Italian chefs flown into Pyongyang to introduce pizza to North Korea.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Kim Jong Il hired Italian chefs to train North Koreans in pizza making and introduced it to the country.",
+  "source_url": "https://en.wikipedia.org/wiki/Pizza_in_North_Korea",
+  "note": ""
+ },
+ {
+  "claim": "Crows have regional dialects in their calls, and when a crow joins a new flock, it learns the flock's dialect by mimicking the calls of dominant flock members.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When crows join a new flock, they learn the flock's dialect by mimicking the calls of dominant flock members.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": ""
+ },
+ {
+  "claim": "Tea was supposedly discovered in 2737 BCE when leaves blew into Chinese Emperor Shennong's boiling water.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In Chinese legend, some time around 2737 BCE, Emperor Shennong was drinking a bowl of just boiled water ... A few leaves were blown from a nearby tree into his water, changing the color and taste.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_tea",
+  "note": ""
+ },
+ {
+  "claim": "Transparent ceramics like spinel (MgAl₂O₄) are used for armor windows, being lighter and harder than bulletproof glass.",
+  "verdict": "overstated",
+  "corrected_claim": "Magnesium aluminate spinel (MgAl2O4) is a transparent ceramic that transmits light from 0.2 to 5.5 micrometers, part of a search for thinner, lighter transparent armor materials.",
+  "quote": "Magnesium aluminate spinel (MgAl2O4) is a transparent ceramic ... New materials that are thinner, lightweight, and offer better ballistic performance are being sought.",
+  "source_url": "https://en.wikipedia.org/wiki/Transparent_ceramics",
+  "note": "Page does not compare spinel's weight or hardness to bulletproof glass."
+ },
+ {
+  "claim": "LaTeX, created by Leslie Lamport in 1983, is the standard for typesetting scientific papers — Lamport won the Turing Award for his distributed systems work.",
+  "verdict": "overstated",
+  "corrected_claim": "LaTeX was originally written in the early 1980s by Leslie Lamport at SRI International, and it is widely used in academia for the communication and publication of scientific documents.",
+  "quote": "LaTeX was originally written in the early 1980s by Leslie Lamport at SRI International. ... LaTeX is widely used in academia for the communication and publication of scientific documents",
+  "source_url": "https://en.wikipedia.org/wiki/LaTeX",
+  "note": "Page says early 1980s (not 1983) and does not mention Lamport's Turing Award."
+ },
+ {
+  "claim": "Leprosy (Mycobacterium leprae) still affects 200,000 new people annually — not an ancient disease.",
+  "verdict": "overstated",
+  "corrected_claim": "Leprosy, caused by Mycobacterium leprae and M. lepromatosis, is far from gone: 208,619 new cases were recorded in 2018 and 215,636 in 2024.",
+  "quote": "In 2018, 208,619 new cases of leprosy were recorded, a slight decrease from 2017. ... Mycobacterium leprae and Mycobacterium lepromatosis are the mycobacteria that cause leprosy.",
+  "source_url": "https://en.wikipedia.org/wiki/Leprosy",
+  "note": "Roughly 200,000 new cases a year is supported, but leprosy is an ancient disease; 'not an ancient disease' is unsupported."
+ },
+ {
+  "claim": "São Tomé and Príncipe was popularly known as the Chocolate Islands in the early 1900s, when it was the world's top exporter of cocoa.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "By 1905, São Tomé and Príncipe had become the world's top producer and exporter of cocoa ... From 1905 to 1911, São Tomé and Príncipe produced and exported more cocoa than anywhere else in the world",
+  "source_url": "https://en.wikipedia.org/wiki/Cocoa_production_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+  "note": "Page ties the 'Chocolate Islands' nickname to this period"
+ },
+ {
+  "claim": "The concept of genocide was introduced in the 1944 book Axis Rule in Occupied Europe.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "that is best known for introducing the concept of genocide, which Lemkin coined from the Greek word",
+  "source_url": "https://en.wikipedia.org/wiki/Axis_Rule_in_Occupied_Europe",
+  "note": ""
+ },
+ {
+  "claim": "All true teas (green, black, oolong, white) come from the same plant species, Camellia sinensis—processing differs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "White tea, yellow tea, green tea, oolong, dark tea (which includes pu-erh tea) and black tea are all made from two of the five varieties which form the main crops now grown, but are processed differently to attain varying levels of oxidation",
+  "source_url": "https://en.wikipedia.org/wiki/Camellia_sinensis",
+  "note": ""
+ },
+ {
+  "claim": "Syntactic foam contains hollow microspheres within a resin matrix, used in deep-sea submersibles because it provides buoyancy while resisting crushing pressure.",
+  "verdict": "overstated",
+  "corrected_claim": "Syntactic foam is made of hollow microspheres bonded in a matrix such as epoxy, and is used as buoyancy foam for ROVs, AUVs and deep-sea exploration.",
+  "quote": "made of hollow phenolic microspheres bonded to a matrix of phenolic, epoxy, or polyester. ... remotely operated underwater vehicles (ROVs), autonomous underwater vehicles (AUVs), deep-sea exploration",
+  "source_url": "https://en.wikipedia.org/wiki/Syntactic_foam",
+  "note": "Crush-pressure resistance not stated; spheres may also be non-hollow."
+ },
+ {
+  "claim": "Donald Knuth started writing 'The Art of Computer Programming' in 1962 — over 60 years later, only volumes 1-4A are complete, with 4B in progress.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "As of 2026 it consists of published volumes 1, 2, 3, 4A, and 4B, with more expected to be released in the future.",
+  "source_url": "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming",
+  "note": "Volume 4B was published in September 2022; claim is outdated (4C fascicles now in progress)."
+ },
+ {
+  "claim": "M. leprae cannot be cultured in the lab — only in armadillos and mouse foot pads.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "an exact axenic medium to support the growth of Mycobacterium leprae still has yet to be discovered ... has instead been grown in mouse foot pads ... in armadillos due to their low core body temperature",
+  "source_url": "https://en.wikipedia.org/wiki/Mycobacterium_leprae",
+  "note": ""
+ },
+ {
+  "claim": "Choco Togo produces heat-resistant chocolate bars that can withstand temperatures of up to 35 °C (95 °F).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They can withstand temperatures of up to 35 °C (95 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Choco_Togo",
+  "note": ""
+ },
+ {
+  "claim": "A 1920s reviewer considered Hammond's Hard Lines 'dangerously experimental ground for boys' fiction'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "But there are some who will think this dangerously experimental ground for boys' fiction.",
+  "source_url": "https://en.wikipedia.org/wiki/Hammond%27s_Hard_Lines",
+  "note": ""
+ },
+ {
+  "claim": "The highest temperature ever officially recorded on Earth was 56.7°C (134.1°F) at Furnace Creek in Death Valley, California, on July 10, 1913, though this measurement is contested by some meteorologists.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the highest temperature ever recorded was 56.7 °C (134.1 °F) on 10 July 1913 ... but the validity of this record is challenged",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Metal foam is up to 95% air but can absorb impact energy far better than solid metal of the same weight, used in automotive crash structures.",
+  "verdict": "overstated",
+  "corrected_claim": "In metal foam typically only 5–25% of the volume is base metal, and in cars such foams are used to reduce weight and increase energy absorption in crashes.",
+  "quote": "typically only 5–25% of the volume is the base metal ... The primary functions of metallic foams in vehicles are to increase sound damping, reduce weight, increase energy absorption in case of crashes.",
+  "source_url": "https://en.wikipedia.org/wiki/Metal_foam",
+  "note": "Page does not compare impact absorption with solid metal of the same weight."
+ },
+ {
+  "claim": "Knuth offers $2.56 for each error found in his books — the checks are rarely cashed because they're considered collector's items.",
+  "verdict": "overstated",
+  "corrected_claim": "Knuth pays $2.56 (one hexadecimal dollar) to the first person to find each error in his books, and very few of the checks are ever cashed; most are framed and kept as keepsakes.",
+  "quote": "Knuth offers a reward of $2.56 ( USD) to the first person to find each error in his published books ... Very few of these checks were actually cashed, even the largest ones. More often they have been framed and kept as a valued keepsake.",
+  "source_url": "https://en.wikipedia.org/wiki/Knuth_reward_check",
+  "note": "Reward goes only to the first finder of each error; page says keepsakes rather than collector's items."
+ },
+ {
+  "claim": "Armadillos naturally carry leprosy and can transmit it to humans — a zoonotic reservoir in the Americas.",
+  "verdict": "overstated",
+  "corrected_claim": "Armadillos are a presumed vector and natural reservoir for leprosy in Texas, Louisiana and Florida — humans can catch it by handling them or eating armadillo meat.",
+  "quote": "Humans can acquire a leprosy infection from armadillos by handling them or consuming armadillo meat. Armadillos are a presumed vector and natural reservoir for the disease in Texas, Louisiana and Florida.",
+  "source_url": "https://en.wikipedia.org/wiki/Armadillo",
+  "note": "Source says 'presumed' reservoir in three US states, not the Americas generally"
+ },
+ {
+  "claim": "Roti ran 42 restaurants before the COVID-19 pandemic reduced the midday lunch demand.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "at its peak prior to the COVID-19 pandemic it had 42 locations ... The pandemic wiped out the downtown midday rush business",
+  "source_url": "https://en.wikipedia.org/wiki/Roti_(restaurant_chain)",
+  "note": ""
+ },
+ {
+  "claim": "The author of The Power of Babel says that speakers of Swedish, Norwegian, and Danish are all speaking the same language.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "speakers of Swedish, Norwegian, and Danish (the three of which he considers one language, which he collectively terms \"Scandinavian\")",
+  "source_url": "https://en.wikipedia.org/wiki/The_Power_of_Babel",
+  "note": ""
+ },
+ {
+  "claim": "The lowest temperature ever recorded on Earth was -89.2°C (-128.6°F) at Vostok Station, Antarctica, on July 21, 1983.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The lowest temperature recorded is −89.2 °C (−128.6 °F), in Vostok Station, Antarctica on 21 July 1983.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Memory foam (viscoelastic polyurethane foam) was developed by NASA in the 1960s to improve seat cushioning and crash protection for aircraft.",
+  "verdict": "overstated",
+  "corrected_claim": "Memory foam (viscoelastic polyurethane foam) was developed in 1966 under a contract from NASA's Ames Research Center to improve the safety of aircraft cushions.",
+  "quote": "Memory foam was developed in 1966 under a contract by NASA's Ames Research Center to improve the safety of aircraft cushions.",
+  "source_url": "https://en.wikipedia.org/wiki/Memory_foam",
+  "note": "Developed under NASA contract; crash protection not stated."
+ },
+ {
+  "claim": "The IEEE and ACM Turing Award is considered the 'Nobel Prize of Computing' — winners receive $1 million, funded by Google since 2014.",
+  "verdict": "overstated",
+  "corrected_claim": "The ACM Turing Award is often called the 'Nobel Prize of Computing', and since 2014 it has carried a US$1 million prize with financial support from Google.",
+  "quote": "The ACM A. M. Turing Award is an annual prize given by the Association for Computing Machinery (ACM) ... is often referred to as the 'Nobel Prize of Computing'. ... Since 2014, the award has been accompanied by a prize of US$1 million, with financial support provided by Google.",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_Award",
+  "note": "Award is given by ACM, not IEEE"
+ },
+ {
+  "claim": "Tuberculosis bacteria can enter a dormant state for decades — reactivating when immunity wanes.",
+  "verdict": "overstated",
+  "corrected_claim": "Tuberculosis bacteria may exist in a latent form, and weakening of the immune system, for example through aging or HIV infection, can trigger progression to active TB, though some researchers argue most TB develops within months of infection.",
+  "quote": "may exist in latent form both inside and outside the lungs ... Degradation of the immune system because of aging. ... HIV infection is the greatest known risk factor for the progression of latent M. tuberculosis infection to active TB.",
+  "source_url": "https://en.wikipedia.org/wiki/Latent_tuberculosis",
+  "note": "Page does not state dormancy for decades and notes reviews challenging long-term latency."
+ },
+ {
+  "claim": "Vollpension employs grandparents to bake cakes according to their own recipes and, during COVID-19, offered live baking courses from elders around the world.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "All food is prepared by the \"grandmas\" and \"grandpas\" according to their own family recipes. ... That year Vollpension launched the \"world's first Grandma Baking School\", an online platform called BakAdemy ... which offers on-demand live baking courses from elders across the world",
+  "source_url": "https://en.wikipedia.org/wiki/Vollpension",
+  "note": "Launch dated 2020; page does not say it was a COVID response"
+ },
+ {
+  "claim": "19th-century Polish writer Józef Ignacy Kraszewski authored hundreds of works, including more than 200 novels.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Kraszewski wrote over 200 novels and several hundred novellas, short stories, and art reviews,",
+  "source_url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Ignacy_Kraszewski",
+  "note": ""
+ },
+ {
+  "claim": "The greatest temperature change in two minutes was 27°C (49°F), from -20°C to 7°C, recorded in Spearfish, South Dakota on January 22, 1943.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Greatest 2-minute temperature increase: 27 °C (49 °F), from −20 °C (−4 °F) to 7 °C (45 °F); ... Spearfish, South Dakota, on 22 January 1943.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Self-healing concrete contains bacteria that produce limestone when water enters cracks, sealing them automatically and potentially doubling concrete's lifespan.",
+  "verdict": "overstated",
+  "corrected_claim": "Self-healing concrete can harness bacteria that precipitate calcium carbonate inside cracks, reducing water permeability and helping increase the service life of concrete structures.",
+  "quote": "The formation of calcium carbonate as a byproduct of microbial activity ... If circumstances are favorable, most bacteria can precipitate CaCO3 from the solution. ... contribute to an increase in the service life of concrete structures",
+  "source_url": "https://en.wikipedia.org/wiki/Self-healing_concrete",
+  "note": "'Doubling lifespan' and automatic sealing on water entry not stated"
+ },
+ {
+  "claim": "Dijkstra wrote 'GOTO Considered Harmful' in 1968 — starting a tradition of 'X Considered Harmful' papers that continues today.",
+  "verdict": "overstated",
+  "corrected_claim": "Dijkstra's 1968 letter, submitted as 'A Case Against the Goto Statement', was retitled 'Goto Statement Considered Harmful' by editor Niklaus Wirth — and the format has since titled at least 65 critical essays.",
+  "quote": "The original title of the letter, as submitted to CACM, was \"A Case Against the Goto Statement\", but CACM editor Niklaus Wirth changed the title to \"Goto Statement Considered Harmful\". ... this format been used in the titles of at least 65 critical essays in computer science and related disciplines.",
+  "source_url": "https://en.wikipedia.org/wiki/Considered_harmful",
+  "note": "Title was chosen by editor Wirth, not Dijkstra"
+ },
+ {
+  "claim": "One-quarter of the world's population has latent TB infection — a massive reservoir of potential disease.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is estimated that one-quarter of the world's population, approximately 2 billion people, have latent TB.",
+  "source_url": "https://en.wikipedia.org/wiki/Tuberculosis",
+  "note": ""
+ },
+ {
+  "claim": "Many producers of Marmelada de Santa Luzia, a variety of quince cheese, are descendants of quilombolas.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is a variety of quince cheese that is traditional to the Brazilian state of Goiás ... Many modern day marmelada producers are descendants of quilombolas",
+  "source_url": "https://en.wikipedia.org/wiki/Marmelada_de_Santa_Luzia",
+  "note": ""
+ },
+ {
+  "claim": "Verkhoyansk, Russia, has the largest temperature range ever recorded in one location: 105.8°C (190.4°F), spanning from -67.8°C in winter to 38.0°C in summer.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Largest temperature range in one area: 105.8 °C (190.4 °F), from −67.8 °C (−90.0 °F) ... to 38.0 °C (100.4 °F) on 20 June 2020",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Programmable matter aims to create materials that can change their physical properties (shape, density, modulus, optical properties) on command.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Programmable matter is matter which has the ability to change its physical properties (shape, density, moduli, conductivity, optical properties, etc.) in a programmable fashion, based upon user input or autonomous sensing.",
+  "source_url": "https://en.wikipedia.org/wiki/Programmable_matter",
+  "note": ""
+ },
+ {
+  "claim": "Dijkstra famously said 'Computer science is no more about computers than astronomy is about telescopes.'",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra",
+  "note": "Quote does not appear on the source page"
+ },
+ {
+  "claim": "Mycobacterium ulcerans causes Buruli ulcer — the third most common mycobacterial disease after TB and leprosy.",
+  "verdict": "overstated",
+  "corrected_claim": "Buruli ulcer is a skin infection caused by Mycobacterium ulcerans, a relative of the bacteria behind tuberculosis and leprosy.",
+  "quote": "Buruli ulcer is caused by infection of the skin with the bacterium Mycobacterium ulcerans.",
+  "source_url": "https://en.wikipedia.org/wiki/Buruli_ulcer",
+  "note": "'Third most common mycobacterial disease' ranking not on page"
+ },
+ {
+  "claim": "The highest dew point temperature ever recorded was 35°C (95°F) at Dhahran, Saudi Arabia, on July 8, 2003, resulting in a heat index of 81.1°C (178°F).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A dew point of 35 °C (95 °F) — while the temperature was 42 °C (108 °F) — was observed at Dhahran, Saudi Arabia ... at 3:00 p.m. on 8 July 2003. ... the heat index (\"feels like\" temperature) was 81.1 °C (178.0 °F).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Claytronics is a concept for programmable matter using tiny robots called 'catoms' that could reconfigure into any shape or texture on demand.",
+  "verdict": "overstated",
+  "corrected_claim": "Claytronics is a concept for programmable matter made of 'catoms', sub-millimeter robots that could move, change color and connect electrostatically to form different shapes.",
+  "quote": "The catoms will be sub-millimeter computers that will eventually have the ability to move around ... electrostatically connect to other catoms to form different shapes.",
+  "source_url": "https://en.wikipedia.org/wiki/Claytronics",
+  "note": "'Any shape or texture on demand' not supported"
+ },
+ {
+  "claim": "Conway's Game of Life (1970) shows how simple rules can produce complex behavior — it's Turing complete, meaning it can theoretically compute anything.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "devised by the British mathematician John Horton Conway in 1970 ... It provides an example of emergence and self-organization. ... Therefore, the Game of Life is Turing-complete and may therefore execute arbitrary programs.",
+  "source_url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+  "note": ""
+ },
+ {
+  "claim": "MAC (Mycobacterium avium complex) infection is common in AIDS patients with low CD4 counts.",
+  "verdict": "overstated",
+  "corrected_claim": "MAC bacteria usually cause infection in people who are immunocompromised or have severe lung disease.",
+  "quote": "MAC bacteria usually cause infection in those who are immunocompromised or those with severe lung disease.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycobacterium_avium_complex",
+  "note": "AIDS and CD4 counts not mentioned."
+ },
+ {
+  "claim": "Qurayyat, Oman, recorded the highest minimum temperature for a 24-hour period at 42.6°C (108.7°F) on June 25, 2018—meaning it never got cooler than that all day.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Oman | 42.6 °C (108.7 °F) | Qurayyat, Muscat Governorate | 25 June 2018 | Highest minimum temperature for a 24-hour period and for a calendar day",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "4D printing creates objects that can change shape over time when triggered by water, heat, or light—adding time as the fourth dimension to 3D printing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the resulting 3D shape is able to morph into different forms in response to environmental stimulus, with the 4th dimension being the time-dependent shape change after the printing.",
+  "source_url": "https://en.wikipedia.org/wiki/4D_printing",
+  "note": ""
+ },
+ {
+  "claim": "Rule 110, a simple one-dimensional cellular automaton, was proven Turing complete in 2004 — one of the simplest known Turing-complete systems.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2004 Matthew Cook published a proof that Rule 110, with a particular repeating background pattern, is Turing complete — it has been described as one of the simplest known Turing-complete systems.",
+  "quote": "In 2004, Matthew Cook published a proof that Rule 110 with a particular repeating background pattern is Turing complete ... Rule 110 has been described as one of the simplest known Turing complete systems.",
+  "source_url": "https://en.wikipedia.org/wiki/Rule_110",
+  "note": "Proof requires a particular repeating background pattern"
+ },
+ {
+  "claim": "Nontuberculous mycobacteria are increasing in hot tubs, showerheads, and swimming pools.",
+  "verdict": "overstated",
+  "corrected_claim": "Nontuberculous mycobacteria are widespread in wet soil, marshland, streams and rivers, and Mayo Clinic researchers found a three-fold increase in skin NTM infections between 1980 and 2009.",
+  "quote": "NTM are widely distributed in the environment, particularly in wet soil, marshland, streams, rivers, and estuaries. ... Mayo Clinic researchers found a three-fold increased incidence of cutaneous NTM infection between 1980 and 2009",
+  "source_url": "https://en.wikipedia.org/wiki/Nontuberculous_mycobacteria",
+  "note": "Hot tubs, showerheads and pools not mentioned as sources."
+ },
+ {
+  "claim": "The Lut Desert in Iran recorded the highest natural ground surface temperature ever measured by satellite: 70.7°C (159.3°F) in 2005.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "found a maximum temperature of 70.7 °C (159.3 °F), which was recorded in 2005 in the Lut Desert, Iran.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page notes satellite values are not official records."
+ },
+ {
+  "claim": "DNA origami uses genetic material as a construction material, folding DNA strands into nanoscale shapes with atomic precision.",
+  "verdict": "overstated",
+  "corrected_claim": "DNA origami uses DNA as a construction material, folding it into arbitrary 2D and 3D nanoscale shapes by carefully designing short staple strands.",
+  "quote": "DNA origami is the nanoscale folding of DNA to create arbitrary two- and three-dimensional shapes at the nanoscale. ... The specificity of the interactions between complementary base pairs makes DNA a useful construction material.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_origami",
+  "note": "'Atomic precision' not supported by page"
+ },
+ {
+  "claim": "Lambda calculus, invented by Alonzo Church in the 1930s, uses only function definition and application — yet it's equivalent in power to Turing machines.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lambda calculus was introduced by mathematician Alonzo Church in the 1930s ... a formal system for expressing computation based on function abstraction and application ... is a universal machine, i.e. a model of computation that can be used to simulate any Turing machine",
+  "source_url": "https://en.wikipedia.org/wiki/Lambda_calculus",
+  "note": ""
+ },
+ {
+  "claim": "Mycobacterium marinum causes 'fish tank granuloma' — infection from aquarium water or fish.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycobacterium marinum infections in people are usually linked to swimming, preparing seafood, or keeping or working with aquarium fish, causing skin lesions.",
+  "quote": "Infection is usually associated either with swimming, preparing sea food, or with keeping or working with aquarium fish.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycobacterium_marinum",
+  "note": "Page does not use the name 'fish tank granuloma'."
+ },
+ {
+  "claim": "The most rainfall in one minute was 38 mm (1.5 inches) at Barot, Guadeloupe, on November 26, 1970.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most in 60 seconds (1 minute): 38 mm (1.5 in). Barot,",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Cellulose nanocrystals extracted from wood pulp are stronger than Kevlar and could replace carbon fiber in composites while being renewable and biodegradable.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Cellulose_nanocrystal",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "The Curry-Howard correspondence shows that proofs are programs and propositions are types — connecting logic and computation at a fundamental level.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the Curry–Howard correspondence is a direct relationship between computer programs and mathematical proofs. ... a proof is a program, and the formula it proves is the type for the program.",
+  "source_url": "https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence",
+  "note": ""
+ },
+ {
+  "claim": "TB treatment requires 6+ months of multiple antibiotics — short-cut courses lead to resistance.",
+  "verdict": "overstated",
+  "corrected_claim": "Pulmonary TB is treated with a combination of drugs for about six months, because single-drug regimens rapidly breed resistance and missed doses or unfinished courses can produce drug-resistant strains.",
+  "quote": "A patient is expected to be free from all living TB bacteria after six months of therapy in Pulmonary TB ... regimens that use only single drug result in the rapid development of resistance and treatment failure.",
+  "source_url": "https://en.wikipedia.org/wiki/Tuberculosis_treatment",
+  "note": "Page links resistance to single-drug regimens and missed doses/incomplete courses, not 'short-cut courses' generally; 6 months applies to pulmonary TB"
+ },
+ {
+  "claim": "Cilaos on Réunion Island received 1,825 mm (71.9 inches) of rain in 24 hours during Tropical Cyclone Denise in January 1966—the world record for a single day.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most in 24 hours (1 day): 1,825 mm (71.9 in); ... Cilaos, Réunion, 7–8 January 1966, during Tropical Cyclone Denise.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Bamboo has a higher compressive strength than concrete and higher tensile strength than steel by weight, and grows up to 1 meter per day.",
+  "verdict": "overstated",
+  "corrected_claim": "Certain bamboo species can grow 91 centimeters in 24 hours, and Bambusa tulda has tested as high as 400 MPa in tensile strength.",
+  "quote": "Certain species of bamboo can grow 91 centimeters (36 inches) within a 24-hour period",
+  "source_url": "https://en.wikipedia.org/wiki/Bamboo",
+  "note": "No comparison with concrete or steel on the page"
+ },
+ {
+  "claim": "Formal verification can mathematically prove software is correct — seL4 is a microkernel with machine-checked proofs of its entire implementation.",
+  "verdict": "overstated",
+  "corrected_claim": "Formal verification proves or disproves the correctness of a system against a formal specification, and the seL4 high-assurance operating system kernel is a prominent example of formally verified software.",
+  "quote": "formal verification is the act of proving or disproving the correctness of a system ... the seL4 high-assurance operating system kernel",
+  "source_url": "https://en.wikipedia.org/wiki/Formal_verification",
+  "note": "Page does not say seL4's proofs are machine-checked or cover the entire implementation"
+ },
+ {
+  "claim": "Plasmodium falciparum (malaria) kills over 600,000 people annually — mostly African children.",
+  "verdict": "overstated",
+  "corrected_claim": "Malaria caused an estimated 610,000 deaths in 2024; 95% of malaria deaths occur in Africa, where children under five account for about 75% of them.",
+  "quote": "In 2024, malaria caused an estimated 282 million cases and 610,000 deaths worldwide. ... The infection is most prevalent in Africa, where 95% of malaria deaths occur ... with children under five accounting for approximately 75% of malaria deaths in that region.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Death toll on page is for malaria overall, not P. falciparum alone"
+ },
+ {
+  "claim": "Cherrapunji, India, received the most rainfall in one year: 26,470 mm (1,042 inches) from 1860 to 1861.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most in one year: 26,470 mm (1,042 in); ... Cherrapunji, Meghalaya, India, 1860–1861.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Zeolites are microporous materials with pore sizes of 0.3-2 nm—used to separate molecules by size, crack petroleum, and remove radioactive cesium from water.",
+  "verdict": "overstated",
+  "corrected_claim": "Zeolites are microporous minerals with pores typically 0.3–0.8 nm across that sort molecules by size, serve as catalysts in fluid catalytic cracking of petroleum, and were used after Fukushima to adsorb radioactive cesium-137 from seawater.",
+  "quote": "Zeolites have microporous structures with a typical diameter of 0.3–0.8 nm. ... are widely used as catalysts in the petrochemical industry, such as in fluid catalytic cracking ... to adsorb the radioactive cesium-137 that was present in high levels.",
+  "source_url": "https://en.wikipedia.org/wiki/Zeolite",
+  "note": "Page gives 0.3-0.8 nm, not 0.3-2 nm."
+ },
+ {
+  "claim": "The four-color theorem (1976) was the first major theorem proven with computer assistance — mathematicians initially rejected it because humans couldn't verify the proof by hand.",
+  "verdict": "overstated",
+  "corrected_claim": "The four color theorem, proved by Appel and Haken in 1976, was the first major theorem proved using a computer — and initially not all mathematicians accepted it, because the proof was infeasible for a human to check by hand.",
+  "quote": "It was the first major theorem to be proved by use of a computer. ... Initially, this proof was not accepted by all mathematicians ... the computer-assisted proof was infeasible for a human to check by hand.",
+  "source_url": "https://en.wikipedia.org/wiki/Four_color_theorem",
+  "note": "Not 'rejected by mathematicians' generally — 'not accepted by all'"
+ },
+ {
+  "claim": "Trypanosoma brucei causes sleeping sickness by crossing the blood-brain barrier — fatal if untreated.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "T. brucei is one of only a few pathogens known to cross the blood-brain barrier. ... is roughly 100% fatal when left untreated",
+  "source_url": "https://en.wikipedia.org/wiki/Trypanosoma_brucei",
+  "note": ""
+ },
+ {
+  "claim": "Quillagua, Chile, is the driest place on Earth, receiving less than 0.2 mm of rainfall per year—less than an eyelash width.",
+  "verdict": "overstated",
+  "corrected_claim": "Quillagua, in Chile's Antofagasta Region, holds the record for the least rainfall of any locale: 0.2 mm per year or less.",
+  "quote": "Least per year (locale): 0.2 millimetres (0.008 in) per year or less, ... Quillagua, Antofagasta Region, Chile.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page says 0.2 mm or less; the eyelash comparison is not on the page."
+ },
+ {
+  "claim": "Metal-organic frameworks (MOFs) have the highest surface areas of any materials—up to 7,000 m²/g—enabling exceptional gas storage and catalysis.",
+  "verdict": "overstated",
+  "corrected_claim": "Metal-organic frameworks (MOFs) are porous materials whose high surface area and tunable pores make them of interest for storing gases such as hydrogen and carbon dioxide and as potential catalysts.",
+  "quote": "Because of this property, MOFs are of interest for the storage of gases such as hydrogen and carbon dioxide. ... Their high surface area, tunable porosity, diversity in metal and functional groups make them especially attractive for use as catalysts.",
+  "source_url": "https://en.wikipedia.org/wiki/Metal-organic_framework",
+  "note": "Page gives no 7,000 m²/g figure or 'highest of any material' claim."
+ },
+ {
+  "claim": "Automated theorem provers have since proven or verified many important results — the Kepler conjecture about sphere packing was verified by computer in 2017.",
+  "verdict": "overstated",
+  "corrected_claim": "Fully automatic theorem provers have proved a number of hard theorems, including the Robbins conjecture, which had eluded human mathematicians for a long time.",
+  "quote": "have proved a number of interesting and hard theorems",
+  "source_url": "https://en.wikipedia.org/wiki/Automated_theorem_proving",
+  "note": "Kepler conjecture / 2017 not mentioned on page"
+ },
+ {
+  "claim": "Trypanosoma cruzi (Chagas disease) infects 6-7 million people in Latin America — often for life.",
+  "verdict": "overstated",
+  "corrected_claim": "About 6.5 million people, mostly in Mexico, Central America and South America, have Chagas disease, and unless treated they remain infected with T. cruzi after the acute phase.",
+  "quote": "It is estimated that 6.5 million people, mostly in Mexico, Central America and South America, have Chagas disease as of 2019 ... Unless treated with antiparasitic drugs, individuals remain infected with T. cruzi after recovering from the acute phase.",
+  "source_url": "https://en.wikipedia.org/wiki/Chagas_disease",
+  "note": "'For life' omits the 'unless treated' caveat"
+ },
+ {
+  "claim": "Oahu, Hawaii, experienced 331 consecutive days with measurable rainfall in 1939-1940, the world record for continuous rain.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most consecutive days with measurable rain a day with at least 0.01 inches (0.25 mm) of rainfall: 331 days in ... Oahu, Hawaii, 1939–1940.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Covalent organic frameworks (COFs) are crystalline porous materials made entirely of light elements (C, H, N, O, B) linked by strong covalent bonds.",
+  "verdict": "overstated",
+  "corrected_claim": "Covalent organic frameworks (COFs) are porous, crystalline materials whose building blocks are joined by strong covalent bonds; the first COFs were held together by bonds between boron, carbon and oxygen atoms.",
+  "quote": "resulting in strong, covalent bonds to afford porous, stable, and crystalline materials ... strong bonds between B, C, and O atoms",
+  "source_url": "https://en.wikipedia.org/wiki/Covalent_organic_framework",
+  "note": "Page does not define COFs as made entirely of light elements C, H, N, O, B"
+ }
+]
