@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "Dragonflies have been documented accelerating at 4 G in straight flight and 9 G in turns—forces that would cause many humans to black out.",
+  "verdict": "overstated",
+  "corrected_claim": "Dragonflies have been documented accelerating at 4 G in straight flight and 9 G in sharp turns while pursuing prey.",
+  "quote": "have been documented accelerating at 4 G linearly and 9 G in sharp turns while pursuing prey.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "Human blackout comparison not on page."
+ },
+ {
+  "claim": "The gut microbiome contains about 100 times as many genes as the human genome.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is estimated that the human gut microbiota has around a hundred times as many genes as there are in the human genome.",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": ""
+ },
+ {
+  "claim": "The flag of Duluth, Minnesota has an award-winning simple design, but still represents eight things including Lake Superior, the North Woods, and three city hills.",
+  "verdict": "overstated",
+  "corrected_claim": "Duluth, Minnesota's flag got an A grade in a 2022 NAVA survey, yet its simple design packs in the sky, Lake Superior, the North Woods, snowy winters, three local hills and the North Star.",
+  "quote": "In a 2022 NAVA survey, the flag received an A grade and was rated in the top 25 of over 300 flags introduced since 2015. ... lower darker blue which represents refreshing water of Lake Superior ... middle dark green which represents the deep green of the North Woods. ... The three peaks in the white lines represent Thompson Hill, Enger Hill, and Hawk's Ridge.",
+  "source_url": "https://en.wikipedia.org/wiki/Flag_of_Duluth,_Minnesota",
+  "note": "Page cites a NAVA survey grade, not an award."
+ },
+ {
+  "claim": "Spanish 'embarazada' means 'pregnant', not 'embarrassed' — one of the most notorious false friends between English and Spanish.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Examples of false friends include English embarrassed and Spanish embarazada ('pregnant');",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": ""
+ },
+ {
+  "claim": "The Efficient Market Hypothesis paradox: if markets are truly efficient because investors analyze information, what incentives would anyone have to spend resources analyzing information?",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "if prices perfectly reflected available information, there is no profit to gathering information",
+  "source_url": "https://en.wikipedia.org/wiki/Grossman-Stiglitz_paradox",
+  "note": ""
+ },
+ {
+  "claim": "Tall fescue grass harbors endophytic fungi (Neotyphodium) that produce alkaloids toxic to herbivores, protecting both grass and fungus.",
+  "verdict": "overstated",
+  "corrected_claim": "Tall fescue infected by the endophytic fungus Neotyphodium coenophialum gains alkaloid toxins that protect it from herbivores.",
+  "quote": "alkaloid producing fungi which are common in grasses such as tall fescue ... which is infected by Neotyphodium coenophialum",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "Benefit to the fungus not stated."
+ },
+ {
+  "claim": "The FBI abandoned comparative bullet-lead analysis in 2005 after internal and external studies found the technique unreliable—despite its use in cases from 1963 (JFK assassination) onward.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Comparative bullet-lead analysis was used by the FBI for over four decades, starting with the John F. Kennedy assassination in 1963. ... found that the technique was unreliable due to improper interpretation, and the FBI abandoned the test in 2005",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": ""
+ },
+ {
+  "claim": "Both of these measurements are subject to increasing and significant errors over very long time spans, especially over the several thousand-year time spans it takes for stars to noticeably move relative to each other.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Both of these measurements are subject to increasing and significant errors over very long time spans, especially over the several thousand-year time spans it takes for stars to noticeably move relative to each other.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "The first high-level programming language was Plankalkül, created by Konrad Zuse between 1942-1945 — but it wasn't actually implemented until 1998 as a historical exercise.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first high-level programming language was Plankalkül, created by Konrad Zuse between 1942 and 1945. ... not implemented at the time ... In 1998 and 2000 ... as a historical exercise",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "Compilers were created in 1998 and 2000."
+ },
+ {
+  "claim": "The placenta was long thought sterile, but bacterial DNA has been found there — though contamination during sampling is debated.",
+  "verdict": "overstated",
+  "corrected_claim": "The placenta was long considered sterile, but bacterial species have been identified in placental tissue — though the existence of a placental microbiome is controversial and may reflect reagent contamination.",
+  "quote": "considered to be a sterile organ ... commensal, nonpathogenic bacterial species and genera have been identified that reside in the placental tissue ... the existence of a microbiome in the placenta is controversial ... likely derived from contamination of reagents",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Page says bacterial species identified (not 'DNA'); contamination of reagents."
+ },
+ {
+  "claim": "Belgian YouTuber to reach 10&nbsp;million subscribers?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The nymph stage of some dragonflies lasts up to five years, while adults may live only 5-10 weeks.",
+  "verdict": "overstated",
+  "corrected_claim": "The nymph stage of large dragonfly species can last up to five years, while most species live as adults for about five weeks or less (at most around 10 weeks).",
+  "quote": "The nymph stage of dragonflies lasts up to five years in large species ... the adult stage may be as long as 10 weeks, but most species have an adult lifespan in the order of five weeks or less.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "Adult lifespan is typically five weeks or less, up to 10."
+ },
+ {
+  "claim": "Gut bacteria produce short-chain fatty acids and synthesize B vitamins and vitamin K, acting almost like an endocrine organ.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Intestinal bacteria also play a role in synthesizing certain B vitamins and vitamin K ... the gut flora itself appears to function like an endocrine organ",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": ""
+ },
+ {
+  "claim": "Austin J. Tobin Plaza was destroyed in the September 11 attacks, but one of the sculptures on it (The Sphere) survived.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The plaza sustained heavy damage and was destroyed as a result of fires inside of the rubble in the hours after the attack. ... The Sphere is the only artwork from the original World Trade Center to survive the September 11 attacks and subsequent recovery effort.",
+  "source_url": "https://en.wikipedia.org/wiki/Austin_J._Tobin_Plaza",
+  "note": ""
+ },
+ {
+  "claim": "Norwegian 'gift' means both 'married' and 'poison' — the same word, two very different meanings.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "English gift, German Gift ('poison'), and Norwegian gift (both 'married' and 'poison').",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": ""
+ },
+ {
+  "claim": "Zero-sum games like poker have a fascinating property: in a two-player zero-sum game, if both players use optimal strategies, neither can improve by changing — this is the minimax theorem.",
+  "verdict": "overstated",
+  "corrected_claim": "In two-player zero-sum games, the minimax solution is the same as the Nash equilibrium: the players' mixed minimax strategies cannot be improved and are stable.",
+  "quote": "In two-player zero-sum games, the minimax solution is the same as the Nash equilibrium. ... These mixed minimax strategies cannot be improved and are now stable.",
+  "source_url": "https://en.wikipedia.org/wiki/Minimax",
+  "note": "Poker is not mentioned on the page."
+ },
+ {
+  "claim": "Lithops 'pebble plants' evolved camouflage to look like small stones in their South African environment, hiding from herbivores in plain sight.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the pebble plant Lithops makes itself hard to spot among the stones of the Southern African environment",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "A 1999 study found a 63% rate of false identifications in forensic bite-mark analysis, yet the technique remains legally admissible in many jurisdictions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A 1999 study by a member of the American Board of Forensic Odontology found a 63 percent rate of false identifications ... Yet the technique is still legal to use in court as evidence.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": ""
+ },
+ {
+  "claim": "Based on results from the Gaia telescope's second data release from April 2018, an estimated 694 stars will approach the Solar System to less than 5 parsecs in the next 15 million years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Based on results from the Gaia telescope's second data release from April 2018, an estimated 694 stars will approach the Solar System to less than 5 parsecs in the next 15 million years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "Ada Lovelace wrote the first computer program in 1843 — an algorithm for Charles Babbage's Analytical Engine to calculate Bernoulli numbers.",
+  "verdict": "overstated",
+  "corrected_claim": "Ada Lovelace's notes on Charles Babbage's Analytical Engine described a method for calculating Bernoulli numbers — recognized by most historians as the world's first published computer program.",
+  "quote": "During 1842–1849, Ada Lovelace translated the memoir of Italian mathematician Luigi Menabrea about Charles Babbage's newest proposed machine: the Analytical Engine ... a method for calculating Bernoulli numbers with the engine ... the world's first published computer program",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "1843 date not in body text; page hedges 'most historians'."
+ },
+ {
+  "claim": "Mycorrhizal networks — fungal 'Wood Wide Web' — connect trees underground, allowing them to share nutrients and even send chemical warnings about pests.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "have earned them a colloquial nickname: the \"Wood Wide Web\" ... a Douglas fir that had been injured by insects appeared to send chemical warning signals to a ponderosa pine",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Late Bronze Age, is the earliest deep-sea shipwreck to be discovered?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Dragonflies cannot walk despite having six legs—their legs are specialized only for perching and catching prey in flight.",
+  "verdict": "overstated",
+  "corrected_claim": "Despite having six legs, dragonflies are incapable of walking; they use their legs mainly for perching and for catching and holding prey.",
+  "quote": "Dragonflies use their legs predominantly for perching; they are incapable of walking. ... are used to catch and hold prey, for perching, and for climbing on plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "Legs also used for climbing on plants, not 'only' perching and catching prey."
+ },
+ {
+  "claim": "The Mediterranean diet, rich in vegetables and fiber, stimulates the growth of beneficial bacteria that may help brain health.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It should also be highlighted that the Mediterranean diet, rich in vegetables and fibers, stimulates the activity and growth of beneficial bacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": ""
+ },
+ {
+  "claim": "30 royal portraits of Korean kings were completely destroyed in a 1954 fire in Busan, South Korea.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Of the 48 royal portraits kept in the warehouse, 30 were completely destroyed in the fire.",
+  "source_url": "https://en.wikipedia.org/wiki/1954_Busan_Yongdusan_fire",
+  "note": ""
+ },
+ {
+  "claim": "The longest word in a major English dictionary is 'pneumonoultramicroscopicsilicovolcanoconiosis' (45 letters) — a lung disease from volcanic dust.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The longest word in any of the major English language dictionaries is pneumonoultramicroscopicsilicovolcanoconiosis (45 letters) a word that refers to a lung disease contracted from the inhalation of very fine silica particles, specifically from a volcano; medically, it is the same as silicosis.",
+  "source_url": "https://en.wikipedia.org/wiki/Longest_word_in_English",
+  "note": ""
+ },
+ {
+  "claim": "The Great Depression saw US GDP fall by 30% and unemployment reach 25% — it took until 1941 for GDP to return to 1929 levels, showing how economic collapses can persist.",
+  "verdict": "overstated",
+  "corrected_claim": "The Great Depression caused a 30% contraction in US GDP and unemployment of 25% by 1933, and the US did not return to 1929 GNP for over a decade.",
+  "quote": "in the U.S., the Depression resulted in a 30% contraction in GDP. By 1933, the U.S. unemployment rate had risen to 25% ... the U.S. did not return to 1929 GNP for over a decade",
+  "source_url": "https://en.wikipedia.org/wiki/Great_Depression",
+  "note": "1941 recovery year not on page."
+ },
+ {
+  "claim": "New Zealand shrubs evolved wide-branching structures believed to be defenses against browsing by the now-extinct moa birds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The shrubs of New Zealand have evolved special wide-branching adaptations ... browsing birds such as moas",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "Frances Glessner Lee, known as 'the mother of forensic science,' created the Nutshell Studies of Unexplained Death—intricate crime scene dioramas still used to train investigators today.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the mother of forensic science ... intricate crime scene dioramas used to train investigators, which are still in use today.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": ""
+ },
+ {
+  "claim": "Many brown dwarfs are not listed by visual magnitude but are listed by near-infrared J band apparent magnitude due to how dim (and often invisible) they are in visible color bands (U, B or V).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Many brown dwarfs are not listed by visual magnitude but are listed by near-infrared J band apparent magnitude due to how dim (and often invisible) they are in visible color bands (U, B or V).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "FORTRAN (1957) was the first widely-used high-level language — initially viewed with skepticism, it's still used today to benchmark the world's TOP500 supercomputers.",
+  "verdict": "overstated",
+  "corrected_claim": "FORTRAN was initially viewed with skepticism due to bugs and delays in development — yet it is still used for programs that benchmark and rank the world's TOP500 fastest supercomputers.",
+  "quote": "it was viewed with skepticism due to bugs, delays in development ... is used for programs that benchmark and rank the world's TOP500 fastest supercomputers",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "'First widely-used' not stated; page gives conflicting dates (1954/1956/1957)."
+ },
+ {
+  "claim": "Fungal networks can transfer up to 30% of a plant's photosynthetically-fixed carbon to the fungus in exchange for nitrogen and phosphorus.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The plant provides to the fungus up to 30% of the carbon it fixes by photosynthesis",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "US$150 million in 2023) from corruption suspects, but a court ruled it was illegal?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Male dragonflies have secondary genitalia—they transfer sperm from their abdomen tip to organs near their thorax, then mate in a unique 'heart' or 'wheel' position.",
+  "verdict": "overstated",
+  "corrected_claim": "Male dragonflies transfer sperm to secondary genitalia on segments 2–3 near the base of the abdomen, and mating pairs adopt a distinctive posture called the 'heart' or 'wheel'.",
+  "quote": "to his secondary genitalia on segments 2–3, near the base of his abdomen ... this distinctive posture is called the \"heart\" or \"wheel\"",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "Page places the secondary genitalia near the base of the abdomen rather than the thorax."
+ },
+ {
+  "claim": "99% of gut bacteria come from only about 30 to 40 species, though the gut contains between 300 and 1000 different species overall.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "99% of gut bacteria come from about 30 or 40 species. ... Somewhere between 300 and 1000 different species live in the gut",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": ""
+ },
+ {
+  "claim": "Historians and sociologists have remarked the occurrence, in science, of \"multiple independent discovery\".",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Historians and sociologists have remarked the occurrence in science of \"multiple independent discovery\".",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The chemical name for the protein titin is 189,819 letters long — attempts to pronounce it have taken over 3 hours.",
+  "verdict": "overstated",
+  "corrected_claim": "The chemical name for the protein titin is 189,819 letters long, and attempts to say the entire word have taken two to three and a half hours.",
+  "quote": "giving rise to the 189,819-letter chemical name Methionylthreonylthreonyl . . . isoleucine for the protein also known as titin, ... Attempts to say the entire word have taken two to three and a half hours.",
+  "source_url": "https://en.wikipedia.org/wiki/Longest_word_in_English",
+  "note": "Page says two to three and a half hours, not 'over 3 hours'."
+ },
+ {
+  "claim": "Hyperbolic discounting shows people prefer $100 today over $110 tomorrow, but $110 in 31 days over $100 in 30 days — even though the tradeoffs are identical, timing matters irrationally.",
+  "verdict": "overstated",
+  "corrected_claim": "Hyperbolic discounting: many people choose $50 now over $100 a year from now, yet almost everyone picks $100 in six years over $50 in five years.",
+  "quote": "For instance, when offered the choice between $50 now and $100 a year from now, many people will choose the immediate $50. ... given the choice between $50 in five years or $100 in six years",
+  "source_url": "https://en.wikipedia.org/wiki/Hyperbolic_discounting",
+  "note": "Page's examples use different amounts ($50/$100), not $100/$110."
+ },
+ {
+  "claim": "Raphides are needle-sharp calcium oxalate crystals in plant tissues that make ingestion painful and deliver toxins more efficiently.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Raphides are sharp needles of calcium oxalate or calcium carbonate in plant tissues",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "Page: make ingestion painful and give more efficient delivery of toxins."
+ },
+ {
+  "claim": "William Bass established the first body farm in 1981 at the University of Tennessee, allowing researchers to study human decomposition under various conditions for forensic purposes.",
+  "verdict": "overstated",
+  "corrected_claim": "William M. Bass opened the first forensic anthropology research facility and body farm, created to investigate human decomposition in various conditions.",
+  "quote": "the first forensic anthropology research facility and body farm was opened by William M. Bass ... Created the first body farm to investigate decomposition in various conditions",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": "Year 1981 and University of Tennessee not on page."
+ },
+ {
+  "claim": "Absolute magnitude (with electromagnetic wave, 'light' band denoted in subscript) is a measurement at a 10-parsec distance across imaginary empty space devoid of all its sparse dust and gas.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Absolute magnitude (with electromagnetic wave, 'light' band denoted in subscript) is a measurement at a 10-parsec distance across imaginary empty space devoid of all its sparse dust and gas.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "Grace Hopper developed FLOW-MATIC (1955-1959) because business data processing customers were uncomfortable with mathematical notation — it directly influenced COBOL.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was developed for the UNIVAC I at Remington Rand during the period from 1955 until 1959. Hopper found that business data processing customers were uncomfortable with mathematical notation ... Flow-Matic was a major influence in the design of COBOL",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": ""
+ },
+ {
+  "claim": "Trees transfer more carbon to closely related trees via fungal networks — suggesting plants can recognize kin underground.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "More carbon has been found to be exchanged between the roots of more closely related ... micronutrients transferred via mycorrhizal networks can communicate relatedness between plants",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "DR&nbsp;Congo's first peaceful transition of power since its independence from Belgium in 1960?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Some female dragonflies fake death to avoid mating—they crash-dive to the ground and lie motionless until persistent males leave.",
+  "verdict": "overstated",
+  "corrected_claim": "In some dragonfly species, females have evolved behaviours such as feigning death to escape the attention of males.",
+  "quote": "In some species females have evolved behavioural responses such as feigning death to escape the attention of males.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "Crash-diving and lying motionless details not on page."
+ },
+ {
+  "claim": "The human gut microbiota is established at birth and resembles that of adults by age two.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the gut flora is established at birth and gradually transitions towards a state resembling that of adults by the age of two",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": ""
+ },
+ {
+  "claim": "Merton defined such \"multiples\" as instances in which similar discoveries are made by scientists working independently of each other.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Merton defined such \"multiples\" as instances in which similar discoveries are made by scientists working independently of each other.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The longest place name in an English-speaking country is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu (85 letters), a hill in New Zealand.",
+  "verdict": "overstated",
+  "corrected_claim": "The longest officially recognized place name in an English-speaking country is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu (85 letters), a hill in New Zealand.",
+  "quote": "The longest officially recognized place name in an English-speaking country is Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu (85 letters), which is a hill in New Zealand",
+  "source_url": "https://en.wikipedia.org/wiki/Longest_word_in_English",
+  "note": "Page qualifies it as 'officially recognized'."
+ },
+ {
+  "claim": "The El Farol Bar problem models congestion: 100 people each decide whether to go to a bar that's fun when under 60 attend but miserable when overcrowded — no pure strategy equilibrium exists.",
+  "verdict": "overstated",
+  "corrected_claim": "In the El Farol Bar problem, a fixed population decides each Thursday whether to go to a bar that is more fun than staying home if fewer than 60% go — and any single deterministic strategy everyone uses is guaranteed to fail.",
+  "quote": "If less than 60% of the population go to the bar, they'll all have more fun than if they stayed home. ... If more than 60% of the population go to the bar, they'll all have less fun than if they stayed home.",
+  "source_url": "https://en.wikipedia.org/wiki/El_Farol_Bar_problem",
+  "note": "Page gives no figure of 100 people; it says a shared pure strategy is guaranteed to fail rather than stating no pure equilibrium."
+ },
+ {
+  "claim": "The earliest evidence of herbivory dates to around 420 million years ago, within 20 million years of the first fossilized plant sporangia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "around 420 million years ago, there is evidence that plants were being consumed ... Within 20 million years of the first fossils of sporangia and stems",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "Forensic anthropologists can determine sex from skeletal remains with high accuracy using the pelvis, as female pelvises have wider pubic arches and differently positioned sacra compared to males.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the pelvis is extremely useful in the determination of sex ... can achieve sex determination with a great level of accuracy ... Female pelvis. Note wide pubic arch and shorter, pushed back sacrum.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "This can cause other currently distant stars to fall within a stated range, which may be readily calculated and predicted using accurate astrometric measurements of parallax and total proper motions, along with spectroscopically determined radial velocities.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "This can cause other currently distant stars to fall within a stated range, which may be readily calculated and predicted using accurate astrometric measurements of parallax and total proper motions, along with spectroscopically determined radial velocities.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "Niklaus Wirth walked out of the ALGOL 68 design committee because it was too complex, creating the simpler Pascal language instead.",
+  "verdict": "overstated",
+  "corrected_claim": "After the ALGOL 68 design work, Niklaus Wirth walked out of the design committee to create the simpler Pascal language.",
+  "quote": "Niklaus Wirth actually walked out of the design committee to create the simpler Pascal language.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "Page does not say explicitly that he left because it was too complex; ALGOL 68 committee implied by context."
+ },
+ {
+  "claim": "When a Douglas fir is attacked by insects, it sends chemical signals through fungal networks to neighboring ponderosa pines, which then produce defense enzymes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a Douglas fir that had been injured by insects appeared to send chemical warning signals to a ponderosa pine ... The pine tree then produced defense enzymes to protect against the insect.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Capital_Bicycle_Club\" title=\"Capital Bicycle Club\">the first cycling club in Washington, D.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Butterflies taste with their feet—sensors on their tarsi detect sugars and other chemicals when they land on potential food sources.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Taste receptors are located on the palps and on the feet. ... chemoreceptors on the tarsi, or feet, which work only on contact.",
+  "source_url": "https://en.wikipedia.org/wiki/Butterfly",
+  "note": ""
+ },
+ {
+  "claim": "Over 99% of gut bacteria are anaerobes that cannot survive in oxygen-rich environments.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Over 99% of the bacteria in the gut are anaerobes",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": ""
+ },
+ {
+  "claim": "Multiple independent discovery, however, is not limited to such famous historic instances.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Multiple independent discovery, however, is not limited to such famous historic instances.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Aristophanes coined a 171-letter Greek word describing a dish by stringing together all its ingredients — linguistic wordplay from 400 BCE.",
+  "verdict": "overstated",
+  "corrected_claim": "In his play Assemblywomen, the ancient Greek comic playwright Aristophanes coined a 171-letter word describing a dish by stringing together its ingredients.",
+  "quote": "In his play Assemblywomen (Ecclesiazousae), the ancient Greek comedic playwright Aristophanes created a word of 171 letters which describes a dish by stringing together its ingredients:",
+  "source_url": "https://en.wikipedia.org/wiki/Longest_word_in_English",
+  "note": "Date 400 BCE and 'all' ingredients not stated on the page."
+ },
+ {
+  "claim": "The Black-Scholes model for option pricing earned its creators the 1997 Nobel Prize — but Long-Term Capital Management, which employed them, collapsed a year later requiring a $3.6 billion bailout.",
+  "verdict": "overstated",
+  "corrected_claim": "Myron Scholes and Robert C. Merton, board members of Long-Term Capital Management, shared the 1997 Nobel Prize in Economics for developing the Black–Scholes model; a year later the fund needed a $3.6 billion bailout from 14 banks.",
+  "quote": "Members of LTCM's board of directors included Myron Scholes and Robert C. Merton, who three years later in 1997 shared the Nobel Prize in Economics for having developed the Black–Scholes model of financial dynamics. ... In 1998 when LTCM was on the verge of collapse, the fund received a $3.6 billion bailout from a group of 14 banks,",
+  "source_url": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+  "note": "Page says Scholes and Merton were board members (not 'creators employed'); Fischer Black not mentioned."
+ },
+ {
+  "claim": "Horseradish releases allyl isothiocyanate—its pungent ingredient—only when crushed, keeping the toxic compound safely stored until an herbivore attacks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The myrosinase is released only upon crushing the flesh of horseradish ... One product of this enzyme is allyl isothiocyanate, the pungent ingredient in horseradish sauces",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "After age 30, humans lose approximately one centimeter of height every decade, a factor forensic anthropologists must account for when estimating stature from skeletal remains.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After age 30, a person loses approximately one centimeter of their height every decade.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "Although extrapolations can be made into the past or future, they are subject to increasingly significant cumulative errors over very long periods.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Although extrapolations can be made into the past or future, they are subject to increasingly significant cumulative errors over very long periods.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "JavaScript was created by Brendan Eich in just 10 days in May 1995 — originally named Mocha, then LiveScript, before becoming JavaScript for marketing reasons.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "Page names Brendan Eich but not 10 days, Mocha, LiveScript or the naming story."
+ },
+ {
+  "claim": "Mycorrhizal associations evolved before plants colonized land — they're one of the oldest and most fundamental biological partnerships.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycorrhizal associations have evolutionary origins that predate plants' colonization of land.",
+  "quote": "with evolutionary origins before the colonization of land by plants",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "'One of the oldest' partnerships is not stated."
+ },
+ {
+  "claim": "Reed are the first brothers to win the New Jersey Amateur Championship?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/September",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Monarch butterflies migrate up to 4,800 km from Canada to Mexico—a journey spanning multiple generations, yet they navigate to the same trees their ancestors left.",
+  "verdict": "overstated",
+  "corrected_claim": "Monarch butterflies travel between 1,200 and 2,800 miles or more from the northeast United States and southeast Canada to mountain forests in central Mexico, in a multi-generational migration where individuals make only part of the journey.",
+  "quote": "Monarchs travel between 1,200 and 2,800 miles or more from the northeast United States, and southeast Canada, to the mountain forests in central Mexico ... This is a multi-generational migration, with individual monarchs only making part of the full journey.",
+  "source_url": "https://en.wikipedia.org/wiki/Monarch_butterfly",
+  "note": "4,800 km figure and returning to the same trees not on the page."
+ },
+ {
+  "claim": "Bacteroides species alone make up about 30% of all gut bacteria, making them especially important for human health.",
+  "verdict": "overstated",
+  "corrected_claim": "Species from the genus Bacteroides alone make up about 30% of all bacteria in the gut.",
+  "quote": "Species from the genus Bacteroides alone constitute about 30% of all bacteria in the gut",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": "'Especially important for human health' not stated in that passage."
+ },
+ {
+  "claim": "Merton believed that it is multiple discoveries, rather than unique ones, that represent the common pattern in science.",
+  "verdict": "overstated",
+  "corrected_claim": "Merton held that multiple discoveries represent a 'common' pattern in science, while unique discoveries are relatively rare.",
+  "quote": "represents a \"common\" pattern in science, while unique discoveries, on the contrary, are relatively rare.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Page wording differs; says multiples are 'common' and unique ones relatively rare."
+ },
+ {
+  "claim": "Thai has no simple word for 'I' or 'you' — speakers use different terms based on their relationship to the listener (like 'mother' to 'child').",
+  "verdict": "overstated",
+  "corrected_claim": "Thai speakers use words that express the relationship between speaker and listener according to their roles — a mother talking to her child uses relational terms where English just says 'I' and 'you'.",
+  "quote": "Thai people use words which express the relation between speaker and listener according to their respective roles.",
+  "source_url": "https://en.wikipedia.org/wiki/Untranslatability",
+  "note": "Page doesn't say Thai has no word for 'I' or 'you'."
+ },
+ {
+  "claim": "Choice overload paradox shows that more options can decrease satisfaction — in a famous jam study, 30% of customers bought from a 6-jam display vs only 3% from a 24-jam display.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Overchoice",
+  "note": "Page does not describe the jam study or its figures."
+ },
+ {
+  "claim": "Kudzu vine, introduced to the US to control erosion, can grow up to 30 cm (1 foot) per day and is now one of the world's worst invasive species.",
+  "verdict": "overstated",
+  "corrected_claim": "Kudzu vine was widely introduced in the southeastern United States in the early 20th century to control soil erosion — and is now invasive in many parts of the world.",
+  "quote": "widely introduced in the southeastern United States in the early 20th century to control soil erosion ... Notable plant species that are invasive in many parts of the world include the kudzu vine (Pueraria)",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "30 cm/day growth and 'world's worst' not on page."
+ },
+ {
+  "claim": "The clavicle (collarbone) is the last bone to complete growth, with its growth plate sealing around age 25—making it useful for determining if skeletal remains are from an adult.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The clavicle is the last bone to complete growth and the plate is sealed around age 25.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "Inaccuracies of these measured parameters make determining the true minimum distances of any encountering stars or brown dwarfs fairly difficult.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Inaccuracies of these measured parameters make determining the true minimum distances of any encountering stars or brown dwarfs fairly difficult.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "The C programming language (1972) was developed by Dennis Ritchie and Ken Thompson specifically to rewrite Unix — enabling the operating system to be portable across different hardware.",
+  "verdict": "overstated",
+  "corrected_claim": "C, an early systems programming language, was developed by Dennis Ritchie and Ken Thompson at Bell Labs between 1969 and 1973.",
+  "quote": "C, an early systems programming language, was developed by Dennis Ritchie and Ken Thompson at Bell Labs",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "Unix rewrite and portability purpose not stated; page gives 1969-1973."
+ },
+ {
+  "claim": "Carbon flows through fungal networks seasonally — shifting to whichever connected plants need it most at different times of year.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "carbon moves to young sugar maple saplings in spring when leaves are unfurling ... shifts to move to the trout lilies in fall when the lilies are developing their roots",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "United States boundary commission after the first surveyor was considered to be \"insufferably arrogant\"?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/September",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The painted lady butterfly makes a 14,000 km round-trip migration from Africa to the Arctic Circle across six generations—nearly double the monarch's famous journey.",
+  "verdict": "overstated",
+  "corrected_claim": "The painted lady makes a 14,500 km round trip between tropical Africa and the Arctic Circle in steps spanning up to six successive generations.",
+  "quote": "making 14,500 km (9,000 mi) a return journey from tropical Africa to the Arctic Circle ... in a series of steps by up to six successive generations.",
+  "source_url": "https://en.wikipedia.org/wiki/Painted_lady",
+  "note": "Distance is 14,500 km; no migration comparison with the monarch."
+ },
+ {
+  "claim": "The gut-brain axis allows gut microbiota to influence behavior through neural, hormonal, and immune pathways.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "microbial metabolites such as short-chain fatty acids and neurotransmitters influence brain function and behavior.",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": "Page names neuroendocrine, neuroimmune and vagus nerve routes."
+ },
+ {
+  "claim": "Merton contrasted a \"multiple\" with a \"singleton\"—a discovery that has been made uniquely by a single scientist or group of scientists working together.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Merton contrasted a \"multiple\" with a \"singleton\"—a discovery that has been made uniquely by a single scientist or group of scientists working together.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Portuguese has two verbs for 'to be' (ser and estar) — one for permanent states, one for temporary conditions, a distinction impossible to translate directly into English.",
+  "verdict": "overstated",
+  "corrected_claim": "Portuguese and Spanish have two verbs for 'to be': ser for essence or nature, and estar for temporary or current states or conditions.",
+  "quote": "Ser is used with essence or nature, while estar is used with ephemeral (temporary or current), states or conditions",
+  "source_url": "https://en.wikipedia.org/wiki/Untranslatability",
+  "note": "'Impossible to translate directly' is not stated."
+ },
+ {
+  "claim": "Matching markets, studied by Gale and Shapley, led to the Nobel Prize-winning algorithm used to match medical residents to hospitals — ensuring no doctor-hospital pair would prefer each other over their match.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "for the theory of stable allocations and the practice of market design ... the assignment of graduating medical students to their first hospital appointments ... there are no two people of opposite sex who would both rather have each other than their current partners.",
+  "source_url": "https://en.wikipedia.org/wiki/Stable_marriage_problem",
+  "note": ""
+ },
+ {
+  "claim": "Invasive species management costs approximately $1.4 trillion annually worldwide, with economic damage alone exceeding $423 billion per year.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "approximately $1.4 trillion annually ... was estimated to exceed $423 billion annually as of 2019",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": ""
+ },
+ {
+  "claim": "Forensic anthropologists helped identify victims of the 9/11 terrorist attacks, plane crashes, and genocide investigations in Rwanda and Srebrenica.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Anthropologists have been tasked with helping to identify victims of the 9/11 terrorist attacks ... War crimes anthropologists have helped investigate include the Rwandan genocide and the Srebrenica Genocide.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "One of the first stars known to approach the Sun particularly close is Gliese 710.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "One of the first stars known to approach the Sun particularly close is Gliese 710.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "LISP (1958) introduced garbage collection, recursive functions, and tree data structures — concepts that took decades to become mainstream in other languages.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "Page only says LISP (1958) was invented by John McCarthy; garbage collection, recursion, trees not attributed to it."
+ },
+ {
+  "claim": "Invasive plants can hijack mycorrhizal networks, changing which species the fungi connect to in order to spread allelopathic chemicals to native plants.",
+  "verdict": "overstated",
+  "corrected_claim": "The allelopathic invasive spotted knapweed can change which plants a mycorrhizal fungus prefers to connect to, so that it shares a network with the native plants it targets.",
+  "quote": "Spotted knapweed can alter which plant species a certain AM fungus prefers to connect to ... changing the structure of the network so that the invasive plant shares a network with its target",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Page gives one species (spotted knapweed), not invasive plants generally."
+ },
+ {
+  "claim": "Driving Myself Home\" as a joke after a blind date, only for it to go viral on TikTok?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/October",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Butterfly wing colors come from two sources: pigments like melanin for blacks and browns, and structural coloration where microscopic scales create iridescent blues and greens.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "they are pigmented with melanins that give them blacks and browns ... many of the blues, greens, reds and iridescent colours are created by structural coloration",
+  "source_url": "https://en.wikipedia.org/wiki/Butterfly",
+  "note": ""
+ },
+ {
+  "claim": "Food allergies affect about 4-8% of people in developed countries, and they are more common in children than adults.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the developed world, about 4% to 8% of people have at least one food allergy. They are more common in children than adults and appear to be increasing in frequency.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": ""
+ },
+ {
+  "claim": "A distinction is drawn between a discovery and an invention, as discussed for example by Bolesław Prus.",
+  "verdict": "overstated",
+  "corrected_claim": "A distinction is sometimes drawn between a discovery and an invention, as discussed for example by Bolesław Prus.",
+  "quote": "A distinction is sometimes drawn between a discovery and an invention, as discussed for example by Bolesław Prus.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Claim drops the hedge 'sometimes'."
+ },
+ {
+  "claim": "Finnish can express 'to occasionally write short passages at a time' in a single word (kirjoitella) — English requires a whole phrase.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "kirjoitella or pisywać (a regular frequentative, 'to occasionally write short passages at a time'",
+  "source_url": "https://en.wikipedia.org/wiki/Untranslatability",
+  "note": ""
+ },
+ {
+  "claim": "The Weimar hyperinflation of 1923 saw prices double every 3.7 days — people were paid twice daily and rushed to spend money before it lost value; a loaf of bread cost 200 billion marks.",
+  "verdict": "overstated",
+  "corrected_claim": "During the Weimar hyperinflation, a loaf of bread in Berlin that cost around 160 marks at the end of 1922 cost 200 billion marks by late 1923.",
+  "quote": "A loaf of bread in Berlin that cost around 160 marks at the end of 1922 cost 200 billion marks by late 1923.",
+  "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_the_Weimar_Republic",
+  "note": "3.7-day doubling and twice-daily pay not on page."
+ },
+ {
+  "claim": "Cheatgrass has altered fire regimes in western North America so severely that it provides fuel for frequent fires that native plants cannot survive.",
+  "verdict": "overstated",
+  "corrected_claim": "Cheatgrass, originally from Eurasia, spreads rapidly after burning and increases the frequency and intensity of fires by providing large amounts of dry detritus during the fire season in western North America.",
+  "quote": "Cheatgrass (Bromus tectorum), originally from Eurasia, is highly fire-adapted. It spreads rapidly after burning, and increases the frequency and intensity of fires by providing large amounts of dry detritus during the fire season in western North America.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page does not say native plants cannot survive."
+ },
+ {
+  "claim": "William Maples identified the remains of Czar Nicholas II and the Romanov family, and examined President Zachary Taylor's remains for arsenic poisoning.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Worked on the identification of Czar Nicholas II and other members of the Romanov family ... the examination of President Zachary Taylor's remains for arsenic poisoning.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "The star, whose mass is roughly half that of the Sun, is currently 62 light-years from the Solar System.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The star, whose mass is roughly half that of the Sun, is currently 62 light-years from the Solar System.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Elsewhere the page lists Gliese 710 at roughly 60% of the Sun's mass."
+ },
+ {
+  "claim": "The term 'object-oriented programming' comes from Simula (1967), created by Nygaard and Dahl — the first language designed specifically for simulation.",
+  "verdict": "overstated",
+  "corrected_claim": "Simula, invented in the late 1960s by Nygaard and Dahl as a superset of ALGOL 60, was the first language designed to support object-oriented programming.",
+  "quote": "Simula, invented in the late 1960s by Nygaard and Dahl as a superset of ALGOL 60 ... the first language designed to support object-oriented programming",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "Page says first language designed for OOP, not for simulation; origin of the term not stated."
+ },
+ {
+  "claim": "Some plants like Monotropa ('ghost pipe') are parasites that steal all their food through mycorrhizal networks — they can't photosynthesize at all.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Page does not mention Monotropa/ghost pipe or non-photosynthetic plants."
+ },
+ {
+  "claim": "Saracens before turning against them to join the First Crusade?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/October",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The caterpillar dissolves almost completely into a 'soup' inside its chrysalis before reorganizing into a butterfly—only certain clusters of cells called imaginal discs survive.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Metamorphosis",
+  "note": "Page does not describe tissue breakdown into 'soup' or imaginal discs inside the chrysalis."
+ },
+ {
+  "claim": "The 'Big Eight' food allergens—milk, eggs, peanuts, tree nuts, fish, shellfish, soy, and wheat—account for about 90% of all allergic reactions.",
+  "verdict": "overstated",
+  "corrected_claim": "The most common food allergies are milk, eggs, peanuts, tree nuts, fish, shellfish, soy, and wheat, a group known as 'the big eight.'",
+  "quote": "The most common food allergies are those to milk, egg, peanuts, tree nuts, fish, shellfish, soy, and wheat.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": "90% share of reactions not stated on page."
+ },
+ {
+  "claim": "However, discoveries and inventions are inextricably related, in that discoveries lead to inventions, and inventions facilitate discoveries; and since the same phenomenon of multiplicity occurs in relation to both discoveries and inventions, this article lists both multiple discoveries and multiple inventions.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "However, discoveries and inventions are inextricably related, in that discoveries lead to inventions, and inventions facilitate discoveries",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). Remainder of sentence also on page."
+ },
+ {
+  "claim": "Turkish has a grammatical suffix (-miş) that indicates you didn't witness something yourself — you have to mark hearsay in every sentence.",
+  "verdict": "overstated",
+  "corrected_claim": "Turkish has a suffix, -miş, that indicates the speaker did not witness the act personally — often used when telling jokes or stories.",
+  "quote": "which indicates that the speaker did not witness the act personally",
+  "source_url": "https://en.wikipedia.org/wiki/Untranslatability",
+  "note": "Page doesn't say hearsay must be marked in every sentence."
+ },
+ {
+  "claim": "Present bias explains why people sign up for gym memberships they don't use — they overvalue their future self's motivation while undervaluing their current self's desire to relax.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Present_bias",
+  "note": "Page doesn't mention gym memberships."
+ },
+ {
+  "claim": "Japanese knotweed (Reynoutria japonica) is considered one of the world's worst invasive species, able to grow through concrete and decrease property values.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page only names Japanese knotweed as an invasive plant; nothing on 'worst', concrete or property values."
+ },
+ {
+  "claim": "Forensic anthropologist Clyde Snow worked on identifying King Tutankhamun, victims of the Oklahoma City bombing, and the investigation into JFK's assassination.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Worked on the identification of King Tutankhamun and the victims of the Oklahoma City bombing ... the investigation into the murder of John F. Kennedy.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "Physical Properties of ~ 1000 Cool Stars from the SPOCS Catalog\".",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Citation-title fragment, not a fact; no SPOCS reference found in fetched page text."
+ },
+ {
+  "claim": "Backus-Naur Form (BNF), the notation for describing programming language syntax, was invented for ALGOL 60 — nearly all subsequent languages use variants of it.",
+  "verdict": "overstated",
+  "corrected_claim": "ALGOL 60's syntax was described using a mathematically exact notation, Backus–Naur form (BNF) — and nearly all subsequent programming languages have used a variant of BNF.",
+  "quote": "a mathematically exact notation, Backus–Naur form (BNF), was used to describe the language's syntax. Nearly all subsequent programming languages have used a variant of BNF to describe the context-free portion",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": "Page says BNF was used for ALGOL 60, not that it was invented for it."
+ },
+ {
+  "claim": "β-lactamase enzymes that destroy penicillin evolved over 2 billion years ago — bacteria had antibiotic resistance before antibiotics existed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "these ancient enzymes originated more than two billion years ago",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": ""
+ },
+ {
+  "claim": "Australia's first televised fictional same-sex wedding since the country voted in favour of legalising same-sex marriage?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/October",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Some male butterflies plug the female's genital opening after mating to prevent her from mating again—ensuring his genes are passed on.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "in some species such as the Apollos (Parnassius) plugs her genital opening to prevent her from mating again.",
+  "source_url": "https://en.wikipedia.org/wiki/Butterfly",
+  "note": ""
+ },
+ {
+  "claim": "Sesame became the ninth mandatory food allergen label in the US in 2021 when President Biden signed the FASTER Act.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In April 2021, President Biden signed the FASTER Act into law. This recognized sesame as the ninth US mandatory food label allergen.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": ""
+ },
+ {
+  "claim": "230 BCE) was the first known originator of a heliocentric (solar) system.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Aristarchus of Samos(c. 310 – c. 230 BCE) was the first known originator of a heliocentric (solar) system.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Claim is a fragment; subject is Aristarchus of Samos."
+ },
+ {
+  "claim": "The German word 'doch' has no English equivalent — it roughly means 'Don't you realize that...' or 'Actually, yes, contrary to what you said.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The most infamous example perhaps is doch (Dutch: toch, Danish: dog), which roughly means \"Don't you realize that . . . ?\" or \"In fact it is so, though someone is denying it.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Untranslatability",
+  "note": ""
+ },
+ {
+  "claim": "The Kolkata Paise Restaurant Problem shows how uncoordinated choices lead to inefficiency — when many people independently choose the 'best' restaurant, it becomes overcrowded while others stay empty.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Kolkata_Paise_Restaurant_problem",
+  "note": "Page failed to load (URL_NOT_FOUND) on two attempts."
+ },
+ {
+  "claim": "Water hyacinth can double its population in just two weeks, forms dense mats blocking light and oxygen, and creates massive management costs worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "Water hyacinth forms dense mats on water surfaces, limiting light penetration and harming aquatic organisms — and creating substantial management costs.",
+  "quote": "The water hyacinth (Pontederia crassipes) forms dense mats on water surfaces, limiting light penetration and hence harming aquatic organisms, and creating substantial management costs.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Two-week doubling and oxygen blocking not on page."
+ },
+ {
+  "claim": "Bone osteons (microscopic bone structures) constantly regenerate—younger adults have fewer and larger osteons while older adults have smaller and more osteon fragments, helping estimate skeletal age.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Younger adults have fewer and larger osteons while older adults have smaller and more osteon fragments.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "Table 4 \"The Census of Stars and Brown Dwarfs within 8 Parsecs of the Sun\" in Bailer-Jones, C.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Citation-title fragment, not a fact; no such Bailer-Jones reference found in fetched page text."
+ },
+ {
+  "claim": "Python includes Tcl in its distribution to support GUI programming through Tkinter — a case of one language embedding another for practical reasons.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Python and Ruby included Tcl to support graphical user interface (GUI) programming through libraries like Tkinter",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_programming_languages",
+  "note": ""
+ },
+ {
+  "claim": "Traces of tetracycline have been found in human bones from ancient Sudanese Nubia dating to 350-550 CE — people were accidentally consuming antibiotics 1,500 years ago.",
+  "verdict": "overstated",
+  "corrected_claim": "Traces of tetracycline have been found in human skeletal remains from ancient Sudanese Nubia dating back to 350–550 CE.",
+  "quote": "The traces of tetracycline, for example, have been found in human skeletal remains from ancient Sudanese Nubia dating back to 350–550 CE",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "'Accidentally consuming' not stated on page."
+ },
+ {
+  "claim": "Catalan Cup in the same round as the Barcelona women's first team?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/October",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Large blue butterfly caterpillars produce chemicals that trick ants into carrying them into their nest, where the caterpillars then eat ant larvae.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "trick the ants into taking them back to the ant nest ... Laboratory studies have shown that large blue butterfly larvae first consume the largest ant larvae.",
+  "source_url": "https://en.wikipedia.org/wiki/Phengaris_arion",
+  "note": ""
+ },
+ {
+  "claim": "About 20% of people with peanut allergies may outgrow them, but only 9% of those with tree nut allergies do.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "evidence shows that ~20% of those with peanut allergies and 9% of those with tree nut allergies may outgrow them",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": ""
+ },
+ {
+  "claim": "Later independently rediscovered by the Europeans Michael Servetus (1553) and William Harvey (1616).",
+  "verdict": "overstated",
+  "corrected_claim": "Pulmonary circulation, first described by Ibn al-Nafis in 1242, was independently rediscovered by Michael Servetus in 1553 and by William Harvey in 1616.",
+  "quote": "was independently rediscovered by Michael Servetus in 1553 and by William Harvey in 1616.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Page does not use 'the Europeans'; claim lacks subject (pulmonary circulation)."
+ },
+ {
+  "claim": "Quechua speakers must mark every statement with an evidential clitic indicating whether they know something firsthand, by hearsay, or by inference.",
+  "verdict": "overstated",
+  "corrected_claim": "Nearly every Quechua sentence is marked by an evidential clitic: =mi for personal knowledge, =si for hearsay, and =chá for high probability.",
+  "quote": "The enclitic =mi expresses personal knowledge ... =si expresses hearsay knowledge ... =chá expresses high probability",
+  "source_url": "https://en.wikipedia.org/wiki/Untranslatability",
+  "note": "Page says nearly every sentence, and the third clitic marks probability, not inference."
+ },
+ {
+  "claim": "Credit default swaps grew from $6 trillion in 2004 to $62 trillion by 2007 — Warren Buffett called them 'financial weapons of mass destruction' before they helped trigger the 2008 crisis.",
+  "verdict": "overstated",
+  "corrected_claim": "The credit default swap market more than doubled each year from $3.7 trillion in 2003 to a notional $62.2 trillion by end-2007; Warren Buffett had called such derivatives 'financial weapons of mass destruction' in 2002, and CDSs are claimed to have exacerbated the 2008 crisis.",
+  "quote": "The market size for Credit Default Swaps more than doubled in size each year from $3.7 trillion in 2003. ... By the end of 2007, the CDS market had a notional value of $62.2 trillion.",
+  "source_url": "https://en.wikipedia.org/wiki/Credit_default_swap",
+  "note": "No $6 trillion 2004 figure; page says CDSs are claimed to have exacerbated, not triggered, the crisis"
+ },
+ {
+  "claim": "Lantana camara, originally from Central and South America, is now invasive in over 60 countries and is highly toxic to livestock.",
+  "verdict": "overstated",
+  "corrected_claim": "The shrub lantana (Lantana camara) is now considered invasive in over 60 countries, prompting aggressive federal efforts to control it in several.",
+  "quote": "The shrub lantana (Lantana camara) is now considered invasive in over 60 countries, and has invaded large geographies in several countries prompting aggressive federal efforts to control it.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Origin and livestock toxicity not on page."
+ },
+ {
+  "claim": "Past bone fractures are visible through bone remodeling, but after about seven years, the remodeling makes the fracture impossible to detect—a timeline useful in forensic investigations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After around seven years, bone remodelling should make the presence of a fracture impossible to see.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "This is a list of the most massive stars that have been discovered, in solar mass units (M☉).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "This is a list of the most massive stars that have been discovered, in solar mass units (M☉).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "The field of AI research was officially founded at the Dartmouth Workshop in 1956 — attendees included Minsky, McCarthy, Shannon, and others who would lead AI for decades.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Dartmouth workshop of 1956 was a pivotal event that marked the formal inception of AI as an academic discipline. ... It was organized by Marvin Minsky and John McCarthy, with the support of two senior scientists Claude Shannon ... Attendees of the workshop became the leaders of AI research for decades.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "The first hospital-used antibiotic, Pyocyanase (1899), was made from Pseudomonas aeruginosa bacteria — decades before penicillin.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the first hospital use of a drug that we would name an antibiotic today was the so-called Pyocyanase prepared by Emmerich and Löw ... from Pseudomonas aeruginosa (formerly Bacillus pycyaneus)",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "1899 appears in the citation to Emmerich and Löw."
+ },
+ {
+  "claim": "German occupying authorities only gave them 8 percent of the seats?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/November",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The Melissa Arctic butterfly overwinters twice as a caterpillar—spending two consecutive winters frozen solid before pupating.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Oeneis_melissa",
+  "note": "Page has no information on overwintering or life-cycle length."
+ },
+ {
+  "claim": "Food allergy is different from food intolerance—allergies involve an immune response with IgE antibodies, while intolerances do not.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A food intolerance and food poisoning are separate conditions, not due to an immune response. Allergies occur when immunoglobulin E (IgE), part of the body's immune system, binds to molecules in food, usually proteins.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": ""
+ },
+ {
+  "claim": "Ancient references to the same concept include one in Aristophanes' comedy The Frogs (405 BCE), which compares bad politicians to bad coin (bad politicians and bad coin, respectively, drive good politicians and good coin out of circulation).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ancient references to the same concept include one in Aristophanes' comedy The Frogs (405 BCE), which compares bad politicians to bad coin",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Refers to Gresham's law."
+ },
+ {
+  "claim": "The Sapir-Whorf hypothesis proposes that language shapes thought — though strong determinism is rejected, weaker versions have experimental support.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "since then it has fallen out of acceptance by contemporary linguists. ... Nevertheless, research has produced positive empirical evidence supporting a weaker version of linguistic relativity",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Strong version rejected; weaker version has empirical support."
+ },
+ {
+  "claim": "Nudge theory, developed by Thaler and Sunstein, shows small design changes dramatically affect behavior — cafeteria studies found moving fruit to eye level increased consumption by 27%.",
+  "verdict": "overstated",
+  "corrected_claim": "Nudge theory, popularized by Thaler and Sunstein's 2008 book, holds that small changes in choice design steer behavior — putting fruit at eye level counts as a nudge.",
+  "quote": "The nudge concept was popularized in the 2008 book ... Putting fruit at eye level counts as a nudge.",
+  "source_url": "https://en.wikipedia.org/wiki/Nudge_theory",
+  "note": "No cafeteria study or 27% figure on page; Thaler/Sunstein popularized rather than developed it."
+ },
+ {
+  "claim": "Mother of thousands (Kalanchoe daigremontana) produces allelopathic compounds that chemically inhibit competing plants from growing nearby.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some, like mother of thousands (Kalanchoe daigremontana), produce allelopathic compounds that inhibit competitors.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": ""
+ },
+ {
+  "claim": "Thomas Wingate Todd created the first large collection of human skeletons in 1912, acquiring 3,300 human skulls and skeletons for scientific research.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was primarily responsible for the creation of the first large collection of human skeletons in 1912 ... In total, Todd acquired 3,300 human skulls and skeletons",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "Indeed, many of the masses listed in the table below are inferred from theory, using difficult measurements of the stars' temperatures, composition, and absolute brightnesses.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "using difficult measurements of the stars' temperatures, composition, and absolute magnitude",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). Page says 'absolute magnitude' rather than 'absolute brightnesses' (same meaning)."
+ },
+ {
+  "claim": "In 1970, Marvin Minsky predicted in Life Magazine that 'in from three to eight years we will have a machine with the general intelligence of an average human being.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1970, Marvin Minsky (in Life magazine): \"In from three to eight years we will have a machine with the general intelligence of an average human being.\"",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "Each year 25,000 patients in the EU and 63,000 in the US die from infections with multidrug-resistant bacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "Each year about 25,000 patients in the EU die from infections with selected multidrug-resistant bacteria, and more than 63,000 patients in the US die from hospital-acquired bacterial infections.",
+  "quote": "Each year, about 25,000 patients in the EU die from an infection with the selected multidrug-resistant bacteria ... more than 63,000 patients in the United States die every year from hospital-acquired bacterial infections",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "US figure refers to hospital-acquired infections, not multidrug-resistant ones."
+ },
+ {
+  "claim": "China's first full-length feature film, was banned within two years?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/November",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Male butterflies often 'puddle'—gathering at mud, dung, or carrion to extract sodium and other minerals, which they transfer to females during mating.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In many species, puddling behaviour is more commonly seen in males. ... conspicuous insects such as butterflies commonly form aggregations on wet soil, dung, or carrion. ... The collected sodium and amino acids are often transferred to the female with the spermatophore during mating",
+  "source_url": "https://en.wikipedia.org/wiki/Puddling_(behavior)",
+  "note": ""
+ },
+ {
+  "claim": "About 10% of children with milk allergies also react to beef, because it contains small amounts of proteins present in cow's milk.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A small portion of children with milk allergy, roughly 10%, have a reaction to beef ... it contains small amounts of protein that are also present in cow's milk.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": ""
+ },
+ {
+  "claim": "In addition, in 1885 Eduard Suess had proposed a supercontinent Gondwana and in 1893 the Tethys Ocean, assuming a land-bridge between the present continents submerged in the form of a geosyncline; and in 1895 John Perry had written a paper proposing that the Earth's interior was fluid, and disagreeing with Lord Kelvin on the age of the Earth.",
+  "verdict": "overstated",
+  "corrected_claim": "Eduard Suess proposed the former existence of a supercontinent named Gondwana, and in 1895 John Perry proposed that the Earth's interior was fluid, disagreeing with Lord Kelvin on the age of the Earth.",
+  "quote": "proposed the former existence of a supercontinent named Gondwana ... proposed that the Earth's interior was fluid and notably disagreed with Lord Kelvin on the age of the Earth.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Current page wording differs; 'had written a paper' not stated."
+ },
+ {
+  "claim": "Russian speakers, who have separate words for light blue and dark blue, can distinguish those colors faster than English speakers.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Page does not mention Russian light/dark blue terms or discrimination-speed studies."
+ },
+ {
+  "claim": "The Trembling Hand equilibrium, introduced by Reinhard Selten, accounts for the possibility that players might make mistakes — eliminating Nash equilibria that rely on incredible threats.",
+  "verdict": "overstated",
+  "corrected_claim": "Trembling hand perfect equilibrium, first proposed by Reinhard Selten, assumes players may choose unintended strategies with negligible probability — ruling out equilibria built on weakly dominated strategies.",
+  "quote": "first proposed by Reinhard Selten ... may choose unintended strategies, albeit with negligible probability",
+  "source_url": "https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium",
+  "note": "Page doesn't mention incredible threats; it deals with mistakes/off-equilibrium play."
+ },
+ {
+  "claim": "Spotted knapweed can alter which plants an AM fungus connects to, restructuring underground networks to increase its competitive advantage.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page does not mention spotted knapweed or mycorrhizal fungi."
+ },
+ {
+  "claim": "The BTK serial killer Dennis Rader was caught in 2005 after metadata in a floppy disk he sent to police revealed his identity—technology that didn't exist when he committed his crimes.",
+  "verdict": "overstated",
+  "corrected_claim": "BTK serial killer Dennis Rader, convicted in 2005, was arrested thanks to metadata found on a floppy disk he sent to police.",
+  "quote": "Rader's arrest was made possible by metadata found in a floppy disk he sent to police",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Page does not say technology didn't exist at the time of his crimes or give the arrest year"
+ },
+ {
+  "claim": "All the listed stars are many thousands of light years away making their light especially faint, which makes measurements difficult.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "All the listed stars are many thousands of light years away making their light especially faint, which makes measurements difficult.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "ELIZA (1966) was the first chatbot — users often believed they were talking to a human, even though it just rephrased their statements using simple pattern matching.",
+  "verdict": "overstated",
+  "corrected_claim": "ELIZA was the first chatbot — it simply gave canned responses or repeated back what was said to it, yet users were occasionally fooled into thinking they were talking to a human.",
+  "quote": "ELIZA was the first chatbot. ... users occasionally were fooled into thinking they were communicating with a human being and not with a computer program ... simply gave a canned response or repeated back what was said to it",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": "Page says users 'occasionally' were fooled, not 'often'; 'pattern matching' not stated."
+ },
+ {
+  "claim": "The golden era of antibiotic discovery was the 1950s-1970s — no new antibiotic classes have been discovered since then.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The period between the 1950s and 1970s was indeed the golden era of discovery of novel antibiotics classes, with no new classes discovered since then.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": ""
+ },
+ {
+  "claim": "Bradford, England, was \"a rare example of a public house built by a local authority\"?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/January",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Queen Alexandra's birdwing is the world's largest butterfly, with wingspans reaching 31 cm—and is one of only three insects protected under CITES international trade laws.",
+  "verdict": "overstated",
+  "corrected_claim": "Queen Alexandra's birdwing is the world's largest butterfly, with females reaching wingspans slightly over 25–28 cm, and it is one of only four insects listed on Appendix I of CITES.",
+  "quote": "is the largest species of butterfly in the world. ... females reaching wingspans slightly in excess of 25 to 28 cm (10 to 11 in) ... one of only four insects to be listed on Appendix I of CITES.",
+  "source_url": "https://en.wikipedia.org/wiki/Queen_Alexandra%27s_birdwing",
+  "note": "Wingspan 31 cm not stated (25-28 cm); it is one of four, not three, CITES Appendix I insects."
+ },
+ {
+  "claim": "Peanut allergies tend to cause more severe reactions and anaphylaxis than other food allergies, affecting about 2% of Western populations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Affecting about 2% of the Western population, peanut allergies tend to cause more severe reactions and anaphylaxis than other food allergies.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": ""
+ },
+ {
+  "claim": "1662: Boyle's law (sometimes referred to as the \"Boyle-Mariotte law\") is one of the gas laws and basis of derivation for the ideal gas law, which describes the relationship between the product pressure and volume within a closed system as constant when temperature remains at a fixed measure.",
+  "verdict": "overstated",
+  "corrected_claim": "Boyle's law was first formulated by Anglo-Irish chemist Robert Boyle, who published the original law in 1662.",
+  "quote": "was first formulated by Anglo-Irish chemist Robert Boyle, who published the original law in 1662.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Page does not describe it as basis of the ideal gas law or give the pressure-volume description."
+ },
+ {
+  "claim": "The Hopi language was once claimed to have no concept of time — but this turned out to be a misunderstanding by linguist Benjamin Whorf.",
+  "verdict": "overstated",
+  "corrected_claim": "Whorf argued that Hopi does not treat the flow of time as a sequence of distinct, countable instances, but linguist Ekkehart Malotki later found no evidence that Hopi conceptualize time the way Whorf suggested.",
+  "quote": "Hopi does not treat the flow of time as a sequence of distinct, countable instances ... he concluded that there was no evidence that Hopi conceptualize time in the way Whorf suggested.",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Whorf's claim was not 'no concept of time'; page frames it as Malotki finding no evidence, not a 'misunderstanding'."
+ },
+ {
+  "claim": "Zimbabwe's 2008 hyperinflation reached 89.7 sextillion percent (89.7 × 10²¹) per year — the government printed 100 trillion dollar notes that became worthless within days.",
+  "verdict": "overstated",
+  "corrected_claim": "Zimbabwe's hyperinflation reached 89.7 sextillion percent year-on-year in mid-November 2008 — at that time a $100 trillion banknote could not pay for a simple bus fare.",
+  "quote": "89.7 sextillion (8.97×1022) percent year-on-year in mid-November 2008 ... At that time, a $100 trillion banknote could not pay for a simple bus fare.",
+  "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe",
+  "note": "'Worthless within days' not stated."
+ },
+ {
+  "claim": "In Cape Town, removing invasive plants like acacias, pines, and eucalyptus would generate 50 billion liters of additional water annually within 5 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "through the removal of thirsty alien plant invasions (such as Australian acacias, pines, eucalyptus, and Australian black wattle) would generate expected annual water gains of 50 billion liters within 5 years",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "A projection compared to business-as-usual."
+ },
+ {
+  "claim": "The oldest criminal case ever solved using DNA evidence occurred in 2011, when Samuel Evans was convicted of James Keuler's 1968 murder—43 years after the crime.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Oldest case ever solved using DNA evidence.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Table lists Evans conviction 2011 for Keuler's 1968 murder"
+ },
+ {
+  "claim": "In addition to being far away, many stars of such extreme mass are surrounded by clouds of outflowing gas created by extremely powerful stellar winds; the surrounding gas interferes with the already difficult-to-obtain measurements of stellar temperatures and brightnesses, which greatly complicates the issue of estimating internal chemical compositions and structures.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "The surrounding gas interferes with the already difficult-to-obtain measurements of stellar temperatures and brightness",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). Minor wording differences; same content."
+ },
+ {
+  "claim": "The perceptron (1958) could learn to classify patterns, but Minsky and Papert's 1969 book showed it couldn't learn XOR — effectively killing neural network research for a decade.",
+  "verdict": "overstated",
+  "corrected_claim": "Frank Rosenblatt introduced the perceptron in 1958, but after Minsky and Papert's 1969 book Perceptrons, virtually no research was funded in connectionism for 10 years.",
+  "quote": "introduced in 1958 by Frank Rosenblatt ... In 1969, research came to a sudden halt with the publication of Minsky and Papert's 1969 book Perceptrons. ... The effect of the book was that virtually no research was funded in connectionism for 10 years.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": "XOR is not mentioned on the page; perceptron's pattern-classification claim not stated."
+ },
+ {
+  "claim": "Treponema pallidum (syphilis) has remained susceptible to penicillin for 80+ years — one of the few bacteria that hasn't developed resistance.",
+  "verdict": "overstated",
+  "corrected_claim": "Treponema pallidum, the syphilis bacterium, has still not developed resistance to penicillin, unlike many other pathogenic bacteria such as the Enterobacteriaceae.",
+  "quote": "Surprisingly, this is still true for T. pallidium, but not for many other pathogenic bacteria, including the Enterobacteriaceae.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "'80+ years' and 'one of the few' not stated."
+ },
+ {
+  "claim": "First World War and was sunk by a U-boat, with the loss of more than 100 lives?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/January",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Butterflies cannot fly if their body temperature drops below 27°C (81°F)—they must bask in sunlight to warm their flight muscles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Butterflies can only fly when their temperature is above 27 °C (81 °F).",
+  "source_url": "https://en.wikipedia.org/wiki/Butterfly",
+  "note": ""
+ },
+ {
+  "claim": "Early childhood exposure to potential allergens may actually protect against developing food allergies later—contrary to older advice to avoid these foods.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Early childhood exposure to potential allergens may be protective against later development of a food allergy.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": ""
+ },
+ {
+  "claim": "The French physicist Edme Mariotte discovered the same law independently of Boyle in 1676.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The French physicist Edme Mariotte discovered the same law independently of Boyle in 1676.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The 'many Inuit words for snow' is mostly a myth — Inuit languages have about as many root words for snow as English, though they can create more through agglutination.",
+  "verdict": "overstated",
+  "corrected_claim": "One of Whorf's famous examples, the supposedly large number of words for 'snow' in the Inuit languages, was later contested as a misrepresentation.",
+  "quote": "One of Whorf's examples was the supposedly large number of words for 'snow' in the Inuit languages, an example that later was contested as a misrepresentation.",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Page does not mention root-word counts vs English or agglutination."
+ },
+ {
+  "claim": "The decoy effect shows adding an inferior third option changes preferences between two products — movie theaters use small/medium/large popcorn pricing to make large seem like the best value.",
+  "verdict": "overstated",
+  "corrected_claim": "The decoy effect shows that adding an unattractive third option can change people's preference between the other two options.",
+  "quote": "the decoy effect (or attraction effect or asymmetric dominance effect) is a phenomenon in consumer decision-making ... the inclusion of unattractive third option can change the perceived preference between the other two.",
+  "source_url": "https://en.wikipedia.org/wiki/Decoy_effect",
+  "note": "Page has no popcorn/movie theater example."
+ },
+ {
+  "claim": "Barbed goatgrass thrives on serpentine soils toxic to most plants, with low nutrients and heavy metal toxicity, allowing it to dominate and crowd out natives.",
+  "verdict": "overstated",
+  "corrected_claim": "Barbed goatgrass was introduced to California on serpentine soils — low in water retention and nutrients, with possible heavy metal toxicity — where it can form dense stands and crowd out native species.",
+  "quote": "barbed goatgrass (Aegilops triuncialis) was introduced to California on serpentine soils, which have low water-retention, low nutrient levels, a high magnesium/calcium ratio, and possible heavy metal toxicity. ... goatgrass can form dense stands on these soils and crowd out native species.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page says 'possible' toxicity, not 'toxic to most plants'."
+ },
+ {
+  "claim": "The 16th Street Baptist Church bombing of 1963 wasn't prosecuted until 1977-2002 because the FBI identified the perpetrators in 1965 but the case was shelved for political reasons.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the FBI had identified Chambliss, Blanton, Cherry and a fourth Klansman as the perpetrators already in 1965 ... no arrests were made for political reasons, and the case was shelved in 1968",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Convictions in 1977, 2001 and 2002 per table"
+ },
+ {
+  "claim": "This obscuration leads to difficulties in determining the parameters needed to calculate the star's mass.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "This outflow obscures the stars, making it difficult to determine the physical properties of the star",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). Page wording differs slightly; same content."
+ },
+ {
+  "claim": "Frank Rosenblatt and Marvin Minsky were schoolmates at Bronx High School of Science — years later, Minsky's criticism of perceptrons effectively ended Rosenblatt's research funding.",
+  "verdict": "overstated",
+  "corrected_claim": "Frank Rosenblatt, inventor of the perceptron, had been a schoolmate of Marvin Minsky at the Bronx High School of Science — Minsky later co-wrote the 1969 book Perceptrons, which suggested severe limits to what perceptrons could do.",
+  "quote": "who had been a schoolmate of Marvin Minsky at the Bronx High School of Science ... Rosenblatt failed to secure continued funding in the 1960s. ... suggested that there were severe limitations to what perceptrons could do",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": "Page does not say Minsky's criticism ended Rosenblatt's funding; his funding ran out in the 1960s (MINOS in 1966), before the 1969 book."
+ },
+ {
+  "claim": "Red soils in Jordan have been used for thousands of years to treat skin infections — they contain antibiotic-producing bacteria that make actinomycin.",
+  "verdict": "overstated",
+  "corrected_claim": "Red soils in Jordan have historically been used to treat skin infections, and actinomycete bacteria isolated from them produce actinomycin C2 and C3.",
+  "quote": "anecdotes about the antibiotic-like properties of red soils in Jordan ... for treating skin infections ... The actinomycete bacteria isolated from these soils produced actinomycin C2 and actinomycin C3",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "'Thousands of years' not stated; page says historically."
+ },
+ {
+  "claim": "Selfie of Ong, commonly replicated by the Step Chickens\" src=\"//upload.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/February",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Termites are not ants—they're actually highly social cockroaches that evolved eusociality independently from ants, bees, and wasps.",
+  "verdict": "overstated",
+  "corrected_claim": "Termites are not ants but highly derived cockroaches — their only resemblance to ants comes from sociality that arose through convergent evolution.",
+  "quote": "they are not ants but highly derived cockroaches ... the only resemblance to the ants is due to their sociality which is due to convergent evolution",
+  "source_url": "https://en.wikipedia.org/wiki/Termite",
+  "note": "Page mentions convergence with ants only, not bees and wasps."
+ },
+ {
+  "claim": "Fish allergies are more common in countries with high fish consumption compared to those with lower consumption.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Fish allergies were found to be more common in countries that have high fish consumption",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": ""
+ },
+ {
+  "claim": "1749: Lightning rod – Benjamin Franklin (1749) and Prokop Diviš (1754) (debated: Diviš's apparatus is assumed to have been more effective than Franklin's lightning rods in 1754, but was intended for a different purpose than lightning protection).",
+  "verdict": "overstated",
+  "corrected_claim": "The lightning rod was invented by Benjamin Franklin in 1749 and by Prokop Diviš in 1754; Diviš's apparatus is assumed to have been more effective, though it was intended for a different purpose.",
+  "quote": "The lightning rod was invented by Benjamin Franklin in 1749 and by Prokop Diviš in 1754. ... Diviš's apparatus is assumed to have been more effective than Franklin's lightning rod",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Minor wording differences vs current page."
+ },
+ {
+  "claim": "English has about 30-45 phonemes depending on dialect — far more than Pirahã (10-13) but far fewer than !Xóõ (164+ consonants alone).",
+  "verdict": "overstated",
+  "corrected_claim": "English has 13–21 vowel phonemes and 22–26 consonants depending on dialect — more than Pirahã (9–11 phonemes in total) but fewer consonants than !Xóõ (around 77).",
+  "quote": "The total phonemic inventory in languages varies from as few as 9–11 in Pirahã ... has somewhere around 77",
+  "source_url": "https://en.wikipedia.org/wiki/Phoneme",
+  "note": "Pirahã given as 9–11 and !Xóõ ~77 consonants, not 164+."
+ },
+ {
+  "claim": "Subgame perfect equilibrium refines Nash equilibrium by requiring strategies to be optimal at every point in the game — eliminating threats that players wouldn't actually carry out.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is a refinement of the Nash equilibrium concept, specifically designed for dynamic games ... A strategy profile is an SPE if it represents a Nash equilibrium in every possible subgame of the original game. ... eliminating non-credible threats.",
+  "source_url": "https://en.wikipedia.org/wiki/Subgame_perfect_equilibrium",
+  "note": ""
+ },
+ {
+  "claim": "In India, invasive plants have invaded 66% of natural areas, reducing native forage plants and threatening the long-term survival of tigers and other carnivores.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In India, multiple invasive plants have invaded 66% of natural areas, reducing the densities of native forage plants, declining the habitat-use by wild herbivores and threatening the long-term sustenance of dependent carnivores, including tigers.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": ""
+ },
+ {
+  "claim": "In 1983, Peter Reyn-Bardt confessed to murder after peat cutters found human remains in a bog—but carbon-14 dating later showed the remains were thousands of years old. He was still convicted based on his detailed confession.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "after peat cutters found human remains there ... Carbon 14 testing later showed the remains to be thousands of years old.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Table shows conviction December 1983"
+ },
+ {
+  "claim": "Both the obscuring clouds and the great distances also make it difficult to judge whether the star is just a single supermassive object or, instead, a multiple star system.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Both the obscuring clouds and the great distances also make it difficult to judge whether the star is just a single supermassive object or, instead, a multiple star system.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The first AI winter (1974-1980) began when promised results failed to materialize — DARPA's funding was cut after the British Lighthill Report criticized AI research as overhyped.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": "Page says DARPA cancelled its $3M grant over disappointment with CMU's Speech Understanding Research program (plus Mansfield Amendment), not because of Lighthill; it does not call 1974-80 an AI winter."
+ },
+ {
+  "claim": "Paul Ehrlich tested 606 different compounds before finding Salvarsan — the first synthetic antibiotic — showing drug discovery has always been a numbers game.",
+  "verdict": "overstated",
+  "corrected_claim": "Paul Ehrlich's team synthesized hundreds of arsenic compounds before finding compound 606, the sixth in the 600th series, which became the hit drug Salvarsan.",
+  "quote": "they synthesized hundreds of organoarsenic derivatives of a highly toxic drug Atoxyl ... they came across the sixth compound in the 600th series tested, thus numbered 606 ... the drug, marketed by Hoechst under the name Salvarsan, was a great success",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "606 was the compound's number, not the count tested; page does not call it the first synthetic antibiotic."
+ },
+ {
+  "claim": "Darwin's first sketch of an evolutionary tree\" src=\"//upload.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/February",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Termite queens of the species Macrotermes bellicosus can grow to over 15 cm (6 inches) long—their abdomens swell enormously to produce eggs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The largest of all extant termites are the queens of the species Macrotermes bellicosus, measuring up to over 4.5 and 6 inches (11 and 15 cm) ... the abdomen of the queen swells up dramatically to increase fecundity",
+  "source_url": "https://en.wikipedia.org/wiki/Termite",
+  "note": ""
+ },
+ {
+  "claim": "Molecular gastronomy was coined in 1988 by Hungarian physicist Nicholas Kurti and French chemist Hervé This.",
+  "verdict": "overstated",
+  "corrected_claim": "The term 'molecular and physical gastronomy' was coined in 1988 by Hungarian physicist Nicholas Kurti and French physical chemist Hervé This.",
+  "quote": "The term \"molecular and physical gastronomy\" was coined in 1988 by Hungarian physicist Nicholas Kurti and French physical chemist Hervé This.",
+  "source_url": "https://en.wikipedia.org/wiki/Molecular_gastronomy",
+  "note": "Coined term was 'molecular and physical gastronomy'."
+ },
+ {
+  "claim": "1756: Law of conservation of matter – discovered by Mikhail Lomonosov, 1756; and independently by Antoine Lavoisier, 1778.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The law of conservation of matter was independently formulated by Mikhail Lomonosov in 1756 and by Antoine Lavoisier in 1778.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The 'p' in 'spit' and 'pit' are acoustically different sounds (unaspirated vs aspirated), but English speakers perceive them as the same phoneme.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "[p] for the p in spit versus [pʰ] for the p in pit, which in English is an aspirated allophone of /p/",
+  "source_url": "https://en.wikipedia.org/wiki/Phoneme",
+  "note": ""
+ },
+ {
+  "claim": "The Flash Crash of May 6, 2010 saw the Dow Jones drop 1,000 points (9%) in minutes before recovering — triggered by algorithmic trading and lasting just 36 minutes.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Flash Crash of May 6, 2010, the Dow plunged 998.5 points (about 9%), mostly within minutes; the crash lasted about 36 minutes and investigators pointed to a confluence of computer-automated trades among several explanations.",
+  "quote": "plunging 998.5 points (about 9%), most within minutes ... started at 2:32 p.m. EDT and lasted for approximately 36 minutes",
+  "source_url": "https://en.wikipedia.org/wiki/2010_flash_crash",
+  "note": "Drop was 998.5 points; page lists several possible causes, not algorithmic trading alone"
+ },
+ {
+  "claim": "Dandelions reproduce asexually through apomixis, producing seeds without fertilization that are genetically identical clones of the parent plant.",
+  "verdict": "overstated",
+  "corrected_claim": "Dandelions reproduce by apomixis, an asexual form of reproduction producing seeds without fertilization.",
+  "quote": "Hawkweeds (Hieracium), dandelions (Taraxacum), some species of Citrus ... all use this form of asexual reproduction. ... Seeds generated by apomixis are a means of asexual reproduction.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "Genetic-clone wording not stated for the seeds."
+ },
+ {
+  "claim": "Carlina White solved her own kidnapping at age 23 in 2012 after recognizing herself in old photos—she had been abducted from a hospital as a 19-day-old infant in 1987.",
+  "verdict": "overstated",
+  "corrected_claim": "Carlina White, kidnapped as a 19-day-old infant from Harlem Hospital Center in 1987, solved her own kidnapping when she was 23 years old.",
+  "quote": "A 19-day-old infant kidnapped from Harlem Hospital Center ... solved her own kidnapping when she was 23 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Page does not give 2012 or say she recognized herself in old photos"
+ },
+ {
+  "claim": "And certainly other combinations are possible – for example a supermassive star with one or more smaller companions or more than one giant star – but without being able to clearly see inside the surrounding cloud, it is difficult to know  what kind of object is actually generating the bright point of light seen from the Earth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "but without being able to clearly see inside the surrounding cloud, it is difficult to know what kind of object is actually generating the bright point of light seen from the Earth.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "The Logic Theorist (1955) proved 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica — finding new, more elegant proofs for some.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1955, Allen Newell and future Nobel Laureate Herbert A. Simon created the \"Logic Theorist\", with help from J. C. Shaw. ... prove 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica, and find new and more elegant proofs for some.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "Some bacteria protect their entire colony from antibiotics through 'kin selection' — a small number of resistant bacteria shield their sensitive neighbors.",
+  "verdict": "overstated",
+  "corrected_claim": "Researchers have described a 'kin selection' resistance mechanism in which a small number of antibiotic-resistant bacteria protect their antibiotic-sensitive neighbors.",
+  "quote": "a recent work on novel antibiotic resistance mechanism used the 'kin selection' concept ... a small number of antibiotic-resistant bacteria provide protection for the antibiotic sensitive cells",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "'Entire colony' not stated."
+ },
+ {
+  "claim": "New Zealand's first Olympic medallist in any gymnastics discipline?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/March",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Termites can constitute 10% of animal biomass in tropical regions and up to 95% in some tropical rainforests.",
+  "verdict": "overstated",
+  "corrected_claim": "In some regions termites are estimated to make up 10% of all animal biomass.",
+  "quote": "where they are estimated to constitute 10% of the animal biomass in some regions",
+  "source_url": "https://en.wikipedia.org/wiki/Termite",
+  "note": "The 95% figure is not on the page."
+ },
+ {
+  "claim": "Nicholas Kurti, a pioneer of molecular gastronomy, hosted one of the first TV cooking shows in the UK in 1969, titled 'The Physicist in the Kitchen.'",
+  "verdict": "overstated",
+  "corrected_claim": "Oxford physicist Nicholas Kurti was one of the first television cooks in the UK, hosting a 1969 show called 'The Physicist in the Kitchen' where he injected hot mince pies with brandy using a syringe.",
+  "quote": "one of the first television cooks in the UK, hosting a black-and-white television show in 1969 entitled The Physicist in the Kitchen, where he demonstrated techniques such as using a syringe to inject hot mince pies with brandy in order to avoid disturbing the crust.",
+  "source_url": "https://en.wikipedia.org/wiki/Molecular_gastronomy",
+  "note": "Page says one of the first TV cooks, not one of the first cooking shows."
+ },
+ {
+  "claim": "Michael Sendivogius (Polish: Michał Sędziwój; 1566–1636) is claimed as an earlier discoverer of oxygen.",
+  "verdict": "overstated",
+  "corrected_claim": "Michael Sendivogius described oxygen as early as 1604.",
+  "quote": "Oxygen was first described by Michael Sendivogius in 1604.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Page states 1604 description; lifespan 1566–1636 and 'claimed' wording not on page."
+ },
+ {
+  "claim": "In Icelandic, aspirated [kʰ] and unaspirated [k] are separate phonemes — what English treats as one sound, Icelandic treats as two.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Icelandic, therefore, has two separate phonemes /kʰ/ and /k/.",
+  "source_url": "https://en.wikipedia.org/wiki/Phoneme",
+  "note": ""
+ },
+ {
+  "claim": "Framing effects show identical choices yield different decisions based on wording — 90% survival rate sounds better than 10% mortality rate, even though they're mathematically identical.",
+  "verdict": "overstated",
+  "corrected_claim": "Framing effects change decisions with wording: in the classic disease problem, 72% picked a treatment framed as 'saves 200 lives,' but 78% chose the alternative when the same outcome was framed as '400 people will die.'",
+  "quote": "Treatment A was chosen by 72% of participants when it was presented with positive framing ... When the question was negatively framed, the result reversed, and 78% of participants chose Treatment B.",
+  "source_url": "https://en.wikipedia.org/wiki/Framing_effect_(psychology)",
+  "note": "90% survival vs 10% mortality example not on page."
+ },
+ {
+  "claim": "Quaking aspen can form clonal colonies from root systems; one colony called 'Pando' in Utah is over 80,000 years old and covers 106 acres.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "Page does not mention aspen or Pando."
+ },
+ {
+  "claim": "Josef Fritzl imprisoned his daughter Elisabeth in an underground cell for 24 years, where she gave birth to seven children—the truth was discovered in 2008 when one child was hospitalized.",
+  "verdict": "overstated",
+  "corrected_claim": "Josef Fritzl imprisoned his daughter Elisabeth in an underground cell for 24 years, during which she bore seven children; the truth emerged when one of their daughters was hospitalized with life-threatening kidney failure.",
+  "quote": "imprisoned in an underground cell and raped by her father for 24 years, resulting in the birth of seven children. ... The truth was discovered when one of their daughters was admitted to a hospital with life-threatening kidney failure.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Page does not give the 2008 discovery year"
+ },
+ {
+  "claim": "However, note that almost all of the masses listed in the table below were inferred by indirect methods; only a few of the masses in the table were determined using eclipsing systems.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "However, note that almost all of the masses listed in the table below were inferred by indirect methods; only a few of the masses in the table were determined using eclipsing systems.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "MIT's Project MAC received $2.2 million from ARPA in 1963 for AI research — DARPA continued providing $3 million annually until the 1970s with 'fund people, not projects' philosophy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In June 1963, MIT received a $2.2 million grant from the newly formed Advanced Research Projects Agency ... The money was used to fund project MAC which subsumed the \"AI Group\" founded by Minsky and McCarthy five years earlier. DARPA continued to provide $3 million each year until the 1970s. ... \"fund people, not projects!\"",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "Streptomyces bacteria in soil produce about two-thirds of all naturally-derived antibiotics in clinical use today.",
+  "verdict": "overstated",
+  "corrected_claim": "Actinobacteria, a group of mostly soil bacteria, produce about two-thirds of all naturally derived antibiotics in current clinical use.",
+  "quote": "They also have an extensive secondary metabolism and produce about two-thirds of all naturally derived antibiotics in current clinical use",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": "Page attributes the two-thirds to Actinobacteria as a whole, not Streptomyces."
+ },
+ {
+  "claim": "British Indian government so much that they allowed only one edition?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/March",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Unlike ant colonies ruled by a queen, termite colonies are founded by a monogamous 'royal pair'—a king and queen that mate for life.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "together form a lifelong monogamous pair",
+  "source_url": "https://en.wikipedia.org/wiki/Termite",
+  "note": ""
+ },
+ {
+  "claim": "Spherification, which turns liquids into caviar-like spheres using sodium alginate and calcium, is a signature technique of molecular gastronomy.",
+  "verdict": "overstated",
+  "corrected_claim": "Spherification, which creates a caviar-like effect, is one of the techniques of molecular gastronomy.",
+  "quote": "Spherification– a caviar-like effect.",
+  "source_url": "https://en.wikipedia.org/wiki/Molecular_gastronomy",
+  "note": "Sodium alginate and calcium not mentioned; 'signature' not stated."
+ },
+ {
+  "claim": "A method for measuring the specific heat of a solid – devised independently by Benjamin Thompson, Count Rumford; and by Johan Wilcke, who published his discovery first (apparently not later than 1796, when he died).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Methods for measuring the specific heat of a solid were devised independently by Benjamin Thompson",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Rumford/Wilcke details on page."
+ },
+ {
+  "claim": "Sign languages have 'phonemes' too — they're called parameters and include handshape, movement, location, and palm orientation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "differing only in (exactly) one of the signs' parameters: handshape, movement, location, palm orientation",
+  "source_url": "https://en.wikipedia.org/wiki/Phoneme",
+  "note": ""
+ },
+ {
+  "claim": "Correlated equilibrium, introduced by Aumann, shows that with a coordinating signal, players can achieve outcomes impossible with independent strategies — explaining the value of traffic lights.",
+  "verdict": "overstated",
+  "corrected_claim": "Correlated equilibrium, first discussed by Robert Aumann in 1974, lets players follow a shared signal — and in a classic example yields a higher expected payoff than the mixed-strategy Nash equilibrium.",
+  "quote": "It was first discussed by mathematician Robert Aumann in 1974. ... which is higher than the expected payoff of the mixed strategy Nash equilibrium.",
+  "source_url": "https://en.wikipedia.org/wiki/Correlated_equilibrium",
+  "note": "No traffic-light example on page; 'impossible with independent strategies' overstated"
+ },
+ {
+  "claim": "Orchids have the most specialized pollination systems, with some mimicking female insect pheromones to attract males who 'mate' with the flower.",
+  "verdict": "overstated",
+  "corrected_claim": "Some orchids have flowers shaped like insects and scents that mimic insect pheromones, luring insects to try to 'mate' with them.",
+  "quote": "with flower shapes that mimic the shape of insects to attract them to attempt to 'mate' with the flowers ... a few even have scents that mimic insect pheromones",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "'Most specialized' and 'female' not stated."
+ },
+ {
+  "claim": "Even identical twins with the same DNA can be distinguished by fingerprints, as environmental factors during fetal development cause slight variations in friction ridge patterns.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Even identical twins (who share their DNA) do not have identical fingerprints. ... changes in amniotic fluid surrounding each developing finger within the uterus cause corresponding cells on each fingerprint to grow in different microenvironments.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "The radial velocities only yield minimum values for the masses, depending on inclination, but light curves of eclipsing binaries provide the missing information: inclination of the orbit to our line of sight.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The radial velocities only yield minimum values for the masses, depending on inclination, but light curves of eclipsing binaries provide the missing information: inclination of the orbit to our line of sight.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The 'cognitive revolution' began in 1956 when AI researchers, Chomsky's generative grammar, and Miller's 'Magical Number Seven' paper converged at MIT.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the autumn of 1956, Newell and Simon also presented the Logic Theorist at a meeting of the Special Interest Group in Information Theory at the Massachusetts Institute of Technology ... Noam Chomsky discussed his generative grammar, and George Miller described his landmark paper \"The Magical Number Seven, Plus or Minus Two\". ... This meeting was the beginning of the \"cognitive revolution\"",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "Actinobacteria can be found at depths of more than 2 meters below ground, at densities of 10^6 to 10^9 cells per gram of soil.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Actinobacteria can be found both on the soil surface and at depths of more than 2 m below ground. They are typically present at densities on the order of 10^6 to 10^9 cells per gram of soil",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": ""
+ },
+ {
+  "claim": "US$500,000 toward the renovation of the site of their first date?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/April",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Termite mounds can alter soil hydrology, nutrient cycling, and vegetation growth so dramatically that they're considered 'ecosystem engineers.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "capable of altering many soil properties such as hydrology, decomposition, nutrient cycling",
+  "source_url": "https://en.wikipedia.org/wiki/Termite",
+  "note": "Page describes termites as ecosystem engineers affecting plant growth."
+ },
+ {
+  "claim": "Transglutaminase, known as 'meat glue,' is an enzyme used in molecular gastronomy to bond proteins together, creating dishes like octopus lollipops.",
+  "verdict": "overstated",
+  "corrected_claim": "Transglutaminase, a protein binder known as 'meat glue,' is one of the techniques used in molecular gastronomy.",
+  "quote": "Transglutaminase– a protein binder, called meat glue.",
+  "source_url": "https://en.wikipedia.org/wiki/Molecular_gastronomy",
+  "note": "Octopus lollipops not mentioned."
+ },
+ {
+  "claim": "1799: Complex plane – Geometrical representation of complex numbers was discovered independently by Caspar Wessel (1799), Jean-Robert Argand (1806), John Warren (1828), and Carl Friedrich Gauss (1831).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was discovered independently by Caspar Wessel in 1799, Jean-Robert Argand in 1806",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Page also lists John Warren 1828 and Gauss 1831."
+ },
+ {
+  "claim": "The Polish linguist Jan Baudouin de Courtenay developed the concept of the phoneme in the 1870s — decades before it became standard in linguistics.",
+  "verdict": "overstated",
+  "corrected_claim": "The phoneme as an abstraction was developed by Polish linguist Jan Baudouin de Courtenay and his student Mikołaj Kruszewski during 1875–1895.",
+  "quote": "The term phoneme as an abstraction was developed by the Polish linguist Jan Baudouin de Courtenay",
+  "source_url": "https://en.wikipedia.org/wiki/Phoneme",
+  "note": "Page gives 1875–1895 and credits his student too; 'decades before standard' not stated."
+ },
+ {
+  "claim": "The 1997 Asian Financial Crisis started when Thailand floated the baht after depleting reserves — it spread to Indonesia, South Korea, and Malaysia in a textbook case of contagion.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1997 Asian financial crisis began in Thailand in July 1997, when the government, lacking the foreign reserves to defend the baht's dollar peg, was forced to float the currency — setting off a chain reaction that hit Malaysia, Indonesia and later South Korea.",
+  "quote": "The crisis began in Thailand in July 1997 before spreading to several other countries with a ripple effect, ... it followed the financial collapse of the Thai baht after the Thai government was forced to float the baht ... However, Thailand lacked the foreign reserves to support the USD–Baht currency peg,",
+  "source_url": "https://en.wikipedia.org/wiki/1997_Asian_financial_crisis",
+  "note": "'Textbook case of contagion' wording not on page; reserves lacking rather than 'depleted'"
+ },
+ {
+  "claim": "Orchidaceae (orchid family) is the largest flowering plant family with up to 35,000 species, many using deceptive pollination strategies.",
+  "verdict": "overstated",
+  "corrected_claim": "The orchids are the largest family of flowering plants, estimated by some specialists to include up to 35,000 species.",
+  "quote": "The largest family of flowering plants is the orchids ... estimated by some specialists to include up to 35,000 species",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "'Many using deceptive pollination' not stated."
+ },
+ {
+  "claim": "Gloves can leave prints as unique as human fingerprints. Law enforcement can match glove prints to collected evidence or prints from other crime scenes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the gloves themselves can leave prints that are as unique as human fingerprints. After collecting glove prints, law enforcement can match them to gloves that they have collected as evidence or to prints collected at other crime scenes.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "Many large stars have likely suffered significant mass loss – perhaps as much as several tens of solar masses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Many large stars have likely suffered significant mass loss – perhaps as much as several tens of solar masses.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The transformer architecture, introduced in 2017, enabled the current AI boom — leading to large language models like GPT and ChatGPT.",
+  "verdict": "overstated",
+  "corrected_claim": "The transformer architecture, introduced in 2017, led to the rapid scaling and public releases of large language models like ChatGPT — and investment in AI boomed in the 2020s.",
+  "quote": "The transformer architecture, introduced in 2017 ... led to the rapid scaling and public releases of large language models (LLMs) like ChatGPT ... Investment in AI boomed in the 2020s.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": "Page does not explicitly say the transformer 'enabled' the boom."
+ },
+ {
+  "claim": "Streptomyces accounts for over 95% of Actinomycetales bacteria isolated from soil — they dominate the underground world.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "soil populations are dominated by the genus Streptomyces, which accounts for over 95% of the Actinomycetales strains isolated from soil.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": ""
+ },
+ {
+  "claim": "United Kingdom's first professor of learning disability nursing?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/May",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Some termite species cultivate fungus gardens (Termitomyces) for food—a form of agriculture that evolved independently from leafcutter ants.",
+  "verdict": "overstated",
+  "corrected_claim": "Some termites farm fungus: they maintain gardens of Termitomyces fungi nourished by their excrement, and the Macrotermitinae developed this agriculture about 31 million years ago.",
+  "quote": "They maintain a \"garden\" of specialised fungi of genus Termitomyces, which are nourished by the excrement of the insects. ... Molecular evidence suggests that the family Macrotermitinae developed agriculture about 31 million years ago",
+  "source_url": "https://en.wikipedia.org/wiki/Termite",
+  "note": "Page does not compare termite fungiculture with leafcutter ants."
+ },
+ {
+  "claim": "The 'Baumé' technique in molecular gastronomy involves soaking an egg in alcohol for a month to coagulate it without heat, named after chemist Antoine Baumé.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Baumé – soaking a whole egg for a month in alcohol to create a coagulated egg. Named after the French chemist Antoine Baumé (1728–1804).",
+  "source_url": "https://en.wikipedia.org/wiki/Molecular_gastronomy",
+  "note": ""
+ },
+ {
+  "claim": "Tukey reinvented a similar algorithm in 1965.",
+  "verdict": "overstated",
+  "corrected_claim": "James W. Cooley and John W. Tukey reinvented, in 1965, an efficient Fourier-transform algorithm similar to one Gauss had described in 1805.",
+  "quote": "James W. Cooley and John W. Tukey reinvented a similar algorithm in 1965.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Claim omits co-inventor Cooley; context-less fragment."
+ },
+ {
+  "claim": "English /ŋ/ (the 'ng' sound) can only appear at the end of syllables — never at the beginning, though many languages allow it word-initially.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "/ŋ/, as in sing, occurs only at the end of a syllable, never at the beginning",
+  "source_url": "https://en.wikipedia.org/wiki/Phoneme",
+  "note": "Page notes Māori, Swahili, etc. allow it word-initially."
+ },
+ {
+  "claim": "Confirmation bias in investing leads people to seek information supporting their existing positions — explaining why investors hold losers despite overwhelming evidence to sell.",
+  "verdict": "overstated",
+  "corrected_claim": "Confirmation bias can make investors overconfident, ignoring evidence that their strategies will lose money; in political stock markets, investors who resisted the bias made more profit.",
+  "quote": "Confirmation bias can lead investors to be overconfident, ignoring evidence that their strategies will lose money. ... In studies of political stock markets, investors made more profit when they resisted bias.",
+  "source_url": "https://en.wikipedia.org/wiki/Confirmation_bias",
+  "note": "Page does not discuss holding losers despite evidence to sell"
+ },
+ {
+  "claim": "Cycads and ginkgos are the only surviving seed plants with motile sperm that swim using flagella, a primitive trait dating back 350 million years.",
+  "verdict": "overstated",
+  "corrected_claim": "Seed-plant sperm is non-motile except in two older groups, cycads and Ginkgo, whose sperm have flagella.",
+  "quote": "The sperm of seed plants are non-motile, except for two older groups of plants ... have flagella",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "350 million years refers to seed plants generally."
+ },
+ {
+  "claim": "Adermatoglyphia is an extremely rare condition where people are born without fingerprints—only five families worldwide had been identified with this condition as of 2011.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Only five families with this condition had been described as of 2011.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "The process forms an enlarged extended envelope around the star that interacts with the nearby interstellar medium and infuses the adjacent volume of space with elements heavier than hydrogen or helium.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The process forms an enlarged extended envelope around the star that interacts with the nearby interstellar medium and infuses the adjacent volume of space with elements heavier than hydrogen or helium.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Hebbian learning ('cells that fire together wire together') was proposed in 1949 — the manuscript sat for years before publication due to WWII and academic delays.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": "Page does not mention Hebbian learning, 1949, or the manuscript delay."
+ },
+ {
+  "claim": "Mycobacterium tuberculosis and M. leprae are likely obligate human parasites — they've co-evolved with humans and can't survive elsewhere.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycobacterium tuberculosis and M. bovis are most likely obligate parasites of humans.",
+  "quote": "are most likely obligate parasites of humans",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": "Page says this of M. tuberculosis and M. bovis, not M. leprae; 'can't survive elsewhere' and co-evolution not stated."
+ },
+ {
+  "claim": "Nauru's first female candidate for parliament, his sister Liebon Sunshine Keke?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/June",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Praying mantises are the only insects that can turn their heads 180 degrees to look over their 'shoulders.'",
+  "verdict": "overstated",
+  "corrected_claim": "The mantis neck is remarkably flexible: some species can rotate their heads nearly 180 degrees.",
+  "quote": "The articulation of the neck is also remarkably flexible; some species of mantis can rotate their heads nearly 180°.",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis",
+  "note": "Page says some species, nearly 180°; 'only insects' not stated."
+ },
+ {
+  "claim": "Heston Blumenthal, a famous molecular gastronomy chef, dislikes the term because it makes the practice sound 'complicated' and 'elitist.'",
+  "verdict": "overstated",
+  "corrected_claim": "Heston Blumenthal and Ferran Adrià have both expressed frustration with their cooking being commonly mis-classified as 'molecular gastronomy.'",
+  "quote": "Despite their central role in the popularisation of science-based cuisine, both Adria and Blumenthal have expressed their frustration with the common mis-classification of their food and cooking as \"molecular gastronomy\".",
+  "source_url": "https://en.wikipedia.org/wiki/Molecular_gastronomy",
+  "note": "'Complicated' and 'elitist' not on the page."
+ },
+ {
+  "claim": "1817: Grotthuss–Draper law (aka the Principle of Photochemical Activation) – first proposed in 1817 by Theodor Grotthuss, then independently, in 1842, by John William Draper.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was first proposed in 1817 by Theodor Grotthuss, and independently in 1842 by John William Draper",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Plato wrote about sign language in 360 BCE, noting that if humans had no voice, they would communicate 'by moving hands, head, and body.'",
+  "verdict": "overstated",
+  "corrected_claim": "One of the earliest written records of a sign language comes from Plato's Cratylus in the fifth century BC, where Socrates asks whether, without voices, we wouldn't 'make signs by moving our hands, head, and the rest of our body.'",
+  "quote": "One of the earliest written records of a sign language is from the fifth century BC ... in Plato's Cratylus ... wouldn't we try to make signs by moving our hands, head, and the rest of our body",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": "Page gives 'fifth century BC', not 360 BCE."
+ },
+ {
+  "claim": "Evolutionary game theory applies natural selection to strategies — the Evolutionarily Stable Strategy (ESS) explains why mixed populations of 'hawks' and 'doves' can be stable.",
+  "verdict": "overstated",
+  "corrected_claim": "In evolutionary game theory, a strategy is evolutionarily stable when natural selection alone is sufficient to prevent mutant strategies from replacing it — and in the game of chicken (hawk-dove) a mixed strategy is an ESS.",
+  "quote": "Natural selection alone is sufficient to prevent alternative (mutant) strategies from replacing it ... There is a third Nash equilibrium, a mixed strategy which is an ESS for this game",
+  "source_url": "https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy",
+  "note": "Page says a mixed strategy is an ESS, not that mixed populations of hawks and doves are stable."
+ },
+ {
+  "claim": "Sexual reproduction in the green alga Volvox carteri is triggered by oxidative stress, suggesting sex evolved as an adaptive response to DNA damage.",
+  "verdict": "overstated",
+  "corrected_claim": "Sex in the green alga Volvox carteri is induced by oxidative stress, suggesting sex emerged in its evolution as an adaptive response to oxidative DNA damage.",
+  "quote": "Sexual reproduction in the multicellular facultatively sexual green alga Volvox carteri is induced by oxidative stress.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "Proposal is about V. carteri's evolution, not sex in general."
+ },
+ {
+  "claim": "John Dillinger burned his fingertips with acid to remove fingerprints, but prints taken during a previous arrest and upon death still exhibited almost complete relation to one another.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "John Dillinger burned his fingers with acid, but prints taken during a previous arrest and upon death still exhibited almost complete relation to one another.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "There are also – or rather were – stars that might have appeared on the list but no longer exist as stars, or are supernova impostors; today we see only their debris.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There are also – or rather were – stars that might have appeared on the list but no longer exist as stars, or are supernova impostors; today we see only their debris.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ }
+]

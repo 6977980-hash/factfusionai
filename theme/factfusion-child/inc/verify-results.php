@@ -94,6 +94,9 @@ function ffc_verify_apply( $batch ) {
 	if ( ! is_array( $rows ) ) {
 		return new WP_Error( 'ffc_verify_file', 'That batch file could not be read.' );
 	}
+	if ( function_exists( 'set_time_limit' ) ) {
+		set_time_limit( 300 ); // A 250-fact batch saves up to 250 facts.
+	}
 	$ready   = ffc_verify_ready();
 	$applied = (array) get_option( FFC_VERIFY_APPLIED, array() );
 	$report  = array();

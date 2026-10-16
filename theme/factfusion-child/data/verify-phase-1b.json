@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "Saltiness taste has two components: a low-salt signal that causes pleasure, and a high-salt signal that creates the sensation of 'too salty.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Saltiness taste seems to have two components: a low-salt signal and a high-salt signal. ... The low-salt signal causes a sensation of deliciousness ... typically causes the sensation of 'too salty'.",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": ""
+ },
+ {
+  "claim": "A 'mystery eruption' cooled the Northern Hemisphere in 1453.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The eruption caused a severe volcanic winter, leading to one of the strongest cooling events in the Northern Hemisphere. ... Following the eruption, tree-ring evidence revealed an exceptional cooling in 1453 summer, ranged from a reduction of 0.4 °C (0.72 °F) in the Swiss Alps to a reduction of 6.9 °C (12.4 °F) in the Polar Urals.",
+  "source_url": "https://en.wikipedia.org/wiki/1452/1453_mystery_eruption",
+  "note": ""
+ },
+ {
+  "claim": "Papyrus Bingen 45 may contain a word handwritten by Cleopatra.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "its concluding subscription \"γινέσθωι\" (ginésthōi; lit. 'so be it' or 'make it happen') is an autograph of Cleopatra",
+  "source_url": "https://en.wikipedia.org/wiki/Papyrus_Bingen_45",
+  "note": "Disputed by some scholars."
+ },
+ {
+  "claim": "Johann Joseph Dömling suggested in 1803 that venous blood contained carbon monoxide.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Dömling stated that venous blood containing carbon monoxide returned to the heart",
+  "source_url": "https://en.wikipedia.org/wiki/Johann_Joseph_D%C3%B6mling",
+  "note": "In the second volume of his 1803 textbook."
+ },
+ {
+  "claim": "Writing was invented independently only about 4 times in human history: Mesopotamia (cuneiform), Egypt (hieroglyphs), China, and Mesoamerica.",
+  "verdict": "overstated",
+  "corrected_claim": "Writing was independently invented in only a handful of places in human history, including Mesopotamia, Egypt, China and Mesoamerica.",
+  "quote": "writing emerged much more recently, and was independently invented in only a handful of locations throughout history.",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Page says 'a handful of locations', not specifically about 4 times."
+ },
+ {
+  "claim": "The Disposition Effect, documented by Shefrin and Statman, shows investors sell winning stocks too quickly and hold losing stocks too long — the opposite of what 'let profits run, cut losses' advises.",
+  "verdict": "overstated",
+  "corrected_claim": "The disposition effect, a term coined by Hersh Shefrin and Meir Statman, is investors' tendency to sell their winning positions too early and hold their losing positions too long.",
+  "quote": "Hersh Shefrin and Meir Statman coined the term disposition effect ... to sell their winning positions too early and to hold their losing positions too long.",
+  "source_url": "https://en.wikipedia.org/wiki/Disposition_effect",
+  "note": "The 'let profits run, cut losses' comparison is not on the page."
+ },
+ {
+  "claim": "Genlisea (corkscrew plants) trap microscopic soil organisms using Y-shaped underground leaves with inward-pointing hairs that force prey toward digestive chambers.",
+  "verdict": "overstated",
+  "corrected_claim": "Genlisea (corkscrew plants) use lobster-pot traps: Y-shaped modified leaves let prey in but not out, and inward-pointing hairs force it in one direction; they appear to specialise in aquatic protozoa.",
+  "quote": "Lobster pots are the trapping mechanism in Genlisea ... A Y-shaped modified leaf ... allows prey to enter but not exit ... Inward-pointing hairs force the prey to move in a particular direction. ... These plants appear to specialise in aquatic protozoa.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Page says aquatic protozoa and traps buried in moss, not underground soil organisms"
+ },
+ {
+  "claim": "Sleep loss physically damages brain cells - but this damage can be countered with proper sleep recovery.",
+  "verdict": "overstated",
+  "corrected_claim": "Sleep loss physically damages brain cells by thinning the myelin insulating neurons - in rats, the drug cyclodextrin restored the affected cholesterol transfer.",
+  "quote": "a lack of sleep leads to a thinning of myelin, slowing neuron chatter ... The researchers gave the sleep-reduced rats the drug cyclodextrin to restore cholesterol transfer.",
+  "source_url": "https://www.sciencealert.com/sleep-loss-is-physically-damaging-your-brain-cells-study-suggests",
+  "note": "Article does not mention recovery sleep countering the damage."
+ },
+ {
+  "claim": "Marijuana can be detected in urine for 3 days after a single use, 5-7 days for moderate use, 10-15 days for daily use, and up to 30 days for long-term heavy use.",
+  "verdict": "overstated",
+  "corrected_claim": "Marijuana can be detected in urine for 3 days after a single use, 5-7 days for moderate use, 10-15 days for daily use, and less than 30 days for long-term heavy use.",
+  "quote": "can be detected for 3 days after a single use, 5–7 days for moderate use (four times per week), 10–15 days for daily use, and less than 30 days for long-term heavy use.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": "Page says 'less than 30 days', not 'up to 30'."
+ },
+ {
+  "claim": "More than one hundred million stars are visible in NASA's 'Zooming In on the Andromeda Galaxy' image.",
+  "verdict": "overstated",
+  "corrected_claim": "NASA's 'Zooming In on the Andromeda Galaxy' image shows about 100 million of the galaxy's stars along with thousands of star clusters.",
+  "quote": "The image shows the galaxy's 100 million stars of varying types and thousands of star clusters.",
+  "source_url": "https://en.wikipedia.org/wiki/Zooming_In_on_the_Andromeda_Galaxy",
+  "note": "Page says 100 million stars, not more than 100 million."
+ },
+ {
+  "claim": "The earliest known use of cryptography dates to 1900 BC — non-standard hieroglyphs carved into an Egyptian tomb, though likely for intrigue rather than secrecy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The earliest known use of cryptography is found in non-standard hieroglyphs carved into the wall of a tomb ... These are not thought to be serious attempts at secret communications",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": "Page suggests purpose was mystery/intrigue/amusement."
+ },
+ {
+  "claim": "Bacteria can survive hypergravity of 403,627 g — conditions only found in cosmic environments like supernova shock waves.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacteria have survived and grown under hypergravity of 403,627 g — conditions usually found only in cosmic environments such as very massive stars or supernova shock waves.",
+  "quote": "403,627 g (i.e. 403,627 times the gravity experienced on Earth) ... usually found only in cosmic environments, such as on very massive stars or in the shock waves of supernovas.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page says 'usually' found only in such environments."
+ },
+ {
+  "claim": "Latest News January 30, 2026 Top Headlines A Fish That Ages in Months Reveals How Kidneys Grow Old Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The Arctic bumblebee Bombus hyperboreus is a 'cuckoo bee' that invades colonies of other bumblebees, killing the queen and enslaving the workers to raise its own offspring.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bombus hyperboreus obtains a colony by killing the queen of the host species and enslaving her workers.",
+  "source_url": "https://en.wikipedia.org/wiki/Bombus_hyperboreus",
+  "note": ""
+ },
+ {
+  "claim": "Researchers have suggested 'fat taste' (oleogustus) as a sixth basic taste, detected when fatty acids are present in food.",
+  "verdict": "overstated",
+  "corrected_claim": "Researchers have suggested a new basic taste of fatty acids called 'fat taste', with proposed names like oleogustus and pinguis — though these terms are not widely accepted.",
+  "quote": "researchers suggested a new basic taste of fatty acids called \"fat taste\" ... Proposed alternate names to fat taste include oleogustus and pinguis ... these terms are not widely accepted",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Page doesn't call it the 'sixth' basic taste."
+ },
+ {
+  "claim": "A hypothesized land bridge (GAARlandia) may have allowed some fish species to migrate from South America to Cuba.",
+  "verdict": "overstated",
+  "corrected_claim": "A hypothesized land bridge, GAARlandia, might have enabled Limia, freshwater fish endemic to the islands, to reach the Antilles from South America.",
+  "quote": "GAARlandia might have enabled Limia, freshwater fish endemic to the islands, to reach the Antilles.",
+  "source_url": "https://en.wikipedia.org/wiki/GAARlandia",
+  "note": "Page says Antilles generally, not Cuba specifically."
+ },
+ {
+  "claim": "An ancient amulet discovered in Horvat Rimmon bears a love charm in which its owner invokes angels to make another person love him.",
+  "verdict": "overstated",
+  "corrected_claim": "A 5th–6th-century ceramic amulet from Horvat Rimmon was intended to arouse love in a particular person, invoking 'holy and mighty' angels to ignite passion in a named individual.",
+  "quote": "a group of five inscribed potsherds dated to the 5th–6th century CE that once formed a trapezoidal ceramic amulet, intended to arouse love in a particular person ... an invocation calling upon \"holy and mighty\" angels to ignite passion in a named individual",
+  "source_url": "https://en.wikipedia.org/wiki/Horvat_Rimmon",
+  "note": "Petitioner's name/gender unknown per page."
+ },
+ {
+  "claim": "Alexander Langmuir created the Epidemic Intelligence Service to send epidemiologists across the world.",
+  "verdict": "overstated",
+  "corrected_claim": "Alexander Langmuir started the Epidemic Intelligence Service in 1951 to train doctors and veterinarians as 'disease detectives' who investigate outbreaks on the ground.",
+  "quote": "Langmuir started the Epidemic Intelligence Service (EIS) in 1951 to train doctors, veterinarians,",
+  "source_url": "https://en.wikipedia.org/wiki/Alexander_Langmuir",
+  "note": "Page does not say EIS sends epidemiologists across the world"
+ },
+ {
+  "claim": "The Latin alphabet, descended from Phoenician through Greek, is now the most common writing system in the world.",
+  "verdict": "overstated",
+  "corrected_claim": "The Latin alphabet, which descended from the Greek alphabet, is by far the most common script used by the world's writing systems.",
+  "quote": "The Latin alphabet, which descended from the Greek alphabet, is by far the most common script used by writing systems.",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Page says most common script used by writing systems; Phoenician-to-Latin chain not stated directly."
+ },
+ {
+  "claim": "The Battle of the Sexes game models coordination problems between parties with different preferences — both prefer to coordinate, but disagree on which outcome to coordinate on.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In game theory, the battle of the sexes is a two-player coordination game that also involves elements of conflict. ... Both would prefer to go to the same event rather than different ones.",
+  "source_url": "https://en.wikipedia.org/wiki/Battle_of_the_sexes_(game_theory)",
+  "note": ""
+ },
+ {
+  "claim": "Mycorrhizal networks were discovered in 1997 by Suzanne Simard, revealing that trees share resources through underground fungal connections called the 'Wood Wide Web'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Mycorrhizal networks were discovered in 1997 by Suzanne Simard ... have earned them a colloquial nickname: the \"Wood Wide Web\"",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "In 2014, a feral pack of Chihuahuas terrorized an Arizona town - they would form large groups, harass residents, and sometimes team up with larger dogs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2014, a group of strays overran a small town in Arizona. They would form large groups and harass the townsfolk. Sometimes they even teamed up with larger dogs.",
+  "source_url": "https://www.mentalfloss.com/animals/dogs/10-feisty-facts-about-chihuahuas",
+  "note": ""
+ },
+ {
+  "claim": "The United States maintains the largest DNA database in the world—CODIS (Combined DNA Index System)—holding over 13 million records as of 2018.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The United States maintains the largest DNA database, with the Combined DNA Index System (CODIS) holding over 13 million records as of May 2018.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "In fiction, neutron stars harbour exotic lifeforms in their vicinity, on their surface, and even in their interior.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some authors have imagined exotic forms of life that could inhabit neutron stars. ... an alien species lives on the surface of a neutron star ... depicts a microscopic species living inside a neutron star",
+  "source_url": "https://en.wikipedia.org/wiki/Neutron_stars_in_fiction",
+  "note": ""
+ },
+ {
+  "claim": "Frequency analysis, the technique for breaking substitution ciphers, was invented by Arab mathematician Al-Kindi around 800 AD — it remained the most significant cryptanalytic advance until World War II.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "sometime around AD 800, proved to be the single most significant cryptanalytic advance until World War II",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": ""
+ },
+ {
+  "claim": "Radiotrophic fungi discovered at Chernobyl actually use radiation as an energy source — essentially 'eating' radioactivity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "which use radiation as an energy source, have been found inside and around the Chernobyl Nuclear Power Plant.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": ""
+ },
+ {
+  "claim": "Latest News -- ScienceDaily Skip to main content Your source for the latest research news Follow: Facebook X/Twitter Subscribe: RSS Feeds Newsletter New!",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Orchid bees are the only male pollinators—they collect aromatic compounds from orchids to create perfumes that attract females.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Orchid_bee",
+  "note": "Not 'the only male pollinators'; page says female attraction to the collected fragrances has never been demonstrated."
+ },
+ {
+  "claim": "Umami, the fifth basic taste, was scientifically identified in 1908 by Japanese chemist Kikunae Ikeda, who extracted glutamate from kombu seaweed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1908, Kikunae Ikeda of the University of Tokyo scientifically identified umami as a distinct taste ... He found that glutamate was responsible for the palatability of the broth from kombu seaweed.",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": ""
+ },
+ {
+  "claim": "English amateur geologist Charlotte Eyton wrote a number of papers and pamphlets on the geology of the Wrekin, Shropshire, between 1862 and 1870.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "published a number of articles on the geology of North Shropshire and the Wrekin from 1862 to 1870 ... Her first publication was a pamphlet titled The rocks of the Wrekin and what is written upon them",
+  "source_url": "https://en.wikipedia.org/wiki/Charlotte_Eyton",
+  "note": ""
+ },
+ {
+  "claim": "Cecil Kent Drinker published his report on the Radium Girls only after a forged version was submitted in his name.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "had submitted a forged version of Drinker's report to the New Jersey Department of Labor ... Drinker ignored the threat of lawsuit and published his unaltered report.",
+  "source_url": "https://en.wikipedia.org/wiki/Cecil_Kent_Drinker",
+  "note": ""
+ },
+ {
+  "claim": "British physician John H. Bryant gave the first description of a blue scrotum caused by a ruptured abdominal aortic aneurysm.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/John_Henry_Bryant_(physician)",
+  "note": "URL returns a 'John Bryant' disambiguation list; no article content on blue scrotum."
+ },
+ {
+  "claim": "Chinese characters have been used to write multiple unrelated languages including Japanese, Korean, Vietnamese, and dozens of minority languages.",
+  "verdict": "overstated",
+  "corrected_claim": "Chinese characters have historically been used to write not only the varieties of Chinese but also Japanese, Korean, Vietnamese and other languages of the Sinosphere.",
+  "quote": "they have historically been used to write the varieties of Chinese, as well as Japanese, Korean, Vietnamese, and other languages of the Sinosphere",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "'Dozens of minority languages' not stated."
+ },
+ {
+  "claim": "The 1907 Bankers' Panic was halted by J.P. Morgan personally convincing bankers to contribute to a pool of funds — demonstrating how individual actors can solve coordination failures.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Panic of 1907, J. P. Morgan summoned bank presidents to his office and got 14 of them to pledge $23.6 million to keep the stock exchange afloat.",
+  "quote": "Morgan summoned the presidents of the city's banks to his office. ... By 2:16 p.m., 14 bank presidents had pledged $23.6 million to keep the stock exchange afloat.",
+  "source_url": "https://en.wikipedia.org/wiki/Panic_of_1907",
+  "note": "'Coordination failure' lesson is commentary not on page."
+ },
+ {
+  "claim": "Plants can provide up to 30% of the carbon they fix through photosynthesis to their mycorrhizal fungal partners in exchange for nitrogen and phosphorus.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The plant provides to the fungus up to 30% of the carbon it fixes by photosynthesis",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Studies show Chihuahuas are one of the most aggressive dog breeds toward both humans and other dogs despite their tiny size - they compensate with fierceness.",
+  "verdict": "overstated",
+  "corrected_claim": "One study found Chihuahuas are one of the most aggressive breeds toward humans and dogs outside their own breed - they're tiny, so they compensate with fierceness.",
+  "quote": "One study found that the tiny pups are one of the most aggressive breeds toward humans and dogs outside their own breed. ... Chis are tiny, so they compensate with fierceness.",
+  "source_url": "https://www.mentalfloss.com/animals/dogs/10-feisty-facts-about-chihuahuas",
+  "note": "Page cites one study, not 'studies'."
+ },
+ {
+  "claim": "In 1992, plant DNA was first admitted in a criminal case when DNA from seed pods of a palo verde tree matched pods found in the suspect's truck, helping convict Mark Alan Bogan of murder.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "DNA from seed pods of a tree at the crime scene was found to match that of seed pods found in Bogan's truck. ... the first instance of plant DNA admitted in a criminal case",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "The first dogs in space (Dezik and Tsygan) returned to Earth with a parachute.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "during their suborbital flight on July 22, 1951, the first dogs to fly into space ... before falling back to Earth with a parachute.",
+  "source_url": "https://en.wikipedia.org/wiki/Dezik_and_Tsygan",
+  "note": ""
+ },
+ {
+  "claim": "The Great Cipher used by King Louis XIV remained unbroken for over 200 years (1690-1890) — finally cracked by French military cryptanalyst Étienne Bazeries.",
+  "verdict": "overstated",
+  "corrected_claim": "The Great Cipher of King Louis XIV, created by Antoine Rossignol and his family, remained unsolved from its initial use until 1890, when French military cryptanalyst Étienne Bazeries solved it.",
+  "quote": "it remained unsolved from its initial use until 1890, when French military cryptanalyst, Étienne Bazeries solved it",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": "Page gives no start date (1690) and no '200 years' figure."
+ },
+ {
+  "claim": "Sulfur-breathing bacteria 7,900 feet below Earth's surface eat rocks like pyrite for food and have been isolated from sunlight for millions of years.",
+  "verdict": "overstated",
+  "corrected_claim": "Sulfur-breathing organisms living 7,900 feet (2,400 m) below the surface eat rocks such as pyrite as their regular food source.",
+  "quote": "discovered sulfur-breathing organisms which live 7,900 feet (2,400 m) below the surface ... rocks such as pyrite as their regular food source",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Isolation from sunlight for millions of years is not stated."
+ },
+ {
+  "claim": "Scientists Just Cracked the Hidden Rules of Cancer Evolution Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Vulture bees in the genus Trigona are the only bees that feed on carrion instead of pollen—they turn rotting meat into a honey-like substance.",
+  "verdict": "overstated",
+  "corrected_claim": "Vulture bees, a group of three South American species in the genus Trigona, feed on rotting meat, whose secretions replace pollen in their diet.",
+  "quote": "a small group of three closely related South American ... in the genus Trigona which feed on rotting meat ... The secretions replace the role of pollen in the bees' diet",
+  "source_url": "https://en.wikipedia.org/wiki/Vulture_bee",
+  "note": "Page doesn't say they are the only carrion-feeding bees and calls 'meat honey' a misnomer."
+ },
+ {
+  "claim": "The word 'umami' is Japanese for 'pleasant savory taste' and was coined from 'umai' meaning delicious.",
+  "verdict": "overstated",
+  "corrected_claim": "'Umami' is a Japanese word that can be translated as 'pleasant savory taste'; in its original sense it is normally used in the adjectival form umai, meaning delicious.",
+  "quote": "can be translated as 'pleasant savory taste' ... in its original sense, it is normally used in its adjectival form umai",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "Page doesn't say the word was coined from umai."
+ },
+ {
+  "claim": "Aucklanders have a reputation for making false earthquake reports on New Zealand's earthquake monitoring website GeoNet.",
+  "verdict": "overstated",
+  "corrected_claim": "Aucklanders have a reputation on GeoNet for describing small earthquakes, even ones that can't be felt in Auckland, as strong or extreme shaking.",
+  "quote": "Aucklanders have a reputation for describing small earthquakes, including ones that cannot be felt in Auckland",
+  "source_url": "https://en.wikipedia.org/wiki/GeoNet_(New_Zealand)",
+  "note": "Reputation is for exaggerating shaking, not explicitly false reports."
+ },
+ {
+  "claim": "The Indian emperor Jahangir commissioned a painting depicting his superiority over his rival, the Shah of Iran.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was commissioned by the Mughal emperor Jahangir. ... Through various iconographical elements, the painting aims to display Jahangir's superiority over his Safavid counterpart.",
+  "source_url": "https://en.wikipedia.org/wiki/Jahangir_Embracing_Shah_Abbas",
+  "note": ""
+ },
+ {
+  "claim": "Niall Ó Glacáin, an Irish physician, worked as a travelling plague doctor in southern France in the 1620s.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was an Irish physician and plague doctor who worked to treat victims of bubonic plague ... Around 1628, he worked as a travelling plague doctor, treating victims at local hospitals in towns",
+  "source_url": "https://en.wikipedia.org/wiki/Niall_%C3%93_Glac%C3%A1in",
+  "note": ""
+ },
+ {
+  "claim": "Braille proves that writing is fundamentally spatial, not visual — the same linguistic principles work whether perceived by sight or touch.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the phenomenon of writing is fundamentally spatial in nature, not merely visual.",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Page argues Braille's equivalence to visual writing shows this."
+ },
+ {
+  "claim": "The Ellsberg Paradox shows people prefer known risks over unknown risks — given a choice between urns with known vs unknown odds, people avoid ambiguity even when expected values are identical.",
+  "verdict": "overstated",
+  "corrected_claim": "The Ellsberg paradox shows people tend to prefer choices with quantifiable risks over unknown ones — offered an urn of 50 red and 50 black balls versus one with an unknown mix, they favor the known odds.",
+  "quote": "a person tends to prefer choices with quantifiable risks over those with unknown, incalculable risks ... It is known that urn A contains 50 red and 50 black, but urn B contains an unknown mix of red and black balls.",
+  "source_url": "https://en.wikipedia.org/wiki/Ellsberg_paradox",
+  "note": "Page does not state that expected values are identical."
+ },
+ {
+  "claim": "Douglas fir trees injured by insects can send chemical warning signals through mycorrhizal networks to neighboring ponderosa pines, which then produce defense enzymes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a Douglas fir that had been injured by insects appeared to send chemical warning signals to a ponderosa pine ... The pine tree then produced defense enzymes to protect against the insect.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "The sight of a dead crow attracts a mob of 100+ live crows for what scientists call a 'funeral' - but the birds almost never touch the dead one and seem hesitant to revisit spots where they encountered deceased crows.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The sight of a dead crow tends to attract a mob of a hundred or more live ones. ... the live crows almost never touch the dead one, which rules scavenging out as a motive. ... seem hesitant to revisit any spot where they've encountered a dead crow.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": ""
+ },
+ {
+  "claim": "Familial DNA searching led to the arrest of the 'Grim Sleeper' serial killer in 2010 when his son's DNA (obtained from a felony arrest) was partially matched to crime scene evidence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The technique was used to catch the Los Angeles serial killer known as the \"Grim Sleeper\" in 2010. ... When his DNA was entered into the database of convicted felons, detectives were alerted to a partial match to evidence found at the 'Grim Sleeper' crime scenes.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "The 1827 novel 'A Voyage to the Moon' contains the first use of anti-gravity for space travel in science fiction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The book features one of the earliest instances of anti-gravity in fiction. ... and the first time anti-gravity was used for space travel in science fiction.",
+  "source_url": "https://en.wikipedia.org/wiki/A_Voyage_to_the_Moon_(Tucker_novel)",
+  "note": ""
+ },
+ {
+  "claim": "Polish mathematician Marian Rejewski broke the German Enigma cipher in 1932 using only mathematics and limited documentation — David Kahn called it 'one of the great achievements of cryptology.'",
+  "verdict": "overstated",
+  "corrected_claim": "Polish mathematician Marian Rejewski deduced the detailed structure of the German Army Enigma in December 1932 — which David Kahn called one of the great achievements of cryptology.",
+  "quote": "in December 1932 deduced the detailed structure of the German Army Enigma ... was one of the great achievements of cryptology",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": "'Using only mathematics and limited documentation' not directly confirmed."
+ },
+ {
+  "claim": "Lichen survived 34 days under simulated Mars conditions including UV radiation and extreme cold — suggesting life could exist on Mars.",
+  "verdict": "overstated",
+  "corrected_claim": "In a Mars simulation lab, lichen survived and showed remarkable adaptation of its photosynthetic activity within 34 days under conditions similar to those on Mars.",
+  "quote": "lichen survived and showed remarkable results on the adaptation capacity of photosynthetic activity within the simulation time of 34 days under some conditions similar to those on Mars",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page draws no conclusion that life could exist on Mars; UV/cold specifics not quoted."
+ },
+ {
+  "claim": "FM band for good after it was out of service for a week and only one person wrote a letter to complain?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/January",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The myth that 'bumblebees shouldn't be able to fly' arose from flawed 1930s calculations using fixed-wing aerodynamics—bees actually generate lift through complex vortices at the wing edge.",
+  "verdict": "overstated",
+  "corrected_claim": "The myth that bumblebees shouldn't be able to fly may trace to a 1934 book by Antoine Magnan, whose simplified calculations ignored flow separation; in reality their wings exploit dynamic stall, creating a large vortex above the wing that boosts lift.",
+  "quote": "the earliest he had found was a reference in the 1934 book Le Vol des Insectes by French entomologist ... More sophisticated aerodynamic analysis shows the bumblebee can fly because its wings encounter dynamic stall",
+  "source_url": "https://en.wikipedia.org/wiki/Bumblebee",
+  "note": "Page says origin is uncertain (earliest found 1934) and does not describe it as a fixed-wing calculation"
+ },
+ {
+  "claim": "Umami receptors were discovered on the tongue in 2000 and in the stomach in 2006, confirming it as a distinct taste.",
+  "verdict": "overstated",
+  "corrected_claim": "Umami receptors were found on the tongue in 2000 by University of Miami researchers, and similar receptors were found in the stomach in 2006.",
+  "quote": "In 2000, researchers at the University of Miami identified the presence of umami receptors on the tongue. ... In 2006, Ajinomoto's research laboratories found similar receptors in the stomach.",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "'Confirming it as a distinct taste' is not stated."
+ },
+ {
+  "claim": "Deep Cut Gardens in New Jersey contains a stone replica of Mount Vesuvius that once erupted smoke at the behest of mobster Vito Genovese.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1935, the Dangler mansion was sold to the mobster Vito Genovese, ... his only condition that the gardens contained a small rock replica of Mount Vesuvius ... On special occasions and parties, a flame was stoked inside the Vesuvius replica and it would \"erupt\" smoke and fire.",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_Cut_Gardens",
+  "note": ""
+ },
+ {
+  "claim": "German colonists were unable to win a war that they started with an unprovoked massacre (Hornkranz massacre).",
+  "verdict": "overstated",
+  "corrected_claim": "The German governor launched an unprovoked attack on Hornkranz, but with fewer than 300 troops he was unable to defeat the insurgency that followed.",
+  "quote": "decided to launch an unprovoked attack on the village ... François, only having less than 300 troops under his command, was unable to defeat the insurgency.",
+  "source_url": "https://en.wikipedia.org/wiki/Hornkranz_massacre",
+  "note": "Page says successor Leutwein forced Witbooi into a protection treaty in 1894, so Germans did not ultimately fail."
+ },
+ {
+  "claim": "The National Hospital Service Reserve trained volunteers to carry out first aid in the aftermath of a nuclear or chemical attack.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "practice in first aid techniques likely to be required in the aftermath of a nuclear or chemical attack",
+  "source_url": "https://en.wikipedia.org/wiki/National_Hospital_Service_Reserve",
+  "note": ""
+ },
+ {
+  "claim": "All languages have nouns and verbs — this is one of the few true linguistic universals that applies to every known human language.",
+  "verdict": "overstated",
+  "corrected_claim": "'All languages have nouns and verbs' is a classic example of an absolute linguistic universal.",
+  "quote": "All languages have nouns and verbs",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_universal",
+  "note": "Page gives it as an example of an absolute universal; 'one of the few true universals' not stated."
+ },
+ {
+  "claim": "Mechanism Design, called 'reverse game theory,' asks how to design rules so that self-interested players achieve a desired outcome — earning Hurwicz, Maskin, and Myerson the 2007 Nobel Prize.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Because it starts with the end of the game (a particular result), then works backwards to find a game that implements it, it is sometimes described as reverse game theory. ... The 2007 Nobel Memorial Prize in Economic Sciences was awarded to Leonid Hurwicz, Eric Maskin, and Roger Myerson for having laid the foundations of mechanism design theory.",
+  "source_url": "https://en.wikipedia.org/wiki/Mechanism_design",
+  "note": ""
+ },
+ {
+  "claim": "Carbon flow direction in mycorrhizal networks shifts seasonally—toward young maple saplings in spring, then toward trout lilies developing roots in fall.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "carbon moves to young sugar maple saplings in spring when leaves are unfurling ... shifts to move to the trout lilies in fall when the lilies are developing their roots",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "The New Caledonian crow's brain weighs 0.26 ounces but accounts for 2.7% of its overall weight - proportionately much larger than a human's 3-pound brain which is only 1.9% of body weight.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "weighs 0.26 ounces and accounts for 2.7 percent of its overall weight. That's proportionately much larger than a human's three-pound brain, which accounts for 1.9 percent of overall weight.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": ""
+ },
+ {
+  "claim": "Israeli scientists demonstrated in 2009 that DNA evidence can be fabricated in a laboratory, creating synthesized DNA samples that matched any desired genetic profile without obtaining actual tissue.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2009, Israeli scientists fabricated saliva and blood samples and showed that, using a DNA database, it is possible to take information from a profile and manufacture DNA to match it.",
+  "quote": "In August 2009, scientists in Israel raised serious doubts concerning the use of DNA by law enforcement as the ultimate method of identification. ... The researchers also showed that, using a DNA database, it is possible to take information from a profile and manufacture DNA to match it.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Page says DNA was manufactured to match a profile from a database, not 'any desired' profile."
+ },
+ {
+  "claim": "As of 1.06 billion years ago, three supermassive black holes from a trio of galaxies in the constellation of Cancer were colliding.",
+  "verdict": "overstated",
+  "corrected_claim": "SDSS J0849+1114, about 1.06 billion light-years away in the constellation Cancer, is a late-stage merger of three galaxies that harbors three supermassive black holes.",
+  "quote": "they received significant attention when astronomers discovered it harbors three supermassive black holes in its center. ... is a late-stage galaxy merger forming from a trio of galaxies located in the constellation of Cancer. ... they are located 1.06 billion light-years from Earth.",
+  "source_url": "https://en.wikipedia.org/wiki/SDSS_J0849%2B1114",
+  "note": "Source gives distance in light-years and describes galaxies colliding, not the black holes 'colliding'."
+ },
+ {
+  "claim": "Public-key cryptography was secretly developed at GCHQ by James Ellis, Clifford Cocks, and Malcolm Williamson in 1973-74 — years before Diffie-Hellman published their 'discovery' in 1976.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "schemes essentially identical to RSA encryption and to Diffie–Hellman key exchange in 1973 and 1974 ... before the public announcement by Diffie and Hellman in 1976",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": ""
+ },
+ {
+  "claim": "Bacteria discovered in Antarctica feed on air — using hydrogen and carbon monoxide from the atmosphere for energy.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacteria that feed on air were discovered in Antarctica in 2017, and they are likely not limited to Antarctica.",
+  "quote": "bacteria that feed on air discovered 2017 in Antarctica are likely not limited to Antarctica",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not mention hydrogen or carbon monoxide."
+ },
+ {
+  "claim": "COMPOSER_IMAGE%2C_Fr%C3%A9d%C3%A9ric_Chopin%2C_According_to_Kohler%2C_the_originating_daguerreotype_was_made_around_1847_by_Paris-based_artist_Louis-Auguste_Bisson%2C_who_took_the_only_confirmed_photo_of_Chopin.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/January",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Beetles comprise about 400,000 described species—roughly 40% of all insect species and 25% of all known animal species.",
+  "verdict": "overstated",
+  "corrected_claim": "Beetles comprise roughly 400,000 described species — about 40% of all described arthropod species and about 25% of all animal species.",
+  "quote": "the roughly 400,000 species make up about 40% of all arthropod species so far described, and about 25% of all animal species.",
+  "source_url": "https://en.wikipedia.org/wiki/Beetle",
+  "note": "40% is of arthropods, not insects"
+ },
+ {
+  "claim": "When foods rich in glutamate are combined with those containing nucleotides (like IMP or GMP), the umami taste intensity is synergistically higher than the sum of the individual ingredients.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "GMP and IMP amplify the taste intensity of glutamate. ... the resulting taste intensity is higher than would be expected from merely adding",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": ""
+ },
+ {
+  "claim": "Some Lake Superior agates have circular, concentric rings on their surfaces, called 'eyes'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Eye agates have one or more circular, concentric rings on their surfaces. These \"eyes\" are actually hemispheres that formed on the husk of the agate and extend inward like a bowl.",
+  "source_url": "https://en.wikipedia.org/wiki/Lake_Superior_agate",
+  "note": ""
+ },
+ {
+  "claim": "A shipwreck in the eastern Mediterranean, dating from the Late Bronze Age, is the earliest deep-sea shipwreck to be discovered.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A Canaanite shipwreck dating from the Late Bronze Age was found in the eastern Mediterranean Sea in June 2024 ... It was the earliest shipwreck ever discovered in deep sea water in the world.",
+  "source_url": "https://en.wikipedia.org/wiki/Canaanite_shipwreck",
+  "note": ""
+ },
+ {
+  "claim": "The genetic lines of Poecilia koperi and P. wandae blur in areas where they meet, likely due to occasional hybridization.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The two species appear to be paraphyletic, meaning that their genetic lineages are not fully separated ... this may reflect contemporary hybridization and genetic introgression where their ranges meet around Lake Maracaibo.",
+  "source_url": "https://en.wikipedia.org/wiki/Poecilia_koperi",
+  "note": ""
+ },
+ {
+  "claim": "If a language has grammatical gender for third person ('he/she'), it will always have it for second person ('you') — an implicational universal.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_universal",
+  "note": "Page's implicational example concerns trial/dual number; no gender third vs second person universal."
+ },
+ {
+  "claim": "The Folk Theorem in game theory shows that in infinitely repeated games, almost any outcome can be sustained as an equilibrium — explaining why cooperation emerges in long-term relationships.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "every individually rational and feasible payoff profile in the basic game is a Nash equilibrium payoff profile ... relations between countries are long-term",
+  "source_url": "https://en.wikipedia.org/wiki/Folk_theorem_(game_theory)",
+  "note": ""
+ },
+ {
+  "claim": "More carbon is exchanged between closely related Douglas firs sharing a network than between distantly related trees, suggesting kin recognition in plants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "More carbon has been found to be exchanged between the roots of more closely related ... Evidence is also mounting that micronutrients transferred via mycorrhizal networks can communicate relatedness between plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Carrion crows in Japan have learned to use traffic lights - they wait for red to place walnuts on roads for cars to crush, then wait for the next red light to safely retrieve the opened nuts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Carrion crows wait until the light turns red before flying down to place the un-cracked nut on the road. ... it will even wait for the next red to scoop up the nut’s meat",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": ""
+ },
+ {
+  "claim": "The first use of genetic genealogy to solve a major criminal case occurred in 2018 when the Golden State Killer, Joseph James DeAngelo, was identified through DNA uploaded to public genealogy databases.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2018, Joseph James DeAngelo was arrested as the main suspect for the Golden State Killer crimes using DNA and genealogy techniques.",
+  "quote": "Joseph James DeAngelo was arrested as the main suspect for the Golden State Killer using DNA and genealogy techniques.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Page does not say this was the first use of genetic genealogy."
+ },
+ {
+  "claim": "Although J1407b eclipsed V1400 Centauri in 2007, nobody noticed for over three years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "During 7 April to 4 June 2007, telescopes of the Super Wide Angle Search for Planets ... The event was not noticed until 3 December 2010",
+  "source_url": "https://en.wikipedia.org/wiki/J1407b",
+  "note": ""
+ },
+ {
+  "claim": "The Zimmermann Telegram's decryption triggered the United States' entry into World War I — British codebreakers in Room 40 cracked Germany's diplomatic cipher.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Thus the Zimmermann Telegram triggered the United States' entry into World War I",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": "Page also credits Room 40 with decrypting the telegram."
+ },
+ {
+  "claim": "Bacterial endospores can survive high-velocity impacts up to 299 m/s, suggesting life could travel between planets via meteorites.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "high speed impacts up to 299±28 m/s ... might allow endospores to survive and to be transferred between planets by traveling within meteorites",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": ""
+ },
+ {
+  "claim": "Eustace Tilley on the first edition of The New Yorker, 1925\" src=\"//upload.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/January",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "When asked what could be inferred about God from studying nature, biologist J.B.S. Haldane reportedly quipped: 'An inordinate fondness for beetles.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This immense diversity led the evolutionary biologist J. B. S. Haldane to quip, when some theologians asked him what could be inferred about the mind of the Christian God from the works of His Creation, \"An inordinate fondness for beetles\"",
+  "source_url": "https://en.wikipedia.org/wiki/Beetle",
+  "note": ""
+ },
+ {
+  "claim": "The ancient Roman fish sauce garum was rich in glutamate, making it one of the earliest umami-boosting condiments in Western cuisine.",
+  "verdict": "overstated",
+  "corrected_claim": "Garum, a fermented fish sauce rich in glutamate, was used widely in ancient Rome.",
+  "quote": "rich in glutamate ... were used widely in ancient Rome",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "'One of the earliest umami condiments in Western cuisine' is not stated."
+ },
+ {
+  "claim": "The depth value is measured from the highest to the lowest accessible cave point.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The depth value is measured from the highest to the lowest accessible cave point.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_deepest_caves",
+  "note": ""
+ },
+ {
+  "claim": "The 4,000-year-old Ravenswood standing stone now lies in a cul-de-sac in a 1970s Scottish housing estate.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The standing stone was erected around 2000 BC. ... It was moved again in 1971 and now sits in a cul-de-sac on a housing estate, protected by metal railings. ... Around 1971, a new housing estate was built on the site.",
+  "source_url": "https://en.wikipedia.org/wiki/Ravenswood_standing_stone",
+  "note": ""
+ },
+ {
+  "claim": "According to tradition, Saint Ludger healed the Frisian bard Bernlef of his blindness and taught him to play psalms on his harp.",
+  "verdict": "overstated",
+  "corrected_claim": "Saint Ludger met the blind bard Bernlef, last of the Frisian skalds, allegedly cured his blindness, and made him a devout Christian.",
+  "quote": "On his return he met the blind bard Bernlef, last of the Frisian skalds, allegedly cured his blindness, and made him a devout Christian.",
+  "source_url": "https://en.wikipedia.org/wiki/Ludger",
+  "note": "Teaching him to play psalms on his harp is not on the page."
+ },
+ {
+  "claim": "Almost all languages have nasal consonants — only a handful like Rotokas (Papua New Guinea) lack them entirely.",
+  "verdict": "overstated",
+  "corrected_claim": "The vast majority of languages have nasal consonants; Lushootseed and Rotokas are rare examples of languages that truly lack them as normal speech sounds.",
+  "quote": "The vast majority of languages have nasal consonants ... Lushootseed and Rotokas are examples of the rare languages which truly lack nasal consonants as normal speech sounds.",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_universal",
+  "note": "Page names Rotokas and Lushootseed as rare exceptions; no PNG location or 'handful' count given."
+ },
+ {
+  "claim": "The Hot Hand Fallacy was originally thought to be a cognitive bias, but recent research shows basketball players do have genuine hot streaks — the 1985 paper debunking it had statistical errors.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'hot hand fallacy' was first described in a 1985 paper, but in 2015 Miller and Sanjurjo found flaws in its methodology — and some later studies have found evidence of hot-hand shooting.",
+  "quote": "The fallacy was first described in a 1985 paper by Thomas Gilovich, Amos Tversky, and Robert Vallone. ... found flaws in the methodology of the 1985 study ... considerable evidence of hot hand shooting in and across individuals ... However, other recent studies have not observed evidence of the 'hot hand'.",
+  "source_url": "https://en.wikipedia.org/wiki/Hot_hand",
+  "note": "Evidence is mixed; claim too absolute."
+ },
+ {
+  "claim": "Black walnut trees release juglone, an allelopathic chemical transferred through mycorrhizal networks that inhibits growth and water uptake in neighboring plants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The black walnut is one of the earliest studied examples of allelopathy ... produces juglone, which inhibits growth and water uptake in neighboring plants",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Crows can recognize human faces and hold grudges across generations - in experiments, crows who were never captured still scolded and dive-bombed researchers wearing a 'threatening' mask years later.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "including many who’d never been captured or banded ... The younger crows, who were born after the initial experiment, also scolded the 'caveman.' The grudge had been passed on.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": ""
+ },
+ {
+  "claim": "Approximately 60% of criminal cases involving encrypted digital devices go unprocessed because investigators have no way to access potential evidence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is estimated that about 60% of cases that involve encrypted devices, often go unprocessed because there is no way to",
+  "source_url": "https://en.wikipedia.org/wiki/Digital_forensics",
+  "note": ""
+ },
+ {
+  "claim": "Apollo astronauts walked on walls (Reduced Gravity Walking Simulator) before walking on the Moon.",
+  "verdict": "overstated",
+  "corrected_claim": "To prepare for the Moon, Apollo astronauts trained on the Reduced Gravity Walking Simulator, walking on a walkway tilted 9.5° from vertical while suspended on their sides by cables.",
+  "quote": "The simulator consisted of an inclined walkway tilted at a 9.5° angle from vertical. Test subjects were suspended on their side via cables attached to different parts of their body ... in total, 24 astronauts used the simulator to train for the lunar missions",
+  "source_url": "https://en.wikipedia.org/wiki/Reduced_Gravity_Walking_Simulator",
+  "note": "It was a near-vertical inclined walkway, not literally a wall."
+ },
+ {
+  "claim": "DES encryption was broken by the Electronic Frontier Foundation in 1997 using a $250,000 custom machine that cracked messages in 56 hours — proving 56-bit keys were too short.",
+  "verdict": "overstated",
+  "corrected_claim": "DES was broken by brute force in an attack by the Electronic Frontier Foundation in 1997 that succeeded in 56 hours, showing its 56-bit key size was insufficient.",
+  "quote": "one such attack, undertaken by the cyber civil-rights group Electronic Frontier Foundation in 1997, succeeded in 56 hours ... its 56-bit key-size has been shown to be insufficient to guard against brute force attacks",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": "$250,000 custom machine not mentioned."
+ },
+ {
+  "claim": "Microbes adapt to space in ways 'not observed on Earth' — showing increased growth and virulence in microgravity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "in ways 'not observed on Earth' ... can lead to increases in growth and virulence",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": ""
+ },
+ {
+  "claim": "NFL debut on his birthday, in the only game he played that year?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/February",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The goliath beetle larva can weigh over 115 grams and reach 11.5 cm in length—among the heaviest insects on Earth.",
+  "verdict": "overstated",
+  "corrected_claim": "Goliath beetle larvae can grow up to 250 mm long and weigh in excess of 100 grams, and the beetles are among the largest insects on Earth.",
+  "quote": "They are capable of growing up to 250 millimetres (9.8 in) in length ... reaching weights in excess of 100 grams (3.5 oz) ... Goliath beetles are among the largest insects on Earth",
+  "source_url": "https://en.wikipedia.org/wiki/Goliathus",
+  "note": "Page gives >100 g and up to 250 mm, not 115 g / 11.5 cm."
+ },
+ {
+  "claim": "Auguste Escoffier, the famous French chef, created umami-rich dishes in the late 1800s without knowing the chemical basis of the flavor he was enhancing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "created meals that combined umami with salty, sour, sweet, and bitter tastes. However, he did not know the chemical source of this unique quality.",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": ""
+ },
+ {
+  "claim": "While many eruptions only pose dangers to the immediately surrounding area, Earth's largest eruptions can have a major regional or even global impact, with some affecting the climate and contributing to mass extinctions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "While many eruptions only pose dangers to the immediately surrounding area, Earth's largest eruptions can have a major regional or even global impact, with some affecting the climate and contributing to mass extinctions.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions",
+  "note": ""
+ },
+ {
+  "claim": "John S. McCain Sr. and John S. McCain Jr. were the first father-and-son pair to achieve the U.S. rank of four-star admiral.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "He and his son, John S. McCain Jr., were the first father-and-son pair to achieve four-star admiral rank in the U.S. Navy.",
+  "source_url": "https://en.wikipedia.org/wiki/John_S._McCain_Sr.",
+  "note": ""
+ },
+ {
+  "claim": "The legalization of abortion in Benin was supported by two members of the cabinet who had both worked as gynecologists.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The law was created due to lobbying by doctors, supported by the country's minister for social affairs Véronique Tognifode, and health minister Benjamin Hounkpatin, who have both worked as gynecologists.",
+  "source_url": "https://en.wikipedia.org/wiki/Abortion_in_Benin",
+  "note": ""
+ },
+ {
+  "claim": "Sign languages are full natural languages with their own grammar and syntax — they are not simply 'signed versions' of spoken languages.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "are full-fledged natural languages with their own grammar and lexicon. ... On the whole, though, sign languages are independent of spoken languages and follow their own paths of development.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": ""
+ },
+ {
+  "claim": "The FCC spectrum auctions, designed by game theorists, raised over $60 billion by using simultaneous multiple-round auctions — a triumph of applied mechanism design.",
+  "verdict": "overstated",
+  "corrected_claim": "Since 1994 the FCC has held 87 spectrum auctions raising over $60 billion for the U.S. Treasury, many using the Simultaneous Multiple Round Auction format shaped by theorists such as Paul Milgrom.",
+  "quote": "Since July 1994, the FCC has conducted 87 spectrum auctions, which raised over $60 billion for the U.S. Treasury ... relied on the input of various theorists including Paul Milgrom ... Simultaneous Multiple Round Auction (SMRA, also referred to as the Simultaneous Ascending Auction)",
+  "source_url": "https://en.wikipedia.org/wiki/Spectrum_auction",
+  "note": "Page doesn't attribute the whole $60B to SMRA or call it a triumph of mechanism design."
+ },
+ {
+  "claim": "Mycorrhizal symbiosis evolved before plants colonized land, with evolutionary origins dating back over 450 million years.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycorrhizal symbiosis is fundamental to land ecosystems, and its evolutionary origins predate the colonization of land by plants.",
+  "quote": "with evolutionary origins before the colonization of land by plants",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Page gives no 450-million-year figure."
+ },
+ {
+  "claim": "Crows and ravens understand delayed gratification - they will patiently wait for a better food reward rather than eating immediately, but only if the second option is genuinely superior.",
+  "verdict": "overstated",
+  "corrected_claim": "Ravens and carrion crows can resist the urge for instant gratification - in a 2014 study, they didn't mind waiting around for an improved snack option, as long as it was worth their while.",
+  "quote": "at least some corvids can resist the urge for instant gratification—if you make it worth their while. ... didn't mind waiting around for an improved snack option.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": "Page says 'if you make it worth their while', not 'only if genuinely superior'; study was ravens and carrion crows."
+ },
+ {
+  "claim": "Cliff Stoll's 1986 pursuit of hacker Markus Hess was one of the first publicized examples of digital forensics—Stoll tracked the hacker through network logs despite not being a specialized examiner.",
+  "verdict": "overstated",
+  "corrected_claim": "Cliff Stoll's 1986 pursuit of hacker Markus Hess was one of the first publicized examples of digital forensics — and Stoll, who used computer and network forensic techniques, was not a specialized examiner.",
+  "quote": "Stoll, whose investigation made use of computer and network forensic techniques, was not a specialized examiner.",
+  "source_url": "https://en.wikipedia.org/wiki/Digital_forensics",
+  "note": "Page does not mention network logs specifically."
+ },
+ {
+  "claim": "The two victims of the Zénith balloon incident are depicted holding hands on their tomb.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The remains of Joseph Crocé-Spinelli and Théodore Sivel were laid to rest in a single tomb ... surmounted by their recumbent effigies lying on their backs, side by side with their hands clasped together.",
+  "source_url": "https://en.wikipedia.org/wiki/Z%C3%A9nith_(balloon)",
+  "note": ""
+ },
+ {
+  "claim": "Phil Zimmermann faced a three-year criminal investigation by the US government after releasing PGP encryption in 1991 — the case was dropped when encryption export laws relaxed.",
+  "verdict": "overstated",
+  "corrected_claim": "After Phil Zimmermann released PGP in 1991, the US Department of Justice began a long criminal investigation of him — and eventually dropped the case.",
+  "quote": "He wrote and then in 1991 released PGP (Pretty Good Privacy) ... that began a long criminal investigation of him by the US Department of Justice ... The DOJ eventually dropped its case against Zimmermann",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": "Page gives no three-year length and no reason (export law relaxation) for dropping it."
+ },
+ {
+  "claim": "Microbes live in liquid asphalt at Pitch Lake in Trinidad — populations of 10^6 to 10^7 cells per gram thrive in tar.",
+  "verdict": "overstated",
+  "corrected_claim": "Extremophiles inhabit the liquid asphalt of Pitch Lake, in populations ranging between 10^6 and 10^7 cells per gram.",
+  "quote": "populations ranging between 106 and 107 cells/gram",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page as fetched does not mention Trinidad."
+ },
+ {
+  "claim": "New York City was designed by \"the only architects in the city who had not begged for the job\"?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/March",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The Hercules beetle (Dynastes hercules) is the longest beetle, reaching up to 16.7 cm including its horn—longer than a human hand.",
+  "verdict": "overstated",
+  "corrected_claim": "The Hercules beetle is the longest beetle species in the world when horns are included; males may reach up to 17.3 cm.",
+  "quote": "may reach up to 173 mm (7 in) in length (including the horn) ... making them the longest species of beetle in the world, if jaws and/or horns are included in the measurement.",
+  "source_url": "https://en.wikipedia.org/wiki/Hercules_beetle",
+  "note": "Page says 17.3 cm, not 16.7; hand comparison not stated."
+ },
+ {
+  "claim": "Classic food pairings like Japanese dashi (kombu + bonito flakes) work because they combine glutamate-rich and nucleotide-rich ingredients for synergistic umami.",
+  "verdict": "overstated",
+  "corrected_claim": "The Japanese make dashi from kombu seaweed and dried bonito flakes, and this kind of umami synergy may help explain various classic food pairings.",
+  "quote": "the Japanese make dashi with kombu seaweed and dried bonito flakes ... This synergy of umami may help explain various classical food pairings.",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "Page hedges ('may help explain') rather than stating pairings work because of it."
+ },
+ {
+  "claim": "An eruptive phase can consist of a single eruption, or a sequence of several eruptions spread over several days, weeks or months.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An eruptive phase can consist of a single eruption, or a sequence of several eruptions spread over several days, weeks or months.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions",
+  "note": ""
+ },
+ {
+  "claim": "Hannibal von Degenfeld played the leading role in establishing the Bavarian Army in 1682, before leading it to the Battle of Vienna a year later.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "He played a crucial role in the reforms that resulted in the establishment of a standing Bavarian Army ... In 1683 Degenfeld commanded the Bavarian forces sent to the relief of the Ottoman siege of Vienna",
+  "source_url": "https://en.wikipedia.org/wiki/Hannibal_von_Degenfeld",
+  "note": ""
+ },
+ {
+  "claim": "While commonly referred to as the Nobel Prize in Medicine, Nobel specifically stated that the prize be awarded for \"physiology or medicine\" in his will.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "While commonly referred to as the Nobel Prize in Medicine, Nobel specifically stated that the prize be awarded for \"physiology or medicine\" in his will.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physiology_or_Medicine",
+  "note": ""
+ },
+ {
+  "claim": "British Sign Language and American Sign Language are mutually unintelligible, despite both countries speaking English.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "British Sign Language (BSL) and American Sign Language (ASL) are quite different and mutually unintelligible",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": ""
+ },
+ {
+  "claim": "The Gibbard-Satterthwaite Theorem proves that any voting system with 3+ candidates is either dictatorial or vulnerable to strategic voting — there's no manipulation-proof democratic system.",
+  "verdict": "overstated",
+  "corrected_claim": "The Gibbard-Satterthwaite theorem shows that any ordinal voting rule with at least three possible outcomes that is not dictatorial can be manipulated by strategic voting.",
+  "quote": "If an ordinal voting rule has at least 3 possible outcomes and is non-dictatorial, then it is manipulable.",
+  "source_url": "https://en.wikipedia.org/wiki/Gibbard%E2%80%93Satterthwaite_theorem",
+  "note": "Applies to deterministic ordinal rules, not any voting system."
+ },
+ {
+  "claim": "Tomato plants connected via mycorrhizal networks can 'prime' uninfected neighbors' defenses when one plant is attacked by fungal pathogens.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a plant not infected by a fungal pathogen showed evidence of defensive priming",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Study was on tomato plants linked by an AM network (page wording paraphrased by fetch tool)."
+ },
+ {
+  "claim": "A 2020 study found crows can perceive sensory input consciously, despite lacking a cerebral cortex - suggesting consciousness may have evolved multiple times in different brain structures.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2020 study found crows can perceive sensory input consciously even though their brains lack a cerebral cortex - suggesting there is much more to understand about the evolution of consciousness.",
+  "quote": "Crow brains lack a cerebral cortex, where most of the primate brain's conscious perception happens.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": "Page does not say consciousness evolved multiple times; only that there is more to understand about its evolution."
+ },
+ {
+  "claim": "In 2000, the FBI lured Russian hackers to the United States for a fake job interview and monitored their network traffic to collect passwords, enabling evidence collection from Russian computers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2000, the FBI lured computer hackers Aleksey Ivanov and Gorshkov to the United States for a fake job interview. ... identified passwords allowing them to collect evidence directly from Russian-based computers.",
+  "source_url": "https://en.wikipedia.org/wiki/Digital_forensics",
+  "note": ""
+ },
+ {
+  "claim": "This list covers all known stars, white dwarfs, brown dwarfs, and sub-brown dwarfs/rogue planets within 20 light-years (6.13 parsecs) of the Sun.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "This list covers all known stars, white dwarfs, brown dwarfs, and sub-brown dwarfs/ rogue planets within 20 light-years (6.13 parsecs) of the Sun.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "Until 1996, exporting encryption software using keys longer than 40 bits from the United States was effectively illegal — treated as munitions under arms export regulations.",
+  "verdict": "overstated",
+  "corrected_claim": "Until 1996, export from the US of cryptography using keys longer than 40 bits was sharply limited.",
+  "quote": "Until 1996 export from the U.S. of cryptography using keys longer than 40 bits was sharply limited",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": "Page says 'sharply limited', not illegal; munitions classification not mentioned."
+ },
+ {
+  "claim": "The human body contains approximately 38 trillion bacterial cells — roughly matching our 30 trillion human cells.",
+  "verdict": "overstated",
+  "corrected_claim": "The human body contains an estimated 38 trillion bacterial cells — comparable to its roughly 30 to 40 trillion human cells.",
+  "quote": "estimated to be around 38 trillion ... around 30 to 40 trillion",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Page gives 30-40 trillion human cells, not 30 trillion."
+ },
+ {
+  "claim": "Canadian lacrosse player of the first half of the 20th century?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/March",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Diving beetles trap air bubbles under their wing covers (elytra) which act as a 'physical gill'—oxygen diffuses from the water into the bubble as the beetle consumes it.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a small air bubble pressed out from the subelytral cavity ... Another feature acting as a gill in diving beetles ... can also diffuse dissolved oxygen from the water",
+  "source_url": "https://en.wikipedia.org/wiki/Diving_beetle",
+  "note": ""
+ },
+ {
+  "claim": "Caffeine is the most widely consumed psychoactive substance in the world, found naturally in tea, coffee, and cacao.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Caffeine is the world's most widely consumed psychoactive drug. ... The most common sources of caffeine for human consumption are the tea leaves of the Camellia sinensis plant and of the cocoa plant, Theobroma cacao",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": ""
+ },
+ {
+  "claim": "Despite their ostensibly benign appearance, effusive eruptions can be as dangerous as explosive ones: one of the largest effusive eruptions in history occurred in Iceland during the 1783–1784 eruption of Laki, which produced about 15 km3 (4 cu mi) of lava and killed one fifth of Iceland's population.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "one of the largest effusive eruptions in history occurred in Iceland during the 1783–1784 eruption of Laki, which produced about 15 km3 (4 cu mi) of lava and killed one fifth of Iceland's population.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions",
+  "note": ""
+ },
+ {
+  "claim": "The discovery of a coffin belonging to Ahhotep I, which had been reused to bury a high priest, ignited a debate among scholars over the true number of Egyptian queens named Ahhotep.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "this coffin had apparently been reused to bury a Theban high priest named Pinedjem I. ... igniting a scholarly debate over the true number of Egyptian queens named Ahhotep.",
+  "source_url": "https://en.wikipedia.org/wiki/Ahhotep_I",
+  "note": ""
+ },
+ {
+  "claim": "The first Nobel Prize in Physiology or Medicine was awarded in 1901 to Emil Adolf von Behring, of Germany.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first Nobel Prize in Physiology or Medicine was awarded in 1901 to Emil Adolf von Behring, of Germany.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physiology_or_Medicine",
+  "note": ""
+ },
+ {
+  "claim": "American Sign Language shares more grammatical features with Japanese than with English — language families don't follow spoken language boundaries.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The grammars of sign languages do not usually resemble those of spoken languages used in the same geographical area; in fact, in terms of syntax, ASL shares more with spoken Japanese than it does with English.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": ""
+ },
+ {
+  "claim": "The Keynesian Beauty Contest describes how investors don't pick stocks they think are best, but stocks they think others think are best — explaining momentum trading and bubbles.",
+  "verdict": "overstated",
+  "corrected_claim": "The Keynesian beauty contest, developed to explain price fluctuations in equity markets, suggests investors can profit more by buying whichever stocks they think other investors will buy.",
+  "quote": "investors could profit more by buying whichever stocks they think other investors will buy ... to explain price fluctuations ... equity markets",
+  "source_url": "https://en.wikipedia.org/wiki/Keynesian_beauty_contest",
+  "note": "Momentum trading and bubbles not mentioned."
+ },
+ {
+  "claim": "The Society for the Protection of Underground Networks (SPUN) released the first high-resolution map of Earth's mycorrhizal networks in 2025, revealing 90% remain unprotected.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2025 SPUN released the world's first high-resolution maps of underground mycorrhizal fungal biodiversity, showing over 90% of Earth's most diverse underground mycorrhizal ecosystems remain unprotected.",
+  "quote": "released the world's first high-resolution, predictive biodiversity maps ... over 90% of Earth's most diverse underground mycorrhizal fungal ecosystems remain unprotected",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "90% refers to the most diverse fungal ecosystems, not all networks."
+ },
+ {
+  "claim": "Diverse fields study the mind, including psychology, neuroscience, cognitive science, and philosophy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Various fields of inquiry study the mind; the main ones include psychology, cognitive science, neuroscience, and philosophy of mind.",
+  "source_url": "https://en.wikipedia.org/wiki/Mind",
+  "note": ""
+ },
+ {
+  "claim": "The Florida Computer Crimes Act of 1978 was the first law to recognize computer crimes, including legislation against unauthorized modification or deletion of data on computer systems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first computer crimes were recognized in the 1978 Florida Computer Crimes Act, ... included legislation against the unauthorized modification or deletion of data on a computer system.",
+  "source_url": "https://en.wikipedia.org/wiki/Digital_forensics",
+  "note": ""
+ },
+ {
+  "claim": "Of those, 103 are main sequence stars: 80 red dwarfs and 23 \"typical\" stars having greater mass.",
+  "verdict": "overstated",
+  "corrected_claim": "Of the objects within 20 light-years of the Sun, 103 are main sequence stars: 78 red dwarfs and 25 \"typical\" stars having greater mass.",
+  "quote": "Of those, 103 are main sequence stars: 78 red dwarfs and 25 \"typical\" stars having greater mass.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Page now says 78 red dwarfs and 25 typical stars, not 80/23."
+ },
+ {
+  "claim": "In 2019, Google claimed quantum supremacy with a 54-qubit machine performing a calculation in 200 seconds that would take classical supercomputers 10,000 years — IBM disputed this, saying 2.5 days.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2019 Google claimed quantum supremacy with a 54-qubit machine on a task it estimated would take a classical supercomputer 10,000 years — IBM argued its Summit supercomputer could do it in about 2.5 days.",
+  "quote": "announced that they had achieved quantum supremacy with a 54-qubit machine ... would take an estimated 10,000 years to complete ... argued the calculation could be done in approximately 2.5 days on its Summit supercomputer",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "The '200 seconds' figure is not on the page."
+ },
+ {
+  "claim": "Your microbiome contains 2 million bacterial genes — 100 times more genes than the ~20,000 in the human genome.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The number of bacterial genes is estimated to be 2 million, 100 times the number of approximately 20,000 human genes.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": ""
+ },
+ {
+  "claim": "Ecuador's largest waterfall, was swallowed by a sinkhole in February&nbsp;2020 and no longer exists?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/March",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Whirligig beetles have split eyes—the upper half looks above water while the lower half looks below, allowing them to hunt prey in both environments simultaneously.",
+  "verdict": "overstated",
+  "corrected_claim": "Whirligig beetles have compound eyes divided into an upper part above the water line and a lower part below it, letting them see both above and below water as they scavenge and hunt on the surface.",
+  "quote": "The compound eyes are remarkable for each being divided into a higher part that is above water level and a lower part that is below water level, ... their ecological adaptation is for the adults to scavenge and hunt on the water surface.",
+  "source_url": "https://en.wikipedia.org/wiki/Whirligig_beetle",
+  "note": "Page does not say they hunt prey in both environments simultaneously; they hunt on the water surface."
+ },
+ {
+  "claim": "Caffeine works by blocking adenosine receptors in the brain, preventing the drowsiness-promoting effects of adenosine.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Caffeine acts by blocking the binding of adenosine at a number of adenosine receptor types ... As a result, caffeine temporarily prevents or relieves drowsiness, and thus maintains or restores alertness.",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": ""
+ },
+ {
+  "claim": "The ensuing disruptions to the climate may also have killed millions elsewhere.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The ensuing disruptions to the climate may also have killed millions elsewhere.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions",
+  "note": "Refers to Laki eruption."
+ },
+ {
+  "claim": "The surviving copies of the Kitab-ı Bahriye contain a total of more than 5,700 maps.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The surviving manuscripts contain a total of more than 5,700 maps.",
+  "source_url": "https://en.wikipedia.org/wiki/Kitab-%C4%B1_Bahriye",
+  "note": ""
+ },
+ {
+  "claim": "As of 2024, the prize has been awarded to 229 individuals, thirteen of them were women (Gerty Cori being the first to be awarded in 1947).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As of 2024, the prize has been awarded to 229 individuals, thirteen of them were women",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physiology_or_Medicine",
+  "note": "First woman Gerty Cori 1947 also on page."
+ },
+ {
+  "claim": "Indo-Pakistani Sign Language is the most widely used sign language in the world, ranked 151st among all languages by number of users.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Indo-Pakistani Sign Language is the most widely used sign language in the world ... Ethnologue ranks it as the 151st most spoken language in the world",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": ""
+ },
+ {
+  "claim": "The Braess Paradox shows that adding a new road can actually increase traffic congestion — drivers individually optimizing their routes can make everyone worse off.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "adding one or more roads to a road network can slow down overall ... when the moving entities selfishly choose their route can in some cases reduce overall performance.",
+  "source_url": "https://en.wikipedia.org/wiki/Braess%27s_paradox",
+  "note": ""
+ },
+ {
+  "claim": "Monotropa (Indian pipe) plants cannot photosynthesize and obtain all their nutrients by parasitizing mycorrhizal fungal networks connected to other trees.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Page does not discuss Monotropa or non-photosynthetic plants (only a reference title on mycoheterotrophy)."
+ },
+ {
+  "claim": "A screen based on the circuitry of a rat brain is displayed on the façade of the Jerusalem-based Edmond and Lily Safra Center for Brain Sciences.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The façade consists of an aluminum \"neuron screen\" inspired by the drawings of Santiago Ramón y Cajal. ... The data for the screen was derived from a digital reconstruction of the neurons of a rat brain",
+  "source_url": "https://en.wikipedia.org/wiki/Edmond_and_Lily_Safra_Center_for_Brain_Sciences",
+  "note": ""
+ },
+ {
+  "claim": "During the Soham murders investigation, mobile phone records disproved the murderer's alibi by showing that the person he claimed to be with was out of town at the time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For example, during the investigation into the Soham murders the offender's alibi was disproved when mobile phone records of",
+  "source_url": "https://en.wikipedia.org/wiki/Digital_forensics",
+  "note": ""
+ },
+ {
+  "claim": "The closest system is Alpha Centauri, with Proxima Centauri as the closest star in that system, at 4.2465 light-years from Earth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The closest system is Alpha Centauri, with Proxima Centauri as the closest star in that system, at 4.2465 light-years from Earth.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "Representing a 100-qubit quantum system classically requires storing 2^100 values — more than the number of atoms in the observable universe.",
+  "verdict": "overstated",
+  "corrected_claim": "Representing just a 100-qubit quantum system on a classical computer requires storing 2^100 classical values.",
+  "quote": "representing a 100-qubit system requires storing 2^100 classical values.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "Comparison to atoms in the observable universe is not in the source."
+ },
+ {
+  "claim": "500 to 1,000 different bacterial species live in the human gut, belonging to just a few major phyla.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "500 to 1,000 species of bacteria live in the human gut ... Bacillota and Bacteroidota dominate",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": ""
+ },
+ {
+  "claim": "First_family_of_the_United_States\" title=\"First family of the United States\">U.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/April",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Bombardier beetles defend themselves by mixing chemicals in their abdomen that explode out at 100°C (212°F) with an audible pop.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the released energy raises the temperature of the mixture to near 100 °C, vaporizing about a fifth of it. ... The boiling, foul-smelling liquid is expelled violently through an outlet valve, with a loud popping sound.",
+  "source_url": "https://en.wikipedia.org/wiki/Bombardier_beetle",
+  "note": ""
+ },
+ {
+  "claim": "Caffeine's half-life in adults is 3-7 hours, but in premature infants it can be as long as 100 hours due to immature liver enzymes.",
+  "verdict": "overstated",
+  "corrected_claim": "Caffeine's half-life in healthy adults is 3 to 7 hours, but in premature infants it can reach about 100 hours, and newborns generally can clear it far more slowly.",
+  "quote": "In healthy adults, caffeine's half-life is between 3 and 7 hours. ... Infants (premature): 100 hours",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "Page does not attribute the infant figure to immature liver enzymes; 100 hours is from the infobox"
+ },
+ {
+  "claim": "These can comprise hundreds of large eruptions, producing millions of cubic kilometers of lava in total.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "These can comprise hundreds of large eruptions, producing millions of km3 of lava in total.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). Refers to large igneous provinces."
+ },
+ {
+  "claim": "A committee rejected six designs for the National Baseball Hall of Fame commemorative coins before approving a seventh, which was sketched during the meeting.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "During the meeting, Mint sculptor-engraver Don Everhart and Mint employee Steve Antonucci quickly sketched a seventh design",
+  "source_url": "https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_commemorative_coins",
+  "note": "Six designs were presented; committee was \"aghast\" and endorsed the seventh."
+ },
+ {
+  "claim": "Bilingual people may experience superior auditory processing abilities compared to monolinguals, even in non-language tasks.",
+  "verdict": "overstated",
+  "corrected_claim": "Studies show bilingual and multilingual people have superior auditory processing abilities compared to monolinguals.",
+  "quote": "Bilingual and multilingual individuals are shown to have superior auditory processing abilities compared to monolingual individuals.",
+  "source_url": "https://en.wikipedia.org/wiki/Multilingualism",
+  "note": "'Even in non-language tasks' not stated."
+ },
+ {
+  "claim": "Sunk cost fallacy leads people to continue investing in failing projects because of money already spent — the Concorde aircraft continued development despite clear evidence it would never be profitable.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The term 'Concorde fallacy' derives from the fact that the British and French governments continued to fund the joint development of the costly Concorde supersonic airplane even after it became apparent that there was no longer an economic case for the aircraft.",
+  "source_url": "https://en.wikipedia.org/wiki/Sunk_cost",
+  "note": ""
+ },
+ {
+  "claim": "Foxgloves produce digoxin and digitoxin, cardiac glycosides used for centuries in heart medicine, which deter herbivores by affecting heart rhythm.",
+  "verdict": "overstated",
+  "corrected_claim": "Many plant defensive compounds are glycosides, such as cardiac digitoxin and digitalis.",
+  "quote": "Many plant pesticides are glycosides (such as cardiac digitoxin)",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "Page doesn't mention foxglove, heart medicine, or heart-rhythm effects."
+ },
+ {
+  "claim": "People sometimes experience short-term memory loss when they walk through doorways or switch tasks (event perception).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "According to EST, when event models are updated, information belonging to the prior event is discarded from working memory. This accounts for the short-term memory loss commonly experienced when people walk through doorways, or change tasks.",
+  "source_url": "https://en.wikipedia.org/wiki/Event_perception",
+  "note": ""
+ },
+ {
+  "claim": "Killer Neil Entwistle's intent to murder was established partly through his Internet search history, which included references to a website discussing 'How to kill people.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For example, the Internet history of convicted killer Neil Entwistle included references to a site discussing How to kill people.",
+  "source_url": "https://en.wikipedia.org/wiki/Digital_forensics",
+  "note": ""
+ },
+ {
+  "claim": "The brightest, most massive and most luminous object among those 131 is Sirius A, which is also the brightest star in Earth's night sky; its white dwarf companion Sirius B is the hottest object among them.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The brightest, most massive and most luminous object among those 131 is Sirius A, which is also the brightest star in Earth's night sky; its white dwarf companion Sirius B is the hottest object among them.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Page elsewhere says 133 objects found; sentence itself says 131."
+ },
+ {
+  "claim": "Shor's algorithm (1994) can factor large integers exponentially faster than classical computers — breaking RSA and Diffie-Hellman encryption if large-scale quantum computers are built.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Peter Shor built on these results in 1994 with polynomial-time quantum algorithms for integer factorization and the discrete logarithm problem. ... efficient factorization would compromise RSA ... an efficient discrete-logarithm algorithm would compromise Diffie–Hellman key exchange",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": ""
+ },
+ {
+  "claim": "Babies born by C-section have different gut microbiomes than vaginally-born babies — with more pathogenic bacteria like E. coli and Staphylococcus.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the gut microbiota of babies delivered by C-section harbor more pathogenic bacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Page gives E. coli and Staphylococcus as examples."
+ },
+ {
+  "claim": "Laguna Beach, California, and converted it into its first showroom?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/April",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Dragonflies have compound eyes with nearly 24,000 individual lenses (ommatidia) each—giving them almost 360-degree vision.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An adult dragonfly's compound eyes have nearly 24,000 ommatidia each. ... A dragonfly can see in 360 degrees, and nearly 80 percent of the insect's brain is dedicated to its sight.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": ""
+ },
+ {
+  "claim": "About 90% of caffeine is metabolized by the liver, with the primary metabolite being paraxanthine (84%), followed by theobromine (12%) and theophylline (4%).",
+  "verdict": "overstated",
+  "corrected_claim": "Caffeine is metabolized in the liver by the cytochrome P450 system, mainly into paraxanthine (84%), followed by theobromine (12%) and theophylline (4%).",
+  "quote": "Caffeine is metabolized in the liver by the cytochrome P450 oxidase enzyme system ... Metabolites: Paraxanthine 84%; Theobromine 12%; Theophylline 4%;",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "'About 90%' liver metabolism figure not given on page"
+ },
+ {
+  "claim": "They are often associated with breakup of supercontinents such as Pangea in the geologic record, and may have contributed to a number of mass extinctions.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "They are often associated with breakup of supercontinents such as Pangea in the geologic record, and may have contributed to a number of mass extinctions.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). Refers to large igneous provinces."
+ },
+ {
+  "claim": "The Zoninus collar is the only known Roman slave collar that offers a reward for returning its wearer.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the Zoninus collar is the only known example that promises a reward for returning the wearer to the master.",
+  "source_url": "https://en.wikipedia.org/wiki/Zoninus_collar",
+  "note": ""
+ },
+ {
+  "claim": "More than half of all Europeans speak at least one language other than their mother tongue — multilingualism is the global norm, not the exception.",
+  "verdict": "overstated",
+  "corrected_claim": "More than half of all Europeans claim to speak at least one language other than their mother tongue, and multilingual speakers are believed to outnumber monolingual ones worldwide.",
+  "quote": "More than half of all Europeans claim to speak at least one language other than their mother tongue ... It is believed that multilingual speakers outnumber monolingual speakers in the world's population.",
+  "source_url": "https://en.wikipedia.org/wiki/Multilingualism",
+  "note": "Page says Europeans 'claim' and multilingual majority is 'believed', not stated as fact."
+ },
+ {
+  "claim": "The Dollar Auction, invented by Martin Shubik, demonstrates escalation of commitment: when bidding for a dollar where both top bidders pay, rational players bid past $1 to minimize losses.",
+  "verdict": "overstated",
+  "corrected_claim": "In the dollar auction, explored by economist Martin Shubik, the second-highest bidder also pays their bid, so once bidding nears $1 it can be rational to bid more than the dollar is worth just to reduce losses.",
+  "quote": "explored by economist Martin Shubik ... the second-highest bidder also loses the amount that they bid ... bidding more than the value of the dollar would reduce their losses to only 5 cents.",
+  "source_url": "https://en.wikipedia.org/wiki/Dollar_auction",
+  "note": "Page says Shubik explored, not invented, the game; 'escalation of commitment' framing not stated."
+ },
+ {
+  "claim": "Over 3,000 alkaloids have been identified in plants, including nicotine, caffeine, morphine, cocaine, and quinine, all evolved as herbivore deterrents.",
+  "verdict": "overstated",
+  "corrected_claim": "Over 3,000 plant alkaloids are known, including nicotine, caffeine, morphine and cocaine, and they almost uniformly taste aversively bitter.",
+  "quote": "Over 3,000 alkaloids are known, including nicotine, caffeine, morphine, cocaine",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "Page doesn't say all evolved as herbivore deterrents."
+ },
+ {
+  "claim": "Goethe used his unrequited love to Maximiliane Brentano as inspiration for his novel The Sorrows of Young Werther.",
+  "verdict": "overstated",
+  "corrected_claim": "Goethe's experience with Maximiliane Brentano and her husband Peter motivated him to finish The Sorrows of Young Werther, whose heroine Lotte takes on features of Maximiliane, including her dark eyes.",
+  "quote": "Goethe was motivated by the experience with Maximiliane and Peter Brentano to finish his novel The Sorrows of Young Werther. The main female character, Lotte, is based on Charlotte Buff, but especially in the second part has more features of Maximiliane Brentano.",
+  "source_url": "https://en.wikipedia.org/wiki/Maximiliane_Brentano",
+  "note": "Page does not call it unrequited love; Lotte is mainly based on Charlotte Buff."
+ },
+ {
+  "claim": "In 2007, prosecutors used a spreadsheet recovered from Joseph Edward Duncan's computer to prove premeditation and secure the death penalty.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2007, prosecutors used a spreadsheet recovered from the computer of Joseph Edward Duncan to show premeditation and secure",
+  "source_url": "https://en.wikipedia.org/wiki/Digital_forensics",
+  "note": ""
+ },
+ {
+  "claim": "The largest object within the 20 light-years is Procyon.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The largest object within 20 light-years is Procyon.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "Current quantum computers must be cooled to 20 millikelvin (colder than outer space) using dilution refrigerators to prevent quantum decoherence.",
+  "verdict": "overstated",
+  "corrected_claim": "Some quantum computers require their qubits to be cooled to 20 millikelvin, usually with a dilution refrigerator, to prevent significant decoherence.",
+  "quote": "require their qubits to be cooled to 20 millikelvin ... usually using a dilution refrigerator",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "Page applies this to certain designs, not all current quantum computers; 'colder than outer space' not stated."
+ },
+ {
+  "claim": "Your gut bacteria function like an endocrine organ — producing hormones and signaling molecules that affect your entire body.",
+  "verdict": "overstated",
+  "corrected_claim": "The gut flora itself appears to function like an endocrine organ.",
+  "quote": "the gut flora itself appears to function like an endocrine organ",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Page hedges ('appears'); 'affect your entire body' not stated."
+ },
+ {
+  "claim": "CEO of a US$36&nbsp;million computer company in six years?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/May",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Dragonflies are among the most efficient predators in nature, catching their prey 95% of the time—compared to lions' 25% success rate.",
+  "verdict": "overstated",
+  "corrected_claim": "Dragonflies are formidable hunters, catching up to 95% of the prey they pursue.",
+  "quote": "catching up to 95% of the prey they pursue.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "Lion comparison not on page; 95% is an upper figure."
+ },
+ {
+  "claim": "In 2020, almost 10 million tonnes of coffee beans were consumed globally.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2020, almost 10 million tonnes of coffee beans were consumed globally.",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": ""
+ },
+ {
+  "claim": "The latter is the most recent large igneous province, and also one of the smallest.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "The latter is the most recent large igneous province, and also one of the smallest.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). 'The latter' = Columbia River Basalt Group; claim lacks context."
+ },
+ {
+  "claim": "The earliest surviving silk-scroll painting from Gangwon Province was found in an attic in Hopkinton, New Hampshire.",
+  "verdict": "overstated",
+  "corrected_claim": "The earliest hanging-scroll painting from Gangwon Province, an 18th-century Korean Buddhist work, was found rolled up in an attic in Hopkinton, New Hampshire.",
+  "quote": "It is considered the earliest hanging scroll painting in Gangwon Province. ... They were found rolled up in the attic of her son's house in Hopkinton, New Hampshire",
+  "source_url": "https://en.wikipedia.org/wiki/Sinheungsa_Buddhist_Paintings",
+  "note": "Page says 'earliest hanging scroll painting', not earliest surviving silk-scroll painting."
+ },
+ {
+  "claim": "Children can become fluent bilinguals without formal instruction — the brain is primed for language acquisition in early childhood.",
+  "verdict": "overstated",
+  "corrected_claim": "A first language is usually acquired without formal education, and children who acquire two languages natively in their early years are called simultaneous bilinguals.",
+  "quote": "The first language (sometimes also referred to as the mother tongue) is usually acquired without formal education ... Children acquiring two languages natively from these early years are called simultaneous bilinguals.",
+  "source_url": "https://en.wikipedia.org/wiki/Multilingualism",
+  "note": "'Brain is primed' and fluency without instruction not stated directly."
+ },
+ {
+  "claim": "The Mississippi Bubble of 1720 in France saw John Law's company shares rise 20-fold before collapsing — it bankrupted France and made the word 'millionaire' popular (and then infamous).",
+  "verdict": "overstated",
+  "corrected_claim": "In the Mississippi Bubble, John Law's Mississippi Company shares peaked at 10,000 livres before collapsing to 1,000 livres by December 1720; the company was placed in receivership in April 1721.",
+  "quote": "The market price of company shares eventually reached the peak of 10,000 livres. ... By September 1720 the price of shares in the company had fallen to 2,000 livres and to 1,000 by December. ... The Company, together with the bank it owned and managed, was placed in receivership in April 1721.",
+  "source_url": "https://en.wikipedia.org/wiki/Mississippi_Company",
+  "note": "20-fold rise, bankrupting France, and 'millionaire' not stated on the page."
+ },
+ {
+  "claim": "Cyanogenic glycosides in plants release hydrogen cyanide when cell membranes are broken by herbivores, blocking cellular respiration in the attacker.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "become toxic when herbivores eat the plant and break cell membranes ... releasing hydrogen cyanide which blocks cellular respiration",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "The following are two lists of animals ordered by the size of their nervous system.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "The following are two lists of animals ordered by the size of their nervous system.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "Hugo Münsterberg published 'On the Witness Stand' in 1908, becoming the first to systematically apply psychological research to legal proceedings, founding forensic psychology.",
+  "verdict": "overstated",
+  "corrected_claim": "Hugo Münsterberg, the first director of Harvard's psychological laboratory, wrote 'On the Witness Stand,' trying to show how psychological research could be applied in legal proceedings.",
+  "quote": "Hugo Münsterberg, the first director of Harvard's psychological laboratory ... In the publication, Münsterberg attempted to demonstrate how psychological research could be applied in legal proceedings.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Page gives no 1908 date and does not call him first or founder."
+ },
+ {
+  "claim": "The Solar System, and the other stars/dwarfs listed here, are currently moving within (or near) the Local Interstellar Cloud, roughly 30 light-years (9.2 pc) across.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Solar System, and the other stars/dwarfs listed here, are currently moving within (or near) the Local Interstellar Cloud, roughly 30 light-years (9.2 pc) across.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "A 2020 study found that cosmic rays can cause quantum computers to decohere within milliseconds — even heavily shielded systems are vulnerable.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2020 study reported that ionizing radiation such as cosmic rays can cause certain quantum computing systems to decohere within milliseconds.",
+  "quote": "A 2020 study reported that ionizing radiation such as cosmic rays can cause certain systems to decohere within milliseconds.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "'Even heavily shielded systems are vulnerable' is not stated."
+ },
+ {
+  "claim": "Gut bacteria ferment dietary fiber into short-chain fatty acids like butyric acid — essentially producing nutrients you couldn't make yourself.",
+  "verdict": "overstated",
+  "corrected_claim": "Gut microbes ferment dietary fiber into short-chain fatty acids such as acetic acid and butyric acid, which are then absorbed by the host.",
+  "quote": "fermenting dietary fiber into short-chain fatty acids (SCFAs), such as acetic acid and butyric acid, which are then absorbed by the host",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Page doesn't say the host couldn't make these itself."
+ },
+ {
+  "claim": "Republic of Macedonia was the only state that seceded from Yugoslavia peacefully?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/May",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Dragonflies can fly in any direction—including backwards and straight up—and hover in place like helicopters.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "can propel itself in six directions: upward, downward, forward, backward, to left and to right. ... is used for hovering and slow flight.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": ""
+ },
+ {
+  "claim": "Caffeine may confer a modest protective effect against Parkinson's disease, according to research studies.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It may confer a modest protective effect against some diseases, including Parkinson's disease.",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": ""
+ },
+ {
+  "claim": "Hundreds of refugees at a UN humanitarian center in Niger have been protesting conditions there for more than a year.",
+  "verdict": "overstated",
+  "corrected_claim": "Refugees at the UNHCR-managed humanitarian center in Agadez, Niger, have been protesting there for over 400 consecutive days since September 2024, describing the center as severely under-resourced.",
+  "quote": "held at the UNHCR-managed humanitarian center in Agadez, Niger ... beginning on 22 September 2024 ... the protests have been ongoing for over 400 consecutive days ... Reports from refugees and NGOs describe the center as severely under-resourced.",
+  "source_url": "https://en.wikipedia.org/wiki/Protests_at_the_UNHCR_humanitarian_center_in_Agadez",
+  "note": "Page gives no count ('hundreds') for the current protests."
+ },
+ {
+  "claim": "Under certain conditions, people can completely lose their native language after switching exclusively to another language — especially if the switch happens in childhood.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "individuals may lose their L1 language proficiency completely, after switching to the exclusive use of another language ... only young children typically are at risk of forgetting their native language and switching to a new one",
+  "source_url": "https://en.wikipedia.org/wiki/Multilingualism",
+  "note": ""
+ },
+ {
+  "claim": "Status quo bias explains why default options are so powerful — organ donation rates are 80%+ in opt-out countries but under 20% in opt-in countries, despite similar populations.",
+  "verdict": "overstated",
+  "corrected_claim": "Status quo bias makes defaults powerful: when New Jersey made cheap car insurance the default and Pennsylvania made expensive insurance the default, only 25% of Pennsylvanian drivers switched to the cheaper option.",
+  "quote": "In New Jersey the cheaper insurance was the default and in Pennsylvania the expensive insurance was the default. ... only 25% of Pennsylvanian drivers changed from the default option and got the cheaper insurance.",
+  "source_url": "https://en.wikipedia.org/wiki/Status_quo_bias",
+  "note": "Organ donation percentages (80%+ / under 20%) are not on the page."
+ },
+ {
+  "claim": "Grasses use indigestible silica phytoliths to defend against herbivores, causing rapid wear to mammal teeth and insect mandibles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "use indigestible silica ... causing rapid wear to vertebrate teeth and to insect mandibles",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "The second list shows the number of neurons in the structure that has been found to be representative of animal intelligence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The second list shows the number of neurons in the structure that has been found to be representative of animal intelligence.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+  "note": ""
+ },
+ {
+  "claim": "The lie detector (polygraph) was invented by psychologist William Marston in 1917—the same person who later created the comic book character Wonder Woman.",
+  "verdict": "overstated",
+  "corrected_claim": "The lie detector was invented in 1917 by psychologist William Marston.",
+  "quote": "In 1917, the lie detector was invented by the psychologist",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Wonder Woman link not on page."
+ },
+ {
+  "claim": "The Local Interstellar Cloud is, in turn, contained inside the Local Bubble, a cavity in the interstellar medium about 300 light-years (92.0 pc) across.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Local Interstellar Cloud is, in turn, contained inside the Local Bubble, a cavity in the interstellar medium about 300 light-years (92.0 pc) across.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "Grover's algorithm provides only quadratic speedup for searching — but this effectively halves symmetric key lengths, meaning AES-256 has the security of AES-128 against quantum attacks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "quadratically fewer than the queries required for classical algorithms ... meaning that symmetric key lengths are effectively halved ... AES-256 would have comparable security against such an attack to that of AES-128 against classical brute-force search.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": ""
+ },
+ {
+  "claim": "Probiotics can improve symptoms of anxiety, depression, autism, and OCD when taken in daily doses of 10^9-10^10 bacteria for 1-2 months.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2016 review of 15 randomized trials found certain commercial Bifidobacterium and Lactobacillus strains, at daily doses of 10^9–10^10 CFU for 1–2 months, showed efficacy in anxiety, depression, autism spectrum disorder and OCD.",
+  "quote": "15 human randomized controlled trials ... in certain central nervous system disorders ... anxiety, depression, autism spectrum disorder, and obsessive–compulsive disorder ... daily doses of 109–1010 colony forming units (CFU) for 1–2 months",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Applies to certain strains in one review, not probiotics generally."
+ },
+ {
+  "claim": "First and Second World Wars, of whom more than 300 have unknown graves, and the youngest was 15 years old?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/May",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Dragonflies use 'motion camouflage' when pursuing prey—they adjust their flight path to appear stationary relative to their target until it's too late.",
+  "verdict": "overstated",
+  "corrected_claim": "Dragonflies use motion camouflage when attacking prey or rivals.",
+  "quote": "Dragonflies make use of motion camouflage when attacking prey or rivals.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "Page does not describe the 'appear stationary until too late' mechanism."
+ },
+ {
+  "claim": "Lethal doses of caffeine are over 10 grams per day for an adult—far exceeding the typical consumption of under 500 milligrams.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lethal doses, over 10 grams per day for an adult, greatly exceed the typical dose of under 500 milligrams per day.",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": ""
+ },
+ {
+  "claim": "Cūḷāmaṇi Cetiya is believed in Buddhist cosmology to enshrine both the Buddha's topknot and his right canine tooth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "it contains the hair that Prince Siddhattha cut off when he became an ascetic ... He took the tooth relic back to Tāvatiṃsa heaven and enshrined it alongside the hair relic within the Cūḷāmaṇi Cetiya.",
+  "source_url": "https://en.wikipedia.org/wiki/C%C5%AB%E1%B8%B7%C4%81ma%E1%B9%87i_Cetiya",
+  "note": ""
+ },
+ {
+  "claim": "The English word 'bead' originally meant 'prayer' — it got its modern meaning from counting prayers with small strung objects.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the English word bead originally meant 'prayer', and acquired its modern meaning through the practice of counting the recitation of prayers by using small objects strung together (beads).",
+  "source_url": "https://en.wikipedia.org/wiki/Etymology",
+  "note": ""
+ },
+ {
+  "claim": "The Dictator Game removes strategic considerations by giving one player complete control over splitting money — yet most 'dictators' still give 20-30%, showing pure altruism exists.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Dictator Game the recipient has no influence over the outcome, yet dictators rarely give nothing — though giving may reflect a wish to avoid looking greedy rather than pure altruism.",
+  "quote": "The recipient has no influence over the outcome of the game, which means the recipient plays a passive role. ... rarely do the majority give nothing to the recipient.",
+  "source_url": "https://en.wikipedia.org/wiki/Dictator_game",
+  "note": "Page gives no 20-30% average and says giving does not necessarily prove altruism."
+ },
+ {
+  "claim": "Caterpillar-damaged plants release volatile organic compounds that attract parasitic wasps to prey on the caterpillars—a form of indirect defense.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "caterpillar-damaged plants guide parasitic wasps to prey on victims through the release of chemical signals",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "The human brain contains 86 billion neurons, with 16 billion neurons in the cerebral cortex.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The human brain contains 86 billion neurons, with 16 billion neurons in the cerebral cortex.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+  "note": ""
+ },
+ {
+  "claim": "The Frye v. United States case in 1923 established that scientific evidence is only admissible when it has 'gained general acceptance' in the scientific community.",
+  "verdict": "overstated",
+  "corrected_claim": "When Marston brought his lie detector to court, the results were ruled inadmissible because lie detection was not widely accepted in the scientific community, leading to the Frye standard.",
+  "quote": "The results were not deemed admissible, due to lie detection not being widely accepted in the scientific community.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Page gives no 1923 date or 'general acceptance' wording."
+ },
+ {
+  "claim": "It contains Ursa Major and the Hyades star cluster, among others.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "It contains Ursa Major and the Hyades star cluster, among others.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). 'It' refers to the Local Bubble; claim lacks its subject."
+ },
+ {
+  "claim": "Richard Feynman proposed quantum computers in 1982, suggesting that simulating quantum physics requires quantum hardware — classical simulation grows exponentially slower.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1982 Richard Feynman conjectured that hardware based on quantum phenomena might be more efficient for simulating physics than classical computers.",
+  "quote": "independently suggest that hardware based on quantum phenomena might be more efficient for computer simulation. ... validating Feynman's 1982 conjecture.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "Claim that classical simulation 'grows exponentially slower' is not stated in the source."
+ },
+ {
+  "claim": "Only about 50% of humans have detectable populations of methane-producing archaea in their guts — colonization is highly variable.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Colonization by methanogens is variable, and only about 50% of humans have easily detectable populations of these organisms.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": ""
+ },
+ {
+  "claim": "Sasha Chuk's debut as a director, screenwriter and lead actress, making it her first feature film in all three categories?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/May",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The globe skimmer dragonfly (Pantala flavescens) makes the longest known insect migration—traveling up to 18,000 km across the Indian Ocean.",
+  "verdict": "overstated",
+  "corrected_claim": "The globe skimmer makes an annual multigenerational migration of some 18,000 km, including a theorised non-stop Indian Ocean crossing of over 2,500 km.",
+  "quote": "Globe skimmers make an annual multigenerational journey of some 18,000 km ... this species of dragonfly is the world's longest known distance insect traveller",
+  "source_url": "https://en.wikipedia.org/wiki/Pantala_flavescens",
+  "note": "18,000 km is the multigenerational total, not a single ocean crossing."
+ },
+ {
+  "claim": "Caffeine citrate is on the WHO Model List of Essential Medicines for treating breathing disorders in premature infants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "used as a primary treatment for apnea of prematurity",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "Page lists caffeine citrate on WHO Model List of Essential Medicines"
+ },
+ {
+  "claim": "One 1886 night, 150 people broke into a courthouse and began moving it 15 miles (24 km), before getting stuck in a blizzard.",
+  "verdict": "overstated",
+  "corrected_claim": "One November 1886 night, 150 men from Madison broke into the Lac qui Parle courthouse, seized county records and began physically moving the courthouse 15 miles (24 km) — a move that took nearly a week due to a blizzard.",
+  "quote": "On November 12, 150 men and 40 teams of horses from Madison violated the injunction. ... broke into the courthouse around 2 am, seized county records from a brick vault ... 15 miles (24 km) away. ... Moving the courthouse took nearly a week due to a blizzard.",
+  "source_url": "https://en.wikipedia.org/wiki/Lac_qui_Parle_County_seat_controversy",
+  "note": "Page says the blizzard delayed the move; it doesn't say they got stuck in it."
+ },
+ {
+  "claim": "The word 'bless' is related to 'blood' — it originally meant 'to mark with blood' in religious ceremonies.",
+  "verdict": "overstated",
+  "corrected_claim": "The word 'bless' is related to 'blood' — it was originally a derivative term meaning 'to mark with blood'.",
+  "quote": "It is even less obvious that bless is related to blood ... the former was originally a derivative term meaning 'to mark with blood'",
+  "source_url": "https://en.wikipedia.org/wiki/Etymology",
+  "note": "'In religious ceremonies' is not stated on the page."
+ },
+ {
+  "claim": "The equity premium puzzle notes that historically, stocks outperformed bonds by 6% annually — far more than standard risk models predict rational investors would demand.",
+  "verdict": "overstated",
+  "corrected_claim": "The equity premium puzzle: stocks have historically earned an average premium of about 6% a year, yet a standard model in Mehra and Prescott's 1985 study generated a premium of less than 1% for reasonable risk aversion levels.",
+  "quote": "the average equity premium of 6% observed during the historical period ... generated an equity premium of less than 1% for reasonable risk aversion levels.",
+  "source_url": "https://en.wikipedia.org/wiki/Equity_premium_puzzle",
+  "note": "Page frames the premium over the risk-free rate and as 5-8% in the US; claim's 'bonds' comparison not directly stated."
+ },
+ {
+  "claim": "When herbivores eat trees, saliva left on leaves triggers increased salicylic acid production, signaling the tree to produce more defensive tannins.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The herbivore saliva left on the leaves of the tree sends a chemical signal to the tree's cells ... increasing the concentration of salicylic acid (hormone) production ... increase the production of tree chemicals called tannins within its leaves",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "Not all animals have neurons; Trichoplax and sponges lack nerve cells altogether.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Not all animals have neurons; Trichoplax and sponges lack nerve cells altogether.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+  "note": ""
+ },
+ {
+  "claim": "The Brown v. Board of Education case in 1954 was the first U.S. Supreme Court case to reference expert psychological opinions, citing research on the psychological effects of segregation.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1954 Brown v. Board of Education case was the first in which the U.S. Supreme Court referenced expert opinions by psychologists.",
+  "quote": "was the first where the Supreme Court of the United States referenced expert opinions by psychologists.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Segregation-effects research detail not on page."
+ },
+ {
+  "claim": "The Local Bubble also contains the neighboring G-Cloud, which contains the stars Alpha Centauri and Altair.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Local Bubble also contains the neighboring G-Cloud, which contains the stars Alpha Centauri and Altair.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "Quantum key distribution allows perfectly secure communication — any eavesdropper disturbs the quantum states, making their presence detectable.",
+  "verdict": "overstated",
+  "corrected_claim": "Quantum key distribution uses entangled quantum states to set up secret keys — any eavesdropper would disturb the delicate quantum system and introduce a detectable change.",
+  "quote": "quantum key distribution uses entangled quantum states to establish secure cryptographic keys. ... as any eavesdropper would disturb the delicate quantum system and introduce a detectable change.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "'Perfectly secure' is stronger than the source's wording."
+ },
+ {
+  "claim": "'Obelisks' — a new class of viroid-like elements — were discovered in the human microbiome in 2024, along with their unique proteins called 'oblins'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a new class of viroid-like elements",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Reported January 2024 as obelisks, with proteins called oblins."
+ },
+ {
+  "claim": "First World War and described as \"the most famous rifle shot the world has ever known\"?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/June",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Dragonfly nymphs breathe through gills in their rectum and can jet-propel themselves by squirting water out of their anus.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They breathe through gills in their rectum, and can rapidly propel themselves by suddenly expelling water through the anus.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": ""
+ },
+ {
+  "claim": "Plants produce caffeine partly as a natural pesticide—it protects them from herbivores and prevents the germination of nearby competing seeds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Caffeine in plants acts as a natural pesticide: it can paralyze and kill predator insects feeding on the plant. ... helps to protect them against herbivores and from competition by preventing the germination of nearby seeds",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": ""
+ },
+ {
+  "claim": "Martha Washington's portrait on the 1896 US one-dollar silver certificate is the most recent time that a woman has been featured on US paper money.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was the last time a woman appeared on United States paper money.",
+  "source_url": "https://en.wikipedia.org/wiki/History_Instructing_Youth",
+  "note": ""
+ },
+ {
+  "claim": "Sanskrit linguists like Pāṇini (c. 520-460 BCE) developed sophisticated grammatical analysis thousands of years before modern linguistics.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Four of the most famous Sanskrit linguists ... Pāṇini (c. 520–460 BCE) ... The analyses of Sanskrit grammar done by the previously mentioned linguists involved extensive studies",
+  "source_url": "https://en.wikipedia.org/wiki/Etymology",
+  "note": ""
+ },
+ {
+  "claim": "The Volunteer's Dilemma shows why bystanders don't help in emergencies: each person hopes someone else will act, but if everyone thinks this way, nobody helps.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Volunteer's Dilemma, if nobody volunteers everyone gets the worst outcome — and the bystander effect and diffusion of responsibility are closely related to it.",
+  "quote": "If no one volunteers, the worst possible outcome is obtained for all participants. ... The social phenomena of the bystander effect and diffusion of responsibility heavily relate to the volunteer's dilemma.",
+  "source_url": "https://en.wikipedia.org/wiki/Volunteer%27s_dilemma",
+  "note": "Page says it relates to the bystander effect, not that it explains why bystanders don't help."
+ },
+ {
+  "claim": "African Acacia trees have long spines low in their canopy but very short spines high up, where they're safe from giraffe browsing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "African Acacia trees have long spines low in the canopy, but very short spines in the high canopy ... comparatively safe from herbivores such as giraffes",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": ""
+ },
+ {
+  "claim": "Forensic psychologist David Canter helped capture the Railway Rapists in the UK through psychological profiling, establishing the field of investigative psychology.",
+  "verdict": "overstated",
+  "corrected_claim": "David Canter, credited with coining the term 'investigative psychology,' helped capture the Railway Rapists in the UK through psychological profiling.",
+  "quote": "David V. Canter is credited with the creation of the term investigative psychology ... Through the psychological profiling of the Railway Rapists, Canter assisted in the capture of the killers.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Page credits him with the term, not with establishing the field via that case."
+ },
+ {
+  "claim": "In the galactic context, the Local Bubble is a small part of the Orion Arm, which contains most stars that we can see without a telescope.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the galactic context, the Local Bubble is a small part of the Orion Arm, which contains most stars that we can see without a telescope.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "At least 3 million physical qubits would be needed to factor a 2,048-bit integer in 5 months — current quantum computers have hundreds of qubits at most.",
+  "verdict": "overstated",
+  "corrected_claim": "One estimate holds that at least 3 million physical qubits would be needed to factor a 2,048-bit integer in 5 months.",
+  "quote": "at least 3 million physical qubits would factor a 2,048-bit integer in 5 months",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "The page does not state current machines have 'hundreds of qubits at most'."
+ },
+ {
+  "claim": "Each person's microbiome is unique — like a fingerprint made of bacteria, it varies dramatically between individuals.",
+  "verdict": "overstated",
+  "corrected_claim": "The bacterial makeup for a given body site varies from person to person — the microbiome is highly variable both within a single person and among individuals.",
+  "quote": "The bacterial makeup for a given site on a body varies from person to person. ... highly variable both within a single subject and among different individuals",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Page doesn't call each microbiome unique like a fingerprint."
+ },
+ {
+  "claim": "Singapore's first satellite town, after its British architects left the country in the mid-1950s?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/June",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Dragonfly nymphs have an extendable lower jaw (labium) that shoots out to catch prey in milliseconds—earning them the nickname 'dragons' even as juveniles.",
+  "verdict": "overstated",
+  "corrected_claim": "Dragonfly nymphs have an extendable lower lip (labium) that is struck out at great speed by hydraulic pressure to capture prey.",
+  "quote": "can extend forward and retract rapidly to capture prey ... struck out at great speed by hydraulic pressure",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "'Milliseconds' and the 'dragons' nickname are not on the page."
+ },
+ {
+  "claim": "The human gut contains 10,000 to 100,000 billion bacteria—roughly equal to the number of human cells in the body.",
+  "verdict": "overstated",
+  "corrected_claim": "The human gut holds roughly 10 to 100 trillion bacteria, and microbial cells in the body greatly outnumber human cells.",
+  "quote": "The approximate number of bacteria composing the gut microbiota is about 1013–1014 (10 to 100 trillion). ... the total number of microbial cells in the human body (over 100 trillion) greatly outnumbers Homo sapiens cells",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": "Page says microbes outnumber human cells, not roughly equal."
+ },
+ {
+  "claim": "38 per cent of Welsh university students in 1900 were women.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_education_in_Wales_(1870%E2%80%931939)",
+  "note": "Page does not mention the share of women among Welsh university students in 1900."
+ },
+ {
+  "claim": "The German word 'Gift' means 'poison' — a classic false friend that has confused many English speakers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "English gift, German Gift ('poison'), and Norwegian gift (both 'married' and 'poison').",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": ""
+ },
+ {
+  "claim": "Behavioral economists found that people work harder to avoid losing $10 than to gain $10 — this asymmetry underlies many 'irrational' financial decisions.",
+  "verdict": "overstated",
+  "corrected_claim": "Behavioral economists describe loss aversion: losses are avoided more than equivalent gains are sought, with 1992 research finding losses hurt about 2.25 times more than equivalent gains reward.",
+  "quote": "Losses are avoided more than equivalent gains are sought. ... losses hurt about 2.25 times more than equivalent gains reward.",
+  "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+  "note": "$10 work-harder example not on page"
+ },
+ {
+  "claim": "Vachellia collinsii acacia trees provide hollow thorns as housing for protective ants and produce food bodies as payment—a classic mutualistic defense.",
+  "verdict": "overstated",
+  "corrected_claim": "Some Acacia trees have hollow, swollen spines that house protective ants and feed them nectar from extrafloral nectaries.",
+  "quote": "forming a hollow structure that provides housing for protective ants ... produce nectar in extrafloral nectaries on their leaves as food for the ants",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "No Vachellia collinsii or food bodies for acacia on page."
+ },
+ {
+  "claim": "According to the Innocence Project, forensic science errors contributed to 39-46% of wrongful convictions in the United States.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "forensic science has contributed to about 39 percent to 46 percent of wrongful convictions",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": ""
+ },
+ {
+  "claim": "As a parsec (parallax-second) is defined by the distance of an object that would appear to move exactly one second of arc against background objects, stars less than 5 parsecs away will have measured parallaxes of over 0.2 arcseconds, or 200 milliarcseconds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As a parsec (parallax-second) is defined by the distance of an object that would appear to move exactly one second of arc against background objects, stars less than 5 parsecs away will have measured parallaxes of over 0.2 arcseconds, or 200 milliarcseconds.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "A 2023 Nature article summarized that quantum computers are currently 'good for absolutely nothing' in real-world applications — though future potential remains high.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2023 article summed up the current practical usefulness of quantum computers as: 'For now, [good for] absolutely nothing.'",
+  "quote": "For now, [good for] absolutely nothing",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": "Source does not attribute the article to Nature."
+ },
+ {
+  "claim": "Your skin hosts bacteria from 205 different genera across 19 phyla — a miniature ecosystem on your body's surface.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "205 identified genera in 19 bacterial phyla",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "From a study of 10 healthy people at 20 skin sites."
+ },
+ {
+  "claim": "US from Germany, became a policeman at 19, was wounded by a Native American tribe, and was shipwrecked before becoming Milwaukee's first police chief?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2024/July",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ }
+]
