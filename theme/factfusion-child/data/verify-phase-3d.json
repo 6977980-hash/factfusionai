@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "80% of American crow nests have 'helpers' - juvenile crows that defend their parents' nest, bring food, or feed younger siblings, sometimes providing aid for over half a decade.",
+  "verdict": "overstated",
+  "corrected_claim": "One study found 80% of surveyed American crow nests had 'helpers' - juveniles that defend their parents' nest, bring food, or feed younger siblings, some for over half a decade.",
+  "quote": "One study found that 80 percent of American crow nests surveyed had a helping hand. ... providing aid to their parents for over half a decade.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": "Figure is from one study of surveyed nests."
+ },
+ {
+  "claim": "Balsamic vinegar from Modena, Italy, is aged for at least 12 years in a series of progressively smaller wooden barrels.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Fermentation in food processing page does not mention this"
+ },
+ {
+  "claim": "Old English (c. 450-1100 CE) is incomprehensible to modern English speakers — it looks like a foreign language entirely.",
+  "verdict": "overstated",
+  "corrected_claim": "Old English, used from the 5th century to the late 11th century, is largely incomprehensible to Modern English speakers without study.",
+  "quote": "largely incomprehensible for Modern English or Modern Scots speakers without study",
+  "source_url": "https://en.wikipedia.org/wiki/Old_English",
+  "note": "Page adds 'largely' and 'without study'"
+ },
+ {
+  "claim": "Payment for order flow lets brokerages offer zero-commission trading — selling retail orders to market makers who profit from the bid-ask spread.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "PFOF was a key factor in the elimination of most brokerage commissions primarily in the United States ... Brokers sold their orders in bulk to market makers that executed the trades ... The market maker profits from the spread (the difference between purchase price and sale price)",
+  "source_url": "https://en.wikipedia.org/wiki/Payment_for_order_flow",
+  "note": ""
+ },
+ {
+  "claim": "Some orchids deceive male bees by mimicking female bee pheromones so closely that males attempt to mate with the flowers.",
+  "verdict": "overstated",
+  "corrected_claim": "Some orchids, such as bee orchids, mimic the female mating signals of specific insects through flower shape, color and scent, so that males attempt to copulate with the flowers.",
+  "quote": "This occurs in several orchids, whose flowers mimic the female mating signals of specific pollinator insects, such as bees. ... The mimicry results in attempted copulation by males of the pollinator species, facilitating pollen transfer.",
+  "source_url": "https://en.wikipedia.org/wiki/Pseudocopulation",
+  "note": "Page does not mention pheromones specifically"
+ },
+ {
+  "claim": "Piezoelectric igniters generate sparks for gas grills and lighters by compressing a ceramic disc—no battery or external power needed.",
+  "verdict": "overstated",
+  "corrected_claim": "Piezoelectric igniters generate the sparks for gas-grill lighters and small engine ignition systems simply by compressing a ceramic disc.",
+  "quote": "the piezoelectric igniter, which generates sparks for small engine ignition systems and gas-grill lighters, by compressing a ceramic disc",
+  "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+  "note": "'No battery or external power needed' is not stated on the page."
+ },
+ {
+  "claim": "The SQL language was developed at IBM in the early 1970s — originally called SEQUEL (Structured English Query Language), shortened due to a trademark dispute.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "SQL was initially developed at IBM by Donald D. Chamberlin and Raymond F. Boyce ... After moving to the San Jose Research Laboratory in 1973, they began work on a sequel to SQUARE. This version, initially called SEQUEL (Structured English Query Language) ... was later changed to SQL (dropping the vowels) because \"SEQUEL\" was a trademark",
+  "source_url": "https://en.wikipedia.org/wiki/SQL",
+  "note": ""
+ },
+ {
+  "claim": "Antoni van Leeuwenhoek first saw bacteria in 1676 using a single-lens microscope of his own design.",
+  "verdict": "overstated",
+  "corrected_claim": "Antonie van Leeuwenhoek first observed single-celled organisms in 1676 and saw bacteria in 1683, using single-lens microscopes of his own design.",
+  "quote": "his first observations of microscopic single-celled organisms dated 9 October 1676. ... Bacteria, (e.g., large Selenomonads from the human mouth), in 1683. ... Using single-lensed microscopes of his own design and make",
+  "source_url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+  "note": "Source dates bacteria observation to 1683, not 1676"
+ },
+ {
+  "claim": "Goats' eyes rotate to keep their horizontal pupils aligned with the ground whether their heads are upright or face-down while grazing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "their eyes rotate to stay horizontally aligned with the ground ... whether their heads are upright or face down in the grass.",
+  "source_url": "https://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes",
+  "note": ""
+ },
+ {
+  "claim": "Coffee beans are actually seeds from coffee cherries—they undergo fermentation during processing to develop flavor.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Fermentation in food processing page does not mention this"
+ },
+ {
+  "claim": "Grimm's Law describes how Proto-Indo-European sounds shifted in Germanic languages — discovered by Jacob Grimm of fairy tale fame.",
+  "verdict": "overstated",
+  "corrected_claim": "Grimm's law, a set of Germanic sound shifts from Proto-Indo-European, was first discovered by Rasmus Rask but systematically put forward by Jacob Grimm in his 1822 Deutsche Grammatik.",
+  "quote": "first discovered by Rasmus Rask but systematically put forward by Jacob Grimm. ... In 1822, Jacob Grimm put forth the rule in his book Deutsche Grammatik",
+  "source_url": "https://en.wikipedia.org/wiki/Grimm%27s_law",
+  "note": "Page credits Rask with first discovery; fairy tales not mentioned"
+ },
+ {
+  "claim": "MEV (Maximal Extractable Value) in blockchain creates game-theoretic extraction opportunities — miners can front-run, sandwich, or reorder transactions for profit.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Maximal_extractable_value",
+  "note": "Page failed to load (fetch error)"
+ },
+ {
+  "claim": "Hammer orchids (Drakaea) have hinged labellums that swing pollen onto bees attempting to copulate with the flower.",
+  "verdict": "overstated",
+  "corrected_claim": "Hammer orchids (Drakaea) have an insect-like labellum on a hinged stem; when a male thynnid wasp tries to fly off with it, the stem swings back and presses the wasp's thorax against the sticky pollen.",
+  "quote": "Hammer orchids are characterised by an insectoid labellum that is attached to a narrow, hinged stem, which holds it aloft. ... it tries to fly away with the labellum, making the stem holding it move backwards. This in turn brings the male wasp's thorax in contact with the sticky pollen packet.",
+  "source_url": "https://en.wikipedia.org/wiki/Drakaea",
+  "note": "Pollinators are thynnid wasps, not bees; wasp tries to fly away with the labellum."
+ },
+ {
+  "claim": "Human bone is piezoelectric—mechanical stress generates electric signals that help regulate bone growth and remodeling, explaining why exercise strengthens bones.",
+  "verdict": "overstated",
+  "corrected_claim": "Even human bone is piezoelectric: like crystals, ceramics, DNA and some proteins, it accumulates electric charge under mechanical stress.",
+  "quote": "the electric charge that accumulates in certain solid materials ... biological matter such as bone, DNA, and various proteins ... in response to applied mechanical stress",
+  "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+  "note": "Page does not mention bone growth, remodeling or exercise."
+ },
+ {
+  "claim": "NoSQL databases emerged in the late 2000s to handle web-scale data — the term was coined for a 2009 meetup about 'open-source, distributed, non-relational databases.'",
+  "verdict": "overstated",
+  "corrected_claim": "The term NoSQL was first used by Carlo Strozzi in 1998, then reintroduced by Johan Oskarsson in early 2009 for an event about 'open-source distributed, non-relational databases'.",
+  "quote": "The term NoSQL was used by Carlo Strozzi in 1998 to name his lightweight Strozzi NoSQL open-source relational database ... reintroduced the term NoSQL in early 2009 when he organized an event to discuss open-source distributed, non-relational databases",
+  "source_url": "https://en.wikipedia.org/wiki/NoSQL",
+  "note": "Term predates 2009 (1998); page says emerged in early 2000s"
+ },
+ {
+  "claim": "Louis Pasteur disproved spontaneous generation in 1859 — life only comes from life.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 1860s Louis Pasteur showed that nothing ever developed in sterilized, sealed flasks, dealing what he called a 'mortal blow' to spontaneous generation; he won the Alhumbert Prize for it in 1862.",
+  "quote": "his experiment demonstrated that in sterilized and sealed flasks, nothing ever developed ... Pasteur won the Alhumbert Prize in 1862. ... Never will the doctrine of spontaneous generation recover from the mortal blow of this simple experiment.",
+  "source_url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+  "note": "Page places the experiments in the 1860s (prize 1862), not 1859"
+ },
+ {
+  "claim": "Beyond round, horizontal, and vertical pupils, some animals have w-shaped, crescent-shaped, or even heart-shaped pupils - cuttlefish have w-shaped pupils.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There are w-shaped pupils, crescent-shaped pupils, heart-shaped pupils, and more. ... Cuttlefish have w-shaped pupils.",
+  "source_url": "https://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes",
+  "note": ""
+ },
+ {
+  "claim": "Kopi luwak, one of the world's most expensive coffees, is made from beans that have passed through a civet cat's digestive system.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Fermentation in food processing page does not mention this"
+ },
+ {
+  "claim": "Latin 'p' became 'f' in Germanic languages: Latin 'pater' became English 'father', Latin 'piscis' became English 'fish'.",
+  "verdict": "overstated",
+  "corrected_claim": "Germanic f corresponds to p in Latin, Greek and Sanskrit — for example, Latin pēs ('foot') versus Proto-Germanic *fōts.",
+  "quote": "Germanic *f- corresponds to Latin, Greek, Sanskrit, Slavic and Baltic p-",
+  "source_url": "https://en.wikipedia.org/wiki/Grimm%27s_law",
+  "note": "Latin did not 'become' Germanic; pater/father and piscis/fish examples not on page"
+ },
+ {
+  "claim": "The Dutch Central Bank was established in 1814, partly in response to the lessons from the tulip bubble and other financial crises of the 17th century.",
+  "verdict": "overstated",
+  "corrected_claim": "De Nederlandsche Bank, the Dutch central bank, was founded by King William I in 1814.",
+  "quote": "It was originally founded by King William I.",
+  "source_url": "https://en.wikipedia.org/wiki/De_Nederlandsche_Bank",
+  "note": "Tulip bubble / 17th-century crises motivation not on page; date 25 March 1814 in infobox"
+ },
+ {
+  "claim": "The bucket orchid (Coryanthes) traps bees in a bucket of fluid, forcing them to exit through a narrow channel covered in pollen.",
+  "verdict": "overstated",
+  "corrected_claim": "Bees seeking the scent of the bucket orchid (Coryanthes) sometimes fall into its fluid-filled bucket, and escaping through a spout presses pollen packets against their thorax.",
+  "quote": "The bees, trying to get the waxy substance containing the scent, sometimes fall to the fluid-filled bucket. ... The knobs lead to a spout ... At that same moment, the small packets containing the pollen of the orchid are pressed against the thorax of the bee.",
+  "source_url": "https://en.wikipedia.org/wiki/Coryanthes",
+  "note": "Bees fall in only 'sometimes'; pollen packets attach, channel not 'covered in pollen'"
+ },
+ {
+  "claim": "Of the 32 crystal classes, 20 exhibit piezoelectricity, all of which lack a center of symmetry in their crystal structure.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Of the 32 crystal classes, 21 are non-centrosymmetric (not having a centre of symmetry), and of these, 20 exhibit direct piezoelectricity.",
+  "source_url": "https://en.wikipedia.org/wiki/Piezoelectricity",
+  "note": ""
+ },
+ {
+  "claim": "Redis, created in 2009, keeps all data in memory for sub-millisecond latency — its name comes from 'REmote DIctionary Server.'",
+  "verdict": "overstated",
+  "corrected_claim": "Redis, developed by Salvatore Sanfilippo starting in 2009, typically holds its whole dataset in memory; its name means Remote Dictionary Server.",
+  "quote": "The project was developed and maintained by Salvatore Sanfilippo, starting in 2009. ... Redis typically holds the whole dataset in memory. ... The name Redis means Remote Dictionary Server.",
+  "source_url": "https://en.wikipedia.org/wiki/Redis",
+  "note": "Sub-millisecond latency not stated; 'typically', not always."
+ },
+ {
+  "claim": "Robert Koch established the germ theory of disease with his famous postulates in 1890.",
+  "verdict": "overstated",
+  "corrected_claim": "Robert Koch was the first to link a specific microorganism with a specific disease, supporting the germ theory; the postulates named after him were introduced by his assistant Friedrich Loeffler.",
+  "quote": "he was the first to link a specific microorganism with a specific disease, rejecting the idea of spontaneous generation and supporting the germ theory of disease. ... he did not formulate the postulates, which were introduced by his assistant Friedrich Loeffler.",
+  "source_url": "https://en.wikipedia.org/wiki/Robert_Koch",
+  "note": "Postulates date to 1883-84 and were introduced by Loeffler; 1890 not supported."
+ },
+ {
+  "claim": "Whether it&rsquo;s the deadliest snakes , longest-living creatures or the history of the dinosaurs , at Live Science, our expert writers are here to help you understand Earth's incredible fauna &mdash; past and present &mdash; with the latest animal news, features and articles.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Tea oxidation (incorrectly called fermentation) determines tea type: green tea is unoxidized, oolong is partially oxidized, black is fully oxidized.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Fermentation in food processing page does not mention this"
+ },
+ {
+  "claim": "The word 'thou' was once the familiar form of 'you' in English — it disappeared because it became too intimate to use with strangers.",
+  "verdict": "overstated",
+  "corrected_claim": "'Thou' once expressed familiarity or informality in English; it declined fairly suddenly in the 17th century as it came to be seen as impolite and 'you' became identified with polite society.",
+  "quote": "thou and thee were used to express familiarity, informality, or contempt ... Fairly suddenly in the 17th century, thou began to decline in the standard language. ... often regarded as impolite or ambiguous in terms of politeness",
+  "source_url": "https://en.wikipedia.org/wiki/Thou",
+  "note": "Source gives impoliteness and 'you' as safer default, not 'too intimate with strangers'."
+ },
+ {
+  "claim": "Order flow toxicity measures predict flash crashes — when informed traders dominate order flow, market makers widen spreads or withdraw, causing liquidity crises.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Flash_crash",
+  "note": "Page does not mention order flow toxicity or informed traders"
+ },
+ {
+  "claim": "Darwin's orchid (Angraecum sesquipedale) has a 30 cm nectar spur; Darwin predicted a moth with a 30 cm tongue before it was discovered.",
+  "verdict": "overstated",
+  "corrected_claim": "Darwin's orchid (Angraecum sesquipedale) has a nectar spur averaging 33 cm long; Darwin predicted a moth with a proboscis long enough to reach the nectar, and one was found in Madagascar in 1903 and named Xanthopan morganii praedicta.",
+  "quote": "grow on average to a length of 33 cm, but can grow as long as 43 cm, or as short as 27 cm. ... there must be a pollinator moth with a proboscis long enough to reach the nectar at the end of the spur. ... In 1903, such a moth was discovered in Madagascar by Walter Rothschild and Karl Jordan.",
+  "source_url": "https://en.wikipedia.org/wiki/Angraecum_sesquipedale",
+  "note": "spur averages 33 cm; page gives no 30 cm tongue length"
+ },
+ {
+  "claim": "Kevlar was invented by Stephanie Kwolek at DuPont in 1965 while searching for a lightweight, strong fiber for tires during an anticipated gasoline shortage.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Poly-paraphenylene terephthalamide (K29) was invented by the American chemist Stephanie Kwolek while working for DuPont ... in anticipation of a gasoline shortage. In 1964, her group began searching for a new lightweight strong fiber to use for light, but strong, tires.",
+  "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+  "note": ""
+ },
+ {
+  "claim": "MongoDB's name comes from 'humongous' — it was designed at 10gen (now MongoDB Inc.) in 2007 to handle large-scale web applications.",
+  "verdict": "overstated",
+  "corrected_claim": "The American software company 10gen began developing MongoDB in 2007, and in 2013 renamed itself MongoDB Inc.",
+  "quote": "The American software company 10gen began developing MongoDB in 2007 ... In 2013, 10gen changed its name to MongoDB Inc.",
+  "source_url": "https://en.wikipedia.org/wiki/MongoDB",
+  "note": "'Humongous' name origin not on page"
+ },
+ {
+  "claim": "Ignaz Semmelweis reduced childbirth fever deaths from 10% to 1% with handwashing — ridiculed, later vindicated.",
+  "verdict": "overstated",
+  "corrected_claim": "Ignaz Semmelweis's handwashing rule cut maternal deaths in his clinic from 18% to under 2% — his ideas were ridiculed, and won wide acceptance only after his death.",
+  "quote": "The maternal mortality rate dropped from 18% to less than 2% ... Semmelweis's hypothesis... was largely ignored, rejected, or ridiculed. ... His findings earned widespread acceptance only years after his death",
+  "source_url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+  "note": "page gives 18% to <2% (10% was the clinic's average), not 10% to 1%"
+ },
+ {
+  "claim": "By Sascha Pare Published 19 October 23 Crustaceans Extinct species Rock climbers in Italy accidentally discovered evidence of an 80 million-year-old sea turtle stampede By Jeanne Timmons Published 27 January 26 9 Comments Extinct species T.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Pu-erh tea is one of the few teas that actually undergoes microbial fermentation, which continues as the tea ages.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Fermentation in food processing page does not mention this"
+ },
+ {
+  "claim": "English lost most of its grammatical gender after the Norman Conquest — Old English had masculine, feminine, and neuter nouns.",
+  "verdict": "overstated",
+  "corrected_claim": "Old English retained all three genders of Proto-Indo-European: masculine, feminine, and neuter.",
+  "quote": "Old English retains all three genders of Proto-Indo-European: masculine, feminine, and neuter.",
+  "source_url": "https://en.wikipedia.org/wiki/Old_English_grammar",
+  "note": "Loss of gender after Norman Conquest not on page"
+ },
+ {
+  "claim": "Retroactive public goods funding (quadratic funding) allocates matching funds to projects based on number of contributors, not amount — small donations from many people get amplified.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Quadratic_funding",
+  "note": "Page does not describe matching by number of contributors or retroactive funding"
+ },
+ {
+  "claim": "Fig trees and fig wasps have co-evolved for over 80 million years—each fig species has its own dedicated wasp pollinator.",
+  "verdict": "overstated",
+  "corrected_claim": "The mutualism between fig trees and fig wasps originated between 70 and 90 million years ago, and many of their interactions are species-specific.",
+  "quote": "The fig–wasp mutualism originated between 70 and 90 million years ago",
+  "source_url": "https://en.wikipedia.org/wiki/Fig_wasp",
+  "note": "Page gives 70-90 million years; does not say every fig species has its own dedicated pollinator (host sharing occurs)"
+ },
+ {
+  "claim": "Kevlar is five times stronger than steel on an equal-weight basis, with a tensile strength of about 3,000 MPa and a density of only 1.44 g/cm³.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "five times stronger than steel ... a tensile strength of about 3,000 MPa (440,000 psi)",
+  "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+  "note": "Page gives relative density 1.44"
+ },
+ {
+  "claim": "The attention mechanism, key to modern transformers like GPT, was introduced in 2014 — allowing neural networks to focus on relevant parts of input sequences.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Attention was introduced to enhance RNN encoder-decoder translation, particularly for long sentences. ... This idea was central to the Transformer architecture, which replaced recurrence with attention mechanisms.",
+  "source_url": "https://en.wikipedia.org/wiki/Attention_(machine_learning)",
+  "note": "2014 Bahdanau et al. paper cited in timeline"
+ },
+ {
+  "claim": "Joseph Lister introduced antiseptic surgery in 1867 — saving countless lives from surgical infections.",
+  "verdict": "overstated",
+  "corrected_claim": "Joseph Lister introduced carbolic acid as a steriliser for surgical instruments, and his work reduced post-operative infections and made surgery safer.",
+  "quote": "he introduced carbolic acid (modern-day phenol) as a steriliser for surgical instruments ... Lister's work led to a reduction in post-operative infections and made surgery safer for patients",
+  "source_url": "https://en.wikipedia.org/wiki/Joseph_Lister",
+  "note": "Year 1867 and lives saved not stated"
+ },
+ {
+  "claim": "By Chris Simms Published 23 November 25 Birds Fossil of huge penguin that lived 3 million years ago discovered in New Zealand &mdash; what happened to it?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Vanilla is the second most expensive spice after saffron because each flower must be hand-pollinated and beans cured for months.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Page does not discuss vanilla's price or pollination."
+ },
+ {
+  "claim": "Middle English (1100-1500) was written in many regional dialects with no standard spelling — the same word could be spelled dozens of ways.",
+  "verdict": "overstated",
+  "corrected_claim": "Middle English, spoken from the Norman Conquest of 1066 until the late 15th century, was written in a wide variety of scribal forms reflecting regional dialects, and its spelling was never fully standardised.",
+  "quote": "Although Middle English spelling was never fully standardised ... Middle English came to be written in a wide variety of scribal forms",
+  "source_url": "https://en.wikipedia.org/wiki/Middle_English",
+  "note": "Dates differ (1066–late 15th c.); 'dozens of ways' not stated"
+ },
+ {
+  "claim": "Circuit breakers halt trading after large price movements — designed to prevent panic selling but criticized for delaying price discovery during crises.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "to reduce market volatility and massive panic sell-offs, giving traders time to reconsider their transactions ... larger than normal bid-ask spreads that slow down the price discovery process",
+  "source_url": "https://en.wikipedia.org/wiki/Trading_curb",
+  "note": ""
+ },
+ {
+  "claim": "Female fig wasps die inside the fig after pollinating it; enzymes break down their bodies, so figs aren't 'full of dead wasps'.",
+  "verdict": "overstated",
+  "corrected_claim": "After a female fig wasp lays her eggs and pollinates, she dies, and the fig produces an enzyme called ficain that digests the dead wasp — so ripe figs are not full of dead wasps.",
+  "quote": "The fig actually produces an enzyme called ficain (also known as ficin) which digests the dead wasps ... Contrary to popular belief, ripe figs are not full of dead wasps",
+  "source_url": "https://en.wikipedia.org/wiki/Fig_wasp",
+  "note": "Page does not explicitly say she dies inside the fig"
+ },
+ {
+  "claim": "The cloudy, opalescent Kevlar solution Kwolek created was usually thrown away, but she persuaded a technician to test it—discovering that unlike nylon, the fiber didn't break.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "cloudy, opalescent upon being stirred, and of low viscosity ... usually was thrown away. However, Kwolek persuaded the technician, Charles Smullen, who ran the spinneret, to test her solution ... did not break, unlike nylon.",
+  "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+  "note": ""
+ },
+ {
+  "claim": "GPT-3 has 175 billion parameters and cost an estimated $4.6 million just for the compute to train — later models are even more expensive.",
+  "verdict": "overstated",
+  "corrected_claim": "GPT-3 has 175 billion parameters, and Lambdalabs estimated a hypothetical training cost of around $4.6 million.",
+  "quote": "GPT-3 has 175 billion parameters ... Lambdalabs estimated a hypothetical cost of around $4.6 million US dollars",
+  "source_url": "https://en.wikipedia.org/wiki/GPT-3",
+  "note": "Cost is a hypothetical estimate; 'later models more expensive' not stated"
+ },
+ {
+  "claim": "The 1918 flu pandemic killed 50-100 million people — more than World War I itself.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1918 flu pandemic killed an estimated 17 to 50 million people — and possibly as many as 100 million.",
+  "quote": "Estimates of deaths range from 17 million to 50 million ... possibly as high as 100 million",
+  "source_url": "https://en.wikipedia.org/wiki/Spanish_flu",
+  "note": "Generally accepted estimate is 25-50 million (range 17-100 million); page makes no comparison with WWI deaths"
+ },
+ {
+  "claim": "Spiders World's biggest spiderweb discovered inside 'Sulfur Cave' with 111,000 arachnids living in pitch black Archaeology 10 things we learned about our human ancestors in 2025 Dinosaurs T.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Black pepper was once so valuable it was called 'black gold' and used as currency in medieval trade.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Page does not mention 'black gold' or pepper as currency."
+ },
+ {
+  "claim": "The printing press standardized English spelling before pronunciation stabilized — which is why spelling is so inconsistent today.",
+  "verdict": "overstated",
+  "corrected_claim": "English spelling began to standardize when movable type reached England in the late 15th century, and its conventions generally do not reflect the sound changes that have occurred since.",
+  "quote": "This standardisation began to develop when movable type spread to England in the late 15th century.",
+  "source_url": "https://en.wikipedia.org/wiki/English_orthography",
+  "note": "Page links standardization to printing and later sound changes but not this exact causal framing"
+ },
+ {
+  "claim": "Soulbound tokens are non-transferable digital credentials — proposed for identity, reputation, and governance to reduce manipulation in decentralized systems.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Soulbound_token",
+  "note": "Source page failed to load (fetch error / not found)"
+ },
+ {
+  "claim": "Yucca plants and yucca moths are obligate mutualists—neither can reproduce without the other after millions of years of co-evolution.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Yucca_moth",
+  "note": "Source is a disambiguation page with no content on mutualism."
+ },
+ {
+  "claim": "In 1971, Lester Shubin suggested using Kevlar for bulletproof vests after simply folding it over and shooting at it—the bullets didn't go through.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1971, Lester Shubin suggested using Kevlar to replace nylon in bulletproof vests, recalling: 'We folded it over a couple of times and shot at it.'",
+  "quote": "suggested using Kevlar to replace nylon in bullet-proof vests ... We folded it over a couple of times and shot at it.",
+  "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+  "note": "Outcome that bullets did not pass through not confirmed in fetched text"
+ },
+ {
+  "claim": "ImageNet, created in 2009 with 14 million labeled images, became the benchmark that drove the deep learning revolution after AlexNet won the 2012 competition.",
+  "verdict": "overstated",
+  "corrected_claim": "ImageNet, first presented in 2009 with more than 14 million hand-annotated images, became famous when AlexNet's big win in the 2012 challenge marked the start of an industry-wide AI boom.",
+  "quote": "They presented their database for the first time as a poster at the 2009 ... More than 14 million ... The dramatic improvement marked the start of an industry-wide artificial intelligence boom.",
+  "source_url": "https://en.wikipedia.org/wiki/ImageNet",
+  "note": "page credits AlexNet's 2012 result with starting the AI boom; 'drove the deep learning revolution' wording not on page"
+ },
+ {
+  "claim": "The Black Death killed 30-60% of Europe's population in the 1340s — Yersinia pestis on an apocalyptic scale.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "around 30% to 60% of the European population ... The disease was caused by the bacterium Yersinia pestis, which is primarily spread by flea bites",
+  "source_url": "https://en.wikipedia.org/wiki/Black_Death",
+  "note": "Page dates it 1346 to 1353"
+ },
+ {
+  "claim": "By Sara Hashemi Published 2 August 25 Frogs Wandering salamander: The tree&#8209;climbing amphibian with a blood&#8209;powered grip By Jay Kakade Published 26 April 25 Newts &amp; Salamanders Fungus is wiping out frogs.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Cinnamon comes from the inner bark of trees—Ceylon cinnamon and cassia are different species with distinct flavors.",
+  "verdict": "overstated",
+  "corrected_claim": "True cinnamon and cassia are both barks used as spices, with cassia being the cheaper alternative to cinnamon.",
+  "quote": "cinnamon (and the cheaper alternative cassia)",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Inner bark and distinct species/flavors not stated."
+ },
+ {
+  "claim": "English added over 10,000 French words after 1066 — mostly related to government, law, food, and culture.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/French_influence_in_English",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "The Tobin tax proposes small levies on financial transactions to reduce speculation — while never globally implemented, some countries have adopted variants.",
+  "verdict": "overstated",
+  "corrected_claim": "A Tobin tax was originally a tax on all spot currency conversions; it has not been introduced on any real foreign exchange market, though variants have been implemented at national level.",
+  "quote": "A Tobin tax was originally defined as a tax on all spot conversions of one currency into another. ... as such a tax has not been introduced on any real foreign exchange market so far",
+  "source_url": "https://en.wikipedia.org/wiki/Tobin_tax",
+  "note": "Original Tobin tax is on currency conversions, not all financial transactions."
+ },
+ {
+  "claim": "Acacia ants live inside swollen thorns and attack any herbivore that touches the tree, receiving food and shelter in return.",
+  "verdict": "overstated",
+  "corrected_claim": "Obligate acacia ants live inside the swollen thorns of ant acacias and feed on the nectar and Beltian bodies the tree offers — and some of them protect the tree from herbivores in return.",
+  "quote": "Obligate acacia ants dwell in the gall-like domatia within the swollen stipular spines ... they also take the food (nectar or Beltian bodies) offered by the tree ... Some of them protect ant acacias from herbivores in return, hence mutualism",
+  "source_url": "https://en.wikipedia.org/wiki/Acacia_ant",
+  "note": "source says only some ants protect from herbivores; 'attack any herbivore that touches' not stated"
+ },
+ {
+  "claim": "Kevlar maintains its strength and resilience down to cryogenic temperatures (-196°C) and is actually slightly stronger at low temperatures.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "down to cryogenic temperatures (−196 °C (−320.8 °F)) ... it is slightly stronger at low temperatures.",
+  "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+  "note": ""
+ },
+ {
+  "claim": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio won the 2018 Turing Award for their work on deep learning — sometimes called the 'godfathers of AI.'",
+  "verdict": "overstated",
+  "corrected_claim": "Yoshua Bengio, Geoffrey Hinton and Yann LeCun won the 2018 Turing Award for conceptual and engineering breakthroughs that made deep neural networks a critical component of computing.",
+  "quote": "conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_learning",
+  "note": "'Godfathers of AI' nickname not on page"
+ },
+ {
+  "claim": "Edward Jenner invented vaccination in 1796 using cowpox to prevent smallpox — the first immunization.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1796 Edward Jenner inoculated a boy with cowpox to protect him from smallpox, creating the world's first vaccine—though others, such as Benjamin Jesty in 1774, had used cowpox before him.",
+  "quote": "On 14 May 1796, he tested his hypothesis by inoculating James Phipps, the eight-year-old son of Jenner's gardener. ... pioneered the concept of vaccines and created the smallpox vaccine, the world's first vaccine.",
+  "source_url": "https://en.wikipedia.org/wiki/Edward_Jenner",
+  "note": "Page notes earlier inoculation (variolation) and Jesty's 1774 cowpox use; not 'the first immunization'."
+ },
+ {
+  "claim": "Animal news, feature and articles Discover more about animals &mdash; Which animals have the strongest bite force?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Nutmeg and mace come from the same fruit—nutmeg is the seed while mace is the lacy red covering around it.",
+  "verdict": "overstated",
+  "corrected_claim": "Nutmeg and mace come from the same plant: nutmeg is a seed, while mace is an aril, part of the nutmeg plant's fruit.",
+  "quote": "Arils, such as mace (part of nutmeg plant fruit) ... Seeds, such as fennel, mustard, nutmeg, and black pepper",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "'Lacy red covering' not stated."
+ },
+ {
+  "claim": "English often has pairs of words from different sources: Anglo-Saxon 'begin' vs. French 'commence', 'ask' vs. 'inquire'.",
+  "verdict": "overstated",
+  "corrected_claim": "French borrowings gave English pairs of words in different registers, such as French 'commence' vs. Old English 'start', and 'liberty' vs. 'freedom'.",
+  "quote": "Over time this led to pairs of words, many of which belong in different language registers ... commence/ start",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_English_words_of_French_origin",
+  "note": "Page pairs commence with 'start', not 'begin'; ask/inquire not mentioned"
+ },
+ {
+  "claim": "Harberger taxes make all property continuously for sale at self-assessed values — owners pay tax on their assessment, incentivizing honest valuation and efficient allocation.",
+  "verdict": "overstated",
+  "corrected_claim": "Under a Harberger tax, owners self-assess their property and pay tax on that value, and anyone can buy the property at that price at any time, aiming to improve investment and allocative efficiency.",
+  "quote": "Owners periodically self-assess their property and pay tax on its value. ... Others are able to purchase the property from the owner at the taxed price at any time, forcing a sale. ... aims to improve societal welfare by optimising for both investment and allocative efficiency of private property.",
+  "source_url": "https://en.wikipedia.org/wiki/Harberger_Tax",
+  "note": "Honest-valuation incentive not explained on page"
+ },
+ {
+  "claim": "Some ant-acacias prevent other plants from growing nearby—the ants kill all seedlings, reducing competition for their host.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Acacia_ant",
+  "note": "page does not mention ants killing seedlings or nearby plants"
+ },
+ {
+  "claim": "Kevlar 149 is used in aircraft wing leading edges because it's less prone than carbon or glass fiber to break in bird collisions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Kevlar 149, the strongest fiber and most crystalline in structure ... Kevlar being less prone than carbon or glass fiber to break in bird collisions",
+  "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+  "note": ""
+ },
+ {
+  "claim": "Convolutional neural networks (CNNs), inspired by the visual cortex, were first successfully applied to handwritten digit recognition by LeCun in 1989.",
+  "verdict": "overstated",
+  "corrected_claim": "Convolutional neural networks, whose connectivity resembles the animal visual cortex, learned to read handwritten numbers in 1989 when Yann LeCun et al. used back-propagation to learn the convolution kernels directly from images.",
+  "quote": "the connectivity pattern between neurons resembles the organization of the animal visual cortex ... Yann LeCun et al. (1989) used back-propagation to learn the convolution kernel coefficients directly from images of hand-written numbers.",
+  "source_url": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+  "note": "Page doesn't call it the first; Denker et al. (1989) also built a hand-designed CNN for ZIP codes"
+ },
+ {
+  "claim": "John Snow traced a cholera outbreak to a water pump in 1854 — founding epidemiology.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is considered one of the founders of modern epidemiology ... he identified the source of the outbreak as the public water pump on Broad Street.",
+  "source_url": "https://en.wikipedia.org/wiki/John_Snow",
+  "note": "Page says one of the founders"
+ },
+ {
+  "claim": "Trending Days numbered for lithium batteries Rock art of Sinai conquest Ancient sea turtle stampede 160,000-year-old stone tools in China Dark energy survey When you purchase through links on our site, we may earn an affiliate commission.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Turmeric's bright yellow color comes from curcumin, which has been studied for anti-inflammatory properties though clinical evidence is limited.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Page does not mention curcumin."
+ },
+ {
+  "claim": "Animal words are Anglo-Saxon (cow, pig, sheep) but meat words are French (beef, pork, mutton) — the Normans ate while Saxons farmed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Norman_Conquest",
+  "note": "Norman Conquest page does not mention animal/meat word pairs"
+ },
+ {
+  "claim": "Universal basic income experiments in Kenya, Finland, and the US test whether unconditional cash transfers improve welfare without reducing work.",
+  "verdict": "overstated",
+  "corrected_claim": "Basic income pilots have run in Kenya (a 12-year GiveDirectly experiment), Finland (a 2017 two-year pilot with 2,000 subjects) and the US, where 1970 negative income tax experiments saw a five percent drop in hours worked.",
+  "quote": "The GiveDirectly experiment in a disadvantaged village of Nairobi, Kenya ... A two-year pilot the Finnish government began in January 2017 involved 2,000 subjects. ... In negative income tax experiments in the United States in 1970, there was a five percent decline in the hours worked.",
+  "source_url": "https://en.wikipedia.org/wiki/Universal_basic_income",
+  "note": "Page does not frame the pilots as testing welfare without reducing work; US data show some work reduction."
+ },
+ {
+  "claim": "Cecropia trees have hollow stems where Azteca ants live; the ants attack herbivores and even prune competing vines.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These internodes provide a nesting area for the Azteca ants that inhabit the trees. ... the ants protect the tree from herbivory and the trees provide shelter and food for the ants ... the ants also prevent the Cecropia from encroaching vines and other plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Cecropia",
+  "note": ""
+ },
+ {
+  "claim": "The Olympic Stadium in Montreal's retractable roof used over 60,000 sq ft of Kevlar fabric—though it was completed 10 years late and replaced after just 10 years of problems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "spectacularly unsuccessful, as it was completed 10 years late ... replaced just 10 years later in May 1998 after a series of problems.",
+  "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+  "note": "Page also states over 60,000 sq ft of Kevlar"
+ },
+ {
+  "claim": "Dropout, a simple regularization technique where random neurons are ignored during training, dramatically improved neural network generalization when introduced in 2012.",
+  "verdict": "overstated",
+  "corrected_claim": "Dropout, a regularization technique that randomly sets neurons' inputs or outputs to zero during training, was introduced under that name by Geoffrey Hinton et al. in 2012 to reduce overfitting.",
+  "quote": "Dropout is a regularization technique for reducing overfitting in artificial neural networks ... The technique consists of randomly setting the inputs and/or outputs of neurons to zero. ... this technique was first introduced with the name dropout by Geoffrey Hinton, et al. in 2012.",
+  "source_url": "https://en.wikipedia.org/wiki/Dropout_(neural_networks)",
+  "note": "Page says it reduces overfitting; 'dramatically improved generalization' not stated, and similar earlier 'dilution' work existed."
+ },
+ {
+  "claim": "Mary Mallon ('Typhoid Mary') infected 51+ people as an asymptomatic carrier — quarantined for 26 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Mary Mallon, the first person in the U.S. identified as an asymptomatic typhoid carrier, is believed to have infected up to 57 people; she was isolated for three years, then again from 1915 until her death in 1938.",
+  "quote": "is believed to have infected up to fifty-seven people with the bacteria that cause typhoid fever. ... She was the first person in the U.S. to be identified as an asymptomatic carrier of Salmonella Typhi bacteria.",
+  "source_url": "https://en.wikipedia.org/wiki/Mary_Mallon",
+  "note": "Case counts vary by source (47, 53, up to 57); page gives no 26-year total"
+ },
+ {
+  "claim": "We live on a planet with millions of species of animals -and a rich, diverse collection of known wildlife, and yet new species are being identified seemingly every day &mdash; both living and extinct.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Ginger's pungent flavor comes from gingerol, which converts to zingerone when cooked, producing a sweeter, less sharp taste.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Page does not mention gingerol or zingerone."
+ },
+ {
+  "claim": "Proto-Indo-European, the ancestor of most European and many Asian languages, was spoken around 4500-2500 BCE but was never written down.",
+  "verdict": "overstated",
+  "corrected_claim": "Proto-Indo-European is hypothesized to have been spoken as a single language from about 4500 to 2500 BCE, and no direct written record of it has ever been discovered.",
+  "quote": "PIE is hypothesized to have been spoken as a single language from approximately 4500 BCE to 2500 BCE ... No direct record of Proto-Indo-European has been discovered",
+  "source_url": "https://en.wikipedia.org/wiki/Proto-Indo-European_language",
+  "note": "Dates are a hypothesis; source says no record discovered rather than 'never written'"
+ },
+ {
+  "claim": "The Laffer Curve suggests tax revenue can decline at both very low and very high tax rates — the optimal rate is empirically contested but theoretically sound.",
+  "verdict": "overstated",
+  "corrected_claim": "The Laffer curve holds that no tax revenue is raised at 0% and 100% rates, so some rate in between maximizes revenue — though the curve's shape is uncertain and disputed among economists.",
+  "quote": "no tax revenue is raised at the extreme tax rates of 0% and 100% ... there must be a tax rate between 0% and 100% that maximizes government tax revenue ... the shape of the curve is uncertain and disputed among economists",
+  "source_url": "https://en.wikipedia.org/wiki/Laffer_curve",
+  "note": "'Theoretically sound' is not stated"
+ },
+ {
+  "claim": "Leafcutter ants are farmers—they cut leaves not to eat but to grow fungus on, which is their actual food source.",
+  "verdict": "overstated",
+  "corrected_claim": "Leafcutter ants carry cut leaves back to their nests to farm fungus; the fungus feeds the larvae, while adult ants feed on leaf sap.",
+  "quote": "share the behaviour of cutting leaves which they carry back to their nests to farm fungus. ... The fungus cultivated by the adults is used to feed the ant larvae, and the adult ants feed on leaf sap.",
+  "source_url": "https://en.wikipedia.org/wiki/Leafcutter_ant",
+  "note": "Adults feed on leaf sap; fungus feeds larvae"
+ },
+ {
+  "claim": "Ultraviolet light degrades Kevlar (UV degradation), so it's rarely used outdoors without protection from sunlight.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The ultraviolet component of sunlight degrades and decomposes Kevlar ... it is rarely used outdoors without protection against sunlight.",
+  "source_url": "https://en.wikipedia.org/wiki/Kevlar",
+  "note": ""
+ },
+ {
+  "claim": "Batch normalization (2015) allowed training of much deeper networks by normalizing layer inputs — it became a standard component of modern neural architectures.",
+  "verdict": "overstated",
+  "corrected_claim": "Batch normalization, introduced by Sergey Ioffe and Christian Szegedy in 2015, re-centers and re-scales each layer's inputs to make training faster and more stable — and became popular for its strong empirical performance.",
+  "quote": "It was introduced by Sergey Ioffe and Christian Szegedy in 2015. ... Although batch normalization has become popular due to its strong empirical performance",
+  "source_url": "https://en.wikipedia.org/wiki/Batch_normalization",
+  "note": "Page doesn't say it enabled deeper networks; notes very deep batch-norm nets can be untrainable"
+ },
+ {
+  "claim": "Deinococcus radiodurans repairs its shattered DNA in hours after massive radiation damage — using backup copies.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Deinococcus usually repairs breaks in its chromosomes within 12–24 hours by a 2-step process. ... Deinococcus accomplishes its resistance to radiation by having multiple copies of its genome.",
+  "source_url": "https://en.wikipedia.org/wiki/Deinococcus_radiodurans",
+  "note": ""
+ },
+ {
+  "claim": "We'll send you a confirmation and sign you up for our daily newsletter, keeping you up to date with the latest science news.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.livescience.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Wasabi sold in most restaurants is actually horseradish with green food coloring—real wasabi is expensive and loses flavor within 15 minutes of grating.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention this"
+ },
+ {
+  "claim": "Linguists reconstructed Proto-Indo-European by comparing daughter languages — like inferring a parent from children who never met.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "scholars have reconstructed PIE from its present-day descendants using the comparative method",
+  "source_url": "https://en.wikipedia.org/wiki/Proto-Indo-European_language",
+  "note": "Analogy is framing"
+ },
+ {
+  "claim": "Carbon credits create markets for pollution — cap-and-trade systems use mechanism design to reduce emissions at lowest cost, with varying real-world success.",
+  "verdict": "overstated",
+  "corrected_claim": "Cap-and-trade carbon markets set a cap on emissions and let polluters find the lowest-cost ways to cut them, but offset credits have drawn heavy criticism, with some studies finding most rainforest offsets were 'phantom credits'.",
+  "quote": "Under these programs, there is a cap on emissions. ... Sources of emissions have the flexibility to find and apply the lowest-cost methods for reducing pollution. ... around 90% of rainforest offset credits ... phantom credits",
+  "source_url": "https://en.wikipedia.org/wiki/Carbon_credit",
+  "note": "Page does not frame it as mechanism design; added framing"
+ },
+ {
+  "claim": "The earliest fossil evidence of leafcutter ant fungus farming dates to 50 million years ago—predating human agriculture by millions of years.",
+  "verdict": "overstated",
+  "corrected_claim": "Leafcutter ants fully domesticated their fungal partner 15 million years ago, a process that took 30 million years to complete.",
+  "quote": "These ants fully domesticated their fungal partner 15 million years ago, a process that took 30 million years to complete.",
+  "source_url": "https://en.wikipedia.org/wiki/Leafcutter_ant",
+  "note": "50-million-year fossil and human comparison not on page"
+ },
+ {
+  "claim": "Nacre (mother-of-pearl) is an organic-inorganic composite made by mollusks, composed of hexagonal aragonite platelets only 0.5 μm thick arranged in layers like bricks and mortar.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nacre is composed of hexagonal platelets, called tablets, of aragonite 10–20 μm wide and 0.5 μm thick arranged in continuous parallel lamina.",
+  "source_url": "https://en.wikipedia.org/wiki/Nacre",
+  "note": ""
+ },
+ {
+  "claim": "ResNet (2015) introduced skip connections that allow training of networks with 152+ layers — before this, very deep networks couldn't be trained effectively.",
+  "verdict": "overstated",
+  "corrected_claim": "ResNet (2015) used residual connections to stabilize training of networks with hundreds of layers; in 2014 the state of the art was 20 to 30 layers, since stacking too many layers cut training accuracy.",
+  "quote": "It was developed in 2015 for image recognition ... The residual connection stabilizes the training and convergence of deep neural networks with hundreds of layers ... In 2014, the state of the art was training deep neural networks with 20 to 30 layers.",
+  "source_url": "https://en.wikipedia.org/wiki/ResNet",
+  "note": "Page says deeper nets lost accuracy, not that they could not be trained at all."
+ },
+ {
+  "claim": "Some bacteria can survive on electricity alone — 'electric bacteria' living on electrons.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Geobacter",
+  "note": "Page does not describe bacteria living on electricity alone"
+ },
+ {
+  "claim": "Animals What is causing a mysterious surge in Canadian turtle deaths?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.nationalgeographic.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Horseradish and mustard both contain compounds that activate the same pain receptors as capsaicin, but in the nasal passages rather than the mouth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Capsaicin",
+  "note": "Capsaicin page does not mention horseradish, mustard or nasal effects"
+ },
+ {
+  "claim": "The PIE word for 'wheel' (*kʷékʷlos) appears in Sanskrit 'cakra', Greek 'kuklos', and English 'wheel' — proving common ancestry.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Proto-Indo-European_language",
+  "note": "Page does not mention *kʷékʷlos or its reflexes"
+ },
+ {
+  "claim": "The curse of resources paradox shows countries with abundant natural resources often grow slower — 'Dutch disease' and rent-seeking behavior explain the puzzle.",
+  "verdict": "overstated",
+  "corrected_claim": "The resource curse hypothesis holds that resource-rich countries have lower growth or poorer development, with Dutch disease as one explanation, though there is no academic consensus on the effect.",
+  "quote": "is the hypothesis that countries with an abundance of natural resources ... have lower economic growth, lower rates of democracy, or poorer development outcomes ... As of at least 2023, there is no academic consensus on the effect of resource abundance on economic development.",
+  "source_url": "https://en.wikipedia.org/wiki/Resource_curse",
+  "note": "Page notes the curse is disputed; rent-seeking not given as explanation."
+ },
+ {
+  "claim": "Some ants disperse seeds (myrmecochory); seeds have fatty attachments called elaiosomes that ants eat, then discard the seed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Once the elaiosome is consumed, the seed is usually discarded in an underground midden or ejected from the nest.",
+  "source_url": "https://en.wikipedia.org/wiki/Myrmecochory",
+  "note": ""
+ },
+ {
+  "claim": "Nacre is about 3,000 times tougher than the aragonite mineral it's made from, due to its hierarchical brick-and-mortar structure with elastic protein layers.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Nacre",
+  "note": "3,000x toughness figure not found on page"
+ },
+ {
+  "claim": "NVIDIA's CUDA, released in 2007, enabled GPUs to be used for general-purpose computing — this made deep learning practical by providing massive parallel processing power.",
+  "verdict": "overstated",
+  "corrected_claim": "NVIDIA's CUDA, officially released in 2007, lets software use GPUs for general-purpose processing; by 2015 its development increasingly focused on accelerating machine learning and neural network workloads.",
+  "quote": "was created in 2004 and was officially released in 2007. ... for accelerated general-purpose processing ... CUDA's development increasingly focused on accelerating machine learning and artificial neural network workloads.",
+  "source_url": "https://en.wikipedia.org/wiki/CUDA",
+  "note": "Page does not say CUDA made deep learning practical"
+ },
+ {
+  "claim": "Cable bacteria conduct electricity centimeters through sediments — living electrical wires.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "that conduct electricity across distances over 1 cm in sediment and groundwater aquifers",
+  "source_url": "https://en.wikipedia.org/wiki/Cable_bacteria",
+  "note": ""
+ },
+ {
+  "claim": "Learn about some of nature’s most incredible species through recent discoveries and groundbreaking studies on animal habitats, behaviors, and unique adaptations.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.nationalgeographic.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The Carolina Reaper, currently the world's hottest pepper, averages 1.6 million Scoville Heat Units.",
+  "verdict": "overstated",
+  "corrected_claim": "The Carolina Reaper is listed among the world's most capsaicin-rich fruits.",
+  "quote": "Carolina Reaper, Trinidad Moruga Scorpion; some of the world's most capsaicin-rich fruits",
+  "source_url": "https://en.wikipedia.org/wiki/Capsaicin",
+  "note": "Page gives no Scoville figure and does not call it the hottest pepper"
+ },
+ {
+  "claim": "Half of the world's population speaks an Indo-European language — the most successful language family in history.",
+  "verdict": "overstated",
+  "corrected_claim": "Over 3.4 billion people — 42% of the world's population — speak an Indo-European language as their first language, by far the most of any language family.",
+  "quote": "Over 3.4 billion people (42% of the global population) speak an Indo-European language as a first language, by far the most of any language family",
+  "source_url": "https://en.wikipedia.org/wiki/Indo-European_languages",
+  "note": "page says 42%, not half; 'most successful in history' not stated"
+ },
+ {
+  "claim": "Microfinance institutions pioneered group lending with joint liability — borrowers monitor each other, reducing default rates when traditional collateral is unavailable.",
+  "verdict": "overstated",
+  "corrected_claim": "Microfinance often uses a group-based model in which several entrepreneurs apply for loans together, serving people without collateral — one report put the 30-day delinquency rate for solidarity lending at just 0.9%.",
+  "quote": "group-based model, where several entrepreneurs come together to apply for loans and other services as a group. ... The delinquency rate for solidarity lending was 0.9% after 30 days",
+  "source_url": "https://en.wikipedia.org/wiki/Microfinance",
+  "note": "Joint liability and peer monitoring not mentioned; 'pioneered' unsupported"
+ },
+ {
+  "claim": "About 11,000 plant species (~5% of flowering plants) depend on ant seed dispersal, including many spring wildflowers.",
+  "verdict": "overstated",
+  "corrected_claim": "Somewhere between 11,000 and 23,000 plant species — about 5% of all flowering plants — rely on ants to disperse their seeds.",
+  "quote": "Estimates for the true biodiversity of myrmecochorous plants range from 11,000 to as high as 23,000 species worldwide, or about 5% of all flowering plant species.",
+  "source_url": "https://en.wikipedia.org/wiki/Myrmecochory",
+  "note": "Range up to 23,000; spring wildflowers not mentioned"
+ },
+ {
+  "claim": "The iridescence of nacre comes from the fact that its aragonite platelet thickness (about 0.5 μm) is close to the wavelength of visible light, causing interference.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nacre appears iridescent because the thickness of the aragonite platelets is close to the wavelength of visible light.",
+  "source_url": "https://en.wikipedia.org/wiki/Nacre",
+  "note": ""
+ },
+ {
+  "claim": "TPUs (Tensor Processing Units), custom chips designed by Google for machine learning, can perform 92 trillion operations per second.",
+  "verdict": "overstated",
+  "corrected_claim": "The Tensor Processing Unit is an application-specific chip that Google designed for neural network machine learning, specifically for its TensorFlow framework.",
+  "quote": "The Tensor Processing Unit (TPU) is a neural processing unit (NPU) application-specific integrated circuit ... The chip was specifically designed for Google's TensorFlow framework.",
+  "source_url": "https://en.wikipedia.org/wiki/Tensor_Processing_Unit",
+  "note": "92 TOPS figure not on page (TPU v1 listed at 23 TOPS)."
+ },
+ {
+  "claim": "Bacteria can be frozen for 250 million years and revived — trapped in ancient salt crystals.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Bacillus_permians",
+  "note": "Page could not be fetched (not found)"
+ },
+ {
+  "claim": "Animals | National Geographic Animals Step into the world of animals, from wildlife to beloved pets.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.nationalgeographic.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Milk is the best remedy for capsaicin burn because casein protein binds to capsaicin and washes it away—water just spreads it around.",
+  "verdict": "overstated",
+  "corrected_claim": "Cold milk may relieve capsaicin burn because of the caseins it contains, with milk's water acting as a surfactant that emulsifies the capsaicin; plain water is ineffective in most situations.",
+  "quote": "When capsaicin is ingested, cold milk may be an effective way to relieve the burning sensation due to caseins in milk, and the water of milk acts as a surfactant, allowing the capsaicin to form an emulsion with it. ... Plain water is ineffective at removing capsaicin in most situations",
+  "source_url": "https://en.wikipedia.org/wiki/Capsaicin",
+  "note": "Page says milk 'may be' effective, not the best remedy; water described as ineffective, not spreading it"
+ },
+ {
+  "claim": "Mandarin Chinese is the most spoken language by native speakers (920 million) — English is first by total speakers (1.5 billion).",
+  "verdict": "overstated",
+  "corrected_claim": "Mandarin Chinese tops the list of languages by native speakers with about 988 million, far ahead of English's 372 million.",
+  "quote": "| Mandarin Chinese | 988 | Sino-Tibetan | Sinitic | ... | English | 372 | Indo-European | Germanic |",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers",
+  "note": "Page gives 988 million for Mandarin; no total-speaker figure or ranking for English"
+ },
+ {
+  "claim": "Conditional cash transfers in Brazil's Bolsa Família pay families for keeping children in school and attending health checkups — combining welfare with human capital investment.",
+  "verdict": "overstated",
+  "corrected_claim": "Brazil's Bolsa Família required families to ensure children attend school and get vaccinated — aiming to fight long-term poverty by increasing human capital among the poor.",
+  "quote": "In order to be eligible, families had to ensure that children attend school and get vaccinated. ... fight long-term poverty by increasing human capital among the poor.",
+  "source_url": "https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia",
+  "note": "Page mentions vaccination, not general health checkups"
+ },
+ {
+  "claim": "Trilliums, violets, and many other woodland flowers have seeds dispersed by ants, with the fatty elaiosome as payment.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Myrmecochory",
+  "note": "Trilliums and violets not named as examples on page"
+ },
+ {
+  "claim": "When dehydrated, nacre becomes brittle like pure aragonite—water acts as a plasticizer for the organic protein layers, greatly improving toughness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When dehydrated, nacre loses much of its strength and acts as a brittle material, like pure aragonite.",
+  "source_url": "https://en.wikipedia.org/wiki/Nacre",
+  "note": ""
+ },
+ {
+  "claim": "The vanishing gradient problem, where gradients become too small to update early layers, stalled deep learning for decades until solutions like ReLU and LSTM emerged.",
+  "verdict": "overstated",
+  "corrected_claim": "In the vanishing gradient problem, gradients of earlier layers become exponentially smaller than those of later layers, which can slow or halt training; LSTM was designed to solve it, and ReLU suffers less from it.",
+  "quote": "the gradients of earlier weights will be exponentially smaller than the gradients of later weights. ... This difference in gradient magnitude might introduce instability in the training process, slow it, or halt it entirely. ... the long short-term memory (LSTM) network was designed to solve the problem ... Rectifiers such as ReLU suffer less from the vanishing gradient problem",
+  "source_url": "https://en.wikipedia.org/wiki/Vanishing_gradient_problem",
+  "note": "'Stalled deep learning for decades' not stated."
+ },
+ {
+  "claim": "Nematode-trapping fungi form sticky loops and lassos to catch and digest worms — fungal predators.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "loops of hyphae which tighten round any ensnared nematodes ... the internal tissues of the nematode are devoured",
+  "source_url": "https://en.wikipedia.org/wiki/Nematophagous_fungus",
+  "note": ""
+ },
+ {
+  "claim": "The secrets of snow leopard mating season Animals The secrets of snow leopard mating season The secrets of snow leopard mating season These plump polar bears surprised scientists Animals These plump polar bears surprised scientists These plump polar bears surprised scientists Read Is CBD good for your dog?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.nationalgeographic.com/animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Eating spicy food can cause a runner's high-like effect because capsaicin triggers endorphin release.",
+  "verdict": "overstated",
+  "corrected_claim": "Self-described 'chiliheads' attribute the effects of eating fiery food to pain-stimulated release of endorphins, though the page labels this folklore.",
+  "quote": "Folklore among self-described \"chiliheads\" attribute this to pain-stimulated release of endorphins, a different mechanism from the local receptor overload that makes capsaicin effective as a topical analgesic.",
+  "source_url": "https://en.wikipedia.org/wiki/Capsaicin",
+  "note": "Endorphin link is described as folklore; runner's high not mentioned"
+ },
+ {
+  "claim": "English is an official language in 67 countries — more than any other language.",
+  "verdict": "overstated",
+  "corrected_claim": "English is an official, administrative, or cultural language in 88 countries and territories.",
+  "quote": "The English-speaking world comprises the 88 countries and territories in which English is an official,",
+  "source_url": "https://en.wikipedia.org/wiki/English-speaking_world",
+  "note": "67 countries and 'more than any other language' not on page"
+ },
+ {
+  "claim": "The Cobra Effect describes perverse incentives — when colonial India offered bounties for dead cobras, people bred cobras to collect rewards, worsening the problem.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'cobra effect' comes from a story that British authorities in Delhi offered a bounty for dead cobras, people bred cobras for income, and freed snakes increased the wild population — though a 2025 investigation found no contemporary records supporting the breeding claims.",
+  "quote": "According to the story, the British government, concerned about the number of venomous cobras in Delhi, offered a bounty for every dead cobra. ... Eventually, however, people began to breed cobras for the income.",
+  "source_url": "https://en.wikipedia.org/wiki/Perverse_incentive",
+  "note": "Page presents it as an anecdote whose truth is disputed"
+ },
+ {
+  "claim": "Nitrogen-fixing bacteria in legume root nodules convert atmospheric nitrogen into forms plants can use, natural fertilizer production.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They contain symbiotic rhizobia bacteria within nodules in their root systems",
+  "source_url": "https://en.wikipedia.org/wiki/Nitrogen_fixation",
+  "note": ""
+ },
+ {
+  "claim": "In 2014, researchers used lasers to create nacre-like 'micro-cracks' in glass, making it 200 times tougher than untreated glass by controlling how cracks propagate.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Altogether, treated glass was reportedly 200 times tougher than untreated glass.",
+  "source_url": "https://en.wikipedia.org/wiki/Nacre",
+  "note": ""
+ },
+ {
+  "claim": "LSTM networks (1997) solved the problem of learning long-term dependencies — they're still widely used for sequence modeling despite being nearly 30 years old.",
+  "verdict": "overstated",
+  "corrected_claim": "LSTM networks, most commonly referenced from a 1997 paper, were designed to mitigate the vanishing gradient problem, giving recurrent networks a memory that can last thousands of timesteps.",
+  "quote": "The most commonly used reference point for LSTM was published in 1997 in the journal Neural Computation. ... It aims to provide a short-term memory for RNN that can last thousands of timesteps",
+  "source_url": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+  "note": "Page notes Transformers scale better than LSTM; 'still widely used' and 'nearly 30 years old' framing not stated"
+ },
+ {
+  "claim": "Photobacterium profundum lives at crushing pressures of 280 atmospheres in the deep ocean.",
+  "verdict": "overstated",
+  "corrected_claim": "Photobacterium profundum strain SS9 grows best at a deep-sea pressure of 28 MPa (about 280 atmospheres), and the species can grow at up to 70 MPa depending on strain.",
+  "quote": "with the ability for growth at temperatures from 0 °C to 25 °C and pressures from 0.1 MPa to 70 MPa depending on the strain. ... optimal growth at 15 °C and 28 MPa",
+  "source_url": "https://en.wikipedia.org/wiki/Photobacterium_profundum",
+  "note": "28 MPa (~280 atm) is the optimum for one strain (SS9), not a general habitat figure."
+ },
+ {
+  "claim": "Dogs have much more sensitive noses and ears than humans, but have trouble distinguishing red from green.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Compared to humans, dogs possess a superior sense of smell and hearing, but inferior visual acuity. ... They have difficulty differentiating between red and green,",
+  "source_url": "https://en.wikipedia.org/wiki/Dog",
+  "note": ""
+ },
+ {
+  "claim": "Children are generally more sensitive to bitter tastes than adults, which may have evolved to protect them from toxic plants.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Page does not say children are more sensitive to bitterness."
+ },
+ {
+  "claim": "Hindi and Urdu are essentially the same spoken language but use different scripts and have different cultural associations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "At the spoken level, Hindi and Urdu are considered registers of a single language, Hindustani or Hindi–Urdu ... In India, the Hindi register is officially written in Devanagari, and Urdu in the Urdu alphabet",
+  "source_url": "https://en.wikipedia.org/wiki/Hindustani_language",
+  "note": ""
+ },
+ {
+  "claim": "Commitment devices help people overcome self-control problems — stickK.com lets users stake money they'll lose if they fail to meet their goals.",
+  "verdict": "overstated",
+  "corrected_claim": "Commitment devices help people follow through on intentions by making it costly to back out — often as a deposit the person forfeits if they fail to meet their goal.",
+  "quote": "A commitment device works by making it difficult or costly to act on the reversed preference. ... structured as a deposit that the person forfeits if the goal is not met",
+  "source_url": "https://en.wikipedia.org/wiki/Commitment_device",
+  "note": "stickK.com not mentioned"
+ },
+ {
+  "claim": "Alder, bayberry, and Casuarina trees also host nitrogen-fixing bacteria, not just legumes—they colonize poor soils first.",
+  "verdict": "overstated",
+  "corrected_claim": "Legumes aren't the only nitrogen fixers: actinorhizal plants such as alder and bayberry fix nitrogen in root nodules with the help of Frankia bacteria.",
+  "quote": "The ability to fix nitrogen in nodules is present in actinorhizal plants such as alder and bayberry, with the help of Frankia bacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Nitrogen_fixation",
+  "note": "Colonizing poor soils first not on page; Casuarina only in a table"
+ },
+ {
+  "claim": "A 2021 study found that nacre initially forms with spiral defects that draw toward each other and cancel out as layers build, resulting in perfectly ordered later layers.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2021 study found that nacre's initial layers contain spiral defects; those spiralling in opposite directions drew together until they merged and cancelled each other out.",
+  "quote": "Defects that spiralled in opposite directions created distortions ... until they merged and cancelled each other out.",
+  "source_url": "https://en.wikipedia.org/wiki/Nacre",
+  "note": "'Perfectly ordered later layers' not confirmed verbatim"
+ },
+ {
+  "claim": "GANs (Generative Adversarial Networks), invented by Ian Goodfellow in 2014, use two neural networks competing against each other to generate realistic data.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The concept was initially developed by Ian Goodfellow and his colleagues at Université de Montréal in June 2014. ... two neural networks compete with each other in the form of a zero-sum game.",
+  "source_url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
+  "note": "Page credits Goodfellow and colleagues, June 2014"
+ },
+ {
+  "claim": "Sphingomonas bacteria degrade PAHs (polycyclic aromatic hydrocarbons) — eating toxic pollutants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "and its ability to degrade hydrophobic polycyclic aromatic hydrocarbons ... Numerous strains have been isolated from environments contaminated with toxic compounds ... where they display the ability to use the contaminants as nutrients.",
+  "source_url": "https://en.wikipedia.org/wiki/Sphingomonas",
+  "note": ""
+ },
+ {
+  "claim": "Brachyrhaphis roseni and B. rhabdophora fish are difficult to breed because they voraciously eat their own young.",
+  "verdict": "overstated",
+  "corrected_claim": "Brachyrhaphis roseni is hard to breed in captivity because the adults voraciously prey on their own young; it is similar to the related species B. rhabdophora.",
+  "quote": "Captive breeding is challenging because the adults voraciously prey on their own young. ... B. roseni is similar to the related species B. rhabdophora.",
+  "source_url": "https://en.wikipedia.org/wiki/Brachyrhaphis_roseni",
+  "note": "Page states the breeding problem for B. roseni only, not B. rhabdophora"
+ },
+ {
+  "claim": "Asparagus makes urine smell distinctive in some people due to asparagusic acid, but about 40% of people can't smell the change.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "Olfaction page does not mention asparagus"
+ },
+ {
+  "claim": "Serbian, Croatian, Bosnian, and Montenegrin were once considered one language (Serbo-Croatian) but are now politically separate.",
+  "verdict": "overstated",
+  "corrected_claim": "Serbo-Croatian is a pluricentric language with four mutually intelligible standard varieties (Serbian, Croatian, Bosnian, Montenegrin); the breakup of Yugoslavia led to the ethnic and political division of linguistic identity.",
+  "quote": "It is a pluricentric language with four mutually intelligible standard varieties ... leading to the ethnic and political division of linguistic identity.",
+  "source_url": "https://en.wikipedia.org/wiki/Serbo-Croatian",
+  "note": "Source treats them as standard varieties of one language, not formerly one language."
+ },
+ {
+  "claim": "Pay-for-performance in healthcare creates gaming incentives — UK hospitals reclassified corridors as wards to meet waiting-time targets without treating more patients.",
+  "verdict": "overstated",
+  "corrected_claim": "Pay-for-performance in healthcare can invite gaming: under the UK scheme, some GP practices seemed to get high scores by excluding patients with high-risk factors from their targets.",
+  "quote": "some practices seemed to have gotten high scores by excluding patients with high-risk factors from their percentage targets.",
+  "source_url": "https://en.wikipedia.org/wiki/Pay_for_performance_(healthcare)",
+  "note": "Corridor-as-ward reclassification and waiting-time targets not on page"
+ },
+ {
+  "claim": "Legume-rhizobia symbiosis is so specific that most legume species only partner with certain bacterial strains.",
+  "verdict": "overstated",
+  "corrected_claim": "Specific strains of rhizobia are required to make functional nitrogen-fixing nodules on a legume's roots.",
+  "quote": "Specific strains of rhizobia are required to make functional nodules on the roots able to fix the N2.",
+  "source_url": "https://en.wikipedia.org/wiki/Rhizobia",
+  "note": "'Most legume species' generalization not stated."
+ },
+ {
+  "claim": "Scientists have successfully created calcium-based synthetic nacre in labs by mimicking its natural growth process since 2012.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2012, researchers created calcium-based nacre in the laboratory by mimicking its natural growth process.",
+  "source_url": "https://en.wikipedia.org/wiki/Nacre",
+  "note": ""
+ },
+ {
+  "claim": "Goodfellow came up with GANs during a discussion at a bar — he went home and coded the first working version that night.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
+  "note": "Page does not mention a bar or coding it that night"
+ },
+ {
+  "claim": "Ideonella sakaiensis evolved to eat plastic (PET) — discovered in Japanese recycling facility in 2016.",
+  "verdict": "overstated",
+  "corrected_claim": "Ideonella sakaiensis, a bacterium that breaks down and consumes PET plastic, was first identified in 2016 from sediment at a plastic bottle recycling facility in Sakai, Japan.",
+  "quote": "Ideonella sakaiensis was first identified in 2016 by a team of researchers led by ... after collecting a sample of PET-contaminated sediment at a plastic bottle recycling facility in Sakai, Japan.",
+  "source_url": "https://en.wikipedia.org/wiki/Ideonella_sakaiensis",
+  "note": "page does not say the ability 'evolved'"
+ },
+ {
+  "claim": "Only two people are known to have seen Du Toit's torrent frog alive.",
+  "verdict": "overstated",
+  "corrected_claim": "Du Toit's torrent frog has been recorded only twice—by du Toit in 1934 and by Ronalda Keith in 1962—and hasn't been seen since despite repeated surveys.",
+  "quote": "During a survey on January 8, 1934, Cornelius Albertus du Toit discovered a species of frog in the Koitobos River ... The species was next recorded in April 1962, when US herpetologist Ronalda Keith collected an additional eight individuals.",
+  "source_url": "https://en.wikipedia.org/wiki/Du_Toit%27s_torrent_frog",
+  "note": "Page names two collectors but doesn't say only two people ever saw it alive."
+ },
+ {
+  "claim": "Artichokes contain cynarin, which temporarily affects taste receptors and makes water taste sweet afterward.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Page does not mention artichokes or cynarin."
+ },
+ {
+  "claim": "Norwegian has two official written standards (Bokmål and Nynorsk) — speakers must learn both in school.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Norwegians are educated in both Bokmål and Nynorsk. ... From the eighth grade onwards, pupils are required to learn both.",
+  "source_url": "https://en.wikipedia.org/wiki/Norwegian_language",
+  "note": ""
+ },
+ {
+  "claim": "Crowding out of intrinsic motivation occurs when extrinsic rewards reduce internal desire — paying blood donors can decrease donation rates.",
+  "verdict": "overstated",
+  "corrected_claim": "Expected financial rewards can 'crowd out' intrinsic motivation; Richard Titmuss suggested that paying for blood donations might reduce the supply of blood donors.",
+  "quote": "Empirical evidence shows that expected financial rewards \"crowd out\" intrinsic motivation ... Richard Titmuss suggested that paying for blood donations might reduce the supply of blood donors.",
+  "source_url": "https://en.wikipedia.org/wiki/Overjustification_effect",
+  "note": "Page presents the blood-donor effect as a suggestion with mixed results (no effect on male donors), not a firm finding"
+ },
+ {
+  "claim": "Mycorrhizal fungi extend plant root systems by up to 100 times, dramatically increasing water and nutrient absorption.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycorrhizal fungi provide plant roots with a larger surface area for absorbing water and nutrients.",
+  "quote": "and provide a larger surface area for absorption.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhiza",
+  "note": "No '100 times' figure on page"
+ },
+ {
+  "claim": "Titanium alloys are as strong as steel but 45% lighter, and twice as strong as aluminum alloys while only 60% heavier.",
+  "verdict": "overstated",
+  "corrected_claim": "Titanium is stronger than common low-carbon steels but 45% lighter, and twice as strong as weak aluminium alloys while only 60% heavier.",
+  "quote": "It is stronger than common, low-carbon steels, but 45% lighter. It is also twice as strong as weak aluminium alloys but only 60% heavier.",
+  "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+  "note": "Source says titanium (not alloys) vs low-carbon steel and weak aluminium alloys."
+ },
+ {
+  "claim": "Stable Diffusion (2022) can generate images from text descriptions and runs on consumer GPUs — democratizing generative AI that previously required massive compute.",
+  "verdict": "overstated",
+  "corrected_claim": "Stable Diffusion, a text-to-image model released in 2022, can run on consumer GPUs, a departure from earlier proprietary models like DALL-E and Midjourney that were accessible only via cloud services.",
+  "quote": "unlike other diffusion models, it can run on consumer GPUs ... a departure from previous proprietary text-to-image models such as DALL-E and Midjourney, which were accessible only via cloud services",
+  "source_url": "https://en.wikipedia.org/wiki/Stable_Diffusion",
+  "note": "'Previously required massive compute' framing not stated."
+ },
+ {
+  "claim": "Dehalococcoides bacteria can dechlorinate toxic solvents — bioremediation for industrial pollution.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Dehalococcoides can uniquely transform many highly toxic and/or persistent compounds ... They are well known for their great potential to remediate halogenated ethenes and aromatics.",
+  "source_url": "https://en.wikipedia.org/wiki/Dehalococcoides",
+  "note": ""
+ },
+ {
+  "claim": "A species of Australian ant (Camponotus inflatus) has special workers that make honey, and is considered a delicacy by Aboriginal Australians.",
+  "verdict": "overstated",
+  "corrected_claim": "The Australian honeypot ant Camponotus inflatus has specialised workers called repletes that store large amounts of food in their abdomens, and Aboriginal Australians harvest them as a delicacy and a rare source of sugar in the dry months.",
+  "quote": "specialized worker ants called repletes store large amounts of food in their abdomens ... harvest the repletes in large amounts, often digging large chunks out of the sand to locate the nests. ... a rare source of sugar during the dry months.",
+  "source_url": "https://en.wikipedia.org/wiki/Camponotus_inflatus",
+  "note": "Repletes store food rather than make honey"
+ },
+ {
+  "claim": "Brussels sprouts taste less bitter to modern eaters because they've been selectively bred since the 1990s to reduce bitter compounds.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention this"
+ },
+ {
+  "claim": "Chinese 'dialects' like Cantonese and Mandarin are less mutually intelligible than Spanish and Portuguese — but are called one language for political reasons.",
+  "verdict": "overstated",
+  "corrected_claim": "Local varieties of Chinese are often mutually unintelligible, differing at least as much as Romance languages, yet are seen as one language because speakers share a standard written form and a common cultural heritage with long periods of political unity.",
+  "quote": "Local varieties from different areas of China are often mutually unintelligible, differing at least as much as different Romance languages ... Because speakers share a standard written form ... have a common cultural heritage with long periods of political unity",
+  "source_url": "https://en.wikipedia.org/wiki/Varieties_of_Chinese",
+  "note": "Spanish/Portuguese comparison not on page; reasons are cultural/written as well as political."
+ },
+ {
+  "claim": "Prize-linked savings accounts combine lottery elements with savings — offering large prizes instead of interest increases savings rates among low-income populations.",
+  "verdict": "overstated",
+  "corrected_claim": "Prize-linked savings accounts pay out some interest as chance-based prizes while the deposit is never lost, and demand is highest among people with relatively low savings.",
+  "quote": "are distributed as prizes based on chance ... the deposit is never lost, unlike normal lotteries ... The demand for prize-linked savings accounts is seen to be highest amongst those with relatively low savings.",
+  "source_url": "https://en.wikipedia.org/wiki/Prize-linked_savings_account",
+  "note": "Page says potential/demand among low savers, not proven increased saving among low-income people."
+ },
+ {
+  "claim": "About 90% of land plants form mycorrhizal associations—it's the norm, not the exception, in plant biology.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycorrhizas are present in 92% of plant families studied (80% of species) — the norm, not the exception, in plant biology.",
+  "quote": "Mycorrhizas are present in 92% of plant families studied (80% of species),",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhiza",
+  "note": "Page says 80% of species, not 90% of land plants"
+ },
+ {
+  "claim": "Ti-6Al-4V (Grade 5) is the 'workhorse' titanium alloy, comprising over 70% of all titanium alloy production worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "Ti-6Al-4V (Grade 5), with 6% aluminum and 4% vanadium, is the most commonly used titanium alloy.",
+  "quote": "Not to be confused with Ti-6Al-4V-ELI (Grade 23), this is the most commonly used alloy.",
+  "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+  "note": "'Over 70% of production' and 'workhorse' not in source."
+ },
+ {
+  "claim": "ChatGPT reached 100 million users in just 2 months after launch in November 2022 — the fastest-growing consumer application in history at that time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Originally released on November 30, 2022 ... reaching 100 million monthly active users two months after its release ... It was the fastest-growing internet application in history until the release of Threads by Meta.",
+  "source_url": "https://en.wikipedia.org/wiki/ChatGPT",
+  "note": ""
+ },
+ {
+  "claim": "Acetobacter bacteria turn wine into vinegar — the microbes behind 'mother of vinegar'.",
+  "verdict": "overstated",
+  "corrected_claim": "Acetobacter bacteria convert ethanol to acetic acid in the presence of oxygen — they have been isolated from industrial vinegar fermentation and even from spoiled red wine.",
+  "quote": "Acetic acid bacteria are characterized by the ability to convert ethanol to acetic acid in the presence of oxygen. ... Bacteria of the genus Acetobacter have been isolated from industrial vinegar fermentation processes",
+  "source_url": "https://en.wikipedia.org/wiki/Acetobacter",
+  "note": "'mother of vinegar' not mentioned on page"
+ },
+ {
+  "claim": "The Australian spider Progradungula barringtonensis has been called a 'ghost of Gondwana'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Progradungula has been described as a \"ghost of Gondwana\", surviving through several mass extinctions",
+  "source_url": "https://en.wikipedia.org/wiki/Progradungula_barringtonensis",
+  "note": ""
+ },
+ {
+  "claim": "Celery has negative calories according to popular myth, but actually provides about 10 calories per stalk—still very low.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": "Page does not mention celery."
+ },
+ {
+  "claim": "A language is a dialect with an army and a navy — a famous quip about the political nature of language classification.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a mordant aphorism about the arbitrariness of the distinction between a dialect and a language",
+  "source_url": "https://en.wikipedia.org/wiki/A_language_is_a_dialect_with_an_army_and_navy",
+  "note": ""
+ },
+ {
+  "claim": "The broken windows theory in economics suggests visible disorder encourages more disorder — though empirical support is mixed, it influenced urban policing policy.",
+  "verdict": "overstated",
+  "corrected_claim": "The broken windows theory, a criminological idea, holds that visible signs of disorder encourage further crime; empirical support is mixed, yet it shaped 1990s New York City policing under William Bratton.",
+  "quote": "visible signs of crime, antisocial behavior and civil disorder create an urban environment that encourages further crime and disorder, including serious crimes. ... However, other studies do not find a causal relationship between the adoption of such policies and decreases in crime. ... whose policing policies were influenced by the theory.",
+  "source_url": "https://en.wikipedia.org/wiki/Broken_windows_theory",
+  "note": "Theory is criminological, not economic"
+ },
+ {
+  "claim": "Orchid seeds are so tiny they require mycorrhizal fungi to germinate—they lack enough nutrients to sprout alone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An orchid seed does not have enough nutritional support to grow on its own, and lacks endosperm. Instead, it gets nutrients needed for germination from fungal symbionts in natural habitats.",
+  "source_url": "https://en.wikipedia.org/wiki/Orchid_mycorrhiza",
+  "note": ""
+ },
+ {
+  "claim": "Titanium alloys have exceptional corrosion resistance to seawater, making them ideal for propeller shafts, rigging, and marine applications.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Titanium has outstanding corrosion resistance to seawater, and thus is used in propeller shafts, rigging ... and other parts of boats that are exposed to seawater.",
+  "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+  "note": ""
+ },
+ {
+  "claim": "Reinforcement Learning from Human Feedback (RLHF) was key to making ChatGPT helpful and safe — it uses human preferences to fine-tune the model's behavior.",
+  "verdict": "overstated",
+  "corrected_claim": "RLHF aligns models with human preferences, and OpenAI's ChatGPT and its predecessor InstructGPT are notable RLHF-trained models.",
+  "quote": "reinforcement learning from human feedback (RLHF) is a technique to align an intelligent agent with human preferences ... Some notable examples of RLHF-trained language models are OpenAI's ChatGPT (and its predecessor InstructGPT)",
+  "source_url": "https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback",
+  "note": "'Key to making ChatGPT helpful and safe' not stated."
+ },
+ {
+  "claim": "Gut bacteria produce about 95% of the body's serotonin — microbes affecting your mood.",
+  "verdict": "overstated",
+  "corrected_claim": "More than 90% of the body's serotonin lies in the gut, and gut microbes can produce serotonin.",
+  "quote": "More than 90% of the body's serotonin lies in the gut, as well as about 50% of the body's dopamine",
+  "source_url": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+  "note": "Page says >90% lies in the gut, not that bacteria produce 95%"
+ },
+ {
+  "claim": "Xiphophorus signum is the only swordtail fish not known to hybridise with other species.",
+  "verdict": "overstated",
+  "corrected_claim": "Xiphophorus signum is the only Xiphophorus species that has proved difficult, and potentially impossible, to hybridize with other Xiphophorus species in the laboratory.",
+  "quote": "It is the only species of Xiphophorus that has proved difficult, and potentially impossible, to hybridize with other Xiphophorus species in the laboratory.",
+  "source_url": "https://en.wikipedia.org/wiki/Xiphophorus_signum",
+  "note": "Page refers to laboratory hybridization being difficult/potentially impossible, not that it is unknown."
+ },
+ {
+  "claim": "Coconut water is sterile inside the nut and was used as an emergency IV fluid during World War II in tropical regions.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention this"
+ },
+ {
+  "claim": "Tok Pisin, a creole language of Papua New Guinea, has about 4 million speakers — 'Tok Pisin' means 'talk pidgin'.",
+  "verdict": "overstated",
+  "corrected_claim": "Tok Pisin, an English creole of Papua New Guinea, has about 4 million second-language speakers and 5-6 million people using it to some degree; 'tok' comes from 'talk' and 'pisin' from 'pidgin'.",
+  "quote": "L2 speakers: 4,000,000 ... Between five and six million people use Tok Pisin to some degree ... Tok originates from English talk ... Pisin derives from the English word pidgin;",
+  "source_url": "https://en.wikipedia.org/wiki/Tok_Pisin",
+  "note": "Native speakers only ~130,000; 4 million is L2."
+ },
+ {
+  "claim": "Gift economies in anthropology challenge homo economicus — Malinowski's study of the Kula ring showed exchange systems based on reciprocity rather than profit.",
+  "verdict": "overstated",
+  "corrected_claim": "Anthropological research into gift economies began with Bronisław Malinowski's description of the Kula ring, and Malinowski argued that there is no gift free of expectation of reciprocity.",
+  "quote": "Anthropological research into gift economies began with Bronisław Malinowski's description of the Kula ring ... Malinowski argued that reciprocity is an implicit part of gifting, that there is no gift free of expectation.",
+  "source_url": "https://en.wikipedia.org/wiki/Gift_economy",
+  "note": "Homo economicus not mentioned; page says Malinowski emphasized selfish motives for gifting"
+ },
+ {
+  "claim": "Some orchids remain parasitic on fungi throughout life, never developing chlorophyll (myco-heterotrophy).",
+  "verdict": "overstated",
+  "corrected_claim": "Non-photosynthetic orchids are full myco-heterotrophs, getting all their nutrition from fungi.",
+  "quote": "All monotropes and non-photosynthetic orchids are full myco-heterotrophs",
+  "source_url": "https://en.wikipedia.org/wiki/Myco-heterotrophy",
+  "note": "Page does not say 'throughout life' or 'never developing chlorophyll'"
+ },
+ {
+  "claim": "Titanium doesn't react within the human body, making titanium alloys the material of choice for artificial joints, dental implants, and fracture plates.",
+  "verdict": "overstated",
+  "corrected_claim": "Since titanium does not react within the human body, it and its alloys are used in artificial joints, screws and plates for fractures; commercially pure titanium has also been used for dental implants.",
+  "quote": "Since titanium does not react within the human body, it and its alloys are used in artificial joints, ... screws, and plates for fractures",
+  "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+  "note": "'Material of choice' not stated."
+ },
+ {
+  "claim": "Word2Vec (2013) showed that word meanings could be represented as vectors where 'king - man + woman ≈ queen' — a breakthrough in natural language processing.",
+  "verdict": "overstated",
+  "corrected_claim": "Word2vec, introduced in 2013 by Tomáš Mikolov and colleagues, showed that semantic patterns can be reproduced with vector arithmetic: 'Brother' - 'Man' + 'Woman' lands closest to 'Sister'.",
+  "quote": "Word2vec was introduced in two 2013 papers by ... semantic and syntactic patterns can be reproduced using vector arithmetic ... closest to the vector representation of \"Sister\" in the model",
+  "source_url": "https://en.wikipedia.org/wiki/Word2vec",
+  "note": "King/queen example and 'breakthrough' framing not on page; page uses brother/sister example."
+ },
+ {
+  "claim": "The gut microbiome weighs about 2 kg (4.4 lbs) in an adult — as heavy as your brain.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "page gives no weight/mass of the microbiome"
+ },
+ {
+  "claim": "Actinote zikani is one of only two butterflies on the IUCN's list of the 100 most threatened species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A. zikani was included by the IUCN in the 100 Most Endangered Species in the World report, ... It is one of two butterflies on the list of the 100 Most Endangered Species in the World",
+  "source_url": "https://en.wikipedia.org/wiki/Actinote_zikani",
+  "note": ""
+ },
+ {
+  "claim": "Cashews are always sold shelled because the shell contains urushiol, the same irritant found in poison ivy.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": "Page mentions cashews only in lists; nothing about shells or urushiol"
+ },
+ {
+  "claim": "Haitian Creole is based on French but is now a distinct language with about 12 million speakers.",
+  "verdict": "overstated",
+  "corrected_claim": "Haitian Creole is a French-based creole that is not mutually intelligible with standard French, spoken by over 13 million people — the most widely spoken creole in the world.",
+  "quote": "is a French-based creole language ... It is not mutually intelligible with standard French ... It is spoken by over 13 million people worldwide ... It is also the most widely spoken creole language in the world.",
+  "source_url": "https://en.wikipedia.org/wiki/Haitian_Creole",
+  "note": "Page gives 13 million, not 12 million"
+ },
+ {
+  "claim": "The 'shirking model' explains why firms pay above-market wages — workers won't risk losing good jobs by slacking, so high wages increase productivity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "paying a wage in excess of market-clearing may provide employees with cost-effective incentives to work rather than shirk.",
+  "source_url": "https://en.wikipedia.org/wiki/Efficiency_wage",
+  "note": ""
+ },
+ {
+  "claim": "The ghost orchid (Epipogium aphyllum) has no leaves or chlorophyll and spends years underground before briefly flowering.",
+  "verdict": "overstated",
+  "corrected_claim": "The ghost orchid (Epipogium aphyllum) lacks chlorophyll, has only tiny scale-like leaves, and is famous for its unpredictable appearance — in many places it has been seen just once.",
+  "quote": "It is famous for its unpredictable appearance; in many localities it has been seen just once.",
+  "source_url": "https://en.wikipedia.org/wiki/Epipogium_aphyllum",
+  "note": "Page says leaves are small ephemeral scales; years underground not stated"
+ },
+ {
+  "claim": "Beta titanium alloys replaced stainless steel in orthodontics in the 1980s because they have elastic deflections almost twice those of stainless steel.",
+  "verdict": "overstated",
+  "corrected_claim": "Beta titanium was adopted for orthodontics in the 1980s, replacing stainless steel for certain uses; it has strength/modulus of elasticity ratios almost twice those of 18-8 stainless steel.",
+  "quote": "Beta titanium is nowadays largely utilized in the orthodontic field and was adopted for orthodontics use in the 1980s. This type of alloy replaced stainless steel for certain uses, It has strength/modulus of elasticity ratios almost twice those of 18-8 austenitic stainless steel,",
+  "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+  "note": "'Almost twice' refers to strength/modulus ratio, not elastic deflection."
+ },
+ {
+  "claim": "BERT (2018) revolutionized NLP by pre-training on massive text corpora — it was the first to effectively use bidirectional context for language understanding.",
+  "verdict": "overstated",
+  "corrected_claim": "BERT, introduced by Google researchers in October 2018, is a deeply bidirectional language model pre-trained on plain text from BookCorpus and English Wikipedia — and it dramatically improved the state of the art.",
+  "quote": "BERT is a deeply bidirectional, unsupervised language representation, pre-trained using only a plain text corpus. ... BERT dramatically improved the state of the art for large language models.",
+  "source_url": "https://en.wikipedia.org/wiki/BERT_(language_model)",
+  "note": "Page does not say BERT was the first to use bidirectional context"
+ },
+ {
+  "claim": "Bacteroides thetaiotaomicron degrades complex plant polysaccharides — helping you digest vegetables.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is crucial to humans, as it is able to digest plant materials that enzymes within the gut cannot. ... As the major organism of the human gut flora to break down plant polysaccharides, it can use dietary carbohydrates",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteroides_thetaiotaomicron",
+  "note": ""
+ },
+ {
+  "claim": "A. krampus (a species named after the mythological Krampus) has been found living in southeastern Brazil.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Austrosphecodes krampus is native to the Atlantic coastal area of Santa Catarina state of southeastern Brazil.",
+  "source_url": "https://en.wikipedia.org/wiki/Austrosphecodes_krampus",
+  "note": ""
+ },
+ {
+  "claim": "Raw kidney beans contain phytohaemagglutinin, a toxin that can cause severe food poisoning—they must be boiled for at least 10 minutes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "various species of beans that have not been boiled for at least 10 minutes ... Phytohaemagglutinin (red kidney bean poisoning; destroyed by boiling)",
+  "source_url": "https://en.wikipedia.org/wiki/Food_poisoning",
+  "note": ""
+ },
+ {
+  "claim": "A pidgin is a simplified contact language; a creole is a pidgin that became someone's native language — gaining full grammatical complexity.",
+  "verdict": "overstated",
+  "corrected_claim": "A creole is believed to arise when a pidgin becomes the native language of children, developing a consistent grammar and large vocabulary — though some linguists argue a pidgin need not always precede a creole.",
+  "quote": "A creole is believed to arise when a pidgin ... a pidgin need not always precede a creole nor a creole evolve from a pidgin.",
+  "source_url": "https://en.wikipedia.org/wiki/Creole_language",
+  "note": "Pidgin-to-creole origin is presented as a belief and disputed"
+ },
+ {
+  "claim": "Social capital — trust, norms, and networks — affects economic outcomes; Robert Putnam found Italy's regional economic differences correlated with civic engagement.",
+  "verdict": "overstated",
+  "corrected_claim": "Social capital — social networks and the norms of reciprocity and trustworthiness that arise from them — affects economic outcomes: Knack and Keefer (1996) found confidence and civic cooperation have a great impact on economic growth across many countries.",
+  "quote": "They found that confidence and civic cooperation have a great impact in economic growth",
+  "source_url": "https://en.wikipedia.org/wiki/Social_capital",
+  "note": "Page does not mention Putnam's Italy study; economic link comes from Knack and Keefer"
+ },
+ {
+  "claim": "Corpse flower Amorphophallus titanium generates heat during blooming to help spread its carrion scent for pollinators.",
+  "verdict": "overstated",
+  "corrected_claim": "The corpse flower Amorphophallus titanum heats its spadix while blooming, creating micro-convection that helps carry its carrion scent to insects.",
+  "quote": "The heated spadix creates a micro-convection in the cool ambient air, enhancing the transport of the scent. ... The heat helps to convince carrion-feeding insects that a dead body is present, attracting them to the inflorescence.",
+  "source_url": "https://en.wikipedia.org/wiki/Amorphophallus_titanum",
+  "note": "claim misspells species as 'titanium'; otherwise supported"
+ },
+ {
+  "claim": "Pure titanium undergoes an allotropic transformation at about 890°C from hexagonal α phase to body-centered cubic β phase.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The crystal structure of titanium at ambient temperature and pressure is close-packed hexagonal α phase ... At about 890 °C, the titanium undergoes an allotropic transformation to a body-centred cubic β phase",
+  "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+  "note": ""
+ },
+ {
+  "claim": "The 'scaling laws' for neural networks suggest performance improves predictably with more data, parameters, and compute — driving the race for larger models.",
+  "verdict": "overstated",
+  "corrected_claim": "Many scaling behaviors of neural networks follow a smoothly broken power law — performance can be improved with more data and larger models, and Chinchilla analysis says parameters and training tokens should be scaled in equal proportions.",
+  "quote": "many scaling behaviors of artificial neural networks follow a smoothly broken power law ... Performance can be improved by using more data, larger models, different training algorithms,",
+  "source_url": "https://en.wikipedia.org/wiki/Neural_scaling_law",
+  "note": "'Driving the race for larger models' not stated"
+ },
+ {
+  "claim": "Akkermansia muciniphila lives in the gut mucus layer and is associated with metabolic health.",
+  "verdict": "overstated",
+  "corrected_claim": "Akkermansia muciniphila lives in the intestinal mucus layer and can live on mucin alone; it is under preliminary research for potential beneficial associations with metabolic disorders.",
+  "quote": "It can be found within the intestinal mucosal layer of the epithelial crypts as well as in the cecum. ... Akkermansia muciniphila can use mucin as its sole source of carbon, nitrogen, and energy ... under preliminary research for its potential beneficial associations with metabolic disorders",
+  "source_url": "https://en.wikipedia.org/wiki/Akkermansia_muciniphila",
+  "note": "page frames metabolic link as preliminary research"
+ },
+ {
+  "claim": "Cave mollies (Poecilia mexicana) thrive in an environment full of hydrogen sulfide, which is lethal to most animals.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the water is both oxygen-poor and rich in hydrogen sulfide, which is lethal to most animals even in the slightest amounts.",
+  "source_url": "https://en.wikipedia.org/wiki/Poecilia_mexicana",
+  "note": ""
+ },
+ {
+  "claim": "Almonds are technically seeds, not nuts, and are related to peaches and cherries—they're the pit inside a fruit.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention this"
+ },
+ {
+  "claim": "Latin 'died' but lives on as Spanish, French, Italian, Portuguese, and Romanian — these are just evolved forms of spoken Latin.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Romance languages, also known as the Latin languages, are the languages that directly descended from Vulgar Latin. ... The Romance language most widely spoken natively today is Spanish, followed by Portuguese, French, Italian and Romanian",
+  "source_url": "https://en.wikipedia.org/wiki/Romance_languages",
+  "note": ""
+ },
+ {
+  "claim": "Tournament theory explains why CEO pay is so high — top prizes must be large enough to motivate all contestants throughout their careers.",
+  "verdict": "overstated",
+  "corrected_claim": "Tournament theory suggests why large salaries go to senior executives: top pay acts as a prize that incentivises workers to work hard to one day reach the top positions.",
+  "quote": "suggesting why large salaries are given to senior executives ... incentivises hard work so that they may one day attain one of the coveted positions at the top",
+  "source_url": "https://en.wikipedia.org/wiki/Tournament_theory",
+  "note": "'Throughout careers' and 'all contestants' not stated."
+ },
+ {
+  "claim": "Skunk cabbage (Symplocarpus foetidus) produces heat through respiration that can melt snow around its emerging flowers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "through cyanide-resistant cellular respiration (via alternative oxidase) ... Due to thermogenic properties, spathes can melt the surrounding ice in a circle around the spathe.",
+  "source_url": "https://en.wikipedia.org/wiki/Symplocarpus_foetidus",
+  "note": ""
+ },
+ {
+  "claim": "Ti-6Al-4V-ELI (Extra Low Interstitial) is the most commonly used medical implant-grade titanium alloy due to its biocompatibility and modulus matching human bone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "TAV-ELI is the most commonly used medical implant-grade titanium alloy. Due to its high biocompatibility, corrosion resistance, fatigue resistance, and low modulus of elasticity, which closely matches human bone,",
+  "source_url": "https://en.wikipedia.org/wiki/Titanium_alloys",
+  "note": ""
+ },
+ {
+  "claim": "Emergent abilities in large language models appear suddenly at certain scales — capabilities like arithmetic and translation emerge unpredictably as models grow.",
+  "verdict": "overstated",
+  "corrected_claim": "Larger language models have been reported to acquire 'emergent abilities' such as arithmetic where performance changes abruptly with scale, though Schaeffer et al. argue these abilities are acquired predictably by a smooth scaling law.",
+  "quote": "where the slope of the line changes abruptly, and where larger models acquire \"emergent abilities\". ... Schaeffer et al. argue that the emergent abilities are not unpredictably acquired, but predictably acquired",
+  "source_url": "https://en.wikipedia.org/wiki/Large_language_model",
+  "note": "Page notes the unpredictability is disputed"
+ },
+ {
+  "claim": "Faecalibacterium prausnitzii produces butyrate and is depleted in Crohn's disease patients.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "F. prausnitzii is the most important butyrate-producing bacteria in the gut and colon. ... F. prausnitzii abundance has been inversely associated with inflammatory bowel diseases such as Crohn's disease",
+  "source_url": "https://en.wikipedia.org/wiki/Faecalibacterium_prausnitzii",
+  "note": ""
+ },
+ {
+  "claim": "The snail Physella acuta can twist its shell by up to 120 degrees to defend itself against predators.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "allow the snail to rapidly twist its shell in clockwise rotations of up to 120° ... This shell-shaking movement is an important defence against slow-moving predators like leeches and fly larvae",
+  "source_url": "https://en.wikipedia.org/wiki/Physella_acuta",
+  "note": ""
+ },
+ {
+  "claim": "Peanuts aren't nuts—they're legumes that grow underground, more closely related to beans than to almonds or walnuts.",
+  "verdict": "overstated",
+  "corrected_claim": "Peanuts are not true tree nuts but members of the legume family — and one of the most common food allergens.",
+  "quote": "Peanuts, a member of the legume family, are one of the most common food allergens",
+  "source_url": "https://en.wikipedia.org/wiki/Food_allergy",
+  "note": "Growing underground and relation to beans/almonds not stated"
+ },
+ {
+  "claim": "Hebrew was revived from a liturgical language to everyday speech in the late 1800s — the only successful full revival of a 'dead' language.",
+  "verdict": "overstated",
+  "corrected_claim": "Starting around 1880, Hebrew went from the sacred language of Judaism to a spoken language of daily life; there are no other examples of a sacred language becoming a national language with millions of native speakers.",
+  "quote": "changed from the purely sacred language of Judaism to a spoken and written language used for daily life ... no other examples of a sacred language becoming a national language with millions of native speakers",
+  "source_url": "https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language",
+  "note": "Page never calls Hebrew dead and notes it stayed in written use."
+ },
+ {
+  "claim": "Rotating savings and credit associations (ROSCAs) provide financial services without banks — members contribute regularly and take turns receiving the pot.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Members all chip in regularly and take turns withdrawing accumulated sums. ... a form of combined peer-to-peer banking and peer-to-peer lending",
+  "source_url": "https://en.wikipedia.org/wiki/Rotating_savings_and_credit_association",
+  "note": ""
+ },
+ {
+  "claim": "The sacred lotus (Nelumbo nucifera) can regulate its flower temperature to around 30-35°C regardless of air temperature.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lotus flowers regulate their temperature to within a narrow range, maintaining temperatures of 30–35 °C even with air temperatures as low as 10 °C (50 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Nelumbo_nucifera",
+  "note": ""
+ },
+ {
+  "claim": "Quantum dots are semiconductor nanocrystals so small (2-10 nm) that their electronic and optical properties are governed by quantum mechanical effects.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "semiconductor particles a few nanometres in size ... This corresponds to about 2 to 10 nanometers",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+  "note": ""
+ },
+ {
+  "claim": "Prompt engineering became a valued skill in 2022-2023 — carefully crafted prompts can dramatically improve AI model outputs without any retraining.",
+  "verdict": "overstated",
+  "corrected_claim": "After ChatGPT's release in late 2022, prompt engineering became seen as an important business skill, and prompts guide models without any further training of their parameters.",
+  "quote": "prompt engineering was soon seen as an important business skill; companies began hiring dedicated prompt engineers ... the job of prompt engineer was one of the hottest in 2023",
+  "source_url": "https://en.wikipedia.org/wiki/Prompt_engineering",
+  "note": "'Dramatically improve' is not stated."
+ },
+ {
+  "claim": "Breast milk contains prebiotics (HMOs) that specifically feed beneficial gut bacteria in infants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "they have a prebiotic effect and serve as food for intestinal bacteria, especially bifidobacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Human_milk_oligosaccharide",
+  "note": ""
+ },
+ {
+  "claim": "The broadspotted molly males are exploited for their sperm by a female-only species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the latter are an all-female species and need the sperm of males of other species ... P. latipunctata is one of the few sperm donors exploited by P. formosa in nature.",
+  "source_url": "https://en.wikipedia.org/wiki/Broadspotted_molly",
+  "note": ""
+ },
+ {
+  "claim": "Brazil nuts contain high levels of selenium—just 1-3 nuts provide the daily recommended intake, but eating too many can cause toxicity.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Vitamin page does not mention Brazil nuts or selenium."
+ },
+ {
+  "claim": "Eliezer Ben-Yehuda raised his son as the first native Hebrew speaker in modern times — forbidding other languages in the home.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ben-Yehuda raised his son, Ben-Zion, entirely in Hebrew. He did not allow his son to be exposed to other languages during childhood ... His son thus became the first native speaker of Hebrew in modern times.",
+  "source_url": "https://en.wikipedia.org/wiki/Eliezer_Ben-Yehuda",
+  "note": ""
+ },
+ {
+  "claim": "The Peter Principle suggests employees rise to their level of incompetence — promotions based on current performance lead to mismatches with new responsibilities.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In a hierarchy, every employee tends to rise to his level of incompetence. ... employees are promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another.",
+  "source_url": "https://en.wikipedia.org/wiki/Peter_principle",
+  "note": ""
+ },
+ {
+  "claim": "Lotus leaves are superhydrophobic—water beads up and rolls off, carrying dirt with it (the 'lotus effect').",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "self-cleaning properties that are a result of ultrahydrophobicity as exhibited by the leaves of Nelumbo ... Dirt particles are picked up by water droplets",
+  "source_url": "https://en.wikipedia.org/wiki/Lotus_effect",
+  "note": ""
+ },
+ {
+  "claim": "Quantum dots emit different colors based purely on their size: larger dots (5-6 nm) emit red/orange, while smaller dots (2-3 nm) emit blue/green.",
+  "verdict": "overstated",
+  "corrected_claim": "A quantum dot's color depends on its size: larger dots of 5–6 nm emit orange or red light, while smaller dots of 2–3 nm emit blue and green.",
+  "quote": "Larger QDs of 5–6 nm diameter emit longer wavelengths, with colors such as orange, or red. Smaller QDs (2–3 nm) emit shorter wavelengths, yielding colors like blue and green.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+  "note": "'Purely' on size is not stated"
+ },
+ {
+  "claim": "Few-shot learning lets models learn new tasks from just a handful of examples — a capability that emerged in GPT-3 without being explicitly trained for it.",
+  "verdict": "overstated",
+  "corrected_claim": "Few-shot learning asks a machine learning model to generalize from only a small number of labeled examples per class — in one-shot learning, from exactly one.",
+  "quote": "from only a small number of labeled examples per class",
+  "source_url": "https://en.wikipedia.org/wiki/Few-shot_learning",
+  "note": "GPT-3 and emergent capability not mentioned on page"
+ },
+ {
+  "claim": "The appendix may serve as a 'safe house' for gut bacteria to repopulate after diarrheal illness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This reservoir could repopulate the gut flora following a bout of gastrointestinal illness. The appendix, therefore, may act as a reservoir for beneficial bacteria.",
+  "source_url": "https://en.wikipedia.org/wiki/Appendix_(anatomy)",
+  "note": "Hedged hypothesis, matches source"
+ },
+ {
+  "claim": "The unusual wing pattern of the moth Epiphryne verriculata allows it to camouflage on dead Cordyline leaves.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Their wings have an unusual pattern that allows them to camouflage it against dead leaves of cabbage trees.",
+  "source_url": "https://en.wikipedia.org/wiki/Epiphryne_verriculata",
+  "note": ""
+ },
+ {
+  "claim": "Macadamia nuts are toxic to dogs—even a single nut can cause weakness, vomiting, and hyperthermia.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Food safety page does not mention this"
+ },
+ {
+  "claim": "Welsh was nearly destroyed by English domination but has been revived — now about 900,000 people speak it.",
+  "verdict": "overstated",
+  "corrected_claim": "Welsh declined until there was concern it would become extinct, but Welsh-medium education helped reverse the decline: the census counted 538,300 speakers in Wales, and a 2025 survey estimated 844,300.",
+  "quote": "the number of Welsh speakers declined to the point at which there was concern that the language would become extinct ... numbers began to increase once more, at least partly as a result of the increase in Welsh-medium education ... 538,300 usual residents in Wales aged three or over (17.8% of the population) were able to speak Welsh ... 844,300 people (27.3%) aged three or over in Wales could speak Welsh",
+  "source_url": "https://en.wikipedia.org/wiki/Welsh_language",
+  "note": "900,000 figure not on page; census gives 538,300, survey 844,300."
+ },
+ {
+  "claim": "Piece rates vs hourly wages create different incentives — windshield installers paid per piece were twice as productive but had higher defect rates.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Piece_work",
+  "note": "Page does not mention windshield installers, productivity or defect rates."
+ },
+ {
+  "claim": "Sacred lotus seeds can remain viable for over 1,000 years—ancient seeds have been successfully germinated.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the oldest recorded lotus germination being from seeds 1,300 years old",
+  "source_url": "https://en.wikipedia.org/wiki/Nelumbo_nucifera",
+  "note": ""
+ },
+ {
+  "claim": "Quantum dots are sometimes called 'artificial atoms' because their confined electrons exhibit discrete energy levels similar to natural atoms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "quantum dots are sometimes referred to as artificial atoms ... transitions between discrete quantum mechanically allowed energy levels in the box",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+  "note": ""
+ },
+ {
+  "claim": "Chain-of-thought prompting (2022) showed that asking models to 'think step by step' dramatically improves their reasoning on math and logic problems.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2022 Google Brain reported that chain-of-thought prompting improves reasoning ability, and simply appending 'Let's think step-by-step' also worked as a zero-shot technique.",
+  "quote": "In 2022, Google Brain reported that chain-of-thought prompting improves reasoning ability ... simply appending the words \"Let's think step-by-step\" was also effective, which allowed for CoT to be employed as a zero-shot technique.",
+  "source_url": "https://en.wikipedia.org/wiki/Prompt_engineering",
+  "note": "'Dramatically' not stated; step-by-step phrase was a separate zero-shot variant."
+ },
+ {
+  "claim": "Gut bacteria influence blood pressure, body weight, and even risk of colon cancer.",
+  "verdict": "overstated",
+  "corrected_claim": "Imbalances in gut microbiota are associated with obesity, and intestinal cancer development is associated with dysbiosis.",
+  "quote": "imbalances of the gut microbiota and its microbiome or gene collection are associated with obesity ... Development of intestinal cancer is associated with an imbalance in the natural microflora (dysbiosis)",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": "Blood pressure not mentioned; associations, not shown influence"
+ },
+ {
+  "claim": "Willemstad pupfish seemingly do not run out of food regardless of how many of them there are.",
+  "verdict": "overstated",
+  "corrected_claim": "Willemstad pupfish do not appear to compete for food among themselves — even in highly dense populations, all examined individuals were well-fed with algae.",
+  "quote": "Willemstad pupfish do not appear to compete for food amongst themselves ... even in highly dense populations, all examined individuals were well-fed with algae.",
+  "source_url": "https://en.wikipedia.org/wiki/Cyprinodon_dearborni",
+  "note": "Page doesn't say food never runs out regardless of numbers"
+ },
+ {
+  "claim": "Quinoa must be rinsed before cooking to remove saponins—bitter compounds that protect the plant from pests.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention this"
+ },
+ {
+  "claim": "Irish was the majority language in Ireland until the 1800s — English-only education and famine decimated Irish speakers.",
+  "verdict": "overstated",
+  "corrected_claim": "Irish was the first language of the majority of Ireland's population until the 19th century; around 800,000 monoglot Irish speakers in 1800 fell to 320,000 by the end of the famine.",
+  "quote": "It was the first language of the majority of the population until the 19th century ... there were around 800,000 monoglot Irish speakers in 1800 ... which dropped to 320,000 by the end of the famine",
+  "source_url": "https://en.wikipedia.org/wiki/Irish_language",
+  "note": "English-only education framing not stated"
+ },
+ {
+  "claim": "Multitasking problems arise when workers are incentivized on measurable tasks at the expense of unmeasurable ones — teachers 'teach to the test' when evaluated on scores.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Multitasking_(workforce)",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "Some date palm seeds from the Judean Desert have been germinated after 2,000 years of dormancy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2005, a team of Israeli scientists sprouted a preserved 2,000-year-old seed.",
+  "source_url": "https://en.wikipedia.org/wiki/Judean_date_palm",
+  "note": ""
+ },
+ {
+  "claim": "A single quantum dot can contain as few as 100 to 100,000 atoms—about 3 million quantum dots could fit side by side within the width of a human thumb.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These quantum dots can contain as few as 100 to 100,000 atoms within the quantum dot volume ... nearly 3 million quantum dots could be lined up end to end and fit within the width of a human thumb",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+  "note": ""
+ },
+ {
+  "claim": "Self-attention in transformers has O(n²) complexity with sequence length — limiting context windows until techniques like sparse attention emerged.",
+  "verdict": "overstated",
+  "corrected_claim": "Transformers need computation time and memory quadratic in the size of the context window; techniques like sparse attention and linear-attention variants reduce this cost.",
+  "quote": "unlike RNNs, they require computation time that is quadratic in the size of the context window. Ordinary transformers require a memory size that is quadratic in the size of the context window.",
+  "source_url": "https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)",
+  "note": "Causal 'limiting context windows until' not stated."
+ },
+ {
+  "claim": "Diet changes can shift gut microbiome composition within 24-48 hours — rapid microbial adaptation.",
+  "verdict": "overstated",
+  "corrected_claim": "The composition of human gut microbiota changes over time when the diet changes.",
+  "quote": "The composition of human gut microbiota changes over time, when the diet changes, and as overall health changes.",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": "24-48 hour timeframe not on page"
+ },
+ {
+  "claim": "The small fish species Poecilia vandepolli solves food shortage problems by eating its own offspring (filial cannibalism).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When food becomes scarce, adults cannibalize fry.",
+  "source_url": "https://en.wikipedia.org/wiki/Poecilia_vandepolli",
+  "note": ""
+ },
+ {
+  "claim": "Wild rice isn't rice at all—it's an aquatic grass native to North America, traditionally harvested by Native American tribes.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention this"
+ },
+ {
+  "claim": "Māori language nearly died out but is now taught in immersion schools (kura kaupapa) — a model for other endangered languages.",
+  "verdict": "overstated",
+  "corrected_claim": "By the 1980s fewer than 20% of Māori spoke their language natively, but a revival brought Māori-immersion kindergartens (from 1982) and Kura Kaupapa Māori schools (from 1985).",
+  "quote": "By the 1980s, fewer than 20 per cent of Māori spoke the language well enough to be classed as native speakers. ... There followed in 1985 the founding of the first Kura Kaupapa Māori",
+  "source_url": "https://en.wikipedia.org/wiki/M%C4%81ori_language",
+  "note": "'Model for other endangered languages' not on page; 'nearly died out' exaggerates"
+ },
+ {
+  "claim": "The ratchet effect in Soviet planning discouraged efficiency — if you exceeded this year's quota, next year's would increase, so managers deliberately underperformed.",
+  "verdict": "overstated",
+  "corrected_claim": "Ratchet effects arise when central controllers base next year's targets on last year's performance, giving managers a perverse incentive not to exceed targets.",
+  "quote": "ratchet effects refer to the tendency for central controllers to base next year's targets on last year's performance ... managers who expect still to be in place in the next target period have a perverse incentive not to exceed targets",
+  "source_url": "https://en.wikipedia.org/wiki/Ratchet_effect",
+  "note": "Page does not mention Soviet planning."
+ },
+ {
+  "claim": "The oldest viable seed ever germinated was from a Silene stenophylla plant, roughly 32,000 years old, found in Siberian permafrost.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Silene_stenophylla",
+  "note": "Seed germination failed; plants were regenerated from placental fruit tissue, not a seed."
+ },
+ {
+  "claim": "Quantum dots are used in QLED TVs to produce purer, more vibrant colors than traditional LED displays while being more energy efficient.",
+  "verdict": "overstated",
+  "corrected_claim": "Quantum dots are prized in TV displays because they emit light in very specific color bands, and they can be more efficient than light sources that must be color filtered; Sony's 2013 XBR X900A TVs were their first commercial use.",
+  "quote": "Quantum dots are valued for displays because they emit light in very specific Gaussian distributions. ... they can be more efficient than light sources which must be color filtered ... The first commercial application of quantum dots was the Sony XBR X900A series of flat panel televisions released in 2013.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+  "note": "Source compares to color-filtered light sources, not 'traditional LED displays'"
+ },
+ {
+  "claim": "DNS was invented in 1983 by Paul Mockapetris — before it, a single HOSTS.TXT file distributed by FTP was used to map all Internet hostnames.",
+  "verdict": "overstated",
+  "corrected_claim": "Paul Mockapetris created the Domain Name System in 1983; before it, SRI maintained a single text file, HOSTS.TXT, mapping host names to the addresses of computers on the ARPANET.",
+  "quote": "Mockapetris instead created the Domain Name System in 1983 while at the USC Information Sciences Institute. ... The Stanford Research Institute (now SRI International) maintained a text file named HOSTS.TXT that mapped host names to the numerical addresses of computers on the ARPANET.",
+  "source_url": "https://en.wikipedia.org/wiki/Domain_Name_System",
+  "note": "Page does not mention FTP distribution; file covered ARPANET hosts."
+ },
+ {
+  "claim": "Exercise increases gut microbiome diversity independently of diet — yet another benefit of activity.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": "Exercise not mentioned on page"
+ },
+ {
+  "claim": "In 1253 Henry III of England ordered that his white bear be permitted to swim and hunt in the River Thames.",
+  "verdict": "overstated",
+  "corrected_claim": "On 30 October 1253, Henry III ordered that his white bear be permitted to swim, bathe and fish in the River Thames, tethered by a long rope — where it fished for salmon.",
+  "quote": "it be permitted to swim, bathe, and fish in the River Thames tethered by a long rope. ... The bear would be taken to the Thames daily, where it fished for salmon.",
+  "source_url": "https://en.wikipedia.org/wiki/White_bear_of_Henry_III",
+  "note": "Page says fish, not hunt; bear was tethered."
+ },
+ {
+  "claim": "Basmati rice gets its distinctive aroma from 2-acetyl-1-pyrroline, the same compound that gives pandan leaves their scent.",
+  "verdict": "overstated",
+  "corrected_claim": "The aroma compound 2-acetyl-1-pyrroline gives cooked rice varieties and the herb pandan their characteristic scent.",
+  "quote": "The compound gives varieties of cooked rice and the herb pandan",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": "Page says 'varieties of cooked rice', does not name basmati"
+ },
+ {
+  "claim": "Cornish, the Celtic language of Cornwall, went extinct in 1777 when its last native speaker died — it's now being revived.",
+  "verdict": "overstated",
+  "corrected_claim": "Cornish died out as a living community language by the end of the 18th century — Dolly Pentreath (d. 1777) is traditionally called its last native speaker, though that is disputed — and a revival began in the early 20th century.",
+  "quote": "The traditional view that Dolly Pentreath (1692–1777) was the last native speaker of Cornish has been challenged ... A revival started in the early 20th century",
+  "source_url": "https://en.wikipedia.org/wiki/Cornish_language",
+  "note": "1777 'last native speaker' is challenged; John Davey of Zennor (d. 1891) may have been later"
+ },
+ {
+  "claim": "Career concerns can substitute for explicit incentives — workers perform well to build reputations, even without bonuses, especially early in careers.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Career_concerns",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "Cryopreserved 32,000-year-old Silene tissue was regenerated using placental tissue, not the seed itself—a botanical 'resurrection'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Initially, the researchers attempted to germinate mature seeds recovered from the fruit. When these attempts failed, they turned to the fruit itself and were able to culture adult plants from placental tissue.",
+  "source_url": "https://en.wikipedia.org/wiki/Silene_stenophylla",
+  "note": ""
+ },
+ {
+  "claim": "Self-assembled quantum dots form spontaneously during molecular beam epitaxy when materials with different lattice constants are deposited on each other (Stranski-Krastanov growth).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Self-assembled quantum dots nucleate spontaneously under certain conditions during molecular-beam epitaxy ... when a material is grown on a substrate to which it is not lattice matched ... This growth mode is known as Stranski–Krastanov growth.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+  "note": ""
+ },
+ {
+  "claim": "The largest DDoS attack recorded exceeded 3.47 Tbps in 2022 — equivalent to streaming about 2 million HD movies simultaneously.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/DDoS_attack",
+  "note": "Page lists a 22.2 Tbit/s attack (Sept 2025) as largest; 3.47 Tbps 2022 and movie comparison not on page"
+ },
+ {
+  "claim": "Vancomycin was called 'antibiotic of last resort' until VRSA (vancomycin-resistant S. aureus) emerged.",
+  "verdict": "overstated",
+  "corrected_claim": "Vancomycin-resistant Staphylococcus aureus (VRSA) was first reported in the United States in 2002; by 2019, 52 VRSA strains had been identified in six countries.",
+  "quote": "Vancomycin-resistant Staphylococcus aureus was first reported in the United States in 2002. ... As of 2019, 52 VRSA strains have been identified in the United States, India, Iran, Pakistan, Brazil, and Portugal.",
+  "source_url": "https://en.wikipedia.org/wiki/Vancomycin-resistant_Staphylococcus_aureus",
+  "note": "'Antibiotic of last resort' label not on page."
+ },
+ {
+  "claim": "Dominant males of Perugia's limia may be so preoccupied with fighting each other that the females end up mating with the subordinate males.",
+  "verdict": "overstated",
+  "corrected_claim": "In large populations of Perugia's limia, dominant males spend so much time fighting each other that subordinate males can pursue females freely.",
+  "quote": "dominant males in large populations spending time fighting amongst themselves and less time attempting to mate ... allowing the subordinate males to pursue females freely.",
+  "source_url": "https://en.wikipedia.org/wiki/Perugia%27s_limia",
+  "note": "Page says subordinates pursue females freely, not that females end up mating with them"
+ },
+ {
+  "claim": "Pasta water is starchy and salty—Italians call it 'liquid gold' because it helps emulsify sauces and helps them stick to pasta.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention this"
+ }
+]
