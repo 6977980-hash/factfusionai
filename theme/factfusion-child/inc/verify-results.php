@@ -189,7 +189,7 @@ function ffc_verify_page() {
 		<p>Checked and waiting in Today's 5 and the Review queue: <strong><?php echo (int) $ffc_ready; ?></strong> facts.
 			Pending facts not yet checked or not confirmed by their source: <strong><?php echo (int) ( $ffc_pending - $ffc_ready ); ?></strong>.
 			<?php if ( $ffc_drafted ) : ?>
-				Moved to Draft because they have no real source: <strong><?php echo (int) count( (array) ( $ffc_drafted['ids'] ?? array() ) ); ?></strong> (<?php echo esc_html( $ffc_drafted['date'] ?? '' ); ?> UTC, not deleted).
+				Moved to Draft because they have no real source: <strong><?php echo (int) count( (array) ( $ffc_drafted['ids'] ?? array() ) ); ?></strong> (<?php echo esc_html( $ffc_drafted['date'] ?? '' ); ?> UTC; deleted 16 Oct 2026 with the other unconfirmed facts).
 			<?php endif; ?>
 		</p>
 		<table class="widefat striped" style="max-width:820px">
