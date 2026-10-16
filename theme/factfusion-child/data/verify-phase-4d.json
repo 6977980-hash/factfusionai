@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "Svante Arrhenius calculated in 1896 that doubling atmospheric CO2 would increase global temperatures by 5-6°C, remarkably close to modern estimates.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1896 Svante Arrhenius calculated that doubling atmospheric carbon dioxide would raise surface temperatures by 5–6 °C.",
+  "quote": "calculated the effect of a doubling atmospheric carbon dioxide to be an increase in surface temperatures",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_climate_change_science",
+  "note": "'Remarkably close to modern estimates' not stated on page"
+ },
+ {
+  "claim": "All whales in a geographic area sing virtually the same song at any point in time, but the song constantly evolves over months and years, never returning to old patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "All the humpback whales in an area sing virtually the same song at any one time, but the song slowly evolves, and it appears old patterns are not revisited.",
+  "quote": "All the whales in an area sing virtually the same song at any point in time. ... As the song evolves, it appears that old patterns are not revisited.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Page hedges 'it appears' old patterns are not revisited; 'never' too absolute"
+ },
+ {
+  "claim": "The first tweet was posted by Jack Dorsey on March 21, 2006: 'just setting up my twttr' — Twitter dropped the vowels to fit SMS limits.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Twitter",
+  "note": "Page does not mention the first tweet or vowel-dropping; it says 'Twttr' was inspired by Flickr and five-character SMS short codes"
+ },
+ {
+  "claim": "Heterocysts in cyanobacteria are specialized nitrogen-fixing cells that exclude oxygen.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Heterocysts or heterocytes are specialized nitrogen-fixing cells formed during nitrogen starvation ... Nitrogenase is inactivated by oxygen, so the heterocyst must create a microanaerobic environment.",
+  "source_url": "https://en.wikipedia.org/wiki/Heterocyst",
+  "note": ""
+ },
+ {
+  "claim": "Arrhenius initially believed CO2-induced warming would take thousands of years, but by 1908 revised his estimate to hundreds of years due to increasing fuel consumption.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Arrhenius thought the warming would take thousands of years ... In 1908 he revised this prediction to take hundreds of years",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_climate_change_science",
+  "note": ""
+ },
+ {
+  "claim": "Beethoven's tuning fork, preserved in the British Library, is pitched at A=455.4 Hz, more than a semitone higher than modern concert pitch of A=440 Hz.",
+  "verdict": "overstated",
+  "corrected_claim": "A tuning fork that belonged to Ludwig van Beethoven around 1800 is preserved in the British Library.",
+  "quote": "A tuning fork that belonged to Ludwig van Beethoven around 1800, now in the British Library",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "455.4 Hz value appears only in an audio file link, not in the text"
+ },
+ {
+  "claim": "Facebook started as 'TheFacebook' in 2004, restricted to Harvard students — Zuckerberg coded the first version in his dorm room.",
+  "verdict": "overstated",
+  "corrected_claim": "Mark Zuckerberg launched 'TheFacebook' on February 4, 2004, and membership was initially restricted to students of Harvard College.",
+  "quote": "On February 4, 2004, Zuckerberg launched \"TheFacebook\" ... Membership was initially restricted to students of Harvard College.",
+  "source_url": "https://en.wikipedia.org/wiki/Facebook",
+  "note": "Dorm-room detail not on page"
+ },
+ {
+  "claim": "Harmful algal blooms (HABs) produce neurotoxins that can kill fish, birds, and even humans.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the production of neurotoxins which cause mass mortalities in fish, seabirds, sea turtles, and marine mammals ... human illness or death from consumption of seafood contaminated by toxic algae",
+  "source_url": "https://en.wikipedia.org/wiki/Harmful_algal_bloom",
+  "note": ""
+ },
+ {
+  "claim": "Chinese scholar Shen Kuo proposed gradual climate change in 1088 AD after discovering petrified bamboo fossils in the dry northern regions of China, far from where bamboo typically grows.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In his book published in 1088 ... promoted the theory of gradual climate change over centuries of time ... preserved underground in the dry climate zone and arid northern region of Yanzhou",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_climate_change_science",
+  "note": ""
+ },
+ {
+  "claim": "About 20% of people with absolute pitch also have synesthesia, showing genetic and neurological overlap between these conditions.",
+  "verdict": "overstated",
+  "corrected_claim": "In one study, about 20% of people with absolute pitch were also synesthetes, and absolute pitch shows a genetic overlap with synesthesia.",
+  "quote": "Absolute pitch shows a genetic overlap with music-related and non-music-related synesthesia/ ideasthesia. ... In this study, about 20% of people with absolute pitch are also synesthetes.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "20% figure from a single study"
+ },
+ {
+  "claim": "Amazon was originally called 'Cadabra' — Bezos changed it because people misheard it as 'cadaver.' Amazon was chosen because it started with 'A' and was 'exotic and different.'",
+  "verdict": "overstated",
+  "corrected_claim": "Amazon was founded as 'Cadabra' by Jeff Bezos in 1994; in November 1994 he renamed it Amazon, after the world's largest river, to reflect his ambitions for the company.",
+  "quote": "In November 1994, Bezos renamed the company Amazon to reflect his ambitions for his company. (Amazon is the world's largest river.)",
+  "source_url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+  "note": "Cadaver mishearing and 'starts with A/exotic' reasons not on page"
+ },
+ {
+  "claim": "Microcystin from cyanobacteria is one of the most powerful liver toxins known — contaminating drinking water.",
+  "verdict": "overstated",
+  "corrected_claim": "Microcystins from freshwater cyanobacteria are liver toxins whose algal blooms can overwhelm water treatment plants: in 2014 Toledo, Ohio told about 500,000 people not to drink their tap water.",
+  "quote": "They are hepatotoxic, i.e., able to cause serious damage to the liver. ... Microcystin-producing bacteria algal blooms can overwhelm the filter capacities of water treatment plants. ... The city issued an advisory to approximately 500,000 people that the water was not safe for drinking or cooking.",
+  "source_url": "https://en.wikipedia.org/wiki/Microcystin",
+  "note": "Page does not call it one of the most powerful liver toxins known."
+ },
+ {
+  "claim": "Milutin Milankovitch improved calculations of Earth's orbital variations that James Croll had begun, predicting ice age cycles of about 21,000 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "building on James Croll's theory, improved the tedious calculations ... matched the prediction of a Milankovitch cycle lasting about 21,000 years",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_climate_change_science",
+  "note": ""
+ },
+ {
+  "claim": "The Roman architect Vitruvius described acoustic principles for theater design around 20 BC, including sound reflection, echoes, and the use of bronze vessels to enhance harmonious notes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In about 20 BCE, the Roman architect and engineer Vitruvius wrote a treatise on the acoustic properties of theaters including a discussion of interference, echoes, and reverberation",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": ""
+ },
+ {
+  "claim": "Google's first server was built from Lego bricks — the colorful case held 10 4GB hard drives, the cluster that crawled the early web.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Google",
+  "note": "Page does not mention a Lego server"
+ },
+ {
+  "claim": "Beta-lactamase enzymes destroy penicillin-type antibiotics — bacteria's molecular defense against our drugs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Beta-lactamases (β-lactamases) are enzymes produced by bacteria that provide multi-resistance to beta-lactam antibiotics such as penicillins",
+  "source_url": "https://en.wikipedia.org/wiki/Beta-lactamase",
+  "note": ""
+ },
+ {
+  "claim": "The first weather map was produced in 1820 by Heinrich Wilhelm Brandes, who plotted past weather observations on maps to understand storm patterns.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_climate_change_science",
+  "note": "Page does not mention Brandes or the 1820 weather map"
+ },
+ {
+  "claim": "A captive beluga whale named NOC spontaneously learned to mimic human speech patterns at frequencies far lower than normal beluga calls by deliberately overinflating his vestibular sac.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was documented spontaneously imitating the vocal patterns of adult male human speech ... far lower pitched than normal belugas vocalizations ... deliberately overinflated his vestibular sac, which belugas typically use to keep water out of the blowhole",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "Google's name comes from 'googol' (10^100) — the misspelling stuck when they registered the domain.",
+  "verdict": "overstated",
+  "corrected_claim": "Google's name is a misspelling of 'googol', the number 10^100, picked to signify that the search engine would search a large number of websites.",
+  "quote": "the name of the search engine was a misspelling of the word googol ... picked to signify that the search engine was intended to search a large number of websites.",
+  "source_url": "https://en.wikipedia.org/wiki/Google",
+  "note": "Domain-registration story not on page"
+ },
+ {
+  "claim": "Efflux pumps actively expel antibiotics from bacterial cells — a major mechanism of multidrug resistance.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Efflux pumps are an important component in bacteria, particularly in their ability to remove antibiotics. ... Expression of several efflux pumps in a given bacterial species may lead to a broad spectrum of resistance",
+  "source_url": "https://en.wikipedia.org/wiki/Efflux_(microbiology)",
+  "note": ""
+ },
+ {
+  "claim": "Hans Suess's carbon-14 analysis in 1955 proved that CO2 from fossil fuels was not immediately absorbed by the ocean, disproving a major skeptic argument.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1955 Hans Suess's carbon-14 analysis showed that CO2 released from fossil fuels was not immediately absorbed by the ocean, at a time when many scientists thought the oceans would quickly absorb excess CO2.",
+  "quote": "carbon-14 isotope analysis showed that CO2 released from fossil fuels was not immediately absorbed by the ocean. ... Many scientists also thought that the oceans would quickly absorb any excess carbon dioxide.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_climate_change_science",
+  "note": "'Proved' and 'disproving a major skeptic argument' go beyond the page"
+ },
+ {
+  "claim": "The first multitrack tape recorder was invented by musician Les Paul in the late 1940s, ushering in a revolution in recording technology.",
+  "verdict": "overstated",
+  "corrected_claim": "Within a few years of the first commercial tape recorder, the Ampex 200 launched in 1948, musician-inventor Les Paul had invented the first multitrack tape recorder.",
+  "quote": "Within a few years of the introduction of the first commercial tape recorder ... the Ampex 200 model, launched in 1948 ... American musician-inventor [Les Paul] had invented the first multitrack tape recorder",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "Page dates it 'within a few years' of 1948, not 'late 1940s'; 'revolution' wording unsupported"
+ },
+ {
+  "claim": "Apple's 1984 Macintosh commercial, directed by Ridley Scott, aired only once during the Super Bowl — it's considered one of the greatest ads ever made.",
+  "verdict": "overstated",
+  "corrected_claim": "Apple's 1984 Macintosh commercial, directed by Ridley Scott, had its only US national airing during Super Bowl XVIII — Advertising Age put it at the top of its list of 50 greatest commercials.",
+  "quote": "directed by Ridley Scott ... second televised airing, and only US national airing, was on January 22, 1984, during a break in the third quarter",
+  "source_url": "https://en.wikipedia.org/wiki/1984_(advertisement)",
+  "note": "It first aired locally on Dec 31, 1983; Super Bowl was its only national airing, not its only airing"
+ },
+ {
+  "claim": "Riboswitches in bacterial mRNA can sense antibiotics and trigger resistance — RNA-based defense systems.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Riboswitch",
+  "note": "Page describes riboswitches as targets of antibiotics (e.g. pyrithiamine kills cells via TPP riboswitch), not as triggering resistance"
+ },
+ {
+  "claim": "Tropical cyclones require sea surface temperatures of at least 26-27°C (79-81°F) to form and maintain their strength.",
+  "verdict": "overstated",
+  "corrected_claim": "The commonly accepted minimum sea surface temperature for tropical cyclones to form is 26–27 °C (79–81 °F), though some studies propose a lower threshold of 25.5 °C.",
+  "quote": "The commonly accepted minimum temperature range for this to occur is 26–27 °C (79–81 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": "Source notes studies proposing a lower 25.5 C threshold."
+ },
+ {
+  "claim": "The Sumatran rhinoceros produces sounds with frequencies as low as 3 Hz, with similarities to humpback whale songs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the Sumatran rhinoceros has been shown to produce sounds with frequencies as low as 3 Hz ... have similarities with the song of the humpback whale",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": ""
+ },
+ {
+  "claim": "Steve Jobs chose the Apple logo's rainbow stripes to highlight the Apple II's color display capability — it was simplified to monochrome in 1998.",
+  "verdict": "overstated",
+  "corrected_claim": "Apple's rainbow-striped apple logo, designed by Rob Janoff, arrived in 1977 and was dropped on August 27, 1999 in favor of single-color logos.",
+  "quote": "It was replaced in 1977 by a rainbow-colored silhouette of an apple with a bite taken out of it, designed by Rob Janoff. ... On August 27, 1999, Apple dropped the rainbow scheme and began using single-color logos nearly identical in shape to the previous incarnation.",
+  "source_url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+  "note": "Page credits Rob Janoff, no Jobs/color-display rationale; change was 1999 not 1998"
+ },
+ {
+  "claim": "Integrons can capture and express antibiotic resistance genes — modular genetic resistance platforms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Integrons were initially discovered on conjugative plasmids through their role in antibiotic resistance. ... The integration of gene cassettes within an integron also provides a Pc promoter",
+  "source_url": "https://en.wikipedia.org/wiki/Integron",
+  "note": ""
+ },
+ {
+  "claim": "Tropical cyclones rarely form within 5° of the equator because the Coriolis effect is too weak to create rotation at those latitudes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As a result, cyclones rarely form within 5° of the equator.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "Stradivari made over 1,100 instruments in his lifetime, of which approximately 650 survive today, with golden period violins (1700-1725) selling for millions of dollars.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Antonio Stradivari made over 1,100 instruments, with approximately 650 surviving today. ... Depending on condition, instruments made during Stradivari's \"golden period\" from 1700 to about 1725",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": ""
+ },
+ {
+  "claim": "Microsoft's first product was a BASIC interpreter for the Altair 8800 in 1975 — Gates and Allen wrote it without access to actual hardware.",
+  "verdict": "overstated",
+  "corrected_claim": "Microsoft was founded to market BASIC interpreters for the Altair 8800; Allen built a simulator of the Altair while Gates wrote the interpreter, and it worked flawlessly when demonstrated to MITS in March 1975.",
+  "quote": "Allen worked on a simulator for the Altair while Gates developed the interpreter ... it worked flawlessly when they demonstrated it to MITS in March 1975 in Albuquerque, New Mexico.",
+  "source_url": "https://en.wikipedia.org/wiki/Microsoft",
+  "note": "Page implies but does not state they lacked real hardware."
+ },
+ {
+  "claim": "Plasmids can carry multiple resistance genes — one transfer can make a bacterium resistant to many antibiotics.",
+  "verdict": "overstated",
+  "corrected_claim": "Resistance (R) plasmids carry genes that provide resistance against antibiotics, and they have been seen as a contributing factor in the spread of multidrug resistance in bacteria.",
+  "quote": "Resistance (R) plasmids, which contain genes that provide resistance against antibiotics or antibacterial agents ... R-factors where seen as the contributing factor for the spread of multidrug resistance in bacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmid",
+  "note": "Page does not say one transfer makes a bacterium resistant to many antibiotics"
+ },
+ {
+  "claim": "On average, 80-90 named tropical cyclones form each year worldwide, with over half developing hurricane-force winds of 120 km/h or more.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "on average around 80 to 90 named tropical cyclones form each year around the world, over half of which develop hurricane-force winds of 65 kn (120 km/h; 75 mph) or more.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "Highland bagpipe bands tune to around A=470-480 Hz, over a semitone higher than standard A=440, causing them to sound in B-flat despite notation in A.",
+  "verdict": "overstated",
+  "corrected_claim": "Highland pipe bands use an even sharper tuning, around A = 470–480 Hz, close to B-flat.",
+  "quote": "Highland pipe bands continue to use an even sharper tuning, around A = 470–480 Hz",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "Notation-in-A detail not stated"
+ },
+ {
+  "claim": "Bill Gates' 1976 'Open Letter to Hobbyists' criticized software piracy — establishing software as a commercial product, not freely shared.",
+  "verdict": "overstated",
+  "corrected_claim": "In his 1976 'Open Letter to Hobbyists', Bill Gates accused hobbyists of using Altair BASIC without paying, writing 'most of you steal your software.'",
+  "quote": "As the majority of hobbyists must be aware, most of you steal your software. ... most computer hobbyists who were using his company's Altair BASIC software without having paid for it",
+  "source_url": "https://en.wikipedia.org/wiki/Open_Letter_to_Hobbyists",
+  "note": "Page does not say the letter established software as a commercial product."
+ },
+ {
+  "claim": "R-plasmids (resistance plasmids) were discovered in Japan in the 1950s during Shigella dysentery outbreaks.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/R-plasmid",
+  "note": "Page failed to load (fetch error / not found)"
+ },
+ {
+  "claim": "South Atlantic tropical cyclones are extremely rare because of consistently strong wind shear and a weak Intertropical Convergence Zone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "South Atlantic tropical cyclones are very rare due to consistently strong wind shear",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "The tiger's roar contains infrasound at 18 Hz and lower, which may help freeze prey with fear as these frequencies affect the human body.",
+  "verdict": "overstated",
+  "corrected_claim": "The roar of the tiger contains infrasound of 18 Hz and lower.",
+  "quote": "The roar of the tiger contains infrasound of 18 Hz and lower.",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Page does not say it freezes prey with fear."
+ },
+ {
+  "claim": "IBM chose Microsoft's DOS for the PC partly because Digital Research's CEO was allegedly out flying when IBM called — though this story is disputed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/MS-DOS",
+  "note": "Page does not mention IBM's reasons or the Kildall flying story."
+ },
+ {
+  "claim": "Pathogenicity islands are chunks of DNA that convert harmless bacteria into pathogens — transferable virulence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They can be transferred as a single unit to new bacterial cells, thus conferring virulence to formerly benign strains.",
+  "source_url": "https://en.wikipedia.org/wiki/Pathogenicity_island",
+  "note": ""
+ },
+ {
+  "claim": "Climate change increased Hurricane Harvey's rainfall by 7-38%, Hurricane Ian's by 18%, and increased peak wind speeds in all eleven 2024 Atlantic hurricanes.",
+  "verdict": "overstated",
+  "corrected_claim": "Attribution studies estimate climate change increased Hurricane Harvey's rainfall by 7–38% and Hurricane Ian's by 18%.",
+  "quote": "Hurricane Harvey | 7–38% ... Hurricane Ian | 18%",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": "Page does not mention all eleven 2024 Atlantic hurricanes."
+ },
+ {
+  "claim": "The first practical sound recording device, Edison's phonograph cylinder, was invented in 1877, just one year after Alexander Graham Bell's telephone.",
+  "verdict": "overstated",
+  "corrected_claim": "The first practical sound recording and reproduction device was the mechanical phonograph cylinder, invented by Thomas Edison in 1877 and patented in 1878.",
+  "quote": "The first practical sound recording and reproduction device was the mechanical phonograph cylinder ... invented by Thomas Edison in 1877 and patented in 1878.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "Page does not link it to Bell's telephone one year earlier"
+ },
+ {
+  "claim": "The mouse was invented by Douglas Engelbart in 1964 — but didn't become mainstream until the Macintosh 20 years later.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1964, Bill English joined ARC, where he helped Engelbart build the first mouse prototype. ... Only with the release of the Apple Macintosh in 1984 did the mouse see widespread use.",
+  "source_url": "https://en.wikipedia.org/wiki/Computer_mouse",
+  "note": ""
+ },
+ {
+  "claim": "Transduction by phages can move virulence genes between bacterial species — virus-mediated gene transfer.",
+  "verdict": "overstated",
+  "corrected_claim": "In transduction, viruses carry DNA from one bacterium to another — a natural form of horizontal gene transfer.",
+  "quote": "An example is the viral transfer of DNA from one bacterium to another and hence an example of horizontal gene transfer.",
+  "source_url": "https://en.wikipedia.org/wiki/Transduction_(genetics)",
+  "note": "Page does not mention virulence genes or transfer between species."
+ },
+ {
+  "claim": "When hurricane wind speeds rise by 5%, destructive power increases by about 50%, so climate change's 11% increase to Hurricane Helene's winds more than doubled its destruction.",
+  "verdict": "overstated",
+  "corrected_claim": "When hurricane wind speeds rise by 5%, destructive power rises by about 50% — and climate change increased Hurricane Helene's wind speed by 11%.",
+  "quote": "When hurricane winds speed rise by 5%, its destructive power rises by about 50% ... as climate change increased the wind speed of Hurricane Helene by 11%",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": "'More than doubled its destruction' is an extrapolation not stated in fetched text."
+ },
+ {
+  "claim": "Scientists have measured that blue whale songs have been getting progressively lower in pitch since the 1960s, though the reason remains unknown.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2009, researchers found that blue whale song has been deepening in its tonal frequency since the 1960s.",
+  "quote": "In 2009, researchers found that blue whale song has been deepening in its tonal frequency since the 1960s.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Page does not state that the reason remains unknown"
+ },
+ {
+  "claim": "Engelbart's 1968 'Mother of All Demos' showed the mouse, hypertext, video conferencing, and collaborative editing — technology that took decades to become common.",
+  "verdict": "overstated",
+  "corrected_claim": "Engelbart's 1968 'Mother of All Demos' showed a mouse, hypertext, live two-way video and shared-screen collaborative editing — yet at first, as one attendee recalled, 'nothing else happened.'",
+  "quote": "Everybody was blown away and thought it was absolutely fantastic and nothing else happened. ... clicking on underlined text would then link to another page of information, demonstrating the concept of hypertext.",
+  "source_url": "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos",
+  "note": "Page does not state the technologies took decades to become common."
+ },
+ {
+  "claim": "Transformation lets bacteria absorb naked DNA from dead cells — recycling genetic information from corpses.",
+  "verdict": "overstated",
+  "corrected_claim": "In Griffith's classic experiment, a harmless bacterial strain became virulent after being exposed to heat-killed virulent bacteria — later traced to DNA taken up from the dead cells.",
+  "quote": "could be made virulent after being exposed to heat-killed virulent strains ... They isolated DNA from a virulent strain of S. pneumoniae.",
+  "source_url": "https://en.wikipedia.org/wiki/Transformation_(genetics)",
+  "note": "Page doesn't state the general dead-cell DNA recycling claim."
+ },
+ {
+  "claim": "May is the least active month for tropical cyclones globally, while September is the most active, and November is the only month when all tropical cyclone basins are in season.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On a worldwide scale, May is the least active month, while September is the most active month. November is the only month in which all the tropical cyclone basins are in season.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "The phonautograph, invented in 1857, could record sound waves but not play them back; an 1860 recording of 'Au Clair de la Lune' was finally converted to audio in 2008.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The earliest known recordings of the human voice are phonautograph recordings, called phonautograms, made in 1857. ... could not play them back—the purpose was only visual study. ... An 1860 phonautogram of 'Au Clair de la Lune', a French folk song, was played back as sound for the first time in 2008.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "Xerox PARC invented the GUI, Ethernet, laser printing, and WYSIWYG editing — but Xerox failed to commercialize most of its innovations.",
+  "verdict": "overstated",
+  "corrected_claim": "Xerox PARC was foundational to laser printing, Ethernet, the GUI developed for the Alto, and the WYSIWYG editor Bravo — but Xerox management failed to see the global potential of many of PARC's inventions.",
+  "quote": "Xerox PARC has been foundational to numerous revolutionary computer developments, including ... laser printing ... Ethernet as a local-area computer network ... Xerox management failed to see the global potential of many of PARC's inventions",
+  "source_url": "https://en.wikipedia.org/wiki/PARC_(company)",
+  "note": "'Invented' and 'failed to commercialize most' stronger than page wording"
+ },
+ {
+  "claim": "The first whole genome sequence of a free-living organism was Haemophilus influenzae in 1995.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "H. influenzae was the first free-living organism to have its entire genome sequenced. ... The sequencing method used was whole-genome shotgun, which was completed and published in Science in 1995.",
+  "source_url": "https://en.wikipedia.org/wiki/Haemophilus_influenzae",
+  "note": ""
+ },
+ {
+  "claim": "Category 5 hurricanes have become much more common in recent decades, with the 20-year average of Category 4 and 5 Atlantic hurricanes approximately doubling since 2000.",
+  "verdict": "overstated",
+  "corrected_claim": "Between 1979 and 2017 the global proportion of tropical cyclones reaching Category 3 or higher increased, and with 2 °C of warming 13% more are expected to reach Category 4 and 5 strength.",
+  "quote": "Between 1979 and 2017, there was a global increase in the proportion of tropical cyclones of Category 3 and higher. ... With 2 °C (3.6 °F) warming, a greater percentage (+13%) of tropical cyclones are expected to reach Category 4 and 5 strength.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": "Page has no 'doubling since 2000' of Cat 4/5 average."
+ },
+ {
+  "claim": "Up to 30% of autistic people may have absolute pitch, compared to less than 0.01% of the general population.",
+  "verdict": "overstated",
+  "corrected_claim": "Some claims estimate that up to 30% of autistic people have absolute pitch, though such figures are controversial.",
+  "quote": "with claims estimating that up to 30% of autistic people have absolute pitch",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "Page calls the figures controversial; 0.01% comparison not stated"
+ },
+ {
+  "claim": "The QWERTY keyboard layout was designed in 1873 for typewriters — it's often claimed to slow typists to prevent jamming, though this is debated.",
+  "verdict": "overstated",
+  "corrected_claim": "The QWERTY layout was devised in the early 1870s by Christopher Latham Sholes for typewriters — and contrary to popular belief, it was not designed to slow typists down.",
+  "quote": "The QWERTY layout was devised and created in the early 1870s by ... Contrary to popular belief, the QWERTY layout was not designed to slow the typist down",
+  "source_url": "https://en.wikipedia.org/wiki/QWERTY",
+  "note": "Page says 'early 1870s' and states plainly it was not designed to slow typists"
+ },
+ {
+  "claim": "Metagenomic sequencing can identify all microbes in a sample without culturing — sampling the unculturable.",
+  "verdict": "overstated",
+  "corrected_claim": "Metagenomic sequencing profiles the microbes in a sample without lab cultivation, revealing organisms that culturing misses: cultivation-based methods find less than 1% of the bacterial and archaeal species in a sample.",
+  "quote": "the application of modern genomics technique without the need for isolation and lab cultivation of individual species ... cultivation based methods find less than 1% of the bacterial and archaeal species in a sample",
+  "source_url": "https://en.wikipedia.org/wiki/Metagenomics",
+  "note": "Page does not say it identifies 'all' microbes; notes low-abundance limits."
+ },
+ {
+  "claim": "A tropical cyclone's passage causes substantial ocean cooling through upwelling, which can drop sea surface temperatures enough to inhibit the next storm's development.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The passage of a tropical cyclone over the ocean causes the upper layers of the ocean to cool substantially, which can negatively influence subsequent cyclone development.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "The earliest known mechanical music device was a water-powered organ with interchangeable cylinders invented by the Banū Mūsā brothers in 9th century Baghdad.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 9th century, the Banū Mūsā brothers invented the earliest known mechanical musical instrument: a water-powered organ that played interchangeable cylinders.",
+  "quote": "when the Banū Mūsā brothers invented the earliest known mechanical musical instrument ... a water-powered organ that played interchangeable cylinders",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "Baghdad not mentioned on page"
+ },
+ {
+  "claim": "The Dvorak keyboard layout (1936) was designed for efficiency — studies show mixed results on whether it's actually faster than QWERTY.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was patented in 1936 by August Dvorak and his brother-in-law, William Dealey ... Some studies show favorable results for the Dvorak layout in terms of speed, while others do not show any advantage",
+  "source_url": "https://en.wikipedia.org/wiki/Dvorak_keyboard_layout",
+  "note": ""
+ },
+ {
+  "claim": "16S rRNA gene sequencing is the 'barcode' for identifying bacteria — universal bacterial fingerprinting.",
+  "verdict": "overstated",
+  "corrected_claim": "The 16S rRNA gene is the standard for classifying and identifying microbes — conserved regions allow universal primers, while hypervariable regions give species-specific signature sequences.",
+  "quote": "The 16S rRNA gene is used as the standard for classification and identification of microbes",
+  "source_url": "https://en.wikipedia.org/wiki/16S_ribosomal_RNA",
+  "note": "'barcode'/'fingerprint' framing not on page"
+ },
+ {
+  "claim": "Small tropical cyclones are more prone to rapid intensification than larger ones, which makes them particularly dangerous because they're harder to forecast.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Smaller tropical cyclones are more prone to rapid intensification than larger ones. ... Rapidly intensifying cyclones are hard to forecast and therefore pose additional risk to coastal communities.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "Sperm whales communicate using codas—short rhythmic click sequences of 3-12 clicks in stereotyped patterns that function as symbolic markers of clan identity.",
+  "verdict": "overstated",
+  "corrected_claim": "Sperm whales communicate with codas, short rhythmic sequences of mostly 3-12 clicks in stereotyped patterns, some of which express clan identity.",
+  "quote": "short rhythmic sequences of clicks, mostly numbering 3–12 clicks, in stereotyped patterns ... Some codas express clan identity",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Page says 'some codas' express clan identity; 'symbolic markers' not stated"
+ },
+ {
+  "claim": "Touch typing on physical keyboards remains faster than phone keyboards for most people — but the gap is narrowing with younger users.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Touch_typing",
+  "note": "Page does not compare physical vs phone keyboard speeds or younger users."
+ },
+ {
+  "claim": "MALDI-TOF mass spectrometry identifies bacteria in minutes by their protein fingerprint — rapid diagnosis.",
+  "verdict": "overstated",
+  "corrected_claim": "MALDI-TOF mass spectrometry has become a common way for clinical labs to identify bacteria and fungi, by comparing their protein mass spectra with stored profiles.",
+  "quote": "The mass spectra of expressed proteins generated are analyzed by dedicated software and compared with stored profiles for species determination in what is known as biotyping. ... has become a common method for species identification in clinical microbiological laboratories.",
+  "source_url": "https://en.wikipedia.org/wiki/MALDI-TOF",
+  "note": "Page gives no 'minutes' timescale."
+ },
+ {
+  "claim": "Tornadoes occur on every continent except Antarctica, with the United States experiencing by far the most tornadoes of any country.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the United States has by far the most tornadoes of any country in the world.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "A 2003 experiment found that 22% of people exposed to inaudible 17 Hz infrasound reported feelings of unease, nervousness, or chills, supporting theories that infrasound may cause 'ghost sightings'.",
+  "verdict": "overstated",
+  "corrected_claim": "In a 2003 experiment, about 700 people heard music laced with soft 17 Hz tones, and 22% reported feeling uneasy or sorrowful; such sound levels may be present at some allegedly haunted sites.",
+  "quote": "exposed some 700 people to music laced with soft 17 Hz ... A significant number (22%) of respondents reporting feeling uneasy or sorrowful ... this level of sound may be present at some allegedly haunted sites",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Page reports uneasy or sorrowful (not chills/nervousness) and does not say the experiment supported ghost theories."
+ },
+ {
+  "claim": "Vim (1991) and Emacs (1976) are text editors with passionate user bases — the 'editor war' over which is better has lasted over 40 years.",
+  "verdict": "overstated",
+  "corrected_claim": "The editor war is the enduring rivalry between users of Emacs and vi (now usually Vim); it was one of Usenet's original 'holy wars', with flame wars since at least 1985.",
+  "quote": "The editor war is the rivalry between users of the Emacs and vi (now usually Vim) text editors. ... Since at least 1985, many flame wars have occurred",
+  "source_url": "https://en.wikipedia.org/wiki/Editor_war",
+  "note": "Release years and 'over 40 years' not on page; page dates flame wars to at least 1985"
+ },
+ {
+  "claim": "Oxford Nanopore sequencing can identify pathogens in real-time — diagnosis at the bedside.",
+  "verdict": "overstated",
+  "corrected_claim": "Nanopore sequencing has been proposed for rapid identification of viral pathogens and can display real-time results on portable devices like the MinION.",
+  "quote": "It has been proposed for rapid identification of viral pathogens ... rapid processing of samples, including the ability to display real-time results.",
+  "source_url": "https://en.wikipedia.org/wiki/Nanopore_sequencing",
+  "note": "Bedside diagnosis not stated."
+ },
+ {
+  "claim": "The widest tornado on record was approximately 2.6 miles (4.2 km) across during the 2013 El Reno, Oklahoma tornado.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was approximately 2.6 miles (4.2 km) wide, the widest on record.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "The tuning fork was invented in 1711, finally enabling the calibration of musical pitch, though international standardization took until 1939.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "it was only after the tuning fork was invented in 1711 that temperature-independent pitch calibration became possible. ... In 1939 an international conference recommended that the A above middle C be tuned to 440 Hz",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": ""
+ },
+ {
+  "claim": "Visual Studio Code, released by Microsoft in 2015, became the most popular code editor — it's built on Electron and open source.",
+  "verdict": "overstated",
+  "corrected_claim": "Visual Studio Code, announced by Microsoft in 2015, is built on Electron and has held the no. 1 spot in Stack Overflow surveys; the downloadable product is proprietary but based on open-source MIT-licensed code.",
+  "quote": "The downloadable version of Visual Studio Code is built on the Electron framework. ... proprietary software released under the \"Microsoft Software License\" ... was released under the open-source MIT License and made available on GitHub",
+  "source_url": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
+  "note": "The VS Code product is proprietary; only the underlying source is MIT open source"
+ },
+ {
+  "claim": "Single-cell sequencing reveals heterogeneity within bacterial populations — not all cells are the same.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "single-cell sequencing of RNA or epigenetic modifications can reveal cell-to-cell variability",
+  "source_url": "https://en.wikipedia.org/wiki/Single_cell_sequencing",
+  "note": ""
+ },
+ {
+  "claim": "One tornado was reported to have a damage path only 7 feet (2.1 meters) long—among the shortest ever recorded.",
+  "verdict": "overstated",
+  "corrected_claim": "One tornado was reported to have a damage path only 7 feet (2.1 m) long.",
+  "quote": "One tornado was reported to have a damage path only 7 feet (2.1 m) long.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": "Page does not call it among the shortest ever recorded."
+ },
+ {
+  "claim": "Leon Theremin was allegedly kidnapped by Soviet agents from his New York apartment in 1938 and forced to work in a Siberian prison laboratory for 30 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Many accounts claim Leon Theremin was taken from his New York City apartment by NKVD agents in 1938 and made to work in a sharashka prison laboratory at Magadan, Siberia; he reappeared 30 years later.",
+  "quote": "Many accounts claim he was taken from his New York City apartment by NKVD agents ... made to work in a sharashka laboratory prison camp at Magadan, Siberia.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": "Page says he reappeared 30 years later, not that he worked in the prison lab for 30 years; also notes he may have fled debts."
+ },
+ {
+  "claim": "JetBrains IDEs (IntelliJ, PyCharm, etc.) were created in Prague — their refactoring and code analysis tools set industry standards.",
+  "verdict": "overstated",
+  "corrected_claim": "JetBrains, maker of IDEs such as IntelliJ IDEA and PyCharm, was founded in 2000 in Prague by three Russian software developers; its first product was IntelliJ Renamer, a Java refactoring tool.",
+  "quote": "was founded in 2000 in Prague by three Russian software developers ... first product was IntelliJ Renamer, a tool for code refactoring in Java.",
+  "source_url": "https://en.wikipedia.org/wiki/JetBrains",
+  "note": "Page does not say its tools set industry standards."
+ },
+ {
+  "claim": "Toxoplasma gondii can infect virtually all warm-blooded animals, but cats are the only hosts where it can sexually reproduce — making felines essential to its life cycle.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "can infect virtually all warm-blooded animals ... can sexually reproduce only within the intestines of members of the cat family",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "Approximately 1% of tornadoes rotate anticyclonically (clockwise in the Northern Hemisphere), usually forming on the anticyclonic side of a supercell's rear flank downdraft.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Approximately 1 percent of tornadoes rotate in an anticyclonic direction in the northern hemisphere.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "Birds raised in isolation from other birds still sing, but produce 'isolate songs' that are distinctly abnormal and lack complexity compared to wild birds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "it shows distinctly different characteristics from the wild song and lacks its complexity.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "GitHub Copilot (2021) uses AI to suggest code as you type — trained on public code, it sparked debates about copyright and code ownership.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On June 29, 2021, GitHub announced GitHub Copilot for technical preview in the Visual Studio Code development environment. ... Copilot's OpenAI Codex was trained on a selection of the English language, public GitHub repositories ... The lawsuit from Joseph Saveri Law Firm, LLP challenges the legality of Copilot on several claims",
+  "source_url": "https://en.wikipedia.org/wiki/GitHub_Copilot",
+  "note": ""
+ },
+ {
+  "claim": "Toxoplasma gondii-infected rats lose their natural fear of cat urine, making them more likely to be caught and eaten — an evolutionary adaptation that helps the parasite complete its life cycle.",
+  "verdict": "overstated",
+  "corrected_claim": "Rats infected with Toxoplasma gondii show decreased aversion to cat urine, a behavioural change in the very animals cats prey on.",
+  "quote": "decreased aversion to cat urine",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": "Predation benefit / evolutionary adaptation framing not confirmed verbatim in fetched text."
+ },
+ {
+  "claim": "Tornadoes can take on the color of the debris they pick up—Great Plains tornadoes often appear red due to the soil color, while those crossing snow appear white.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tornadoes in the Great Plains can turn red because of the reddish tint of the soil.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "The 'Lady Blunt' Stradivarius violin sold for $15.9 million in 2011, making it the most expensive musical instrument ever sold at auction.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'Lady Blunt' Stradivarius violin was sold in London in 2011 for $15.9 million.",
+  "quote": "was sold in London for $15.9 million.",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": "Page does not call it the most expensive instrument ever sold at auction"
+ },
+ {
+  "claim": "Semantic versioning (SemVer) uses MAJOR.MINOR.PATCH — MAJOR for breaking changes, MINOR for new features, PATCH for bug fixes.",
+  "verdict": "overstated",
+  "corrected_claim": "Semantic versioning (SemVer) uses Major.Minor.Patch: breaking changes bump the major number, new non-breaking features bump the minor number, and all other non-breaking changes bump the patch number.",
+  "quote": "Breaking changes are indicated by increasing the major number (high risk); new, non-breaking features increment the minor number (medium risk); all other non-breaking changes increment the patch number (lowest risk).",
+  "source_url": "https://en.wikipedia.org/wiki/Software_versioning",
+  "note": "Page says PATCH covers all other non-breaking changes, not specifically bug fixes"
+ },
+ {
+  "claim": "Up to 50% of the global human population has been exposed to Toxoplasma gondii, with the highest seroprevalence (64.2%) found in Ethiopia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "up to 50% of the global population has been exposed to ... highest IgG seroprevalence to be in Ethiopia, at 64.2%, as of 2018.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "There is mounting evidence that most tornadoes have a clear, calm center with extremely low pressure, similar to the eye of a tropical cyclone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "most tornadoes have a clear, calm center with extremely low pressure",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "Composer Alexander Scriabin created colored music using a deliberate system based on the circle of fifths, though he was not actually a synesthete—unlike Olivier Messiaen who had genuine sound-color synesthesia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Alexander Scriabin composed colored music that was deliberately contrived and based on the circle of fifths ... Some artists frequently mentioned as synesthetes did not, in fact, have the neurological condition. ... Olivier Messiaen invented a new method of composition ... specifically to render his bi-directional sound–color synesthesia.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "The software development industry loses $312 billion annually to poor code quality, according to a 2020 study.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Software_quality",
+  "note": "Page cites CISQ estimate of $2.08 trillion in 2020 for cost of poor software quality; no $312 billion figure"
+ },
+ {
+  "claim": "Cats are the only definitive host for Toxoplasma gondii because they uniquely lack the enzyme delta-6-desaturase in their intestines, which creates the conditions necessary for the parasite's sexual reproduction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "lack expression of the enzyme delta-6-desaturase (D6D) in their intestine ... systemic linoleic acid accumulation",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "On June 24, 2003, a probe near Manchester, South Dakota, measured a 100-millibar pressure drop as a violent tornado passed over it.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a probe measured a 100-millibar (100 hPa; 3.0 inHg) pressure decrease.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "Sound travels roughly three times faster in water than in air, making hearing the most important sense for marine mammals like whales and dolphins.",
+  "verdict": "overstated",
+  "corrected_claim": "Sound travels roughly three times faster in water than in air at sea level, and marine mammals are much more dependent on sound than land mammals.",
+  "quote": "the speed of sound is roughly three times greater in water than in the atmosphere at sea level",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Page does not call hearing the most important sense"
+ },
+ {
+  "claim": "Code review catches 60% of defects on average — making it one of the most effective quality assurance practices.",
+  "verdict": "overstated",
+  "corrected_claim": "Research by Capers Jones found formal code inspections discover 60-65% of latent defects, versus fewer than 50% for informal reviews and about 30% for most forms of testing.",
+  "quote": "formal inspections had a latent defect discovery rate of 60-65% ... informal inspections detected fewer than 50% of defects. ... The latent defect discovery rate for most forms of testing is about 30%.",
+  "source_url": "https://en.wikipedia.org/wiki/Code_review",
+  "note": "60% applies to formal inspections in one study, not code review on average"
+ },
+ {
+  "claim": "A single infected cat can shed millions of Toxoplasma oocysts in its feces, which can survive in contaminated soil for over a year.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "millions of thick-walled, zygote-containing cysts known as oocysts ... survive over a year in contaminated soil",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "Tornadoes produce detectable infrasonic signatures and seismic signals, leading to ongoing research on using these for prediction systems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tornadoes also produce a detectable seismic signature ... efforts are ongoing to develop tornado prediction and detection devices.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "Before World War I, pitch in music was steadily rising, putting such strain on singers that the French government passed a law in 1859 standardizing A at 435 Hz.",
+  "verdict": "overstated",
+  "corrected_claim": "Rising pitch put such a strain on singers' voices that the French government passed a law on February 16, 1859 fixing the A above middle C.",
+  "quote": "Rising pitch put a strain on singers' voices ... the French government passed a law on February 16, 1859 setting the A above middle C at",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "435 Hz only in an audio link; 'before WWI' framing not in page"
+ },
+ {
+  "claim": "The most sophisticated supercomputer in 2010 performed 83 times slower than a cat's brain at processing information.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The most sophisticated supercomputer in 2010 performed 83 times slower than a cat’s brain.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": ""
+ },
+ {
+  "claim": "Toxoplasma gondii manipulates host behavior through epigenetic remodeling of neurons in the brain, altering gene expression in ways that reduce fear responses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "occur through epigenetic remodeling in neurons that govern the relevant behaviors.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "In the US, the average tornado travels 5 miles (8 km) on the ground and is about 500 feet (150 m) across.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "travels on the ground for 5 miles (8.0 km) ... around 500 feet (150 m) across on average.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "The oilbird and certain swiftlets use audible echolocation (2-5 kHz) to navigate in dark caves, making them among the few birds known to use sonar.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "use audible sound (with the majority of sonic location occurring between 2 and 5 kHz)",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "Google's artificial 'Brain' computer (with 16,000 processors that learns from the Internet) independently developed a strong preference for watching cat videos.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Google’s artificial “Brain,” a computer that contains 16,000 processors and can learn whatever it wants from the Internet, is really into cat videos.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": ""
+ },
+ {
+  "claim": "Urban runoff carrying cat feces has contaminated California seawater with Toxoplasma gondii, killing sea otters in the region.",
+  "verdict": "overstated",
+  "corrected_claim": "Urban runoff containing cat feces carries Toxoplasma gondii into the ocean, and toxoplasmosis is a contributing factor in the deaths of southern sea otters.",
+  "quote": "with cat feces transports Toxoplasma gondii into the ocean ... contributing factor toward mortality in southern sea otters.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": "Source says contributing factor, not direct killing."
+ },
+ {
+  "claim": "Most extreme tornadoes can attain wind speeds exceeding 480 km/h (300 mph) and stay on the ground for more than 100 km.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "can attain wind speeds of more than 480 kilometers per hour (300 mph) ... can stay on the ground for more than 100 km (62 mi).",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "One theory attributes Stradivarius violins' qualities to wood grown during the Little Ice Age (1645-1750), when cooler temperatures caused denser, slower-growing trees.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "cooler temperatures throughout Europe are believed to have caused stunted and slowed tree growth",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": ""
+ },
+ {
+  "claim": "Trained elephants in Indonesia help fight forest fires - carrying water pumps and hoses, 23 elephants from a conservation center helped patrol land and prevent new fires during the 2015 East Sumatra fires.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "23 trained elephants from a conservation center went to work. ... Carrying water pumps and hoses, the elephants helped patrol the land",
+  "source_url": "https://www.mentalfloss.com/animals/12-interesting-facts-about-elephants",
+  "note": ""
+ },
+ {
+  "claim": "The zombie-ant fungus Ophiocordyceps unilateralis was discovered by Alfred Russel Wallace in 1859 and has been manipulating ant behavior for at least 48 million years, based on fossil evidence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "discovered by the British naturalist Alfred Russel Wallace in 1859. ... A 48-million-year-old fossil of a leaf stem exhibiting dumbbell-shaped marks",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Fossil suggests the parasitism is at least 48 million years old."
+ },
+ {
+  "claim": "The term 'tornado' comes from the Spanish 'tronada' (thunderstorm), with the spelling influenced by 'tornar' (to twist or turn).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The word tornado comes from the Spanish tronada ... past participle of tornar 'to twist, turn'.",
+  "source_url": "https://en.wikipedia.org/wiki/Tornado",
+  "note": ""
+ },
+ {
+  "claim": "In a famous 1977 BBC test, violinists Isaac Stern and Pinchas Zukerman couldn't reliably distinguish a Stradivarius from a 1976 British violin played behind a screen.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "None of the listeners identified more than two of the four instruments. ... Two of the listeners identified the 20th-century violin as the Stradivarius.",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": ""
+ },
+ {
+  "claim": "YouTube's first-ever video, uploaded April 23, 2005, featured elephants at a zoo - co-founder Jawed Karim stood in front of them discussing their 'cool' long trunks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On April 23, 2005, Jawed Karim made internet history when he uploaded the ... In the video, he speaks about how cool the elephants' long trunks are.",
+  "source_url": "https://www.mentalfloss.com/animals/12-interesting-facts-about-elephants",
+  "note": ""
+ },
+ {
+  "claim": "Infected 'zombie ants' are compelled to climb to exactly 26 cm above the forest floor, then bite onto a leaf vein with abnormal force — the precise height where temperature (20-30°C) and humidity (94-95%) are optimal for the fungus to grow.",
+  "verdict": "overstated",
+  "corrected_claim": "Infected 'zombie ants' generally clamp onto a leaf vein about 26 cm above the forest floor, where humidity is 94-95% and temperatures are 20-30°C.",
+  "quote": "The ants generally clamp to a leaf's vein at a height of 26 cm above the forest floor, ... in an environment with 94–95% humidity and temperatures between 20 and 30 °C (68 and 86 °F).",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Source says 'generally', not 'exactly'."
+ },
+ {
+  "claim": "Intense forest fires like the 2019-20 Australian bushfires can create their own weather systems called pyrocumulonimbus that produce 'fire lightning' and fire tornadoes.",
+  "verdict": "overstated",
+  "corrected_claim": "Intense wildfires can create their own weather systems that produce lightning, called fire lightning, along with dry lightning, fire tornadoes, intense winds and dirty hail.",
+  "quote": "can create their own weather systems that can produce lightning (also called fire lightning). ... can produce dry lightning, fire tornadoes, intense winds, and dirty hail.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "Page did not confirm the 2019-20 Australian bushfires or the term pyrocumulonimbus."
+ },
+ {
+  "claim": "Piano rolls, the earliest method of recording music performances, were in continuous mass production from 1896 to 2008, spanning over 112 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Piano rolls were in continuous mass production from 1896 to 2008 — 112 years.",
+  "quote": "Piano rolls were in continuous mass production from 1896 to 2008.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "1896-2008 is 112 years, not 'over 112'; 'earliest method' not stated"
+ },
+ {
+  "claim": "The U.S. Navy trains dolphins to find enemy swimmers, locate underwater mines, and guard nuclear arsenals - utilizing their intelligence, speed, and echolocation abilities.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Today, thanks to their intelligence, speed, and echolocation skills, dolphins are trained to find enemy swimmers, locate underwater mines, and guard nuclear arsenals.",
+  "source_url": "https://www.mentalfloss.com/animals/facts-about-dolphins",
+  "note": ""
+ },
+ {
+  "claim": "The Ophiocordyceps fungus destroys the muscles controlling an ant's mandibles, causing permanent 'lockjaw' that anchors the ant even after death, so the fungus can grow its fruiting body from the ant's head.",
+  "verdict": "overstated",
+  "corrected_claim": "The zombie-ant fungus causes rapid atrophy of the ant's mandible muscles, producing a 'death grip' lockjaw that is essential to the fungus's lifecycle.",
+  "quote": "atrophy quickly sets in, destroying the sarcomere connections in the muscle fibers ... This lockjaw trait is popularly known as the death grip and is essential in the fungus's lifecycle.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Details about anchoring after death and head fruiting body not in retrieved text."
+ },
+ {
+  "claim": "The first daily weather forecasts were published in The Times on August 1, 1861, by Robert FitzRoy, who also coined the term 'weather forecast.'",
+  "verdict": "overstated",
+  "corrected_claim": "The first-ever daily weather forecasts were published in The Times on August 1, 1861, and Robert FitzRoy coined the term 'weather forecast'.",
+  "quote": "The first-ever daily weather forecasts were published in The Times on August 1, 1861 ... thus coining the term \"weather forecast\".",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "Page does not explicitly credit FitzRoy as author of the Times forecasts"
+ },
+ {
+  "claim": "The Voyager Golden Records sent into space in 1977 included whale songs alongside other sounds representing Earth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Voyager Golden Records not mentioned on the page"
+ },
+ {
+  "claim": "Octopuses are masters of invisibility through rapid camouflage - scientists are studying their techniques to develop new technologies.",
+  "verdict": "overstated",
+  "corrected_claim": "Scientists are building materials that mimic the color-changing skin of octopuses and squid, such as a flexible camouflage skin and a signaling device inspired by the blue-ringed octopus — though one researcher says true invisibility isn't physically possible.",
+  "quote": "Scientists have recently demonstrated a crop of innovative materials that mimic these biological processes. ... I don't think it's physically or scientifically possible to turn invisible",
+  "source_url": "https://www.nationalgeographic.com/animals/article/octopus-invisibility-camouflage-technology",
+  "note": "Article says invisibility is not possible; 'masters of invisibility' overstates."
+ },
+ {
+  "claim": "Zombie-ant fungus infections create 'graveyards' — areas of forest floor with 20-30 dead ants per square meter, all killed by the same fungus.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Dead ants are found in areas termed \"graveyards\" ... Infections may lead to 20 to 30 dead ants per square meter.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "Before the electric telegraph in 1835, weather reports could only travel about 60-160 km per day, making forecasting impossible.",
+  "verdict": "overstated",
+  "corrected_claim": "Before the electric telegraph, distant weather reports typically travelled only 60-120 km a day, and at best around 160 km.",
+  "quote": "the fastest that distant weather reports could travel was around 160 kilometres per day (100 mi/d) ... more typically 60–120 kilometres per day (40–75 mi/day)",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "'Making forecasting impossible' not stated"
+ },
+ {
+  "claim": "The word 'acoustic' derives from the Greek 'akoustikos' meaning 'of or for hearing' and 'akoustos' meaning 'heard, audible'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The word \"acoustic\" is derived from the ἀκουστικός (akoustikós), meaning \"of or for hearing\" and \"ready to hear\" and from ἀκουστός (akoustós), \"heard, audible\"",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": ""
+ },
+ {
+  "claim": "AI detected a mysterious hidden detail in a famous Raphael masterpiece that human experts had missed.",
+  "verdict": "overstated",
+  "corrected_claim": "An AI neural network analysing Raphael's Madonna della Rosa flagged Saint Joseph's face as most likely not painted by Raphael, backing suspicions art critics have held since the mid-1800s.",
+  "quote": "Joseph's face came up as most likely not Raphael. ... It was in the mid-1800s that art critics started to suspect that Raphael might not have painted all of the artwork.",
+  "source_url": "https://www.sciencealert.com/ai-detected-a-mysterious-detail-hidden-in-a-famous-raphael-masterpiece",
+  "note": "Experts had already noticed the difference; AI did not find something they missed."
+ },
+ {
+  "claim": "The zombie-ant fungus is itself attacked by a hyperparasitic fungus that reduces its viable spore production to only 6-7%, naturally controlling the parasite's impact on ant colonies.",
+  "verdict": "overstated",
+  "corrected_claim": "Only about 6.5% of zombie-ant fungus fruiting bodies produce viable spores, which is caused by a hyperparasitic fungus that weakens it.",
+  "quote": "Though O. unilateralis is very virulent, only about 6.5% of all fruiting bodies are viable spore producers. This is caused by the weakening of the fungus by the hyperparasite, which may limit the viability of infectious spores.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Effect on ant colonies not stated; hedged ('may limit')."
+ },
+ {
+  "claim": "In 350 BC, Aristotle wrote 'Meteorologica,' the first systematic work on weather, which gave us the term 'meteorology' from the Greek 'meteoros' meaning 'high in the sky.'",
+  "verdict": "overstated",
+  "corrected_claim": "In about 350 BC, Aristotle described weather patterns in his work 'Meteorologica'.",
+  "quote": "In about 350 BC, Aristotle described weather patterns in Meteorologica.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "'First systematic work' and etymology of 'meteorology' not on page"
+ },
+ {
+  "claim": "Club-winged manakins produce sound with their wings through stridulation mechanisms similar to insects, not using their vocal organs at all.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Page does not name the club-winged manakin; only mentions stridulation mechanisms in general"
+ },
+ {
+  "claim": "Crows in Japan steal fiber-optic cables for nesting material and cause about 100 power failures per year - between 2006-2008, they stole nearly 1,400 fiber-optic cables from Tokyo power providers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "crows are responsible for around 100 power failures per year in their facilities. Between 2006 and 2008, the corvids stole almost 1400 fiber-optic cables from Tokyo power providers.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": ""
+ },
+ {
+  "claim": "There are over 24 different species of Ophiocordyceps zombie-ant fungi, each specialized to infect and manipulate a single species of ant.",
+  "verdict": "overstated",
+  "corrected_claim": "The Ophiocordyceps unilateralis core clade includes 24 species, and each species can only successfully infect and manipulate one host ant species.",
+  "quote": "one O. unilateralis species can only successfully infect and manipulate one host ant species.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Page lists 24 core-clade species, not 'over 24'."
+ },
+ {
+  "claim": "Lewis Fry Richardson's 1922 book on numerical weather prediction envisioned a 'forecast factory' with thousands of people performing calculations by hand.",
+  "verdict": "overstated",
+  "corrected_claim": "In his 1922 book 'Weather Prediction By Numerical Process', Lewis Fry Richardson envisioned a large auditorium of thousands of people performing the calculations by hand.",
+  "quote": "In 1922, English scientist Lewis Fry Richardson published \"Weather Prediction By Numerical Process\" ... Richardson envisioned a large auditorium of thousands of people performing the calculations and passing them to others.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "Term 'forecast factory' not on page"
+ },
+ {
+  "claim": "A 19 Hz infrasonic signal caused by a malfunctioning fan may be responsible for some reported ghost sightings, as it can resonate with the human eye and cause visual disturbances.",
+  "verdict": "overstated",
+  "corrected_claim": "A 1998 paper suggested a 19 Hz infrasonic signal might be responsible for some ghost sightings, after Vic Tandy found a lab extractor fan emitting 18.98 Hz and attributed a ghostly figure to his eyeballs resonating.",
+  "quote": "an infrasonic signal of 19 Hz might be responsible for some ghost sightings ... the extractor fan in the lab was emitting a frequency of 18.98 Hz ... an optical illusion caused by his eyeballs resonating",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Page says extractor fan, not a malfunctioning fan."
+ },
+ {
+  "claim": "The New Caledonian crow is one of only two species that can craft hooks in the wild (the other is Homo sapiens) - they bend pliable twigs into J-shapes to extract insects from tight crevices.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is one of only two species on the planet that can craft its own hooks ... (The other is Homo sapiens.)",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": ""
+ },
+ {
+  "claim": "A 48-million-year-old fossilized leaf from the Messel Pit in Germany shows the distinctive dumbbell-shaped bite marks made by zombie ants — proving this parasitic behavior is ancient.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A 48-million-year-old fossil of a leaf stem exhibiting dumbbell-shaped marks ... similar marks on a fossil leaf from the Messel Pit",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "The first computerized weather forecast was performed in 1950 by a team including John von Neumann using the ENIAC computer.",
+  "verdict": "overstated",
+  "corrected_claim": "The first computerized weather forecast was performed by a team of American meteorologists along with mathematician John von Neumann and ENIAC programmer Klara Dan von Neumann.",
+  "quote": "The first computerised weather forecast was performed by a team composed of American meteorologists ... applied mathematician John von Neumann, and ENIAC programmer Klara Dan von Neumann",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "1950 date appears only in a citation, not the text"
+ },
+ {
+  "claim": "The MythBusters tested the legendary 'brown note'—an infrasonic frequency said to cause loss of bowel control—at 5 Hz and 153 dB and declared the myth 'busted'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "tested notes down to 5 Hz in frequency and up to 153 dB in ... The rumored physiological effects did not materialize. ... The show declared the brown note myth 'busted.'",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": ""
+ },
+ {
+  "claim": "The Lockheed SR-71 Blackbird reached speeds of 3,530 km/h (Mach 3.3), making it the fastest air-breathing manned aircraft ever built.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q190114",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The zombie-ant fungus produces naphthoquinone derivatives with antimalarial, anticancer, and antibacterial properties — making it a promising source for new medicines.",
+  "verdict": "overstated",
+  "corrected_claim": "Six naphthoquinone derivatives from the zombie-ant fungus have shown antimalarial, anticancer and antibacterial activity in laboratory assays.",
+  "quote": "have shown activity in in vitro assays related to antimalarial drug discovery ... all six of these secondary metabolites have been demonstrated to have anticancer and antibacterial activities.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Activity only in vitro; 'promising source of medicines' not stated."
+ },
+ {
+  "claim": "The world's first televised weather forecasts were experimentally broadcast by the BBC in November 1936.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "were experimentally broadcast by the BBC in November 1936",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": ""
+ },
+ {
+  "claim": "Robert Moog, inventor of the famous Moog synthesizer, began his career building theremins in high school in the 1950s.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "began building theremins in the 1950s, while he was a high-school student.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Nearly 300 construction workers showed up at 8 am to continue building Chernobyl Reactors 5 and 6, despite the Chernobyl disaster earlier that day.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "At 8 am of the Chernobyl Nuclear Disaster, 286 construction workers continued construction work, unaware of the disaster as the glow of fire was not visible.",
+  "source_url": "https://en.wikipedia.org/wiki/Chernobyl_Reactors_5_and_6",
+  "note": ""
+ },
+ {
+  "claim": "Infected ants synchronize their death grip behavior with solar noon — the fungus somehow coordinates the manipulation across different hosts to bite at the same time of day.",
+  "verdict": "overstated",
+  "corrected_claim": "A study in Thailand found that the manipulated death-grip biting of infected ants is synchronized at solar noon.",
+  "quote": "A study led in Thailand revealed that there is a synchronization of this manipulated biting behavior at solar noon.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Page does not say the fungus coordinates across hosts."
+ },
+ {
+  "claim": "The US spent approximately $5.8 billion on weather forecasting in 2009, producing benefits estimated at six times that amount.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For example, in 2009, the US spent approximately $5.8 billion on it, producing benefits estimated at six times as much.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": ""
+ },
+ {
+  "claim": "Tim Storms holds the record for the lowest vocal note produced by a human, hitting G-7 (0.189 Hz)—so low that only elephants can hear it.",
+  "verdict": "overstated",
+  "corrected_claim": "Some vocalists, including Tim Storms, can produce notes in the infrasound range, reportedly as low as G-7 (0.189 Hz).",
+  "quote": "some vocalists, including Tim Storms, can produce notes in the infrasound range ... can reach notes as low as G-7 (0.189Hz)",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Page does not state he holds the record or that only elephants can hear it (only a cited headline)."
+ },
+ {
+  "claim": "An official investigation found the Fukushima nuclear accident was foreseeable and preventable.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The chairman highlighted that it was foreseeable and preventable.",
+  "source_url": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident",
+  "note": "Stated in the section on the Diet's Nuclear Accident Independent Investigation Commission (NAIIC)"
+ },
+ {
+  "claim": "Parasitoid wasps may contain up to 500,000 species in the Chalcidoidea superfamily alone — making them potentially one of the most species-rich groups on Earth.",
+  "verdict": "overstated",
+  "corrected_claim": "Parasitoid wasps include some very large groups — some estimates give the Chalcidoidea superfamily alone as many as 500,000 species.",
+  "quote": "some estimates giving the Chalcidoidea as many as 500,000 species.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "'One of the most species-rich groups on Earth' not stated"
+ },
+ {
+  "claim": "Luke Howard developed the cloud classification system in 1802 using Latin names, which became the basis of the international system still used today.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It became the basis of a modern international system",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "Howard's Latin nomenclature proposed in 1802"
+ },
+ {
+  "claim": "Birds sing louder and at higher pitches in urban areas to compensate for traffic noise, and during COVID-19 lockdowns, San Francisco birds sang 30% more softly.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Birds sing louder and at a higher pitch in urban areas, where there is ambient low-frequency noise. ... During the COVID-19 pandemic, reduced traffic noise led to birds in San Francisco singing 30% more softly.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "When the E-Defense earthquake shake table was commissioned in 2005, it was the world's largest 3D earthquake shake table.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Operations began in 2005 after a total construction cost of 45 billion yen. ... it was the largest 3D earthquake shake table in the world when it was commissioned.",
+  "source_url": "https://en.wikipedia.org/wiki/E-Defense",
+  "note": ""
+ },
+ {
+  "claim": "Parasitoid wasps inject polydnaviruses along with their eggs — these viruses suppress the host's immune system, protecting the wasp larvae from being destroyed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some also inject a mix of secretory products that paralyse the host or protect the egg from the host's immune system; these include ... polydnaviruses",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": ""
+ },
+ {
+  "claim": "The German poet Goethe was so impressed by Luke Howard's cloud classification that he composed four poems dedicated to Howard.",
+  "verdict": "overstated",
+  "corrected_claim": "The German poet Goethe composed four poems about clouds and dedicated them to Luke Howard, the man who classified clouds.",
+  "quote": "composed four poems about clouds, dedicating them to Howard.",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "'So impressed' motive not stated"
+ },
+ {
+  "claim": "Stereophonic sound was first commercially used in Disney's Fantasia (1940), which used a separate film just for the four-track sound.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first commercially released movie with a stereo soundtrack was Walt Disney's Fantasia, released in 1940. ... used a separate film for the sound ... The sound film had four double-width optical soundtracks",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "The Palace Theater light bulb has been running since 1908.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was installed on September 21, 1908, at the backstage of the Byers Opera House, and has been running since.",
+  "source_url": "https://en.wikipedia.org/wiki/Palace_Theater_Light",
+  "note": ""
+ },
+ {
+  "claim": "The parasitoid wasp Megarhyssa macrurus has an ovipositor about 10 cm (4 inches) long — longer than its own body — used to drill through wood and inject eggs into host larvae hidden inside trees.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "Megarhyssa and ovipositor length not mentioned on page"
+ },
+ {
+  "claim": "Clouds are the main uncertainty in climate sensitivity calculations, making them crucial for understanding how much the Earth will warm.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Clouds are the main uncertainty in climate sensitivity.",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": ""
+ },
+ {
+  "claim": "The humpback whale song is described by marine biologist Philip Clapham as 'probably the most complex in the animal kingdom'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "probably the most complex in the animal kingdom",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "Trembleuse cups and saucers enabled people with unsteady hands to drink hot beverages.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They allowed people with a weak grip or a medical condition involving shaking or trembling hands to drink a beverage",
+  "source_url": "https://en.wikipedia.org/wiki/Trembleuse",
+  "note": ""
+ },
+ {
+  "claim": "Parasitoid wasps inspired Charles Darwin's religious doubts. He wrote: 'I cannot persuade myself that a beneficent and omnipotent God would have designedly created parasitic wasps with the express intention of their feeding within the living bodies of Caterpillars.'",
+  "verdict": "overstated",
+  "corrected_claim": "In an 1860 letter to Asa Gray, Charles Darwin wrote: 'I cannot persuade myself that a beneficent and omnipotent God would have designedly created parasitic wasps...'",
+  "quote": "I cannot persuade myself that a beneficent and omnipotent God would have designedly created parasitic wasps",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "Quote is on page; causal 'inspired his religious doubts' not stated"
+ },
+ {
+  "claim": "The word 'cloud' originally meant 'hill' or 'mass of rock' in Old English; it became metaphorically associated with rain clouds around the 13th century.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Old English words clud or clod, meaning a hill or a mass of stone. ... Around the beginning of the 13th century, the word came to be used as a metaphor for rain clouds.",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": ""
+ },
+ {
+  "claim": "Over 400 bird species engage in duet calls, with some pairs so perfectly timed they sound like a single bird—a phenomenon called antiphonal duetting.",
+  "verdict": "overstated",
+  "corrected_claim": "Over 400 bird species engage in duet calls — a kind of calling termed antiphonal duetting.",
+  "quote": "Over 400 bird species engage in duet calls. ... This kind of calling is termed antiphonal duetting.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "'Sound like a single bird' detail not supported by fetched text"
+ },
+ {
+  "claim": "The release of the top-level domain .zip was condemned by cyber-security experts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Its release was immediately met with condemnation from cyber security experts",
+  "source_url": "https://en.wikipedia.org/wiki/.zip_(top-level_domain)",
+  "note": ""
+ },
+ {
+  "claim": "Parasitoidism evolved only once in the Hymenoptera, approximately 247 million years ago during the Permian period, then was secondarily lost in ants, bees, and some wasps.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Parasitoidism evolved only once in the Hymenoptera, during the Permian ... approximately 247 million years ago ... the parasitic lifestyle has secondarily been lost several times including among the ants, bees, and vespid wasps",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": ""
+ },
+ {
+  "claim": "High clouds form at altitudes up to 18,300 m (60,000 ft) in the tropics, 12,200 m (40,000 ft) in temperate regions, and 7,600 m (25,000 ft) in polar regions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "High clouds form at altitudes of 3,000 to 7,600 m (10,000 to 25,000 ft) in the polar regions, 5,000 to 12,200 m (16,500 to 40,000 ft) in the temperate regions, and 6,100 to 18,300 m (20,000 to 60,000 ft) in the tropics.",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": ""
+ },
+ {
+  "claim": "Synesthete Solomon Shereshevsky had such complete five-sense synesthesia that he could remember virtually everything, but struggled to understand abstract concepts.",
+  "verdict": "overstated",
+  "corrected_claim": "Synesthete Solomon Shereshevsky could recount endless details of many things, but had great difficulty grasping abstract concepts.",
+  "quote": "Shereshevsky could recount endless details of many things without form ... but he had great difficulty grasping abstract concepts.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "'Complete five-sense synesthesia' and remembering 'virtually everything' not quoted."
+ },
+ {
+  "claim": "The world's oldest timepiece with an anchor escapement is in the collection of the Irish Museum of Time.",
+  "verdict": "overstated",
+  "corrected_claim": "The Irish Museum of Time owns William Clement's 1663 clock, the world's oldest surviving timepiece with an anchor escapement.",
+  "quote": "It also owns William Clement's 1663 clock, the world's oldest surviving timepiece with an anchor escapement.",
+  "source_url": "https://en.wikipedia.org/wiki/Irish_Museum_of_Time",
+  "note": "Page specifies oldest surviving; claim drops 'surviving'."
+ },
+ {
+  "claim": "Some parasitoid wasps manipulate their caterpillar hosts to guard the wasp pupae after the larvae emerge — the zombified caterpillar aggressively defends its killers until it dies.",
+  "verdict": "overstated",
+  "corrected_claim": "Some parasitoid wasps change the behaviour of their infected host, causing it to build a silk web around the wasps' pupae that protects them from hyperparasitoids.",
+  "quote": "Some parasitoid wasps change the behavior of the infected host, causing them to build a silk web around the pupae",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "Aggressive 'zombie' defence until death not stated"
+ },
+ {
+  "claim": "Cumulonimbus clouds can penetrate the tropopause and push into the stratosphere during intense convection.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "penetrate the tropopause and push the cloud top into the stratosphere",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": ""
+ },
+ {
+  "claim": "The earliest record of the study of acoustics dates to Pythagoras in the 6th century BC, who investigated why certain musical combinations sound more beautiful than others.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 6th century BC, Pythagoras investigated why some combinations of musical sounds seemed more beautiful than others.",
+  "quote": "wanted to know why some combinations of musical sounds seemed more beautiful than others",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page does not call it the earliest record"
+ },
+ {
+  "claim": "Mark IV was the first commercial software to cross $10 million in total sales, and the first to cross $100 million as well.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was also the first software product to break $10 million in cumulative sales, and the first to break $100 million.",
+  "source_url": "https://en.wikipedia.org/wiki/Mark_IV_(software)",
+  "note": ""
+ },
+ {
+  "claim": "Parasitoid wasp larvae have incomplete digestive systems with no rear opening — this prevents them from contaminating their host's body with waste while they feed from inside.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Parasitoid larvae have incomplete digestive systems with no rear opening. This prevents the hosts from being contaminated by their wastes.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": ""
+ },
+ {
+  "claim": "Nephology, the science of clouds, gets its name from the Greek 'nephos' meaning cloud—not to be confused with nephrology, the study of kidneys.",
+  "verdict": "overstated",
+  "corrected_claim": "Nephology is the science of clouds, undertaken in the cloud physics branch of meteorology.",
+  "quote": "Nephology is the science of clouds, which is undertaken in the cloud physics branch of meteorology.",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "Greek 'nephos' etymology and kidney comparison not on page"
+ },
+ {
+  "claim": "Aristotle correctly understood around 350 BC that sound consists of compressions and rarefactions of air—a good description of wave motion.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "understood that sound consisted of compressions and rarefactions of air",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page dates Aristotle 384–322 BCE and calls it a very good expression of wave motion"
+ },
+ {
+  "claim": "The U.S. Air Force considered a bomber version of the F-22 Raptor known as the FB-22.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was a proposed supersonic stealth bomber aircraft for the United States Air Force ... derived from the F-22 Raptor air superiority fighter.",
+  "source_url": "https://en.wikipedia.org/wiki/Lockheed_Martin_FB-22",
+  "note": ""
+ },
+ {
+  "claim": "Female parasitoid wasps can determine the sex of their offspring and strategically lay female eggs in larger hosts and male eggs in smaller hosts to optimize reproductive success.",
+  "verdict": "overstated",
+  "corrected_claim": "Some parasitoid wasp species preferentially lay female eggs in larger hosts and male eggs in smaller hosts.",
+  "quote": "Some species preferentially lay female eggs in larger hosts and male eggs in smaller hosts.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "Only some species; 'optimize reproductive success' not stated"
+ },
+ {
+  "claim": "Clouds have been observed on other planets containing methane, ammonia, and sulfuric acid instead of water.",
+  "verdict": "overstated",
+  "corrected_claim": "Clouds on other planets are often composed of substances such as methane, ammonia and sulfuric acid, as well as water.",
+  "quote": "they are often composed of other substances such as methane, ammonia, and sulfuric acid, as well as water.",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "Page says 'as well as water', not 'instead of water'"
+ },
+ {
+  "claim": "The audible frequency range for humans is 20 Hz to 20,000 Hz, while ultrasound is above 20,000 Hz and infrasound is below 20 Hz.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The audio range falls between 20 Hz and 20,000 Hz. ... The ultrasonic range refers to the very high frequencies: 20,000 Hz and higher.",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": ""
+ },
+ {
+  "claim": "Feelies (tactile game accessories) have been used for everything from copy protection to sexual roleplay.",
+  "verdict": "overstated",
+  "corrected_claim": "Feelies (physical extras packed with games) have been used as copy protection, puzzle aids, worldbuilding and marketing, and one game's bundled boxer shorts even hinted at erotic role-play.",
+  "quote": "In many games, feelies were historically used as a means of copy protection. ... it implies the possibility of players using these garments for erotic role-playing",
+  "source_url": "https://en.wikipedia.org/wiki/Feelie",
+  "note": "Sexual roleplay is only an implied possibility in a footnote"
+ },
+ {
+  "claim": "Drosophila fruit flies self-medicate by laying eggs in alcohol-containing food when parasitoid wasps are present — the alcohol protects larvae from the wasps, despite slowing their own development.",
+  "verdict": "overstated",
+  "corrected_claim": "Drosophila melanogaster females lay their eggs in food containing toxic amounts of alcohol if they detect parasitoid wasps nearby.",
+  "quote": "D. melanogaster females lay their eggs in food containing toxic amounts of alcohol if they detect parasitoid wasps nearby.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "Protection effect and slowed development not stated in fetched text"
+ },
+ {
+  "claim": "A microclimate in the Gstettneralm Sinkhole in Austria recorded a temperature of -53°C (-63°F) due to cold air pooling.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Examples of sinkholes and the associated cold air pool (CAP) effect are Gstettneralm Sinkhole in Austria (lowest recorded temperature −53 °C (−63 °F))",
+  "source_url": "https://en.wikipedia.org/wiki/Microclimate",
+  "note": ""
+ },
+ {
+  "claim": "Storks are nearly voiceless, producing only percussive sounds by clattering their bills together instead of singing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some groups are nearly voiceless, producing only percussive and rhythmic sounds, such as the storks, which clatter their bills.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "The Australian Light Weight Air Warning Radar was once loaded using canoes and later manhandled up a 200-foot cliff.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the gear was loaded on platforms formed between pairs of native canoes lashed together. ... a fiord with cliffs rising 200 ft above the sea level. ... The gear and all supplies were manhandled",
+  "source_url": "https://en.wikipedia.org/wiki/Light_Weight_Air_Warning_Radar",
+  "note": ""
+ },
+ {
+  "claim": "The parasitic wasp Encarsia formosa has been used for biological pest control in greenhouses since the 1920s, making it one of the first commercially applied parasitoid wasps.",
+  "verdict": "overstated",
+  "corrected_claim": "The parasitoid wasp Encarsia formosa has been used to control whitefly in greenhouses since the 1920s.",
+  "quote": "It has been used to control whitefly in greenhouses since the 1920s.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "'One of the first commercially applied' not stated"
+ },
+ {
+  "claim": "San Francisco can have temperature differences of up to 30°F (17°C) between the foggy coastal areas and the downtown heat island just miles apart.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a full 30°F (17°C) between the coastal fog belt and the heat island of downtown",
+  "source_url": "https://en.wikipedia.org/wiki/Microclimate",
+  "note": ""
+ },
+ {
+  "claim": "The first Theremin Concert for Extraterrestrials was transmitted from Crimea in 2001, seven years before NASA's 'Across the Universe' message.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was sent seven years before NASA's Across the Universe message.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Ferrari FF was, upon its release, the world's fastest four-seater car.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Upon its release, the FF was the world's fastest four-seater car and Ferrari's second-fastest grand tourer after the 599 GTO.",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrari_FF",
+  "note": ""
+ },
+ {
+  "claim": "Parasitic plants make up about 1% of all flowering plants, with approximately 4,500 species across 20 different plant families — parasitism evolved independently 12-13 times in angiosperms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Roughly 1% of all angiosperm species are parasitic, with a large degree of host dependence. ... About 4,500 species of parasitic plants in approximately 20 families of flowering plants are known. ... Parasitic behavior evolved in angiosperms roughly 12-13 times independently, a classic example of convergent evolution.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": ""
+ },
+ {
+  "claim": "The Big Island of Hawaii has microclimates so extreme that Kailua-Kona receives 18 inches of rain per year while Hilo, just 60 miles away, receives 127 inches.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "experience rainfall of 18 in (460 mm) and 127 in (3,200 mm) per year, respectively ... despite being just 60 mi (97 km) from each other",
+  "source_url": "https://en.wikipedia.org/wiki/Microclimate",
+  "note": ""
+ },
+ {
+  "claim": "Baleen whales sing at frequencies ranging from 10 Hz to 31 kHz, with some calls potentially audible across entire ocean basins before modern shipping noise.",
+  "verdict": "overstated",
+  "corrected_claim": "Baleen whale sounds range from 10 Hz to 31 kHz, and before large-scale shipping, whale sounds may have travelled from one side of an ocean to the other.",
+  "quote": "The frequency of baleen whale sounds ranges from 10 Hz to 31 kHz.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Ocean-crossing remark is about whale sounds generally, not baleen whales specifically"
+ },
+ {
+  "claim": "Akari light sculptures were designed by Isamu Noguchi because a Japanese mayor asked him to revitalize the dying paper-lantern industry.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The mayor of Gifu approached Noguchi and asked him to modernize the lanterns, which were growing obsolete with the rise of electricity.",
+  "source_url": "https://en.wikipedia.org/wiki/Akari_(lamp)",
+  "note": ""
+ },
+ {
+  "claim": "Dodder (Cuscuta) seeds can survive for up to 5 years before finding a host, then after germinating, the plant has only 6 days to locate and attach to a host or it will die.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These may remain dormant for up to five years before they find a host plant. ... the plant has six days to find and establish a connection with its host plant",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": ""
+ },
+ {
+  "claim": "Tree ferns thrive at the Lost Gardens of Heligan in Cornwall, England (latitude 50°N) due to a protected microclimate in a sheltered dell.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Microclimate",
+  "note": "Page does not mention Heligan or tree ferns."
+ },
+ {
+  "claim": "Neurologist Oliver Sacks found that people with certain frontal lobe damage often developed a 'strange access of musicality'—incessant singing and passionate interest in music.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a strange access of musicality with incessant whistling, singing and a passionate interest in music",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": ""
+ },
+ {
+  "claim": "The freighters James H. Reed and Frank E. Vigor sank in separate collisions on Lake Erie on the same day.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The same day James H. Reed sank, the freighter Frank E. Vigor was also lost in a collision on Lake Erie.",
+  "source_url": "https://en.wikipedia.org/wiki/SS_James_H._Reed",
+  "note": ""
+ },
+ {
+  "claim": "Parasitic plants can smell their hosts. Dodder uses volatile chemicals including α-pinene, β-myrcene, and β-phellandrene from tomato plants to orient itself toward potential hosts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The stem detects its host plant's scent and orients itself in that direction. ... Scientists used volatiles from tomato plants (α-pinene, β-myrcene, and β-phellandrene)",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": ""
+ },
+ {
+  "claim": "If forests didn't create their own water cycle through evapotranspiration, there would be no forest far from coastlines because rainfall would decline too much inland.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Microclimate",
+  "note": "Page does not mention forests' evapotranspiration water cycle."
+ },
+ {
+  "claim": "Musicians with absolute pitch can experience distress when hearing music transposed from its original key or played at non-standard pitch.",
+  "verdict": "overstated",
+  "corrected_claim": "Because they can recognize when a piece has been transposed or is played sharp or flat, musicians with absolute pitch may become confused hearing music 'in the wrong key'.",
+  "quote": "a musician with absolute pitch may become confused upon perceiving tones believed to be \"wrong\" or hearing a piece of music \"in the wrong key\".",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "Page says confused, not distress"
+ },
+ {
+  "claim": "The opening of The Empire Brunei was timed to help create hotel capacity in Brunei for an APEC summit.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "scheduled to precede the November APEC Brunei Darussalam 2000 meeting ... to help address a lack of hotel space in Bandar Seri Begawan.",
+  "source_url": "https://en.wikipedia.org/wiki/The_Empire_Brunei",
+  "note": ""
+ },
+ {
+  "claim": "Striga witchweeds cause billions of dollars in crop damage annually, infesting over 50 million hectares of farmland in sub-Saharan Africa alone — yield losses can reach 100%.",
+  "verdict": "overstated",
+  "corrected_claim": "Striga witchweeds are estimated to cost billions of dollars a year in crop yield loss, infesting over 50 million hectares of cultivated land in sub-Saharan Africa alone.",
+  "quote": "Species of Striga alone are estimated to cost billions of dollars a year in crop yield loss ... infesting over 50 million hectares of cultivated land within sub-Saharan Africa alone",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "100% yield loss figure refers to Orobanche, not Striga"
+ },
+ {
+  "claim": "The term 'microclimate' first appeared in publications in the 1950s, including the book 'Climates in Miniature' by Thomas Bedford Franklin.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The terminology \"micro-climate\" first appeared in the 1950s in publications such as Climates in Miniature: A Study of Micro-Climate Environment (Thomas Bedford Franklin, 1955).",
+  "source_url": "https://en.wikipedia.org/wiki/Microclimate",
+  "note": ""
+ },
+ {
+  "claim": "Animals were reported to have fled Asian coasts hours before the 2004 tsunami hit, possibly sensing infrasound from the earthquake through the ground.",
+  "verdict": "overstated",
+  "corrected_claim": "Animals were reported to have fled Asian coasts hours before the 2004 tsunami hit, though it is not known for sure that infrasound was the cause.",
+  "quote": "Animals were reported to have fled the area hours before the actual tsunami hit the shores of Asia. ... not known for sure that this is the cause",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Page adds caveat; does not say infrasound was sensed through the ground."
+ },
+ {
+  "claim": "Researchers estimated that training the model for ChatGPT used the equivalent energy footprint of 'driving 123 gasoline-powered passenger vehicles for a year'.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Environmental_impacts_of_artificial_intelligence",
+  "note": "Page has no car-equivalent comparison for ChatGPT training energy; only GPT-3 water use"
+ },
+ {
+  "claim": "The Western Australian Christmas tree (Nuytsia floribunda) is so determined to parasitize roots that it sometimes attacks underground cables, attempting to cut through them with its guillotine-like haustorium.",
+  "verdict": "overstated",
+  "corrected_claim": "The Western Australian Christmas tree (Nuytsia floribunda) sometimes damages underground cables — it mistakes them for host roots and tries to parasitize them with its sclerenchymatic 'guillotine'.",
+  "quote": "Western Australian Christmas tree (Nuytsia floribunda) sometimes damages underground cables. It mistakes the cables for host roots and tries to parasitize them using its sclerenchymatic guillotine.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Page says it mistakes cables for roots; 'so determined' framing added"
+ },
+ {
+  "claim": "Gran Canaria is called the 'Miniature Continent' for its rich variety of microclimates within a small area.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Gran Canaria is called \"Miniature Continent\" for its rich variety of microclimates.",
+  "source_url": "https://en.wikipedia.org/wiki/Microclimate",
+  "note": ""
+ },
+ {
+  "claim": "The peacock uses infrasound in its mating display, producing frequencies humans cannot hear but which may be felt by potential mates.",
+  "verdict": "overstated",
+  "corrected_claim": "Peacocks are among the animals known to use infrasound to communicate over distances.",
+  "quote": "are known to use infrasound to communicate over distances",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Mating-display use appears only in a cited study title; page does not describe it."
+ },
+ {
+  "claim": "The Advanced Tactical Fighter program resulted in the F-22 Raptor.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Lockheed team developed their design into the F-22 Raptor, which first flew in 1997,",
+  "source_url": "https://en.wikipedia.org/wiki/Advanced_Tactical_Fighter",
+  "note": ""
+ },
+ {
+  "claim": "Striga seeds must be within 3-4 mm of a host root to detect the chemical signals needed to germinate — and they can only grow about 4 mm before dying, making positioning critical.",
+  "verdict": "overstated",
+  "corrected_claim": "Striga seeds need to be within 3 to 4 mm of a host root to detect it — and Striga asiatica will only grow about 4 mm after germination.",
+  "quote": "need to be within 3 to 4 millimeters (mm) of its host ... Striga asiatica will only grow about 4 mm after germination.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "'Before dying' not stated; 4 mm growth given for Striga asiatica"
+ },
+ {
+  "claim": "The Ticino region of Switzerland has a microclimate warm enough for palm trees and banana trees to grow.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Ticino region in Switzerland has a microclimate in which palm trees and banana trees can grow.",
+  "source_url": "https://en.wikipedia.org/wiki/Microclimate",
+  "note": ""
+ },
+ {
+  "claim": "Thereminist Carolina Eyck invented the '8 finger position technique' in 2004, allowing precise note-playing on the notoriously difficult-to-play theremin.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2004, thereminist Carolina Eyck invented a new and precise way to play the theremin, called the \"8 finger position technique\".",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Residents reported the first cycling club in Washington, D.C., to the police over concerns that bicycles posed a danger to pedestrians.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the first biking organization in the city ... complaints to the police from local citizens, concerned that the bicycles would pose a risk to pedestrians",
+  "source_url": "https://en.wikipedia.org/wiki/Capital_Bicycle_Club",
+  "note": ""
+ },
+ {
+  "claim": "Albino redwoods are parasitic mutants that produce no chlorophyll — they survive by absorbing sugars through root connections to neighboring trees, often their parent tree.",
+  "verdict": "overstated",
+  "corrected_claim": "The albino redwood is a mutant coast redwood that produces no chlorophyll — it lives on sugars from neighbouring trees, usually the parent tree it grew from.",
+  "quote": "The albino redwood is a mutant Sequoia sempervirens that produces no chlorophyll; they live on sugars from neighbouring trees, usually the parent tree from which they have grown",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Page does not mention root connections"
+ },
+ {
+  "claim": "The water vapor feedback effectively doubles the warming that would otherwise occur from CO2 increases alone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Either value effectively doubles the warming that would otherwise occur from CO2 increases alone.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "The critic Harold Schonberg described the theremin's sound as 'a cello lost in a dense fog, crying because it does not know how to get home'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "[a] cello lost in a dense fog, crying because it does not know how to get home",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Queen Anne Pool opened to the public one day late, after a thermostat glitch accidentally heated the pool to 100 °F (38 °C).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "While the opening date was planned for November 9, 1977, it was delayed by one day after a faulty thermostat overheated the pool to 100 °F (38 °C)",
+  "source_url": "https://en.wikipedia.org/wiki/Queen_Anne_Pool",
+  "note": ""
+ },
+ {
+  "claim": "Rafflesiaceae, Cytinaceae, Mitrastemonaceae, and Apodanthaceae have evolved to become endoparasites that spend their entire life cycle inside their host plant's tissue, except for their flowers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the four families Rafflesiaceae, Cytinaceae, Mitrastemonaceae and Apodanthaceae ... endoparasites that, except for the flowers, spend their entire life cycle within the tissue of their host",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": ""
+ },
+ {
+  "claim": "The Planck response—how thermal radiation increases as objects warm—is the most fundamental feedback in the climate system and prevents runaway warming.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the most fundamental feedback in the climate system ... Accordingly, anthropogenic climate change alone cannot cause a runaway greenhouse effect.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "The Lyres of Ur, excavated from Sumerian graves dated 2600-2500 BC, represent one of the first ensembles of instruments ever discovered.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These instruments, one of the first ensembles of instruments yet discovered, include nine lyres ... The graves these instruments were buried in have been carbon dated to between 2600 and 2500 BC",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": ""
+ },
+ {
+  "claim": "The cupola of Homer House is part of a 19th-century cooling system.",
+  "verdict": "overstated",
+  "corrected_claim": "A cupola provided cooling for the Homer House, serving as the equivalent of air conditioning.",
+  "quote": "A cupola provided cooling for the building. ... exploring its plumbing and cupola, used for the equivalent of air conditioning.",
+  "source_url": "https://en.wikipedia.org/wiki/Homer_House",
+  "note": "Page says the cupola provided cooling; it does not describe a '19th-century cooling system'."
+ },
+ {
+  "claim": "About 400 species of flowering plants parasitize fungi rather than other plants — these myco-heterotrophs include ghost pipe and underground orchids.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "About 400 species of flowering plants ... are parasitic on mycorrhizal fungi ... Some myco-heterotrophs are ghost pipe (Monotropa uniflora), snow plant (Sarcodes sanguinea)",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": ""
+ },
+ {
+  "claim": "The lapse rate feedback is a negative feedback globally but becomes positive in polar regions, contributing significantly to Arctic amplification.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The lapse rate feedback is generally a negative feedback. However, it is in fact a positive feedback in polar regions where it strongly contributed to polar amplified warming",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "Chinese bone flutes from the Jiahu site, dated 7,000-9,000 years old, represent some of the 'earliest complete, playable, multinote musical instruments' ever found.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "have found flutes made of bones that date back 7,000 to 9,000 years ... earliest complete, playable, tightly-dated, multinote musical instruments",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": ""
+ },
+ {
+  "claim": "The September 11 Digital Archive argues that even its misinformation is useful to the historical record.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a misleading story in the archive is still useful for historians ... could reveal certain personal and emotional aspects of the event that would otherwise be lost",
+  "source_url": "https://en.wikipedia.org/wiki/September_11_Digital_Archive",
+  "note": ""
+ },
+ {
+  "claim": "Some parasitic plants have evolved to avoid parasitizing themselves or other members of their species through 'self-incompatibility' mechanisms — ensuring they only attack different hosts.",
+  "verdict": "overstated",
+  "corrected_claim": "To maximize resources, many parasitic plants have evolved 'self-incompatibility' to avoid parasitizing themselves, and some, like Triphysaria, usually avoid parasitizing other members of their species.",
+  "quote": "To maximize resources, many parasitic plants have evolved 'self-incompatibility', to avoid parasitizing themselves. Others such as Triphysaria usually avoid parasitizing other members of their species.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Self-incompatibility is about self only; 'ensuring they only attack different hosts' added"
+ },
+ {
+  "claim": "Arctic sea ice decline between 1979 and 2011 was responsible for radiative forcing equivalent to a quarter of all CO2 emissions during the same period.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On its own, Arctic sea ice decline between 1979 and 2011 was responsible for 0.21 (W/m2) of radiative forcing. This is equivalent to a quarter of impact from CO2 emissions over the same period.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "The first orchestral composition written for theremin was Andrei Pashchenko's Symphonic Mystery, premiered in 1924—though most of the score was lost after its second performance.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first orchestral composition written for theremin was Andrei Pashchenko's Symphonic Mystery, which premiered in 1924. However, most of the sheet music was lost after its second performance.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "The Free Universal Construction Kit connects ten otherwise incompatible children's construction toys.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "interoperability between ten popular children's construction toys ... allowing for interconnectivity between unrelated and otherwise incompatible toy construction sets",
+  "source_url": "https://en.wikipedia.org/wiki/Free_Universal_Construction_Kit",
+  "note": ""
+ },
+ {
+  "claim": "Helminthic therapy — deliberately infecting patients with parasitic worms — is being studied as a treatment for Crohn's disease, multiple sclerosis, ulcerative colitis, and asthma.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Current research targets Crohn's disease, ulcerative colitis, inflammatory bowel disease, coeliac disease, multiple sclerosis and asthma",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": ""
+ },
+ {
+  "claim": "The Arctic has warmed nearly four times faster than the global average since 1979, largely due to ice-albedo feedback.",
+  "verdict": "overstated",
+  "corrected_claim": "The Arctic has warmed nearly four times faster than the global average since 1979, a trend the ice-albedo feedback from lost sea ice and snow helps drive.",
+  "quote": "the Arctic warming nearly four times faster than the global average since 1979",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": "'Largely due to' attribution not stated as such"
+ },
+ {
+  "claim": "Beluga whales, commonly called 'sea canaries', produce such an immense variety of whistles, clicks, and pulses that early sailors thought they heard birds.",
+  "verdict": "overstated",
+  "corrected_claim": "Belugas, commonly called 'sea canaries', produce an immense variety of whistles, clicks and pulses.",
+  "quote": "commonly called 'sea canaries,' ... an immense variety of whistles, clicks and pulses",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Early sailors mistaking them for birds not on page"
+ },
+ {
+  "claim": "The Epson MX-80 was the best-selling dot-matrix printer during its market lifespan.",
+  "verdict": "overstated",
+  "corrected_claim": "The Epson MX-80 soon became the best-selling dot-matrix printer in the world, and stayed the best seller for much of the 1980s, with its global market share peaking at 60 percent.",
+  "quote": "The MX-80 was a massive commercial success for Epson and soon became the best-selling dot matrix printer in the world ... It was the best-selling dot matrix printer for much of the 1980s, its global market share eventually peaking at 60 percent.",
+  "source_url": "https://en.wikipedia.org/wiki/Epson_MX-80",
+  "note": "Best seller for much of the 1980s, not necessarily its entire lifespan"
+ },
+ {
+  "claim": "The hygiene hypothesis suggests that rising autoimmune disease rates in developed countries may be partly due to reduced exposure to parasites that historically helped regulate our immune systems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the increased rate of autoimmune-related diseases in the industrialized world is occurring in too short a time ... In industrialized nations, humans are exposed to somewhat lower levels of these organisms",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": ""
+ },
+ {
+  "claim": "East Antarctica has experienced very little net warming over seven decades because its ice sheet rises nearly 4 km above sea level, maintaining high stability.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the East Antarctic ice sheet rises nearly 4 km above the sea level ... has experienced very little net warming over the past seven decades.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "In 1902 alone, there were 70,000-75,000 player pianos manufactured and 1-1.5 million piano rolls produced in the United States.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "in 1902 alone, there were between 70,000 and 75,000 player pianos manufactured ... between 1,000,000 and 1,500,000 piano rolls produced",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "The 1979 computer chess game Chesmac could not display a chessboard on screen, so players had to replicate the game on a physical chessboard.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Because the Telmac 1800 does not support a graphical user interface, the moves are entered with letter-number combinations. ... they have to replicate the game situation on a physical chessboard",
+  "source_url": "https://en.wikipedia.org/wiki/Chesmac",
+  "note": ""
+ },
+ {
+  "claim": "Parasitic worms secrete immunoregulatory molecules that shift the immune system from inflammatory TH1/TH17 responses to anti-inflammatory TH2 responses — the same shift that helps autoimmune patients.",
+  "verdict": "overstated",
+  "corrected_claim": "Most autoimmune disorders are believed to involve hyperactive TH1 or TH17 immune responses, and helminths secrete immunoregulatory molecules that promote regulatory T cells and down-regulate those responses.",
+  "quote": "Most autoimmune disorders are believed to involve hyperactive TH1 or TH17 immune responses ... Helminths secrete immunoregulatory molecules that promote the induction of regulatory T cells",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "Page describes TH1/TH17 down-regulation and regulatory T cells, not a shift to TH2"
+ },
+ {
+  "claim": "Cloud feedback has the largest uncertainty of any climate feedback, with a confidence interval from -0.10 to 0.94 W/m²·K.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "cloud feedback strength is estimated at 0.42 [–0.10 to 0.94] W/m2·K.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": "Page calls it the largest confidence interval of any feedback"
+ },
+ {
+  "claim": "The western capercaillie is the only bird known to use infrasound (around 20 Hz) in its vocalizations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The only bird known to make use of infrasound (at about 20 Hz) is the western capercaillie.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "A nuclear reactor was nearly built at the New York Hall of Science, but the money instead went to Yankee Stadium.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The $25 million earmarked for the museum was instead used for the original Yankee Stadium. ... The nuclear reactor was canceled entirely",
+  "source_url": "https://en.wikipedia.org/wiki/New_York_Hall_of_Science",
+  "note": ""
+ },
+ {
+  "claim": "Pig whipworm eggs (Trichuris suis) are used in helminthic therapy trials because the worms cannot establish permanent infections in humans and only survive a few weeks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The beneficial effect is temporary because the worms only live for a few weeks. ... Trichirus suis removes any wider public health issues due to species-specificity and lack of chronic infection.",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": ""
+ },
+ {
+  "claim": "The carbon cycle absorbs more than half of CO2 emissions every year into plants and the ocean, but this percentage will decrease as carbon sinks become saturated.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The carbon cycle absorbs more than half of CO2 emissions every year into plants and into the ocean. ... Over the long term the percentage will be reduced as carbon sinks become saturated",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "Music therapy was used as far back as the 1830s at the Hanwell Lunatic Asylum in England, providing music performances and movement sessions for patients with serious mental illness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It has been used as far back as the 1830s. ... the Hanwell Lunatic Asylum provided \"music and movement sessions and musical performances\"",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": ""
+ },
+ {
+  "claim": "Americans received nearly 15 billion political text messages in 2022.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 2022 election cycle, Americans received more than 15 billion political text messages.",
+  "quote": "In the 2022 election cycle, Americans received more than 15 billion political text messages.",
+  "source_url": "https://en.wikipedia.org/wiki/Political_text_messaging_in_the_United_States",
+  "note": "Page says 'more than' 15 billion, not 'nearly'"
+ },
+ {
+  "claim": "Some patients with autoimmune diseases travel abroad or use black markets to obtain parasitic worms after learning about helminthic therapy online — a risky form of self-medication.",
+  "verdict": "overstated",
+  "corrected_claim": "Some patients have begun to travel or look to the black market to purchase helminths for self-treatment.",
+  "quote": "Patients have begun to travel or look in the black market to purchase helminths",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "'After learning online' not stated"
+ },
+ {
+  "claim": "Total loss of Arctic summer sea ice would increase regional temperatures by over 1.5°C while adding about 0.19°C to global average temperatures.",
+  "verdict": "overstated",
+  "corrected_claim": "Climate models (CMIP5) estimate that a total loss of Arctic summer sea ice would raise regional temperatures by over 1.5 °C and global temperatures by about 0.19 °C.",
+  "quote": "it increases the global temperatures by 0.19 °C (0.34 °F), with a range of 0.16–0.21 °C ... the regional temperatures would increase by over 1.5 °C (2.7 °F).",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": "Figures are CMIP5 model estimates; claim omits that"
+ },
+ {
+  "claim": "Ambient ocean noise from shipping has doubled every decade since mid-20th century, reducing the range at which whale sounds can be heard from potentially ocean-spanning to much shorter distances.",
+  "verdict": "overstated",
+  "corrected_claim": "Research indicates that ambient noise from boats is doubling with each decade, and before large-scale shipping whale sounds may have travelled from one side of an ocean to the other.",
+  "quote": "Research indicates that ambient noise from boats is doubling with each decade.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Page does not date the doubling to the mid-20th century"
+ },
+ {
+  "claim": "A class-action lawsuit was filed against Spotify following the discontinuation of the Car Thing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This led to the filing of a class action lawsuit within the same week",
+  "source_url": "https://en.wikipedia.org/wiki/Car_Thing",
+  "note": ""
+ },
+ {
+  "claim": "Hookworm infection has been linked to reduced asthma risk, while roundworm (Ascaris) infection is associated with increased asthma risk — different parasites have different immune effects.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Hookworms have been linked to reduced risk of developing asthma ... Ascaris lumbricoides (roundworm infection) was associated with an increased risk of",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": ""
+ },
+ {
+  "claim": "The El Niño-Southern Oscillation (ENSO) is a self-sustaining climate oscillation that occurs every 2-7 years, with El Niño lasting 9 months to 2 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The cycle occurs every two to seven years, with El Niño lasting nine months to two years within the longer term cycle. ... It is a self-sustaining oscillation, whose mechanisms are well-studied.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "Blue whales stop producing foraging calls when mid-frequency sonar is activated, even though sonar frequencies (1-8 kHz) are far outside their sound production range (25-100 Hz).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "there is evidence that blue whales stop producing foraging D calls once a mid-frequency sonar is activated ... the sonar frequency range (1–8 kHz) far exceeds their sound production range (25–100 Hz)",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "During the Tunisian campaign in World War II, crews carried an AMES Type 6 radar set across a swamp to spy on Luftwaffe aircraft.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "At Cape Serrat in Tunisia, two systems were carried through a forest and swampland to a lighthouse where they were able to track Luftwaffe aircraft making supply flights into Tunis.",
+  "source_url": "https://en.wikipedia.org/wiki/AMES_Type_6",
+  "note": ""
+ },
+ {
+  "claim": "Plasmodium falciparum, the deadliest malaria parasite, evolved from a gorilla parasite only about 10,000 years ago — coinciding with the agricultural revolution.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The species originated from the malarial parasite Laverania found in gorillas, around 10,000 years ago. ... The genetic information of P. falciparum has signaled a recent expansion that coincides with the agricultural revolution.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "The Madden-Julian Oscillation is an eastward-moving pattern of increased tropical rainfall with a period of 30-60 days, primarily over the Indian and Pacific Oceans.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An eastward moving pattern of increased rainfall over the tropics with a period of 30 to 60 days, observed mainly over the Indian and Pacific Oceans.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "A color-blind grapheme-color synesthete studied by V.S. Ramachandran could 'see' colors triggered by letters that he couldn't see with his eyes, calling them 'Martian colors'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "V. S. Ramachandran studied the case of a grapheme–color synesthete who was also color blind. While he couldn't see certain colors with his eyes, he could still \"see\" those colors when looking at certain letters. Because he did not have a name for those colors, he called them \"Martian colors\".",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "The electrification of the Midland Main Line was designated as a high priority in 1981, but work to electrify the northern part did not begin until more than 30 years later.",
+  "verdict": "overstated",
+  "corrected_claim": "The British Railways Board listed the Midland Main Line as a high priority for electrification in 1981, yet work on electrifying the line between Kettering and Market Harborough was only announced to start in December 2021.",
+  "quote": "In 1981 the British Railways Board published a final document on railway electrification that included the Midland Main Line as high priority. ... On 21 December 2021 the DfT officially announced that work would start on 24 December 2021 on electrification of the section of line between Kettering and Market Harborough.",
+  "source_url": "https://en.wikipedia.org/wiki/Midland_Main_Line_upgrade",
+  "note": "Page does not describe a 'northern part' or state 'more than 30 years later' directly."
+ },
+ {
+  "claim": "In 2022, malaria caused approximately 608,000 deaths worldwide, with 80% of victims being children under 5 years old — nearly all caused by Plasmodium falciparum.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2024 malaria caused an estimated 610,000 deaths worldwide; in the WHO African Region, children under five account for about 75% of malaria deaths.",
+  "quote": "In 2024, malaria caused an estimated 282 million cases and 610,000 deaths worldwide. ... with children under five accounting for approximately 75% of malaria deaths in that region.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page gives 610,000 (2024) and ~75% under-5 in Africa, not 608,000/80%; 'nearly all P. falciparum' not stated"
+ },
+ {
+  "claim": "The Quasi-biennial Oscillation causes dominant stratospheric winds around the equator to switch from easterly to westerly and back every 28 months.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Over a period of 28 months the dominant wind changes from easterly to westerly and back.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "The didgeridoo, used by Australian Aboriginal people for at least 1,000 years, produces low-frequency sounds believed to have healing properties.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "Archaeological studies of rock art in Northern Australia suggest that the people of the Kakadu region have been using the didgeridoo for less than 1,000 years",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "Source says less than 1,000 years, not at least 1,000."
+ }
+]

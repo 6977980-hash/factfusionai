@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "Manx, the Celtic language of the Isle of Man, died with its last native speaker in 1974 — but now has several hundred new learners.",
+  "verdict": "overstated",
+  "corrected_claim": "Ned Maddrell, the last native speaker of Manx, the Celtic language of the Isle of Man, died in 1974, yet by 2021 around 2,000 people had some conversational ability in it and it is taught in all the island's schools.",
+  "quote": "the last of them, Ned Maddrell, died 27 December 1974 ... in 2021, around 2,023 people had varying levels of second-language conversational ability.",
+  "source_url": "https://en.wikipedia.org/wiki/Manx_language",
+  "note": "Page gives ~2,000 second-language speakers, not 'several hundred learners'."
+ },
+ {
+  "claim": "Relative performance evaluation reduces risk in compensation — paying based on how you perform versus peers filters out market-wide shocks.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Relative_performance_evaluation",
+  "note": "Page failed to load (fetch error / not found)"
+ },
+ {
+  "claim": "Puya raimondii from the Andes blooms once after up to 100 years, producing up to 10,000 flowers on a single spike up to 10m tall.",
+  "verdict": "overstated",
+  "corrected_claim": "Puya raimondii of the Andes lives 40 to 100 years, blooms once and then dies, producing an inflorescence of an estimated 8,000 to 20,000 blooms that can reach 8 m tall.",
+  "quote": "Its reproductive cycle (and life) in its native habitat lasts 40 to 100 years ... It is monocarpic, a plant that dies after reproduction. ... Antonio Raimondi estimated the number of blooms as over 8,000 while Anthony Huxley estimated their number at 20,000.",
+  "source_url": "https://en.wikipedia.org/wiki/Puya_raimondii",
+  "note": "10,000 flowers and 10 m spike not on page (8,000-20,000 blooms; spike 4-8 m, up to 15 m in intro)"
+ },
+ {
+  "claim": "Ultra-small CMOS transistors (20 nm × 20 nm) behave as single electron quantum dots at cryogenic temperatures, showing potential for quantum computing applications.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ultra small (20 nm × 20 nm) CMOS transistors behave as single electron quantum dots when operated at cryogenic temperature ... Quantum dots have also been suggested as implementations of qubits for quantum information processing.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_dot",
+  "note": ""
+ },
+ {
+  "claim": "IPv4's 4.3 billion addresses (2^32) seemed inexhaustible in 1983 — IANA allocated the last blocks in 2011, forcing the transition to IPv6's 340 undecillion addresses.",
+  "verdict": "overstated",
+  "corrected_claim": "IPv4's 32-bit addressing provides about 4.3 billion addresses; the last unassigned top-level IPv4 blocks were allocated in February 2011, while IPv6's 128-bit addresses offer about 340 undecillion.",
+  "quote": "Thus, IPv4 provides an addressing capability of 232 or approximately 4.3 billion addresses. ... The last unassigned top-level address blocks of 16 million IPv4 addresses were allocated in February 2011 ... (approximately 3.4×1038, 340 undecillion).",
+  "source_url": "https://en.wikipedia.org/wiki/IPv6",
+  "note": "Page does not mention 1983 or IPv4 seeming inexhaustible."
+ },
+ {
+  "claim": "Colistin is a last-line antibiotic so toxic it was abandoned — now revived for pan-resistant infections.",
+  "verdict": "overstated",
+  "corrected_claim": "Colistin's nephro- and neurotoxicity led to polymyxins being widely discontinued in the 1980s, but rising multidrug resistance revived it as a last-resort treatment for multidrug-resistant Gram-negative infections.",
+  "quote": "In the 1980s, polymyxin use was widely discontinued because of nephro- and neurotoxicity. ... As multi-drug resistant bacteria became more prevalent in the 1990s, colistin started to get a second look ... used as a last-resort treatment for multidrug-resistant Gram-negative infections including pneumonia.",
+  "source_url": "https://en.wikipedia.org/wiki/Colistin",
+  "note": "Page says multidrug-resistant, not pan-resistant; 'widely discontinued' rather than abandoned"
+ },
+ {
+  "claim": "Entomologist Charles De Geer made all the illustrations for his eight-volume work himself.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "De Geer, who was an accomplished draughtsman, made all the illustrations (printed using 238 copper plates) himself.",
+  "source_url": "https://en.wikipedia.org/wiki/Charles_De_Geer",
+  "note": "Eight volumes, 1752-1778"
+ },
+ {
+  "claim": "Al dente pasta has a lower glycemic index than fully cooked pasta because the starch is less accessible to digestive enzymes.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Latin has no native speakers but is still used by the Vatican and in scientific naming — it's technically 'alive' as a second language.",
+  "verdict": "overstated",
+  "corrected_claim": "Despite having no native speakers, Latin is still used today: Ecclesiastical Latin remains the official language of the Holy See, and while often called a 'dead language', Latin did not undergo language death.",
+  "quote": "Despite having no native speakers, Latin is still used for a variety of purposes in the contemporary world. ... Ecclesiastical Latin remains the official language of the Holy See ... While often called a \"dead language\", Latin did not undergo language death.",
+  "source_url": "https://en.wikipedia.org/wiki/Latin",
+  "note": "Page does not describe Latin as alive 'as a second language' or directly mention its use in scientific naming."
+ },
+ {
+  "claim": "The influence costs model shows that lobbying for internal resources wastes organizational time — explaining why firms sometimes give workers fixed budgets instead of making them compete.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Influence_costs",
+  "note": "Source page failed to load (URL not found)."
+ },
+ {
+  "claim": "Plants can count—the Venus flytrap counts trigger hair touches, and Droseraleaves count touches before responding.",
+  "verdict": "overstated",
+  "corrected_claim": "The Venus flytrap effectively counts: its trap only shuts when trigger hairs are touched twice, with the two stimuli 0.5 to 30 seconds apart.",
+  "quote": "for the lobes to shut, two stimuli are required, 0.5 to 30 seconds apart.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Drosera counting touches not on page; 'count' is interpretive"
+ },
+ {
+  "claim": "Ferrofluid is a liquid that becomes strongly magnetized in the presence of a magnetic field, composed of nanoscale magnetic particles suspended in a carrier fluid.",
+  "verdict": "overstated",
+  "corrected_claim": "Ferrofluid is a dark liquid that is attracted to the poles of a magnet, made of nanoscale ferromagnetic or ferrimagnetic particles suspended in a carrier fluid such as an organic solvent or water.",
+  "quote": "Ferrofluid is a dark coloured liquid that is attracted to the poles of a magnet. It is a colloidal liquid made of nanoscale ferromagnetic or ferrimagnetic particles suspended inside a carrier fluid (usually an organic solvent or water).",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+  "note": "Page says 'attracted to the poles of a magnet', not 'strongly magnetized'"
+ },
+ {
+  "claim": "BGP (Border Gateway Protocol), which routes all Internet traffic between networks, has no built-in security — route hijacking incidents remain a serious threat.",
+  "verdict": "overstated",
+  "corrected_claim": "BGP exchanges routing information among the Internet's autonomous systems, and because routers accept advertised routes by default, the Internet is vulnerable to accidental or malicious disruption known as BGP hijacking.",
+  "quote": "By design, routers running BGP accept advertised routes from other BGP routers by default. ... but it also leaves the Internet potentially vulnerable to accidental or malicious disruption",
+  "source_url": "https://en.wikipedia.org/wiki/Border_Gateway_Protocol",
+  "note": "'Routes all traffic' and 'no built-in security' are more absolute than the page"
+ },
+ {
+  "claim": "The mcr-1 gene for colistin resistance was first found in Chinese pig farms in 2015 — agricultural origin.",
+  "verdict": "overstated",
+  "corrected_claim": "The mcr-1 colistin-resistance gene was first found in E. coli from a pig in China in 2011 (published 2015), traced to a Chinese pig farm where colistin was routinely used.",
+  "quote": "first discovered in E. coli (strain SHP45) from a pig in China April 2011 and published in November 2015. ... a Chinese pig farm where colistin was routinely used.",
+  "source_url": "https://en.wikipedia.org/wiki/MCR-1",
+  "note": "Found in 2011, published 2015."
+ },
+ {
+  "claim": "Thomas Broun has been blamed for inflating the number of beetle species in New Zealand.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The entomologist Rowan Emberson has identified this habit of duplication, which he calls the \"Broun effect\", as a major reason behind the huge difference in reported beetle species",
+  "source_url": "https://en.wikipedia.org/wiki/Thomas_Broun",
+  "note": ""
+ },
+ {
+  "claim": "Instant ramen noodles are flash-fried before drying, which is why they cook so quickly and have a distinctive texture.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Sanskrit has about 24,000 speakers who consider it their mother tongue — mostly in scholarly and religious contexts in India.",
+  "verdict": "overstated",
+  "corrected_claim": "In each of India's recent censuses several thousand citizens have reported Sanskrit as their mother tongue — though the numbers are thought to reflect the language's prestige; it remains widely used in Hindu and Buddhist ritual.",
+  "quote": "In each of India's recent decennial censuses, several thousand citizens have reported Sanskrit to be their mother tongue, but the numbers are thought to signify a wish to be aligned with the prestige of the language.",
+  "source_url": "https://en.wikipedia.org/wiki/Sanskrit",
+  "note": "24,000 figure not on page; page adds caveat about prestige reporting"
+ },
+ {
+  "claim": "Team production problems arise when individual contributions are unobservable — leading to free-riding in groups unless mutual monitoring or residual claimant structures are used.",
+  "verdict": "overstated",
+  "corrected_claim": "In team production, output reflects the contributions of many individuals that cannot be easily identified, so pay-for-performance increases the incentive to free-ride.",
+  "quote": "where output reflects the contribution of many individuals, and individual contributions cannot be easily identified ... pay-for-performance increases the incentives to free-ride",
+  "source_url": "https://en.wikipedia.org/wiki/Team_production",
+  "note": "Mutual monitoring / residual claimant as remedies not stated in that context."
+ },
+ {
+  "claim": "Venus flytraps need 5 trigger hair touches to begin enzyme production—they 'count' to distinguish real prey from debris.",
+  "verdict": "overstated",
+  "corrected_claim": "Venus flytraps count trigger-hair stimulations and only begin digestion after five total, which lets them distinguish living prey from non-prey stimuli such as raindrops.",
+  "quote": "the plant will only begin digestion after five more stimuli are activated ... the flytrap counts additional stimulations of the trigger hairs, to five total ... it can distinguish between living prey and non-prey stimuli, such as falling raindrops",
+  "source_url": "https://en.wikipedia.org/wiki/Venus_flytrap",
+  "note": "Page wording varies ('five more' vs 'five total'); says digestion rather than enzyme production"
+ },
+ {
+  "claim": "Ferrofluid was invented in 1963 by NASA's Steve Papell to create rocket fuel that could be magnetically drawn toward a fuel pump in weightless space conditions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A process for making a ferrofluid was invented in 1963 by NASA's Steve Papell to create liquid",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+  "note": "Page states it was meant for rocket fuel drawn toward a pump in weightlessness"
+ },
+ {
+  "claim": "The 1988 Morris worm cost an estimated $10-100 million in damages — its creator Robert Morris was the first person convicted under the Computer Fraud and Abuse Act.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "Stoll's estimate ... that the total economic impact was between $100,000 and $10,000,000. ... The incident resulted in the first felony conviction in the US under the 1986 Computer Fraud and Abuse Act.",
+  "source_url": "https://en.wikipedia.org/wiki/Morris_worm",
+  "note": "Source estimate is $100,000-$10 million, not $10-100 million; first felony conviction."
+ },
+ {
+  "claim": "NDM-1 (New Delhi metallo-beta-lactamase) makes bacteria resistant to carbapenems — a global threat.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the blaNDM-1 gene produces NDM-1, which is a carbapenemase beta-lactamase ... an enzyme that hydrolyzes and inactivates these carbapenem antibiotics ... rapid spread of NDM-1 with potentially serious consequences",
+  "source_url": "https://en.wikipedia.org/wiki/NDM-1",
+  "note": ""
+ },
+ {
+  "claim": "Up to 16,000 crows regularly commute from around the Seattle metropolitan area to a wetland in Bothell, Washington.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Since its restoration, the wetlands have become home to large groups of crows, up to 16,000 at a time, that commute from around the Seattle region to roost in Bothell.",
+  "source_url": "https://en.wikipedia.org/wiki/Bothell,_Washington",
+  "note": ""
+ },
+ {
+  "claim": "Fresh pasta cooks faster than dried pasta because it still contains moisture—usually 2-4 minutes versus 8-12 minutes.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Artificial languages often fail because speakers refuse to give up irregularities — irregularities carry cultural and emotional weight.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "Page does not discuss irregularities causing constructed languages to fail"
+ },
+ {
+  "claim": "Up-or-out rules in law firms and academia force promotion or departure — creating powerful incentives for junior workers while sorting talent efficiently.",
+  "verdict": "overstated",
+  "corrected_claim": "Under up-or-out systems, used at law firms like Cravath and for US tenure-track professors, employees who are not promoted within a fixed time must leave.",
+  "quote": "Tenure-track professors in the United States are usually subject to an up-or-out system. ... If they fail to do so, they must leave the organization.",
+  "source_url": "https://en.wikipedia.org/wiki/Up_or_out",
+  "note": "Incentive/talent-sorting claims not on page; page says effects on productivity have not been studied in depth"
+ },
+ {
+  "claim": "Giant water lilies (Victoria amazonica) can support the weight of a small child—their undersides have reinforced rib structures.",
+  "verdict": "overstated",
+  "corrected_claim": "A Victoria amazonica leaf once bore 110 kg (250 lb), helped by its ribbed undersurface with veins 'like transverse girders and supports'.",
+  "quote": "bore the 'unprecedented' weight of 110 kg (250 lb) ... The lily, with ribbed undersurface and leaves veining 'like transverse girders and supports'",
+  "source_url": "https://en.wikipedia.org/wiki/Victoria_amazonica",
+  "note": "Page gives loads in kg, does not mention a child"
+ },
+ {
+  "claim": "In 2019, researchers created a permanently magnetic ferrofluid that retains magnetization even when the external magnetic field is removed—previously thought impossible.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2019, researchers at the University of Massachusetts and Beijing University of Chemical Technology created a permanently magnetic ferrofluid that keeps its magnetism after the external field is removed.",
+  "quote": "In 2019, researchers at the University of Massachusetts and Beijing University of Chemical Technology succeeded in creating a permanently magnetic ferrofluid which retains its magnetism when the external magnetic field is removed.",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+  "note": "'Previously thought impossible' not on page"
+ },
+ {
+  "claim": "SSL/TLS, the encryption behind HTTPS, was created by Netscape in 1994 — the name was changed to TLS partly to avoid Netscape's trademark.",
+  "verdict": "overstated",
+  "corrected_claim": "SSL, the original encryption behind HTTPS, was developed by Netscape starting in 1994; its renaming to TLS was described as a face-saving gesture to Microsoft so the IETF wouldn't look like it was rubber-stamping Netscape's protocol.",
+  "quote": "Netscape developed the original SSL protocols ... these changes, and the renaming from \"SSL\" to \"TLS\", were a face-saving gesture to Microsoft, so it wouldn't look [like] the IETF was just rubberstamping Netscape's protocol",
+  "source_url": "https://en.wikipedia.org/wiki/Transport_Layer_Security",
+  "note": "Page gives a different reason than trademark for the rename."
+ },
+ {
+  "claim": "Extensively drug-resistant TB (XDR-TB) is resistant to at least 4 classes of antibiotics — nearly untreatable.",
+  "verdict": "overstated",
+  "corrected_claim": "XDR-TB is resistant to at least rifampicin and isoniazid plus any quinolone and at least one second-line injectable drug; it has a much higher mortality rate than MDR-TB, with a 34% treatment success rate for the 2015 cohort.",
+  "quote": "XDR-TB is defined as TB that has developed resistance to at least rifampicin and isoniazid, as well as to any member of the quinolone family and at least one of the following second-line anti-TB injectable drugs ... the treatment success rate for XDR-TB was 34% for the 2015 cohort.",
+  "source_url": "https://en.wikipedia.org/wiki/Extensively_drug-resistant_tuberculosis",
+  "note": "Definition is drugs not '4 classes'; it is treatable (34% success), not nearly untreatable"
+ },
+ {
+  "claim": "In the English language, many animals have different names depending on whether they are male, female, young, domesticated, or in groups.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "many animals have different names depending on whether they are male, female, young, domesticated, or in groups.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animal_names",
+  "note": ""
+ },
+ {
+  "claim": "The idea that pasta was brought from China by Marco Polo is a myth—dried pasta was made in Sicily at least a century before his travels.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Esperanto deliberately has no irregular verbs — making it arguably easier to learn than any natural language.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Esperanto",
+  "note": "Page does not mention irregular verbs or compare difficulty against all natural languages"
+ },
+ {
+  "claim": "Deferred compensation — paying less now but more later — bonds workers to firms and reduces shirking as workers don't want to forfeit accumulated claims.",
+  "verdict": "overstated",
+  "corrected_claim": "Deferred compensation, paying part of a wage at a later date, is sometimes called 'golden handcuffs' because it entices employees to stay with the firm.",
+  "quote": "Deferred compensation is an arrangement in which a portion of an employee's wage is paid out at a later date ... deferred comp is a \"sweetener\" to try to entice them to stay",
+  "source_url": "https://en.wikipedia.org/wiki/Deferred_compensation",
+  "note": "Page does not mention reducing shirking"
+ },
+ {
+  "claim": "Victoria lily pads can grow up to 3 meters (10 feet) in diameter and inspired the design of the Crystal Palace.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "up to 3 m (10 ft) in diameter, that float on the water's surface on a submerged stalk ... as Paxton's inspiration for The Crystal Palace",
+  "source_url": "https://en.wikipedia.org/wiki/Victoria_amazonica",
+  "note": ""
+ },
+ {
+  "claim": "Ferrofluids form characteristic 'spikes' (normal-field instability) when exposed to strong magnetic fields, as the magnetic energy causes the surface to deform into peaks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the surface forms a regular pattern of peaks and valleys. ... In consequence the spikes of fluid ride the field lines out into space until there is a balance of the forces involved.",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+  "note": ""
+ },
+ {
+  "claim": "Let's Encrypt, launched in 2016, provides free TLS certificates and has issued over 3 billion certificates — democratizing web encryption.",
+  "verdict": "overstated",
+  "corrected_claim": "Let's Encrypt, which launched on April 12, 2016, provides TLS certificates without charging fees; it announced its billionth certificate in February 2020 and serves more than 700 million websites.",
+  "quote": "It launched on April 12, 2016. ... provides X.509 certificates for Transport Layer Security (TLS) encryption without charging fees ... On February 27, 2020, Let's Encrypt announced having issued a billion certificates.",
+  "source_url": "https://en.wikipedia.org/wiki/Let%27s_Encrypt",
+  "note": "Page gives one billion certificates (2020), not over 3 billion."
+ },
+ {
+  "claim": "Antibiotic-resistant Neisseria gonorrhoeae may soon cause untreatable gonorrhea — 'super gonorrhea'.",
+  "verdict": "overstated",
+  "corrected_claim": "Genes exist in Neisseria gonorrhoeae that confer resistance to every antibiotic used to cure gonorrhea, and a high-level ceftriaxone-resistant strain (H041) was found in Japan, making resistant gonorrhea an emerging public health threat.",
+  "quote": "Within N. gonorrhoeae, genes exist that confer resistance to every single antibiotic used to cure gonorrhea ... antibiotic-resistant gonorrhea is seen as an emerging public health threat.",
+  "source_url": "https://en.wikipedia.org/wiki/Neisseria_gonorrhoeae",
+  "note": "Term 'super gonorrhea' and 'untreatable' not used."
+ },
+ {
+  "claim": "The best-known source of many English words used for collective groupings of animals is The Book of Saint Albans, an essay on hunting published in 1486 and attributed to Juliana Berners.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "an essay on hunting published in 1486 and attributed to Juliana Berners.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animal_names",
+  "note": "Page calls it the best-known source of collective terms."
+ },
+ {
+  "claim": "Enriched flour has nutrients (thiamine, riboflavin, niacin, iron, folic acid) added back after refining removes them with the bran.",
+  "verdict": "overstated",
+  "corrected_claim": "Governments mandate adding some vitamins to staples such as flour, partly to compensate for nutrients lost in the manufacture of processed foods; flour enrichment with niacin began in 1942.",
+  "quote": "Governments have mandated the addition of some vitamins to staple foods such as flour or milk ... Researchers also focused on the need to ensure adequate nutrition, especially to compensate for what was lost in the manufacture of processed foods.",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Page does not list iron or say refining removes nutrients with the bran"
+ },
+ {
+  "claim": "Esperanto has native speakers — children raised by Esperanto-speaking parents, estimated at around 1,000 worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "Esperanto has native speakers: associations estimated around 1,000 Esperanto-speaking families involving perhaps 2,000 children in 2004.",
+  "quote": "Estimates from associations indicate that there were around 1,000 Esperanto-speaking families, involving perhaps 2,000 children in 2004.",
+  "source_url": "https://en.wikipedia.org/wiki/Native_Esperanto_speakers",
+  "note": "~1,000 is families, not speakers."
+ },
+ {
+  "claim": "Subjective performance evaluation is necessary when output is hard to measure — but invites favoritism and gaming when managers have discretion.",
+  "verdict": "overstated",
+  "corrected_claim": "Objective output measures are usually incomplete, making judgmental evaluations the most common — but research shows managers tend to give better ratings to subordinates they favor.",
+  "quote": "Judgmental evaluations are the most commonly used with a large variety of evaluation methods. ... Research shows that managers tend to give better ratings to subordinates they favor",
+  "source_url": "https://en.wikipedia.org/wiki/Performance_appraisal",
+  "note": "Page does not say subjective evaluation is 'necessary' or mention gaming"
+ },
+ {
+  "claim": "Water lilies heat their flowers at night to attract beetle pollinators, then trap the beetles overnight before releasing them.",
+  "verdict": "overstated",
+  "corrected_claim": "Victoria flowers are pollinated by Cyclocephala scarab beetles: at nightfall the flower closes, trapping the beetles inside, and releases them the next evening.",
+  "quote": "At nightfall the flower stops producing the odor, and it closes, trapping the beetles inside its carpellary appendages.",
+  "source_url": "https://en.wikipedia.org/wiki/Victoria_amazonica",
+  "note": "Flower heating not described in the article body"
+ },
+ {
+  "claim": "Ferrofluids are used in hard disk drives to form liquid seals around spinning shafts, preventing debris from entering while allowing frictionless rotation.",
+  "verdict": "overstated",
+  "corrected_claim": "Ferrofluids form liquid seals around the spinning drive shafts of hard disks, creating a barrier that keeps debris out of the drive.",
+  "quote": "Ferrofluids are used to form liquid seals around the spinning drive shafts in hard disks. The fluid of magnetic particles forms a barrier which prevents debris from entering the interior of the hard drive.",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+  "note": "'Frictionless rotation' not on page"
+ },
+ {
+  "claim": "Tor (The Onion Router) was originally developed by the US Naval Research Laboratory — it provides anonymity by routing traffic through multiple encrypted relays.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was developed in the mid-1990s by United States Naval Research Laboratory employees ... which encrypts and then randomly bounces communications through a network of relays",
+  "source_url": "https://en.wikipedia.org/wiki/Tor_(network)",
+  "note": ""
+ },
+ {
+  "claim": "Daptomycin was the first new antibiotic class in 30 years when approved in 2003.",
+  "verdict": "overstated",
+  "corrected_claim": "Daptomycin was approved by the U.S. FDA in September 2003 and is the only marketed acidic lipopeptide antibiotic to date.",
+  "quote": "following U.S. Food and Drug Administration (FDA) approval in September 2003, for use in people older than 18 years ... the only marketed acidic lipopeptide antibiotic to date",
+  "source_url": "https://en.wikipedia.org/wiki/Daptomycin",
+  "note": "Page does not say it was the first new antibiotic class in 30 years"
+ },
+ {
+  "claim": "It goes on to say that some of the terms in The Book of Saint Albans were \"rather fanciful\", explaining that the book extended collective nouns to people of specific professions, such as a \"poverty\" of pipers.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animal_names",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Whole wheat flour goes rancid faster than white flour because it contains the oil-rich germ, which can oxidize.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Page does not mention wheat flour or wheat germ"
+ },
+ {
+  "claim": "Dothraki (Game of Thrones) has about 4,000 words — created by linguist David Peterson who also created High Valyrian.",
+  "verdict": "overstated",
+  "corrected_claim": "As of September 2011, Dothraki comprised 3,163 words; its creator, David J. Peterson, went on to create the Valyrian languages for season 3 of Game of Thrones.",
+  "quote": "As of September 2011, the language comprised 3163 words, not all of which have been made public. ... He went on to create the Valyrian languages for season 3 of Game of Thrones.",
+  "source_url": "https://en.wikipedia.org/wiki/Dothraki_language",
+  "note": "Page gives 3,163 words (2011), not about 4,000"
+ },
+ {
+  "claim": "The hold-up problem occurs after relationship-specific investments — once a factory is built for one customer, that customer can demand price cuts, discouraging initial investment.",
+  "verdict": "overstated",
+  "corrected_claim": "The hold-up problem arises when a party must make noncontractible relationship-specific investments before a transaction; the other side can then use that sunk investment as leverage to renegotiate prices, which leads to underinvestment.",
+  "quote": "As S knows that the investment is a significant cost to B and tries to use this as leverage to negotiate an increase in its prices. ... the possibility of a hold-up can lead to underinvestment in relation-specific investment",
+  "source_url": "https://en.wikipedia.org/wiki/Hold-up_problem",
+  "note": "Page's example is a supplier raising prices after the buyer invests, not a customer demanding cuts after a factory is built."
+ },
+ {
+  "claim": "Cauliflory (fruiting directly from the trunk) occurs in cacao, jackfruit, and jabuticaba—adaptation for bat and other pollinators.",
+  "verdict": "overstated",
+  "corrected_claim": "Cacao, jackfruit and jabuticaba all fruit straight from the trunk (cauliflory), which may have evolved so that animals, especially bats, climbing trunks can pollinate them.",
+  "quote": "One frequently suggested hypothesis for the evolution of cauliflory is to allow trees to be pollinated ... especially bats, that climb on trunks and sturdy limbs to feed on the nectar and fruits.",
+  "source_url": "https://en.wikipedia.org/wiki/Cauliflory",
+  "note": "Bat pollination is presented as a hypothesis, not established"
+ },
+ {
+  "claim": "About 300 million sound-generating devices per year are produced with ferrofluid inside, including laptop speakers, headphones, and earbuds for cooling and damping.",
+  "verdict": "overstated",
+  "corrected_claim": "Some 300 million sound-generating transducers a year are made with ferrofluid inside, including speakers in laptops, cell phones, headphones and earbuds.",
+  "quote": "Today, some 300 million sound-generating transducers per year are produced with ferrofluid inside, including speakers installed in laptops, cell phones, headphones and earbuds.",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+  "note": "'Cooling and damping' purpose not stated in this sentence; damping not supported"
+ },
+ {
+  "claim": "The speed of light limits Internet latency — a signal can't travel from New York to London (5,500 km) faster than about 18 ms even through a vacuum.",
+  "verdict": "overstated",
+  "corrected_claim": "The speed of light caps communication speed: the theoretical shortest time for information to travel half the globe along the surface is about 67 milliseconds, and light is about 35% slower in optical fibre.",
+  "quote": "the theoretical shortest time for a piece of information to travel half the globe along the surface is about 67 milliseconds ... the speed of light is slower by about 35% in optical fibre",
+  "source_url": "https://en.wikipedia.org/wiki/Speed_of_light",
+  "note": "No New York-London / 18 ms example on page"
+ },
+ {
+  "claim": "Most antibiotic classes came from screening soil Streptomyces — the 'Golden Age' approach is exhausted.",
+  "verdict": "overstated",
+  "corrected_claim": "Soil-dwelling Streptomyces bacteria produce over two-thirds of the clinically useful antibiotics of natural origin.",
+  "quote": "Streptomycetes produce over two-thirds of the clinically useful antibiotics of natural origin",
+  "source_url": "https://en.wikipedia.org/wiki/Streptomyces",
+  "note": "Page says nothing about 'antibiotic classes', golden-age screening or the approach being exhausted"
+ },
+ {
+  "claim": "Some terms that were listed as commonly used were \"herd\", \"flock\", \"school\", and \"swarm\".",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animal_names",
+  "note": "page fragment (refers to an unnamed list)"
+ },
+ {
+  "claim": "Bread flour has higher protein (12-14%) than all-purpose flour (10-12%), producing more gluten for chewier bread.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Na'vi (Avatar) has about 2,600 words and a complete grammar — created by linguist Paul Frommer.",
+  "verdict": "overstated",
+  "corrected_claim": "Na'vi, the language of Avatar created by Paul Frommer (a professor with a doctorate in linguistics), has grown from about 1,000 words in 2009 to over 2,600 words.",
+  "quote": "When the film was released in 2009, Naʼvi had a growing vocabulary of about a thousand words, ... The Naʼvi language currently has over 2,600 words. ... The language was created by Paul Frommer, a professor at the USC Marshall School of Business ... with a doctorate in linguistics",
+  "source_url": "https://en.wikipedia.org/wiki/Na%27vi_language",
+  "note": "'Complete grammar' not stated; Frommer is a business professor with linguistics doctorate."
+ },
+ {
+  "claim": "Incomplete contracts theory explains why vertical integration occurs — when all contingencies can't be specified, ownership of assets determines who has residual control rights.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Hence, the property rights approach to the theory of the firm can explain the pros and cons of vertical integration. ... one cannot anticipate all possible contingencies. ... Both Grossman and Hart consider the firm to be a collection of assets over which the owners have residual control.",
+  "source_url": "https://en.wikipedia.org/wiki/Incomplete_contracts",
+  "note": ""
+ },
+ {
+  "claim": "Jackfruit is the largest tree-borne fruit, reaching up to 55 kg (120 lbs) and 90 cm long.",
+  "verdict": "overstated",
+  "corrected_claim": "Jackfruit is amongst the largest of all tree-borne fruits, measuring up to 90 cm long and weighing up to 50 kg (110 lb).",
+  "quote": "The tree produces the largest of all tree-borne fruits, measuring up to 90 cm (35 in) in length ... The matured fruits weigh anywhere between 4.5 to 50 kg (9.9 to 110.2 lb).",
+  "source_url": "https://en.wikipedia.org/wiki/Jackfruit",
+  "note": "Page gives up to 50 kg (110 lb), not 55 kg (120 lb); also says 'amongst the largest'."
+ },
+ {
+  "claim": "Ferrofluid in loudspeakers creates a 'magnetic pump'—since the fluid becomes less magnetic when hot, cold ferrofluid replaces hot ferrofluid near the voice coil, passively cooling it.",
+  "verdict": "overstated",
+  "corrected_claim": "Ferrofluid cools loudspeaker voice coils passively: because it becomes less magnetic when hot, a magnet near the coil attracts cold fluid more than hot fluid, pushing heated fluid away toward a heat sink.",
+  "quote": "Since ferrofluids are paramagnetic, they obey Curie's law and thus become less magnetic at higher temperatures. A strong magnet placed near the voice coil (which produces heat) will attract cold ferrofluid more than hot ferrofluid thus pushing the heated ferrofluid away from the electric voice coil and toward a heat sink.",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+  "note": "Term 'magnetic pump' not on page; mechanism supported"
+ },
+ {
+  "claim": "HTTP was created by Tim Berners-Lee in 1989 as a simple text-based protocol — HTTP/3 (2022) uses UDP instead of TCP for faster web performance.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tim Berners-Lee and his team at CERN are credited with inventing HTTP ... Development of HTTP was initiated in 1989 ... HTTP/3 uses QUIC + UDP transport protocols instead of TCP. ... On 6 June 2022, IETF standardized HTTP/3 as RFC 9114.",
+  "source_url": "https://en.wikipedia.org/wiki/HTTP",
+  "note": ""
+ },
+ {
+  "claim": "Teixobactin was discovered in 2015 from 'unculturable' soil bacteria using the iChip technology.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Teixobactin was discovered by screening previously unculturable bacteria present in a sample of soil ... using the isolation chip (iChip).",
+  "source_url": "https://en.wikipedia.org/wiki/Teixobactin",
+  "note": "Reported January 2015."
+ },
+ {
+  "claim": "When he interviewed scientists who specialize in studying specific animals, they had not heard of these terms, such as a \"bask\" of crocodiles or \"wisdom\" of wombats, being applied in their fields.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animal_names",
+  "note": "page fragment ('he' refers to context)"
+ },
+ {
+  "claim": "Japanese sushi rice is seasoned with rice vinegar, sugar, and salt after cooking—the vinegar also helps preserve it.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Page does not mention sushi rice"
+ },
+ {
+  "claim": "Duolingo offers courses in High Valyrian and Klingon — fictional languages with enough structure to actually teach.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Additional courses are also available for speakers of English ... and even constructed languages such as Esperanto and Klingon.",
+  "source_url": "https://en.wikipedia.org/wiki/Duolingo",
+  "note": ""
+ },
+ {
+  "claim": "The multi-task problem suggests that strong incentives on one dimension cause neglect of others — leading to balanced scorecard approaches in management.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Multi-task_principal%E2%80%93agent_analysis",
+  "note": "Page failed to load (URL not found)."
+ },
+ {
+  "claim": "Durian fruit is banned from many hotels and public transport in Southeast Asia due to its powerful smell.",
+  "verdict": "overstated",
+  "corrected_claim": "Durian's strong smell has led some hotels and public transportation services in Southeast Asia to ban it, including Singapore's public transport system.",
+  "quote": "The fruit's strong smell has led to its ban from public transport systems in Singapore ... has led some hotels and public transportation services in Southeast Asia",
+  "source_url": "https://en.wikipedia.org/wiki/Durian",
+  "note": "Page says 'some', not 'many'"
+ },
+ {
+  "claim": "Ferrofluids can self-assemble into nanometer-scale needle-like tips that emit jets, potentially serving as propulsion systems for small satellites like CubeSats.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ferrofluids can be made to self-assemble nanometer-scale needle-like sharp tips under the influence of a magnetic field.",
+  "source_url": "https://en.wikipedia.org/wiki/Ferrofluid",
+  "note": "Page adds jets might be used as thrusters for small satellites such as CubeSats"
+ },
+ {
+  "claim": "Whitespace is a programming language where only spaces, tabs, and newlines are significant — all other characters are ignored as comments.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "only whitespace characters (space, tab and newline) have meaning ... Characters other than space, tab and linefeed are ignored and thus can be used for comments.",
+  "source_url": "https://en.wikipedia.org/wiki/Whitespace_(programming_language)",
+  "note": ""
+ },
+ {
+  "claim": "Only about 1% of environmental bacteria can be cultured — vast antibiotic potential remains undiscovered.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Unculturable_microorganism",
+  "note": "Page failed to load (fetch error)"
+ },
+ {
+  "claim": "Sushi originally meant fermented fish preserved in rice for months—modern 'fast sushi' developed in 19th-century Tokyo.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists narezushi; no description of sushi history"
+ },
+ {
+  "claim": "The Bible has been translated into Klingon — 'taH pagh taHbe' ('To be or not to be').",
+  "verdict": "overstated",
+  "corrected_claim": "The Bible has been partially translated into Klingon by the Klingon Bible Translation Project, and selections from Hamlet have been performed in the Klingon language.",
+  "quote": "The Bible has been translated partially from English into Klingon. ... performed selections from Hamlet and Much Ado About Nothing in the Klingon language",
+  "source_url": "https://en.wikipedia.org/wiki/Klingon_language",
+  "note": "Bible translation is only partial; 'taH pagh taHbe' (Hamlet) is not on the page and is not a Bible line."
+ },
+ {
+  "claim": "Asset bubbles may be rational if there's a chance of selling to a 'greater fool' — even knowing prices are too high, buying can be optimal if you can exit in time.",
+  "verdict": "overstated",
+  "corrected_claim": "Under the greater fool theory, one can sometimes make money on overvalued assets by selling to someone willing to pay more, but this only works while enough new 'greater fools' keep paying higher prices.",
+  "quote": "one can sometimes make money through speculation on overvalued assets ... This only works as long as there are enough new \"greater fools\" willing to pay higher and higher prices for the asset.",
+  "source_url": "https://en.wikipedia.org/wiki/Greater_fool_theory",
+  "note": "Page does not say bubbles may be rational or buying is optimal"
+ },
+ {
+  "claim": "Durian's smell has been compared to 'rotting onions, turpentine, and gym socks', yet many consider it a delicacy.",
+  "verdict": "overstated",
+  "corrected_claim": "Durian's odor has been described as 'pig-excrement, turpentine and onions, garnished with a gym sock', yet it is known in some regions as the 'king of fruits'.",
+  "quote": "its odor is best described as pig-excrement, turpentine and onions, garnished with a gym sock. ... Known in some regions as the \"king of fruits\"",
+  "source_url": "https://en.wikipedia.org/wiki/Durian",
+  "note": "Quoted wording in claim is not the page's wording"
+ },
+ {
+  "claim": "Smart glass can switch between transparent and opaque states electrically, with some types maintaining their state without continuous power consumption.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It introduced the ability to switch between transparent and opaque by turning the voltage on or off. ... A burst of electricity is required for changing its opacity ... maintains its shade with little to no additional electrical signals",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": ""
+ },
+ {
+  "claim": "Brainfuck, created in 1993, has only 8 commands and was designed to challenge and amuse programmers — yet it's Turing complete.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Brainfuck is an esoteric programming language created in 1993 by Swiss student Urban Müller. ... The language consists of eight commands. ... it is not intended for practical use but to challenge and amuse programmers.",
+  "source_url": "https://en.wikipedia.org/wiki/Brainfuck",
+  "note": ""
+ },
+ {
+  "claim": "Halomonas titanicae was found living on the Titanic wreck — slowly eating the ship's iron.",
+  "verdict": "overstated",
+  "corrected_claim": "Halomonas titanicae was discovered in rusticle samples from the Titanic wreck and is involved in corroding steel by reducing Fe(III) to Fe(II).",
+  "quote": "H. titanicae was originated from rusticle samples sourced from the Titanic site. ... H. titanicae is involved in the corrosion of steel by reducing Fe(III) to Fe(II)",
+  "source_url": "https://en.wikipedia.org/wiki/Halomonas_titanicae",
+  "note": "Page says it contributes to corrosion, not that it eats the iron"
+ },
+ {
+  "claim": "Soy sauce naturally contains glutamate, making it one of the world's oldest umami-boosting condiments, dating back over 2,000 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Soy sauces, like fermented fish sauces, have histories going back to the third century in China.",
+  "quote": "fermented fish sauces and soy sauces have histories going back to the third century in China",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "Page says third century (~1,700 years), not over 2,000 years"
+ },
+ {
+  "claim": "Some linguists estimate that 90% of the world's languages will disappear by 2100 — taking unique worldviews with them.",
+  "verdict": "overstated",
+  "corrected_claim": "One estimate published in 2004 expected that some 90% of currently spoken languages would be extinct by 2050.",
+  "quote": "one estimate published in 2004 expected that some 90% of the currently spoken languages will have become extinct by 2050.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_death",
+  "note": "Page gives one 2004 estimate of 90% by 2050, not 2100; worldview loss not mentioned."
+ },
+ {
+  "claim": "During the Panic of 1907, the presidents of New York City's banks and trust companies were locked in the Pierpont Morgan Library.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "During the Panic of 1907, the presidents of the city's banks and trust companies were locked in the library overnight until they agreed on a plan to stop the financial crisis.",
+  "source_url": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum",
+  "note": ""
+ },
+ {
+  "claim": "Sago palms store starch throughout their lives but must be harvested before flowering, or all the starch is used up.",
+  "verdict": "overstated",
+  "corrected_claim": "Sago palms are felled shortly before or early in their final flowering stage, when trunk starch content is highest; one trunk cut just before flowering holds enough sago to feed a person for a year.",
+  "quote": "To harvest the starch in the stem, it is felled shortly before or early during its final flowering stage ... A trunk cut just prior to flowering contains enough sago to feed a person for a year.",
+  "source_url": "https://en.wikipedia.org/wiki/Metroxylon_sagu",
+  "note": "Page doesn't say flowering uses up all the starch."
+ },
+ {
+  "claim": "Nippon Sheet Glass launched the first commercial switchable smart glass (UMU) in 1987, capable of toggling between transparent and opaque states.",
+  "verdict": "overstated",
+  "corrected_claim": "Nippon Sheet Glass launched UMU in 1987 as the first switchable light control glass, able to switch between transparent and opaque.",
+  "quote": "the first switchable light control glass ... It introduced the ability to switch between transparent and opaque by turning the voltage on or off.",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": "Page says 'first switchable light control glass', not 'first commercial'"
+ },
+ {
+  "claim": "INTERCAL, the 'Compiler Language With No Pronounceable Acronym' (1972), was designed to be as unlike any other language as possible — it uses 'PLEASE' for politeness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The full name of the compiler is \"Compiler Language With No Pronounceable Acronym\" ... created as a parody by Don Woods and James M. Lyon, two Princeton University students, in 1972. ... INTERCAL was intended to be completely different from all other computer languages.",
+  "source_url": "https://en.wikipedia.org/wiki/INTERCAL",
+  "note": "PLEASE politeness: page says programs could be rejected as excessively polite."
+ },
+ {
+  "claim": "Tersicoccus phoenicis was found only in spacecraft assembly clean rooms — thrives where nothing else can.",
+  "verdict": "overstated",
+  "corrected_claim": "Tersicoccus phoenicis has only been found in two spacecraft assembly clean rooms, though a NASA microbiologist suggests it may also exist naturally elsewhere.",
+  "quote": "It has only been found in two spacecraft assembly clean room facilities ... suggests that this species may exist naturally outside of the clean room environment but has not been seen before",
+  "source_url": "https://en.wikipedia.org/wiki/Tersicoccus_phoenicis",
+  "note": "'Thrives where nothing else can' not stated; may exist elsewhere."
+ },
+ {
+  "claim": "Tofu was invented in China around 2,000 years ago, possibly by accident when nigari (a coagulant) contaminated soy milk.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page does not discuss tofu's invention"
+ },
+ {
+  "claim": "When a language dies, we lose not just words but entire conceptual systems — ways of understanding the world that can't be reconstructed.",
+  "verdict": "overstated",
+  "corrected_claim": "When a language is lost, communities often lose the cultural knowledge tied to it, such as songs, myths, poetry, local remedies and ecological knowledge.",
+  "quote": "As communities lose their language, they often lose parts of their cultural traditions that are tied to that language. ... Examples include songs, myths, poetry, local remedies, ecological and geological knowledge ... When a language is lost, this knowledge is often lost as well.",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": "'Conceptual systems that can't be reconstructed' not stated"
+ },
+ {
+  "claim": "Estimates of the boost to the British fashion industry by Catherine, Princess of Wales, range from £152 million to £1 billion per year.",
+  "verdict": "overstated",
+  "corrected_claim": "Estimates of Catherine, Princess of Wales's value to the British fashion industry vary wildly, with figures between £152 million and £1 billion mooted.",
+  "quote": "vary wildly, with figures between £152 million and £1 billion being mooted.",
+  "source_url": "https://en.wikipedia.org/wiki/Fashion_of_Catherine,_Princess_of_Wales",
+  "note": "Page does not say the figures are per year"
+ },
+ {
+  "claim": "Traveler's palm (Ravenala madagascariensis) stores rainwater at its leaf bases, supposedly providing water to travelers.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Ravenala",
+  "note": "Page does not mention rainwater storage or the traveller's palm name"
+ },
+ {
+  "claim": "The term 'smart window' was coined in the 1980s by Swedish physicist Claes-Göran Granqvist while brainstorming energy-efficient building materials.",
+  "verdict": "overstated",
+  "corrected_claim": "The term 'smart window' originated in the 1980s, introduced by Swedish physicist Claes-Göran Granqvist for a dynamically tinting window.",
+  "quote": "The term \"smart window\" originated in the 1980s.",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": "Brainstorming energy-efficient building materials not stated"
+ },
+ {
+  "claim": "PHP originally stood for 'Personal Home Page' — creator Rasmus Lerdorf built it to track visits to his online resume in 1993.",
+  "verdict": "overstated",
+  "corrected_claim": "PHP was originally an abbreviation of 'Personal Home Page' — Rasmus Lerdorf began it in 1993 by writing CGI programs in C, and released it in 1995.",
+  "quote": "PHP was originally an abbreviation of Personal Home Page ... PHP development began in 1993 when Rasmus Lerdorf wrote several Common Gateway Interface (CGI) programs in C",
+  "source_url": "https://en.wikipedia.org/wiki/PHP",
+  "note": "Tracking visits to his online resume not on page"
+ },
+ {
+  "claim": "Conan the Bacterium' (D. radiodurans) is listed in the Guinness Book of Records as the most radiation-resistant organism.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As a consequence of its hardiness, it has been nicknamed \"Conan the Bacterium\", in reference to Conan the Barbarian. ... listed it in January 1998 as the world's most radiation-resistant bacterium and most radiation-resistant lifeform.",
+  "source_url": "https://en.wikipedia.org/wiki/Deinococcus_radiodurans",
+  "note": ""
+ },
+ {
+  "claim": "Edamame are immature soybeans harvested before they harden—the name means 'beans on branches' in Japanese.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Oral traditions, medicinal knowledge, and ecological understanding are often encoded in endangered languages and lost when they die.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Language_death",
+  "note": "Page does not mention oral traditions or medicinal/ecological knowledge lost with languages."
+ },
+ {
+  "claim": "A US$10,000 bill is the highest denomination of US currency that has been used by the public.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The $10,000 note was the highest denomination of US currency to be used by the public.",
+  "source_url": "https://en.wikipedia.org/wiki/United_States_ten-thousand-dollar_bill",
+  "note": ""
+ },
+ {
+  "claim": "The prayer plant (Maranta) folds its leaves upward at night like hands in prayer, a phenomenon called nyctinasty.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Nyctinasty",
+  "note": "Prayer plant/Maranta not mentioned on page."
+ },
+ {
+  "claim": "Electrochromic smart glass requires only a burst of electricity to change opacity and then maintains its state with minimal additional power.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A burst of electricity is required for changing its opacity ... maintains its shade with little to no additional electrical signals",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": ""
+ },
+ {
+  "claim": "Perl was called 'the duct tape of the Internet' in the 1990s — its regex capabilities and text processing made it ideal for CGI scripts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1998, it was also referred to as the \"duct tape that holds the Internet together\" ... Perl gained widespread popularity in the mid-1990s as a CGI scripting language, in part due to its powerful regular expression and string parsing abilities.",
+  "source_url": "https://en.wikipedia.org/wiki/Perl",
+  "note": ""
+ },
+ {
+  "claim": "Bacillus infernus was isolated from 2.7 km underground — one of the deepest bacteria found.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacillus infernus was first isolated 2.65 to 2.77 kilometers underground in Virginia's Taylorsville Triassic Basin, living in the deep terrestrial subsurface.",
+  "quote": "It was first isolated in depths of 2.65 kilometers (1.65 mi) to 2.77 kilometers (1.72 mi)",
+  "source_url": "https://en.wikipedia.org/wiki/Bacillus_infernus",
+  "note": "Page gives no 'one of the deepest bacteria' ranking"
+ },
+ {
+  "claim": "Oyster sauce, despite its name, was invented by accident in 1888 when a cook in China forgot about simmering oysters and they caramelized.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "The last fluent speaker of a language is called a 'terminal speaker' — they often report feeling profound loneliness.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": "Page does not mention 'terminal speaker' or loneliness"
+ },
+ {
+  "claim": "Between 1899 and 1923 the United States government issued 3,604,239,600 one-dollar Black Eagle Silver Certificates.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The note was issued from 1899 to 1923 and the Bureau of Engraving and Printing (BEP) printed 3,604,239,600 Black Eagles.",
+  "source_url": "https://en.wikipedia.org/wiki/Black_Eagle_Silver_Certificate",
+  "note": ""
+ },
+ {
+  "claim": "Many legumes close their leaves at night, possibly to reduce heat loss or deter nocturnal herbivores.",
+  "verdict": "overstated",
+  "corrected_claim": "Many legumes 'sleep' by moving their leaves at night; proposed reasons include better temperature retention and making herbivores more visible to nocturnal predators.",
+  "quote": "the sleep movements of the leaves of many legumes ... can lead to better temperature retention ... more visible to nocturnal predators in both a spatial and olfactory sense",
+  "source_url": "https://en.wikipedia.org/wiki/Nyctinasty",
+  "note": "Herbivore hypothesis is about exposing herbivores to predators, not deterring them."
+ },
+ {
+  "claim": "The Boeing 787 Dreamliner features electrochromic windows that replace traditional pull-down window shades, allowing passengers to electronically dim their view.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Boeing 787 aircraft features electrochromic windows which replaced the pull-down window shades on existing aircraft.",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": ""
+ },
+ {
+  "claim": "Ruby's creator Yukihiro Matsumoto wanted a language 'more powerful than Perl, and more object-oriented than Python' — Ruby was released in 1995.",
+  "verdict": "overstated",
+  "corrected_claim": "Ruby creator Yukihiro Matsumoto said he 'really wanted a genuine object-oriented, easy-to-use scripting language' — Ruby 0.95 was first publicly released on 21 December 1995.",
+  "quote": "As a language maniac and OO fan for 15 years, I really wanted a genuine object-oriented, easy-to-use scripting language. ... The first public release of Ruby 0.95 was announced on Japanese domestic newsgroups on 21 December 1995.",
+  "source_url": "https://en.wikipedia.org/wiki/Ruby_(programming_language)",
+  "note": "'More powerful than Perl, more object-oriented than Python' quote not on page"
+ },
+ {
+  "claim": "Ferroplasma acidarmanus lives at pH 0 in acid mine drainage — essentially living in battery acid.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A study of F. acidarmanus found that cytoplasmic pH was maintained ~5.6 while the environmental pH ranged from ~0-1.2. ... Iron Mountain (CA) is a former mine that is known for its acid mine drainage (AMD) and heavy metal contamination.",
+  "source_url": "https://en.wikipedia.org/wiki/Ferroplasma",
+  "note": "Battery-acid comparison is flourish; pH ~0 and AMD origin stated"
+ },
+ {
+  "claim": "Worcestershire sauce is fermented for 18 months and contains anchovies, making it unsuitable for vegetarians despite no fishy taste.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page does not mention Worcestershire sauce"
+ },
+ {
+  "claim": "Marie Smith Jones, the last speaker of Eyak (Alaska), died in 2008 — she had spent years trying to teach the language to preserve it.",
+  "verdict": "overstated",
+  "corrected_claim": "Marie Smith Jones, the last surviving speaker of Alaska's Eyak language, died in 2008; so that a record of Eyak would survive, she worked with linguist Michael Krauss on a dictionary and grammar.",
+  "quote": "She died of natural causes on January 21, 2008, at age 89 at her home in Anchorage. ... So that a record of the Eyak language would survive, she worked with linguist Michael E. Krauss, who compiled a dictionary and grammar of it.",
+  "source_url": "https://en.wikipedia.org/wiki/Marie_Smith_Jones",
+  "note": "Page says she helped document the language, not that she spent years teaching it."
+ },
+ {
+  "claim": "The sensitive plant Mimosa pudica 'remembers' repeated non-threatening touches and stops responding—a form of habituation.",
+  "verdict": "overstated",
+  "corrected_claim": "In experiments by Monica Gagliano, Mimosa pudica plants that were repeatedly dropped stopped reacting, and kept not reacting for at least 28 days, suggesting some form of memory linked to habituation.",
+  "quote": "Research done by scientist Monica Gagliano has shown habituation in Mimosa pudica. In the experiment, M. pudica plants were repeatedly dropped until they stopped reacting to the stimulus. Further experiments showed that the plants continued to not react to dropping for at least 28 days, suggesting that they have the capacity for some form of memory associated with their habituation.",
+  "source_url": "https://en.wikipedia.org/wiki/Mimosa_pudica",
+  "note": "Stimulus was repeated dropping, not touches."
+ },
+ {
+  "claim": "Suspended-particle device (SPD) smart glass contains rod-like nanoparticles that randomly scatter light when off but align to become transparent when voltage is applied.",
+  "verdict": "overstated",
+  "corrected_claim": "In SPD smart glass, suspended particles are randomly organized when no voltage is applied, blocking and absorbing light; when voltage is applied they align and let light pass.",
+  "quote": "When no voltage is applied, the suspended particles are randomly organized, thus blocking and absorbing light. When voltage is applied, the suspended particles align and let light pass.",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": "Page says particles block and absorb light, not 'scatter'; rod-like nanoparticles not confirmed"
+ },
+ {
+  "claim": "Python was named after Monty Python, not the snake — Guido van Rossum was reading scripts from 'Monty Python's Flying Circus' while developing it.",
+  "verdict": "overstated",
+  "corrected_claim": "Python is named after the British comedy series Monty Python's Flying Circus, which creator Guido van Rossum enjoyed while developing the language.",
+  "quote": "The name Python derives from the British comedy series Monty Python's Flying Circus. ... whom Python creator Guido van Rossum enjoyed while developing the language.",
+  "source_url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+  "note": "Reading the scripts while developing it not on page"
+ },
+ {
+  "claim": "Thermus aquaticus from Yellowstone hot springs gave us Taq polymerase — enabling PCR and molecular biology.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The bacterium was first isolated from Mushroom Spring in the Lower Geyser Basin of Yellowstone National Park ... It is the source of the heat-resistant enzyme Taq DNA polymerase, one of the most important enzymes in molecular biology",
+  "source_url": "https://en.wikipedia.org/wiki/Thermus_aquaticus",
+  "note": ""
+ },
+ {
+  "claim": "Tabasco sauce is aged in oak barrels for up to 3 years, which mellows the heat and develops complex flavors.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page does not mention Tabasco or oak barrels"
+ },
+ {
+  "claim": "The Endangered Languages Project documents over 3,000 endangered languages — many with only a few elderly speakers left.",
+  "verdict": "overstated",
+  "corrected_claim": "As of 2020, the Endangered Languages Project had catalogued over 3,000 endangered languages across 180 countries and territories, 360 of them in Australia alone.",
+  "quote": "As of 2020, the ELP has catalogued over 3000 endangered languages in its ELCat covering 180 countries/territories ... There are 360 endangered languages catalogued in Australia, alone.",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_Languages_Project",
+  "note": "'Few elderly speakers left' not stated on page"
+ },
+ {
+  "claim": "Mimosa pudica can distinguish between water droplets and more threatening mechanical disturbance, suggesting some sensory discrimination.",
+  "verdict": "overstated",
+  "corrected_claim": "Researchers Holmes and Gruenberg found that Mimosa pudica could distinguish between a water drop and a finger touch.",
+  "quote": "Holmes and Gruenberg discovered that Mimosa could distinguish between two stimuli, a water drop and a finger touch.",
+  "source_url": "https://en.wikipedia.org/wiki/Mimosa_pudica",
+  "note": "Source compares water drop vs finger touch, not 'more threatening' disturbance."
+ },
+ {
+  "claim": "Micro-blinds on smart glass are rolled metal structures so small they're invisible to the eye, unfurling to block light when voltage is applied.",
+  "verdict": "overstated",
+  "corrected_claim": "Micro-blinds in smart glass are so small they are practically invisible to the eye; applying voltage makes the rolled micro-blinds stretch out and block light.",
+  "quote": "They are very small and thus practically invisible to the eye.",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": "Metal composition not confirmed in fetched text"
+ },
+ {
+  "claim": "Java's 'Write once, run anywhere' slogan became a reality through the JVM — Java bytecode runs on any platform with a compatible virtual machine.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile. Java applications are usually compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.",
+  "source_url": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+  "note": ""
+ },
+ {
+  "claim": "Pyrococcus furiosus ('furious fireball') grows fastest at 100°C — boiling water is its comfort zone.",
+  "verdict": "overstated",
+  "corrected_claim": "Pyrococcus furiosus — 'rushing fireball' — has an optimum growth temperature of 100 °C, the boiling point of water.",
+  "quote": "The name Pyrococcus means \"fireball\" in Greek ... The species name furiosus means 'rushing' in Latin ... with an optimum temperature of 100 °C (212 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Pyrococcus_furiosus",
+  "note": "Page translates furiosus as 'rushing', not 'furious'"
+ },
+ {
+  "claim": "Sriracha sauce, made from jalapeños, has no artificial preservatives—its acidity and chili content naturally prevent bacterial growth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Page does not mention Sriracha"
+ },
+ {
+  "claim": "Linguists race against time to document endangered languages — recording speakers, writing grammars, and creating dictionaries.",
+  "verdict": "overstated",
+  "corrected_claim": "Language documentation seeks to create as thorough a record of a language as possible, typically through recording, transcribing and maintaining metadata, complementing language description in the form of a grammar or dictionary.",
+  "quote": "Language documentation seeks to create as thorough a record as possible ... Typical steps involve recording, maintaining metadata, transcribing ... aims to describe a language's abstract system of structures and rules in the form of a grammar or dictionary.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_documentation",
+  "note": "Page does not frame it as a 'race against time'; grammars/dictionaries are described as language description."
+ },
+ {
+  "claim": "Pitcher plant fluid contains enzymes, but also provides habitat for specialized organisms living in this extreme environment.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "at least 29 digestive proteins including proteases, chitinases ... Organisms that spend at least part of their lives within the pitchers of Nepenthes species",
+  "source_url": "https://en.wikipedia.org/wiki/Nepenthes",
+  "note": ""
+ },
+ {
+  "claim": "Tungsten-doped vanadium dioxide coating can make smart glass that automatically reflects infrared light above 29°C (84°F), self-regulating building temperature.",
+  "verdict": "overstated",
+  "corrected_claim": "A tungsten-doped vanadium dioxide coating makes glass that reflects infrared light when the temperature rises over 29 °C (84 °F).",
+  "quote": "reflects infrared light when the temperature rises over 29 °C (84 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": "'Self-regulating building temperature' not stated"
+ },
+ {
+  "claim": "Java was originally called Oak, after a tree outside James Gosling's office — it was renamed because Oak was trademarked by another company.",
+  "verdict": "overstated",
+  "corrected_claim": "Java was initially called Oak, after an oak tree that stood outside James Gosling's office, and was later renamed Java after Java coffee from Indonesia.",
+  "quote": "The language was initially called Oak after an oak tree that stood outside Gosling's office. ... was finally renamed Java, from Java coffee, a type of coffee from Indonesia.",
+  "source_url": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+  "note": "Page does not state the trademark reason for the rename."
+ },
+ {
+  "claim": "Natronobacterium gregoryi thrives at pH 11.5 in soda lakes — more alkaline than ammonia.",
+  "verdict": "overstated",
+  "corrected_claim": "Natronobacterium, whose type species is N. gregoryi, is a haloalkaliphilic archaeon that thrives at an optimum salt concentration of 20% and optimum pH of 10.",
+  "quote": "thriving at an optimum saline concentration of 20% and optimum pH of 10",
+  "source_url": "https://en.wikipedia.org/wiki/Natronobacterium",
+  "note": "No pH 11.5, soda lake or ammonia comparison for N. gregoryi."
+ },
+ {
+  "claim": "Ketchup was originally made from fermented fish or mushrooms in 18th-century Britain—tomato ketchup is an American invention from the 1800s.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Some indigenous communities actively choose not to teach their traditional languages — seeing them as barriers to economic success.",
+  "verdict": "overstated",
+  "corrected_claim": "Language shift is often tied to social mobility: some Javanese youth see traditional language forms as outdated and incompatible with modern society, and Macanese parents moved children away from Portuguese schooling as its value declined.",
+  "quote": "they perceive them as outdated and incompatible with modern society ... particularly as many parents recognised the reducing value of Portuguese schooling",
+  "source_url": "https://en.wikipedia.org/wiki/Language_shift",
+  "note": "Page does not describe indigenous communities deliberately refusing to teach their languages for economic reasons."
+ },
+ {
+  "claim": "Some Nepenthes pitcher plants have evolved into 'toilet bowls'—tree shrews defecate in them in exchange for nectar.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "be adapted to \"catching\" the droppings of birds and tree shrews feeding at its nectaries. ... A 2009 study found that mature plants derived 57–100% of their foliar nitrogen from tree shrew droppings.",
+  "source_url": "https://en.wikipedia.org/wiki/Nepenthes_lowii",
+  "note": "'Toilet' appears in cited study titles."
+ },
+ {
+  "claim": "Eureka Tower in Melbourne has a glass observation cube that projects 3 meters from the building 300 meters up—the glass is opaque as you enter, then turns clear once you're over the edge.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has a glass cube which projects 3 m (10 ft) out from the building ... suspended almost 300 m (984 ft) above the ground ... Once fully extended over the edge, the glass becomes clear.",
+  "source_url": "https://en.wikipedia.org/wiki/Smart_glass",
+  "note": ""
+ },
+ {
+  "claim": "Swift was developed in secret at Apple for 4 years before being announced in 2014 — it was designed to eventually replace Objective-C.",
+  "verdict": "overstated",
+  "corrected_claim": "Chris Lattner began developing Swift in July 2010, and Apple introduced it at WWDC 2014 as a replacement for Objective-C.",
+  "quote": "Development of Swift started in July 2010 by Chris Lattner ... Swift was introduced at Apple's 2014 Worldwide Developers Conference (WWDC). ... Swift was motivated by the need for a replacement for Apple's earlier programming language Objective-C",
+  "source_url": "https://en.wikipedia.org/wiki/Swift_(programming_language)",
+  "note": "Secrecy not stated; gap is about four years by calculation."
+ },
+ {
+  "claim": "Colwellia psychrerythraea grows at -12°C, the lowest temperature for any known growing organism.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Colwellia",
+  "note": "Page gives no growth temperature for C. psychrerythraea and no lowest-temperature record"
+ },
+ {
+  "claim": "Mustard is one of the world's oldest condiments—it has been used for over 5,000 years, originally in ancient China and India.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Spice page does not mention mustard's 5,000-year history, China or India"
+ },
+ {
+  "claim": "Code-switching is flipping between languages in conversation — bilinguals often do this unconsciously and seamlessly.",
+  "verdict": "overstated",
+  "corrected_claim": "Code-switching is the capacity of bilinguals to switch between languages within a single conversation, and people may do it without thinking about it.",
+  "quote": "Code-switching involves the capacity of bilingual individuals to switch between different languages ... People may engage in code-switching without thinking about it.",
+  "source_url": "https://en.wikipedia.org/wiki/Code-switching",
+  "note": "'Often' and 'seamlessly' not stated"
+ },
+ {
+  "claim": "Nepenthes hemsleyana has evolved to provide roosts for bats, which deposit nitrogen-rich guano in return.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Hardwicke's woolly bats (Kerivoula hardwickii) commonly roost in the upper pitchers of N. hemsleyana. This relationship appears to be mutualistic, with the plant providing shelter for the bats and in return receiving additional nitrogen input in the form of faeces.",
+  "source_url": "https://en.wikipedia.org/wiki/Nepenthes_hemsleyana",
+  "note": ""
+ },
+ {
+  "claim": "Diamond has the highest thermal conductivity of any naturally occurring material at about 2,200 W·m⁻¹·K⁻¹, more than five times higher than copper.",
+  "verdict": "overstated",
+  "corrected_claim": "Diamond has the highest thermal conductivity of any natural material, between 900 and 2,320 W·m⁻¹·K⁻¹, which is used to identify diamonds.",
+  "quote": "Diamond has the highest hardness and thermal conductivity of any natural material ... Diamonds can be identified by their high thermal conductivity (900–2320 W·m−1·K−1).",
+  "source_url": "https://en.wikipedia.org/wiki/Diamond",
+  "note": "Page gives a range, not 2,200; no copper comparison"
+ },
+ {
+  "claim": "Kotlin, named after an island near St. Petersburg, became an official Android development language in 2017 — Google now recommends it over Java for new Android apps.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The name is derived from Kotlin Island, a Russian island in the Gulf of Finland, near Saint Petersburg. ... At Google I/O 2017, Google announced first-class support for Kotlin on Android. ... On 7 May 2019, Google announced that Kotlin is now its preferred language for Android app developers.",
+  "source_url": "https://en.wikipedia.org/wiki/Kotlin_(programming_language)",
+  "note": ""
+ },
+ {
+  "claim": "Salinibacter ruber is red due to carotenoids and can survive at 5.2 M salt — saltier than the Dead Sea.",
+  "verdict": "overstated",
+  "corrected_claim": "Salinibacter ruber gets its red colour from the pigment bacterioruberin and cannot grow below 15% salt, thriving best at 20–30%.",
+  "quote": "Salinibacter ruber produces a pigment called bacterioruberin ... Salinibacter ruber itself cannot grow at below 15% salt concentration, with an ideal concentration between 20 and 30%",
+  "source_url": "https://en.wikipedia.org/wiki/Salinibacter_ruber",
+  "note": "Carotenoids, 5.2 M and Dead Sea comparison not on page"
+ },
+ {
+  "claim": "Yellow mustard gets its color from turmeric, not mustard seeds—pure mustard seed paste is grayish-brown.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Spice page does not mention yellow mustard coloring by turmeric"
+ },
+ {
+  "claim": "Spanglish (Spanish + English) is spoken by millions in the US — some linguists consider it a new contact variety emerging.",
+  "verdict": "overstated",
+  "corrected_claim": "Spanglish is spoken commonly in the modern United States; linguists currently consider it a hybrid language practice rather than a language of its own.",
+  "quote": "Spanglish is spoken commonly in the modern United States. ... Spanglish is currently considered a hybrid language practice by linguists.",
+  "source_url": "https://en.wikipedia.org/wiki/Spanglish",
+  "note": "No 'millions' figure; linguists call it a hybrid practice, not a new variety"
+ },
+ {
+  "claim": "Tropical rainforests contain more than half of all known plant species despite covering only 6% of Earth's land surface.",
+  "verdict": "overstated",
+  "corrected_claim": "Rainforests are home to half of all the living animal and plant species on the planet, with estimates that 40% to 75% of all biotic species are indigenous to them.",
+  "quote": "Around 40% to 75% of all biotic species are indigenous to the rainforests. ... Rainforests are home to half of all the living animal and plant species on the planet.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_rainforest",
+  "note": "Page gives no 6% land-cover figure and does not say 'more than half of plant species'."
+ },
+ {
+  "claim": "Metallic glass (amorphous metal) has no crystal structure—atoms are arranged randomly like in a liquid, giving it unusual strength and elasticity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Amorphous metals derive their strength directly from their non-crystalline structure, which does not have defects.",
+  "source_url": "https://en.wikipedia.org/wiki/Amorphous_metal",
+  "note": "Page: glass-like non-crystalline structure; larger reversible elastic deformations"
+ },
+ {
+  "claim": "Windows 3.1 sold over 3 million copies in its first 2 months (1992) — it was the first version of Windows to achieve mass-market success.",
+  "verdict": "overstated",
+  "corrected_claim": "Windows 3.1, released April 6, 1992, sold over three million copies in its first three months, building on the roughly 10 million sales of Windows 3.0.",
+  "quote": "Windows 3.1 sold over three million copies during the first three months of its release",
+  "source_url": "https://en.wikipedia.org/wiki/Windows_3.1x",
+  "note": "Page says three months, not two; does not call it the first mass-market Windows (3.0 had ~10 million sales)"
+ },
+ {
+  "claim": "The oldest living culture is a sourdough starter from 1847 San Francisco — continuously fed for 175+ years.",
+  "verdict": "overstated",
+  "corrected_claim": "Bakers keep unbroken lines of sourdough starter for years — Carl Griffith's 1847 starter has been passed down through generations.",
+  "quote": "many individual starters, such as Carl Griffith's 1847 starter, have been passed down through generations.",
+  "source_url": "https://en.wikipedia.org/wiki/Sourdough",
+  "note": "Page does not call it the oldest living culture or tie it to San Francisco"
+ },
+ {
+  "claim": "Dijon mustard must legally be made in the Dijon region of France to bear that name, like Champagne.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Hinglish (Hindi + English) is increasingly common in India — mixing languages is often seen as modern and educated.",
+  "verdict": "overstated",
+  "corrected_claim": "Hinglish has become the de facto style of Hindustani spoken in urban northern India, is perceived as the high-prestige variety of spoken Hindi, and is now even used in university classrooms.",
+  "quote": "In the present day, Hinglish has become the de facto style of Hindustani spoken in urban areas of northern India ... Hinglish subsequently is perceived as the high prestige variety of spoken Hindi",
+  "source_url": "https://en.wikipedia.org/wiki/Hinglish",
+  "note": "Page says 'high prestige', not specifically 'modern and educated'"
+ },
+ {
+  "claim": "A single hectare of rainforest can contain over 400 tree species—more than all of temperate North America.",
+  "verdict": "overstated",
+  "corrected_claim": "A single hectare of rainforest may contain 42,000 different species of insect and up to 807 trees of 313 species.",
+  "quote": "A single hectare of rainforest may contain 42,000 different species of insect, up to 807 trees of 313 species",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_rainforest",
+  "note": "Page says 313 tree species per hectare, not over 400; no North America comparison."
+ },
+ {
+  "claim": "Liquid metal alloys like Galinstan (gallium-indium-tin) are liquid at room temperature but non-toxic, unlike mercury, and are used in flexible electronics.",
+  "verdict": "overstated",
+  "corrected_claim": "Galinstan, an alloy of gallium, indium and tin, melts at −19 °C so it is liquid at room temperature; thanks to the low toxicity of its metals it replaces mercury in some uses and serves as a deformable conductor in stretchable electronics.",
+  "quote": "which melts at −19 °C (−2 °F) and is thus liquid at room temperature. ... Due to the low toxicity and low reactivity of its component metals, ... allowing it to be used as a liquid, deformable conductor in soft robotics and stretchable electronics",
+  "source_url": "https://en.wikipedia.org/wiki/Galinstan",
+  "note": "Page says low toxicity, not non-toxic"
+ },
+ {
+  "claim": "Windows 95's launch was a cultural event — the Rolling Stones' 'Start Me Up' was the theme song, and stores stayed open at midnight for the release.",
+  "verdict": "overstated",
+  "corrected_claim": "Windows 95's launch featured a commercial with the Rolling Stones' 'Start Me Up', a nod to the Start button, and many PC World branches in the UK opened at midnight to sell the first copies.",
+  "quote": "The Windows 95 release included a commercial featuring The Rolling Stones' 1981 single ... many branches opened at midnight to sell the first copies of the product.",
+  "source_url": "https://en.wikipedia.org/wiki/Windows_95",
+  "note": "Song was used in a commercial, not described as a theme song; midnight openings refer to PC World UK; \"cultural event\" not stated"
+ },
+ {
+  "claim": "Lactobacillus reuteri produces antimicrobials in the gut and has been in humans for millions of years.",
+  "verdict": "overstated",
+  "corrected_claim": "Lactobacillus reuteri, which appears to be ubiquitous in the animal kingdom including healthy human guts, can produce the antimicrobial compound reuterin in the gastrointestinal tract.",
+  "quote": "L. reuteri was confirmed to be capable of producing reuterin in the gastrointestinal tract ... It appears to be ubiquitous in the animal kingdom, including in the gastrointestinal tracts and feces of healthy humans",
+  "source_url": "https://en.wikipedia.org/wiki/Lactobacillus_reuteri",
+  "note": "Page does not say it has been in humans for millions of years."
+ },
+ {
+  "claim": "Hot dogs and other cured meats are pink because nitrites react with myoglobin to form nitrosomyoglobin, which is heat-stable.",
+  "verdict": "overstated",
+  "corrected_claim": "Nitrites have been used to cure meat, giving it a characteristic pink colour.",
+  "quote": "More recently nitrites have been used to cure meat, contributing a characteristic pink colour.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Nitrosomyoglobin chemistry, heat stability and hot dogs not on page"
+ },
+ {
+  "claim": "Singlish (Singapore English) blends English with Malay, Chinese, and Tamil — it has its own grammar and vocabulary.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tan Ying-Ying says Singlish \"mostly comprises English, Bazaar Malay, Hokkien, some Cantonese, some Tamil, and increasingly Mandarin\" ... an independent language with its own systematic grammar",
+  "source_url": "https://en.wikipedia.org/wiki/Singlish",
+  "note": ""
+ },
+ {
+  "claim": "Epiphytes (air plants) grow on other plants without being parasitic—they just use hosts for physical support.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Epiphytes differ from parasitic plants in that they grow on the host for physical support only. ... Epiphytic plants are sometimes called \"air plants\" because they do not root in soil.",
+  "source_url": "https://en.wikipedia.org/wiki/Epiphyte",
+  "note": ""
+ },
+ {
+  "claim": "Transparent aluminum (aluminum oxynitride, ALON) is a ceramic material four times harder than fused silica glass and 85% as hard as sapphire.",
+  "verdict": "overstated",
+  "corrected_claim": "Transparent aluminium (aluminium oxynitride, ALON) is a transparent ceramic four times as hard as fused silica glass, with the same Mohs hardness of 9 as sapphire.",
+  "quote": "It is four times as hard as fused silica glass",
+  "source_url": "https://en.wikipedia.org/wiki/Aluminium_oxynitride",
+  "note": "Page gives same Mohs hardness as sapphire, not 85%"
+ },
+ {
+  "claim": "Windows XP remained in use at ATMs, medical devices, and government systems for years after support ended in 2014 — some still run it today.",
+  "verdict": "overstated",
+  "corrected_claim": "After mainstream Windows XP support ended on April 8, 2014, it lingered in ATMs, medical devices and government systems; as of May 2017, around 60% of India's 220,000 ATMs still ran it.",
+  "quote": "Extended support for the main version ended on April 8, 2014 ... As of May 2017, around 60% of the 220,000 ATMs in India still run Windows XP.",
+  "source_url": "https://en.wikipedia.org/wiki/Windows_XP",
+  "note": "Latest usage data on page is from 2017; \"still run it today\" not supported"
+ },
+ {
+  "claim": "Oenococcus oeni converts malic acid to lactic acid — the malolactic fermentation that softens wine.",
+  "verdict": "overstated",
+  "corrected_claim": "Oenococcus oeni is the primary bacterium involved in completing the malolactic fermentation of wine.",
+  "quote": "it is the primary bacterium involved in completing the malolactic fermentation",
+  "source_url": "https://en.wikipedia.org/wiki/Oenococcus_oeni",
+  "note": "Malic-to-lactic conversion and softening not described on page."
+ },
+ {
+  "claim": "The pink 'smoke ring' in barbecued meat is caused by nitric oxide from burning wood reacting with myoglobin.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Maillard_reaction",
+  "note": "Page does not mention the smoke ring or nitric oxide."
+ },
+ {
+  "claim": "Language contact can create new grammatical structures — like the 'serial verb' constructions found in many creoles.",
+  "verdict": "overstated",
+  "corrected_claim": "Language contact can transfer grammatical structures: the Sino-Tibetan language Newar developed noun inflection, a trait typical of Indo-European but rare in Sino-Tibetan, and absorbed features like verb tenses.",
+  "quote": "it has developed noun inflection, a trait that is typical of the Indo-European family but rare in Sino-Tibetan ... Newar has also absorbed grammatical features like verb tenses.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_contact",
+  "note": "Page does not mention serial verb constructions in creoles."
+ },
+ {
+  "claim": "Spanish moss is not a moss but a flowering plant in the pineapple family that absorbs water and nutrients from the air.",
+  "verdict": "overstated",
+  "corrected_claim": "Spanish moss is neither a lichen nor a moss but a flowering bromeliad that absorbs water and nutrients through its leaves from the air and rain.",
+  "quote": "it is neither a lichen nor a moss (instead being a member of the bromeliad family, Bromeliaceae) ... absorbs nutrients and water through its own leaves from the air and rain falling upon it.",
+  "source_url": "https://en.wikipedia.org/wiki/Spanish_moss",
+  "note": "Page says bromeliad family; 'pineapple family' not stated"
+ },
+ {
+  "claim": "Carbyne, a chain of carbon atoms linked by alternating single and triple bonds, has a tensile stiffness roughly twice that of graphene.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Carbyne",
+  "note": "Page defines carbyne as a carbon radical with a single bond and three non-bonded electrons; no alternating bonds or graphene stiffness comparison"
+ },
+ {
+  "claim": "macOS is based on Darwin, a Unix-like system — this is why Mac terminals feel familiar to Linux users.",
+  "verdict": "overstated",
+  "corrected_claim": "macOS is a UNIX 03-certified system whose Darwin layer provides the standard Unix facilities from the command line, so much software written for Linux can be recompiled to run on it.",
+  "quote": "the standard Unix facilities available from the command line interface. ... many software packages written for the other Unix-like systems including Linux can be recompiled to run on it.",
+  "source_url": "https://en.wikipedia.org/wiki/MacOS",
+  "note": "Page does not say terminals feel familiar to Linux users."
+ },
+ {
+  "claim": "Propionibacterium freudenreichii creates the holes in Swiss cheese by producing CO2 bubbles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When Emmental cheese is being produced, P. freudenreichii ferments lactate to form acetate, propionate, and carbon dioxide ... the carbon dioxide byproduct is responsible for forming the holes, or \"eyes\" in the cheese.",
+  "source_url": "https://en.wikipedia.org/wiki/Propionibacterium_freudenreichii",
+  "note": ""
+ },
+ {
+  "claim": "Low and slow cooking (around 95-110°C) converts tough collagen in meat to soft gelatin without squeezing out moisture.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Ethiopian languages from different families (Semitic, Cushitic, Omotic) share features like ejective consonants — from centuries of contact.",
+  "verdict": "overstated",
+  "corrected_claim": "In the hypothesized Ethiopian language area, Ethio-Semitic, Cushitic and Omotic languages share a number of phonological and morphosyntactic features found widely across Ethiopia and Eritrea.",
+  "quote": "a number of phonological and morphosyntactic features that were found widely across Ethiopia and Eritrea",
+  "source_url": "https://en.wikipedia.org/wiki/Ethiopian_language_area",
+  "note": "Page does not name ejectives as a shared feature or attribute it to centuries of contact; area is hypothesized"
+ },
+ {
+  "claim": "Air plants (Tillandsia) have trichomes—specialized scales—that absorb water and nutrients directly from humid air.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "specialized cells (trichomes) capable of rapidly absorbing water that gathers on them ... Species of Tillandsia also absorb their nutrients from debris and dust in the air.",
+  "source_url": "https://en.wikipedia.org/wiki/Tillandsia",
+  "note": ""
+ },
+ {
+  "claim": "Limpet teeth are the strongest known biological material, made of goethite nanofibers within a protein matrix, with tensile strength between 3.0 and 6.5 GPa.",
+  "verdict": "overstated",
+  "corrected_claim": "Limpet teeth, reinforced by goethite nanofibers in a chitin matrix, outperform spider silk as the strongest known biological material, with tensile strengths between 3.0 and 6.5 GPa.",
+  "quote": "limpet teeth outperforms spider silk to be the strongest biological material ... tensile strength values range between 3.0 and 6.5 GPa",
+  "source_url": "https://en.wikipedia.org/wiki/Limpet",
+  "note": "Page mostly describes the matrix as chitin, not protein."
+ },
+ {
+  "claim": "Steve Jobs bought NeXT, then Apple acquired NeXT in 1996 — NeXTSTEP became the foundation for Mac OS X (now macOS) and iOS.",
+  "verdict": "overstated",
+  "corrected_claim": "Steve Jobs founded NeXT in 1985 after being ousted from Apple; Apple acquired NeXT in 1997 for $427 million and used its software as the foundation for Mac OS X (later macOS).",
+  "quote": "It was founded in 1985 by Steve Jobs, the Apple Computer co-founder who had been ousted from Apple earlier that year. ... In 1997, Apple acquired NeXT for $427 million. ... Apple used NeXT's software technologies as the foundation for Rhapsody, Mac OS X (later macOS)",
+  "source_url": "https://en.wikipedia.org/wiki/NeXT",
+  "note": "Jobs founded (not bought) NeXT; page gives 1997; iOS not mentioned."
+ },
+ {
+  "claim": "Bacillus thuringiensis (Bt) produces insecticidal toxins — the basis of organic pesticides and GMO crops.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Upon sporulation, B. thuringiensis forms crystals of two types of proteinaceous insecticidal delta endotoxins ... In 1996, genetically modified maize producing Bt Cry protein was approved, which killed the European corn borer",
+  "source_url": "https://en.wikipedia.org/wiki/Bacillus_thuringiensis",
+  "note": ""
+ },
+ {
+  "claim": "Carryover cooking means meat continues to cook after removal from heat—the internal temperature can rise 5-10°C while resting.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Sign language is processed in the same brain regions as spoken language — proving language is about structure, not sound.",
+  "verdict": "overstated",
+  "corrected_claim": "Spoken and signed languages both depend on the same left-hemisphere cortical substrate — showing the left hemisphere processes all facets of language, not just speech — though sign language also recruits more right-hemisphere structures.",
+  "quote": "Spoken and signed languages both depend on the same cortical substrate. ... This shows that the left hemisphere is responsible for processing all facets of language, not just speech.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language_in_the_brain",
+  "note": "'Proving' too strong; page notes right-hemisphere differences for sign language"
+ },
+ {
+  "claim": "Some bromeliads form 'tanks' that hold water and create entire ecosystems with frogs, insects, and aquatic plants.",
+  "verdict": "overstated",
+  "corrected_claim": "Tank bromeliads can hold up to 10 litres of water and become little biotic communities — one tank held harvestmen, a spider, wood lice, mites and a small frog.",
+  "quote": "These rosettes can hold as much as 10 L (2.2 imp gal; 2.6 US gal) of water, and be little biotic communities unto themselves.",
+  "source_url": "https://en.wikipedia.org/wiki/Bromeliaceae",
+  "note": "Aquatic plants not mentioned"
+ },
+ {
+  "claim": "Mussel byssus threads can stick to nearly any surface underwater using DOPA (dihydroxyphenylalanine), inspiring development of medical adhesives and waterproof glues.",
+  "verdict": "overstated",
+  "corrected_claim": "Mussel byssus is a remarkable adhesive that is neither degraded nor deformed by water, and it has inspired biomimetic biomedical adhesives.",
+  "quote": "Byssus is a remarkable adhesive, one that is neither degraded nor deformed by water as many synthetic adhesives are. ... Applications of biomimetic byssus adhesive include biomedical adhesives,",
+  "source_url": "https://en.wikipedia.org/wiki/Byssus",
+  "note": "DOPA not named in article body; 'nearly any surface' not stated"
+ },
+ {
+  "claim": "Android's original mascot was designed by Irina Blok in 2007 — the green robot's design was inspired by bathroom symbols.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+  "note": "Page does not mention the mascot, Irina Blok or its inspiration"
+ },
+ {
+  "claim": "Nostoc bacteria can fix nitrogen in rice paddies — natural fertilizer from cyanobacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "Some Nostoc species have nitrogen-fixing heterocysts, can live inside plant tissues providing nitrogen to their host, and Nostoc has been suggested as a biofertilizer.",
+  "quote": "Some species within the genus also have nitrogen-fixing heterocyst filaments enclosed in this membrane. ... Nostoc has also been a suggested biofertilizer, and source of fatty acids for biofuel production.",
+  "source_url": "https://en.wikipedia.org/wiki/Nostoc",
+  "note": "Rice paddies not mentioned."
+ },
+ {
+  "claim": "Ground meat requires higher cooking temperatures than whole cuts because bacteria on the surface get mixed throughout during grinding.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Page does not discuss ground meat or grinding"
+ },
+ {
+  "claim": "Wernicke's area (language comprehension) and Broca's area (speech production) are the main language centers in the brain.",
+  "verdict": "overstated",
+  "corrected_claim": "In the long-dominant Wernicke-Lichtheim-Geschwind model, almost all language input was thought to funnel through Wernicke's area and all output through Broca's area, though later research found the model rests on incorrect symptom-lesion correlations.",
+  "quote": "almost all language input was thought to funnel via Wernicke's area and all language output to funnel via Broca's area ... this model is based on incorrect correlations between symptoms and lesions",
+  "source_url": "https://en.wikipedia.org/wiki/Language_processing_in_the_brain",
+  "note": "Page presents this as the classic model, now considered based on incorrect correlations."
+ },
+ {
+  "claim": "The smallest bromeliad, Tillandsia usneoides, has no roots at all—it hangs from trees and absorbs all nutrients from the air.",
+  "verdict": "overstated",
+  "corrected_claim": "Spanish moss (Tillandsia usneoides) has no roots at all: it hangs from trees in garlands up to 8 m long and absorbs nutrients and water through its leaves from the air and rain.",
+  "quote": "The plant has no roots. ... absorbs nutrients and water through its own leaves from the air and rain falling upon it.",
+  "source_url": "https://en.wikipedia.org/wiki/Tillandsia_usneoides",
+  "note": "Page does not call it the smallest bromeliad (it says widest distribution)."
+ },
+ {
+  "claim": "Gecko feet use van der Waals forces through millions of microscopic hair-like setae, allowing them to stick to surfaces without any liquid adhesive.",
+  "verdict": "overstated",
+  "corrected_claim": "Each square millimetre of a gecko's footpad holds about 14,000 hair-like setae that let it stick to most surfaces without liquids; this was long credited to van der Waals forces, though a 2014 study suggests electrostatic interaction mainly determines adhesion.",
+  "quote": "every square millimetre of a gecko's footpad contains about 14,000 hair-like setae ... adhere to most surfaces without the use of liquids or surface tension ... gecko adhesion is in fact mainly determined by electrostatic interaction",
+  "source_url": "https://en.wikipedia.org/wiki/Gecko",
+  "note": "Page says van der Waals explanation is disputed by a 2014 study"
+ },
+ {
+  "claim": "Android version names were alphabetically ordered desserts from Cupcake (1.5) to Pie (9.0) — Google dropped the public dessert names after Android 10.",
+  "verdict": "overstated",
+  "corrected_claim": "Android's public releases used alphabetical dessert names from Cupcake (1.5) to Pie (9) — Google ended the confectionery theme in 2019, starting with Android 10.",
+  "quote": "a theme used for all releases until Android Pie, with Android 10 and later using a number-only system.",
+  "source_url": "https://en.wikipedia.org/wiki/Android_version_history",
+  "note": "Names were dropped starting with Android 10, not after it"
+ },
+ {
+  "claim": "Spirulina (Arthrospira) is sold as a 'superfood' supplement — cyanobacteria you can eat.",
+  "verdict": "overstated",
+  "corrected_claim": "Spirulina is the dried biomass of cyanobacteria (Arthrospira) that humans can eat, marketed as a dietary supplement.",
+  "quote": "Spirulina is the dried biomass of cyanobacteria (blue-green algae) that can be consumed by humans and animals. ... spirulina products are marketed as a dietary supplement",
+  "source_url": "https://en.wikipedia.org/wiki/Spirulina_(dietary_supplement)",
+  "note": "'Superfood' label not on page"
+ },
+ {
+  "claim": "Aged beef develops flavor partly from enzymes naturally present in the meat breaking down proteins and fats over weeks.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Damage to Broca's area causes difficulty speaking but leaves comprehension intact — damage to Wernicke's area does the opposite.",
+  "verdict": "overstated",
+  "corrected_claim": "Broca's (expressive) aphasia causes halted, effortful speech with comprehension relatively well preserved, while Wernicke's (receptive) aphasia brings fluent but nonsensical speech with marked difficulty understanding words.",
+  "quote": "characterized by halted, fragmented, effortful speech, but well-preserved comprehension relative to expression. ... characterized by fluent speech, but marked difficulties understanding words and sentences.",
+  "source_url": "https://en.wikipedia.org/wiki/Aphasia",
+  "note": "Comprehension is only relatively preserved ('to varying degrees'), not fully intact"
+ },
+ {
+  "claim": "Mangroves have evolved salt-excreting glands and can grow in seawater—critical coastal ecosystems for fish nurseries.",
+  "verdict": "overstated",
+  "corrected_claim": "Mangroves are salt-tolerant trees that can live in pure seawater, excluding salt through their roots and secreting it through their leaves, and their forests serve as nurseries for marine animals.",
+  "quote": "Halophytes exclude salt through their roots, secrete the accumulated salt through their aerial parts ... range from brackish water, through pure seawater (3 to 4% salinity) ... Larger marine organisms benefit from the habitat as a nursery for their offspring.",
+  "source_url": "https://en.wikipedia.org/wiki/Mangrove",
+  "note": "Page does not specifically mention salt glands."
+ },
+ {
+  "claim": "Abalone shell is made of calcium carbonate but is 3,000 times more fracture-resistant than the mineral alone due to its brick-and-mortar microstructure.",
+  "verdict": "overstated",
+  "corrected_claim": "Abalone shell is a tightly packed calcium carbonate matrix layered with protein, so a blow to it tends to shed layers rather than crack or shatter.",
+  "quote": "The shell of the abalone is exceptionally strong and is composed of a tightly packed calcium carbonate matrix.",
+  "source_url": "https://en.wikipedia.org/wiki/Abalone",
+  "note": "3,000x figure and brick-and-mortar microstructure not on page"
+ },
+ {
+  "claim": "ChromeOS boots in about 8 seconds and auto-updates — it's essentially a web browser as an operating system, designed for cloud-first computing.",
+  "verdict": "overstated",
+  "corrected_claim": "At its 2009 unveiling ChromeOS booted in seven seconds; it uses the Chrome web browser as its principal user interface and was designed so applications and user data reside in the cloud, with automatic updates.",
+  "quote": "the operating system booted up in seven seconds, a time Google said it would work to reduce. ... the Google Chrome web browser as its principal user interface",
+  "source_url": "https://en.wikipedia.org/wiki/ChromeOS",
+  "note": "Source says seven seconds (2009 demo), not about 8"
+ },
+ {
+  "claim": "Xanthomonas campestris produces xanthan gum — the thickener in salad dressings and ice cream.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Xanthan gum derives its name from the species of bacteria used during the fermentation process, Xanthomonas campestris. ... In foods, xanthan gum is a common ingredient in salad dressings and sauces. ... it helps create the desired texture in many ice creams.",
+  "source_url": "https://en.wikipedia.org/wiki/Xanthan_gum",
+  "note": ""
+ },
+ {
+  "claim": "Seafood should smell like the ocean, not 'fishy'—a strong fish smell indicates trimethylamine buildup from bacterial decomposition.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Page does not mention seafood smell or trimethylamine"
+ },
+ {
+  "claim": "Aphasia (language loss from brain injury) affects about 1 million Americans — more people than have Parkinson's disease.",
+  "verdict": "wrong",
+  "corrected_claim": "Aphasia affects about two million people in the U.S., and nearly 180,000 people acquire it every year, 170,000 of them due to stroke.",
+  "quote": "Aphasia affects about two million people in the U.S. and 250,000 people in Great Britain.",
+  "source_url": "https://en.wikipedia.org/wiki/Aphasia",
+  "note": "Source says about two million, not 1 million; Parkinson's comparison not on page"
+ },
+ {
+  "claim": "Mangrove prop roots create habitat for countless marine species while stabilizing shorelines against erosion and storms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The unique ecosystem found in the intricate mesh of mangrove roots offers a quiet marine habitat for young organisms. ... Mangrove swamps protect coastal areas from erosion, storm surge (especially during tropical cyclones), and tsunamis.",
+  "source_url": "https://en.wikipedia.org/wiki/Mangrove",
+  "note": ""
+ },
+ {
+  "claim": "Wood is a natural composite material of cellulose fibers embedded in a lignin matrix, inspiring artificial fiber-reinforced composites.",
+  "verdict": "overstated",
+  "corrected_claim": "Wood is a natural composite: cellulose fibers that are strong in tension, embedded in a matrix of lignin and hemicelluloses that resists compression.",
+  "quote": "a natural composite of cellulosic fibers that are strong in tension ... embedded in a matrix of lignin and hemicelluloses that resists compression.",
+  "source_url": "https://en.wikipedia.org/wiki/Wood",
+  "note": "Page does not say wood inspired artificial fiber-reinforced composites"
+ },
+ {
+  "claim": "The Apple M1 chip (2020) marked Apple's transition from Intel to custom ARM processors — it outperformed many Intel chips while using far less power.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Apple_M1",
+  "note": "Page has only infobox/tables; no text on Intel transition or performance/power"
+ },
+ {
+  "claim": "Leuconostoc mesenteroides ferments sauerkraut and pickles — preserving vegetables without refrigeration.",
+  "verdict": "overstated",
+  "corrected_claim": "Leuconostoc mesenteroides is commonly used to sour cucumbers and cabbage into kimchi, sauerkraut and pickles; the lactic acid it produces lowers pH and inhibits competing spoilage organisms.",
+  "quote": "This microbe is commonly used for souring vegetables like cucumbers and cabbage ... inhibits other competing food spoilage organism's growth as they cannot tolerate the acidic environment.",
+  "source_url": "https://en.wikipedia.org/wiki/Leuconostoc_mesenteroides",
+  "note": "Page does not mention preservation without refrigeration."
+ },
+ {
+  "claim": "Shrimp and lobster turn pink when cooked because heat releases astaxanthin, a pigment normally bound to proteins.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Some stroke patients lose the ability to use grammar but retain vocabulary — showing these are separate brain systems.",
+  "verdict": "overstated",
+  "corrected_claim": "People with agrammatism, seen in conditions like expressive aphasia and traumatic brain injury, speak mainly in content words while lacking function words.",
+  "quote": "containing mainly content words, with a lack of function words.",
+  "source_url": "https://en.wikipedia.org/wiki/Agrammatism",
+  "note": "Page favors a network view; 'separate brain systems' and stroke not stated"
+ },
+ {
+  "claim": "Seagrasses are the only flowering plants adapted to live completely underwater in marine environments.",
+  "verdict": "overstated",
+  "corrected_claim": "Seagrasses are the only land plants (embryophytes) that grow in marine environments, and most species are even pollinated and complete their life cycle underwater.",
+  "quote": "Seagrasses are the only embryophytes (commonly referred to as \"land plants\") which grow in marine environments. ... Most species undergo submarine pollination and complete their life cycle underwater.",
+  "source_url": "https://en.wikipedia.org/wiki/Seagrass",
+  "note": "Page says most species complete life cycle underwater, not all"
+ },
+ {
+  "claim": "Conductive polymers like polyacetylene can conduct electricity while remaining lightweight and flexible, earning their discoverers the 2000 Nobel Prize in Chemistry.",
+  "verdict": "overstated",
+  "corrected_claim": "Heeger, MacDiarmid and Shirakawa showed in 1977 that doping polyacetylene could make an organic polymer highly conductive, winning the 2000 Nobel Prize in Chemistry.",
+  "quote": "reported that halogen doping of polyacetylene could produce high electrical conductivity in an organic polymer. ... they were awarded the 2000 Nobel Prize in Chemistry for the discovery and development of conductive polymers.",
+  "source_url": "https://en.wikipedia.org/wiki/Conductive_polymer",
+  "note": "'Lightweight and flexible' not stated on page"
+ },
+ {
+  "claim": "ARM processors power 95% of smartphones — their low power consumption made mobile computing practical.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2010, ARM-based processors represented 95% of smartphones — their low power consumption makes them ideal for light, battery-powered devices.",
+  "quote": "In 2010, producers of chips based on ARM architectures reported shipments of 6.1 billion ARM-based processors, representing 95% of smartphones, 35% of digital televisions and set-top boxes, and 10% of mobile computers.",
+  "source_url": "https://en.wikipedia.org/wiki/ARM_architecture",
+  "note": "95% figure is from 2010, not current"
+ },
+ {
+  "claim": "Gluconobacter oxydans partially oxidizes glucose to gluconic acid — used industrially for vitamin C production.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Gluconobacter",
+  "note": "Page does not mention gluconic acid or vitamin C production"
+ },
+ {
+  "claim": "Oysters are alive when you eat them raw—a dead oyster will be unsafe to eat and potentially dangerous.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Page does not discuss live vs dead oysters"
+ },
+ {
+  "claim": "The FOXP2 gene is crucial for language — mutations cause severe speech and language disorders.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "FOXP2 is also required for the proper development of speech and language in humans. ... In humans, mutations in FOXP2 cause the severe speech and language disorder developmental verbal dyspraxia.",
+  "source_url": "https://en.wikipedia.org/wiki/FOXP2",
+  "note": ""
+ },
+ {
+  "claim": "A Mediterranean seagrass (Posidonia oceanica) clone may be over 100,000 years old—among the oldest living organisms.",
+  "verdict": "overstated",
+  "corrected_claim": "A Mediterranean seagrass (Posidonia oceanica) clone has been estimated at 100,000 years old, and may be one of the largest and oldest clonal colonies on Earth.",
+  "quote": "estimated at 100,000 years old ... it may be one of the largest and oldest clonal colonies on Earth",
+  "source_url": "https://en.wikipedia.org/wiki/Posidonia_oceanica",
+  "note": "Page says estimated at 100,000 years, not over 100,000"
+ },
+ {
+  "claim": "PEDOT:PSS is a conductive polymer that can be printed like ink, enabling flexible displays, solar cells, and electronic textiles.",
+  "verdict": "overstated",
+  "corrected_claim": "PEDOT:PSS is made into special inks for inkjet and other printing processes, and is used in organic solar cells, OLEDs and conductive textiles.",
+  "quote": "Special PEDOT:PSS inks and formulations were developed for different coating and printing processes. ... PEDOT:PSS is also attractive for conductive textile applications.",
+  "source_url": "https://en.wikipedia.org/wiki/PEDOT:PSS",
+  "note": "Flexible displays not mentioned on page"
+ },
+ {
+  "claim": "The Intel 4004, the first commercial microprocessor (1971), had 2,300 transistors and ran at 740 kHz — modern chips have billions of transistors at GHz speeds.",
+  "verdict": "overstated",
+  "corrected_claim": "The Intel 4004, released on November 15, 1971, became the first commercial microprocessor available for general use; its single chip contained 2,300 transistors and had a maximum clock rate of 740 kHz.",
+  "quote": "The 4004 became the first commercial microprocessor available for general use. ... released by the Intel Corporation on November 15, 1971 ... allowing a single chip to contain 2,300 transistors ... Maximum clock rate is 740 kHz.",
+  "source_url": "https://en.wikipedia.org/wiki/Intel_4004",
+  "note": "Comparison to modern chips (billions of transistors, GHz) is not on the page."
+ },
+ {
+  "claim": "Mimicry virus (Mimivirus) was mistaken for a bacterium for years due to its giant size — over 400 nm.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The virus was observed in a Gram stain and mistakenly thought to be a Gram-positive bacterium. ... Mimivirus has a capsid diameter of 400 nm.",
+  "source_url": "https://en.wikipedia.org/wiki/Mimivirus",
+  "note": "'Over 400 nm' rounding of 400 nm capsid; 'mimicking microbe' name."
+ },
+ {
+  "claim": "Ciguatera poisoning from reef fish cannot be detected by taste, smell, or appearance, and cooking doesn't destroy the toxin.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_poisoning",
+  "note": "Ciguatera only named in lists; no detection or cooking details"
+ },
+ {
+  "claim": "Neanderthals had a version of FOXP2 similar to humans — suggesting they may have had some language capacity.",
+  "verdict": "overstated",
+  "corrected_claim": "DNA from Neanderthal bones shows their FOXP2 gene was a little different from, though largely similar to, that of modern humans.",
+  "quote": "DNA sampling from Homo neanderthalensis bones indicates that their FOXP2 gene is a little different though largely similar to those of Homo sapiens (i.e. humans).",
+  "source_url": "https://en.wikipedia.org/wiki/FOXP2",
+  "note": "Page does not conclude Neanderthals had language capacity"
+ },
+ {
+  "claim": "Seagrass meadows can store carbon up to 35 times faster than tropical rainforests—critical 'blue carbon' ecosystems.",
+  "verdict": "overstated",
+  "corrected_claim": "Per hectare, seagrass holds twice as much carbon dioxide as rain forests, and seagrass meadows account for more than 10% of the ocean's total carbon storage.",
+  "quote": "Per hectare, it holds twice as much carbon dioxide as rain forests ... These meadows account for more than 10% of the ocean's total carbon storage.",
+  "source_url": "https://en.wikipedia.org/wiki/Seagrass",
+  "note": "Page gives twice as much per hectare, not 35 times faster"
+ },
+ {
+  "claim": "Shape-memory polymers are polymeric 'smart materials' that can return from a deformed state to their original shape when triggered by heat, light, or other stimuli.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Shape-memory polymers (SMPs) are polymeric smart materials that have the ability to return from a deformed state (temporary shape) to their original (permanent) shape when induced by an external stimulus (trigger), such as temperature change.",
+  "source_url": "https://en.wikipedia.org/wiki/Shape-memory_polymer",
+  "note": ""
+ },
+ {
+  "claim": "Hard drives store data magnetically on spinning platters — the read/write head floats just 3 nanometers above the surface, closer than the width of a DNA strand.",
+  "verdict": "wrong",
+  "corrected_claim": "Hard drives record data by magnetizing a thin film on spinning disks, with the heads flying often just tens of nanometers above the surface.",
+  "quote": "A modern HDD records data by magnetizing a thin film of ferromagnetic material on both sides of a disk. ... with their flying height often in the range of tens of nanometers.",
+  "source_url": "https://en.wikipedia.org/wiki/Hard_disk_drive",
+  "note": "Page gives flying height of tens of nanometers, not 3 nm; no DNA comparison"
+ },
+ {
+  "claim": "Sputnik virophage infects Mimivirus and reduces its replication — a virus parasite of a virus.",
+  "verdict": "overstated",
+  "corrected_claim": "Sputnik virophage multiplies in amoebae only if they are infected with the giant mamavirus, and inhibits its helper's replication — acting as a parasite of a virus.",
+  "quote": "but only if that amoeba is infected with the large mamavirus ... Sputnik uses the helper virus's machinery for reproduction and inhibits replication of the helper virus. ... inhibited replication of its helper virus and thus acted as a parasite of that virus",
+  "source_url": "https://en.wikipedia.org/wiki/Sputnik_virophage",
+  "note": "Page names mamavirus as helper, not Mimivirus"
+ },
+ {
+  "claim": "Mercury accumulates in large predatory fish like tuna and swordfish—pregnant women are advised to limit consumption.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Page does not mention mercury in fish or pregnancy advice"
+ },
+ {
+  "claim": "Language likely evolved 50,000-100,000 years ago — but we have no direct evidence since it doesn't fossilize.",
+  "verdict": "overstated",
+  "corrected_claim": "Estimates for when language emerged vary widely, from about 200,000 to 60,000 years ago, and its emergence has left no direct historical traces.",
+  "quote": "language emerged approximately between 200,000 years ago and 60,000 years ago ... the relevant developments have left no direct historical traces",
+  "source_url": "https://en.wikipedia.org/wiki/Origin_of_language",
+  "note": "No 50,000-100,000 range on page; fossilization not mentioned."
+ },
+ {
+  "claim": "The titan arum can reach 3 meters (10 feet) tall and produce a smell detectable from half a mile away.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The inflorescence can reach over 3 m (10 ft) in height. ... The smell is detectable up to 800 m (0.50 mi) away.",
+  "source_url": "https://en.wikipedia.org/wiki/Amorphophallus_titanum",
+  "note": ""
+ },
+ {
+  "claim": "Ultra-high-molecular-weight polyethylene (UHMWPE) is used in bulletproof vests and artificial joints—it's 15 times more abrasion-resistant than carbon steel.",
+  "verdict": "overstated",
+  "corrected_claim": "Ultra-high-molecular-weight polyethylene is used in personal armor plates and has a clinical history as a biomaterial in hip, knee and spine implants.",
+  "quote": "Derivatives of UHMWPE yarn are used in composite plates in armor, in particular, personal armor ... UHMWPE has a clinical history as a biomaterial for use in hip, knee, and (since the 1980s), for spine implants.",
+  "source_url": "https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene",
+  "note": "'15 times more abrasion-resistant than carbon steel' not on page"
+ },
+ {
+  "claim": "SSDs have no moving parts and can read data 100x faster than HDDs — but they have limited write cycles before cells wear out.",
+  "verdict": "overstated",
+  "corrected_claim": "SSDs have no moving parts, allowing faster data access than hard drives — but their cells wear out after a limited number of writes.",
+  "quote": "SSDs have no moving parts, allowing them to deliver faster data access speeds ... However, SSD cells wear out after a limited number of writes.",
+  "source_url": "https://en.wikipedia.org/wiki/Solid-state_drive",
+  "note": "No '100x faster' figure on page"
+ },
+ {
+  "claim": "Pithovirus sibericum was revived after 30,000 years frozen in Siberian permafrost — still infectious.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was discovered in 2014, when a viable specimen was found in a 30,000-year-old ice core harvested from permafrost in Siberia, Russia.",
+  "source_url": "https://en.wikipedia.org/wiki/Pithovirus",
+  "note": ""
+ },
+ {
+  "claim": "Salmon flesh is naturally gray—wild salmon get their pink color from astaxanthin in the shrimp and krill they eat.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Human infants can perceive and produce all possible speech sounds — specialization to native sounds happens within the first year.",
+  "verdict": "overstated",
+  "corrected_claim": "From birth until about six months, infants can discriminate the phonetic contrasts of all languages; after that they perceive only the phonemes of the language they are learning.",
+  "quote": "infants can discriminate the phonetic contrasts of all languages ... After this age, the child is able to perceive only the phonemes specific to the language being learned.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": "Page says infants cannot yet produce the sounds, and the window is about six months, not the first year."
+ },
+ {
+  "claim": "Some plants have C4 photosynthesis, a more efficient method for hot, dry environments—including corn, sugarcane, and many grasses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "C4 plants have a competitive advantage over plants possessing the more common C3 carbon fixation pathway under conditions of drought, high temperatures ... the food crops maize, sugar cane, and sorghum ... 46% of grasses are C4",
+  "source_url": "https://en.wikipedia.org/wiki/C4_carbon_fixation",
+  "note": ""
+ },
+ {
+  "claim": "Dyneema (UHMWPE fiber) has the highest strength-to-weight ratio of any fiber, 15 times stronger than steel on a weight basis, and floats on water.",
+  "verdict": "overstated",
+  "corrected_claim": "UHMWPE fibers like Dyneema have strength-to-weight ratios eight times those of high-strength steels, and ropes made from them float on sea water.",
+  "quote": "these materials have strength-to-weight ratios eight times those of high-strength steels. ... Ships' hawsers and cables made from the fiber (0.97 specific gravity) float on sea water.",
+  "source_url": "https://en.wikipedia.org/wiki/Dyneema",
+  "note": "Page says 8 times steel, not 15, and does not call it the highest of any fiber"
+ },
+ {
+  "claim": "RAM loses all data when power is removed (volatile memory) — this is why you lose unsaved work when your computer crashes.",
+  "verdict": "overstated",
+  "corrected_claim": "RAM is volatile: both static and dynamic RAM lose their stored state when power is removed from the system.",
+  "quote": "Both static and dynamic RAM are considered volatile, as their state is lost when power is removed from the system.",
+  "source_url": "https://en.wikipedia.org/wiki/Random-access_memory",
+  "note": "Page says 'normally' volatile; crash/unsaved-work explanation not on page"
+ },
+ {
+  "claim": "Mollivirus was awakened from 30,000-year-old permafrost in 2015 — ancient giant virus resurrection.",
+  "verdict": "overstated",
+  "corrected_claim": "Mollivirus, a giant virus, was discovered by French researchers in 2015 in a 30,000-year-old sample of Siberian permafrost.",
+  "quote": "discovered in 2015 by French researchers ... in a 30,000-year-old sample of Siberian permafrost",
+  "source_url": "https://en.wikipedia.org/wiki/Mollivirus",
+  "note": "Page does not say the virus was revived/awakened."
+ },
+ {
+  "claim": "Farmed salmon are often fed synthetic astaxanthin to give them the pink color consumers expect.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science overview page does not mention this topic"
+ },
+ {
+  "claim": "Motherese (infant-directed speech) has exaggerated intonation and simplified vocabulary — it helps babies learn language.",
+  "verdict": "overstated",
+  "corrected_claim": "Baby talk has higher, wider pitch, shorter utterances and limited vocabulary, and research suggests it may help babies pick up words faster — though some argue its role in learning grammar is overestimated.",
+  "quote": "CDS has higher and wider pitch, slower speech rate and shorter utterances. ... found that using basic \"baby talk\" may support babies in picking up words faster.",
+  "source_url": "https://en.wikipedia.org/wiki/Baby_talk",
+  "note": "Source hedges ('may support') and notes researchers who say its role is overestimated"
+ },
+ {
+  "claim": "CAM photosynthesis in cacti and succulents opens stomata at night to reduce water loss, storing CO2 for daytime use.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the stomata in the leaves remain shut during the day to reduce transpiration ... they open at night to collect carbon dioxide (CO2) ... The CO2 is stored as four-carbon malic acid in vacuoles at night ... CAM is found in over 99% of the known 1700 species of Cactaceae",
+  "source_url": "https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism",
+  "note": ""
+ },
+ {
+  "claim": "Gallium arsenide solar cells are more efficient than silicon cells and are used on Mars rovers and satellites, converting up to 29% of sunlight to electricity.",
+  "verdict": "overstated",
+  "corrected_claim": "The best gallium arsenide solar cells surpassed silicon cells in efficiency, took over as the most common cell for satellites, powered the Mars Exploration Rovers, and hold the single-junction efficiency record of 29.1% (as of 2019).",
+  "quote": "the efficiency of the best GaAs solar cells surpassed that of conventional, crystalline silicon-based solar cells ... This kind of solar cell powered the Mars Exploration Rovers ... GaAs-based devices hold the world record for the highest-efficiency single-junction solar cell at 29.1% (as of 2019).",
+  "source_url": "https://en.wikipedia.org/wiki/Gallium_arsenide",
+  "note": "29% is the single-junction record, not a ceiling; multi-junction GaAs cells go higher"
+ },
+ {
+  "claim": "CPU cache is 100x faster than main memory — modern CPUs have multiple cache levels (L1, L2, L3) to bridge the memory speed gap.",
+  "verdict": "overstated",
+  "corrected_claim": "Main memory can be tens to hundreds of times slower to access than CPU cache, so computers use multiple cache levels — small fast caches backed by larger, slower ones, with some processors using three on-chip levels.",
+  "quote": "main memory which may be tens to hundreds of times slower to access ... many computers use multiple levels of cache, with small fast caches backed up by larger, slower caches",
+  "source_url": "https://en.wikipedia.org/wiki/CPU_cache",
+  "note": "Page says tens to hundreds of times, not a flat 100x"
+ },
+ {
+  "claim": "Viruses may have originated from ancient cells that became parasitic — the 'regressive hypothesis'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Viruses may have once been small cells that parasitized larger cells.",
+  "source_url": "https://en.wikipedia.org/wiki/Viral_evolution",
+  "note": "Page also calls it the degeneracy or reduction hypothesis"
+ },
+ {
+  "claim": "Cooking shrimp from frozen often gives better results than thawing first—they're flash-frozen at sea at peak freshness.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Page does not mention shrimp or flash-freezing at sea"
+ },
+ {
+  "claim": "Children in all cultures go through similar language acquisition stages — babbling, one-word, two-word, and complex sentences.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": "Page does not describe similar acquisition stages across all cultures."
+ },
+ {
+  "claim": "The saguaro cactus can live over 150 years and doesn't grow its first arm until around 75-100 years of age.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Saguaros have a relatively long lifespan, often exceeding 150 years. ... They may grow their first side arm around 75–100 years of age, but some never grow any arms.",
+  "source_url": "https://en.wikipedia.org/wiki/Saguaro",
+  "note": ""
+ },
+ {
+  "claim": "Perovskite solar cells went from 3.8% efficiency in 2009 to over 25% by 2020—the fastest efficiency improvement of any solar technology in history.",
+  "verdict": "overstated",
+  "corrected_claim": "Perovskite solar cell lab efficiencies rose from 3.8% in 2009 to 27% in 2025, making them the fastest-advancing solar technology as of 2016.",
+  "quote": "Solar-cell efficiencies of laboratory-scale devices using these materials have increased from 3.8% in 2009 to 27% in 2025 in single-junction architectures ... Perovskite solar cells have therefore been the fastest-advancing solar technology as of 2016",
+  "source_url": "https://en.wikipedia.org/wiki/Perovskite_solar_cell",
+  "note": "'In history' and 'by 2020' not on page; claim is dated 'as of 2016'"
+ },
+ {
+  "claim": "Spectre and Meltdown (2018) exploited CPU speculative execution — hardware optimizations that had been used for 20 years suddenly became security vulnerabilities.",
+  "verdict": "overstated",
+  "corrected_claim": "Spectre, made public alongside Meltdown on 3 January 2018, exploits side effects of speculative execution — and as of 2018 almost every computer system was affected.",
+  "quote": "It was made public in conjunction with another vulnerability, Meltdown, on 3 January 2018, ... They are all based on exploiting side effects of speculative execution, ... As of 2018, almost every computer system is affected by Spectre, including desktops, laptops, and mobile devices.",
+  "source_url": "https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)",
+  "note": "'used for 20 years' not supported by page"
+ },
+ {
+  "claim": "Tobacco mosaic virus was the first virus discovered (1898) — crystallized to prove viruses weren't cells.",
+  "verdict": "overstated",
+  "corrected_claim": "Tobacco mosaic virus was the first virus to be discovered, with evidence from Ivanovsky (1892) and Beijerinck (1898), and in 1935 it became the first virus ever crystallized, by Wendell Stanley, who showed it stayed active afterwards.",
+  "quote": "TMV was the first virus to be discovered. ... It was achieved by Wendell Meredith Stanley in 1935 who also showed that TMV remains active even after crystallization.",
+  "source_url": "https://en.wikipedia.org/wiki/Tobacco_mosaic_virus",
+  "note": "Page does not say crystallization proved viruses weren't cells; discovery evidence starts 1892."
+ },
+ {
+  "claim": "MSG sensitivity ('Chinese Restaurant Syndrome') has never been proven in double-blind studies—it appears to be a myth.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "While some people identify themselves as sensitive to MSG ... transient, mild symptoms in a few of the subjects",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "Page does not mention double-blind studies or a myth; it reports an FDA-commissioned study found transient, mild symptoms in a few subjects"
+ },
+ {
+  "claim": "Children produce about 50 words by 18 months, then vocabulary explodes to several thousand words by age 6.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "By the age of eighteen months, children typically attain a vocabulary of 50 words in production. ... By age 6, they have approximately 2,600 words of expressive vocabulary and 20,000–24,000 words of receptive vocabulary.",
+  "source_url": "https://en.wikipedia.org/wiki/Vocabulary_development",
+  "note": ""
+ },
+ {
+  "claim": "A large saguaro can store up to 200 gallons (760 liters) of water after a rain and can go two years without rain.",
+  "verdict": "overstated",
+  "corrected_claim": "A saguaro can absorb and store considerable amounts of rainwater, which lets it survive periods of drought.",
+  "quote": "A saguaro can absorb and store considerable amounts of rainwater ... This characteristic enables the saguaro to survive during periods of drought.",
+  "source_url": "https://en.wikipedia.org/wiki/Saguaro",
+  "note": "200 gallons and two years without rain not on page"
+ },
+ {
+  "claim": "Boron nitride nanotubes are structurally similar to carbon nanotubes but electrically insulating and can withstand higher temperatures (up to 900°C in air).",
+  "verdict": "overstated",
+  "corrected_claim": "Boron nitride nanotubes are structurally similar to carbon nanotubes but are electrical insulators, stable in oceanic and atmospheric conditions up to 800 °C.",
+  "quote": "Structurally they are similar to carbon nanotubes ... a BN nanotube is an electrical insulator with a bandgap of ~5.5 eV ... stability in both oceanic and atmospheric conditions up to 800 °C",
+  "source_url": "https://en.wikipedia.org/wiki/Boron_nitride_nanotube",
+  "note": "Page gives 800 °C in atmosphere; 900 °C not stated for air"
+ },
+ {
+  "claim": "The 'von Neumann bottleneck' refers to the limited speed between CPU and memory — it's been a fundamental constraint on computing since the 1940s.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'von Neumann bottleneck' is the limited data transfer rate between the CPU and memory, a problem described by John Backus in his 1977 Turing Award lecture that grows with every CPU generation.",
+  "quote": "the von Neumann bottleneck, the limited throughput (data transfer rate) between the central processing unit ... The von Neumann bottleneck was described by John Backus in his 1977 ACM Turing Award lecture.",
+  "source_url": "https://en.wikipedia.org/wiki/Von_Neumann_architecture",
+  "note": "Page gives no 'since the 1940s' start for the constraint"
+ },
+ {
+  "claim": "Porcine circovirus is one of the smallest viruses at 17 nm — barely larger than a ribosome.",
+  "verdict": "overstated",
+  "corrected_claim": "Porcine circoviruses are the smallest viruses replicating autonomously in eukaryotic cells, with an icosahedral capsid only about 17 nm across.",
+  "quote": "The viral capsid is icosahedral and approximately 17 nm in diameter. ... PCVs are the smallest viruses replicating autonomously in eukaryotic cells.",
+  "source_url": "https://en.wikipedia.org/wiki/Porcine_circovirus",
+  "note": "Ribosome comparison not on page; superlative is limited to autonomously replicating viruses in eukaryotic cells"
+ },
+ {
+  "claim": "The nocebo effect may explain reported MSG reactions—people who expect to feel bad after eating MSG often do, regardless of actual content.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "Nocebo effect not mentioned on the Umami page"
+ },
+ {
+  "claim": "The 'vocabulary spurt' around 18 months happens when children realize everything has a name — they start asking 'what's that?' constantly.",
+  "verdict": "overstated",
+  "corrected_claim": "Children often go through a 'vocabulary spurt', a period when the number of words they learn accelerates.",
+  "quote": "A vocabulary spurt often occurs over time as the number of words learned accelerates.",
+  "source_url": "https://en.wikipedia.org/wiki/Vocabulary_development",
+  "note": "Page does not link the spurt to realizing everything has a name or to constant 'what's that?' questions"
+ },
+ {
+  "claim": "The largest saguaro on record was 78 feet (24 m) tall before it blew over in a storm in 1986.",
+  "verdict": "overstated",
+  "corrected_claim": "The tallest saguaro ever measured, an armless specimen near Cave Creek, Arizona, was 78 ft (23.8 m) tall before a windstorm toppled it in 1986.",
+  "quote": "The tallest saguaro ever measured was an armless specimen found near Cave Creek, Arizona. It was 78 ft (23.8 m) in height before it was toppled in 1986 by a windstorm.",
+  "source_url": "https://en.wikipedia.org/wiki/Saguaro",
+  "note": "Page says tallest, not largest"
+ },
+ {
+  "claim": "Hexagonal boron nitride is called 'white graphene' because of its similar structure to graphite, but it's an excellent electrical insulator and lubricant.",
+  "verdict": "overstated",
+  "corrected_claim": "Hexagonal boron nitride, nicknamed 'white graphite' for its graphite-like layers (thin sheets are sometimes called 'white graphene'), is an electrical insulator and a good lubricant at both low and high temperatures.",
+  "quote": "Due to its analogous structure to that of graphene, atomically thin boron nitride is sometimes called white graphene. ... Unlike graphene, which is black and an electrical conductor, h-BN monolayer is white and an insulator. ... It is a good lubricant at both low and high temperatures",
+  "source_url": "https://en.wikipedia.org/wiki/Boron_nitride",
+  "note": "h-BN is 'white graphite'; 'white graphene' is for atomically thin BN"
+ },
+ {
+  "claim": "Edgar Codd invented the relational database model at IBM in 1970 — IBM initially ignored his work, and Oracle implemented it first.",
+  "verdict": "overstated",
+  "corrected_claim": "Edgar Codd invented the relational database model while at IBM, publishing it in 1970, but IBM was slow to exploit it, and Oracle's database reached the market before IBM's own SQL/DS.",
+  "quote": "To his disappointment, IBM proved slow to exploit his suggestions until commercial rivals started implementing them. ... in his Oracle Database, which actually reached the market before SQL/DS",
+  "source_url": "https://en.wikipedia.org/wiki/Edgar_F._Codd",
+  "note": "IBM was slow rather than ignoring it; Oracle beat SQL/DS, page doesn't say it was first overall"
+ },
+ {
+  "claim": "Circoviruses have circular single-stranded DNA — the smallest DNA genomes known in viruses.",
+  "verdict": "overstated",
+  "corrected_claim": "Circoviruses have tiny circular, non-segmented single-stranded DNA genomes only about 3.8 kb long, replicated by a rolling-circle mechanism.",
+  "quote": "Genomes are circular and non-segmented, around 3.8kb in length. Replication follows the ssDNA rolling circle model.",
+  "source_url": "https://en.wikipedia.org/wiki/Circoviridae",
+  "note": "'Smallest DNA genomes known in viruses' not on page"
+ },
+ {
+  "claim": "Eating 'clean' or 'detox' diets has no scientific basis—the liver and kidneys already detoxify the body effectively.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": "Superfood page does not mention detox diets or liver/kidneys"
+ },
+ {
+  "claim": "The critical period for accent-free second language acquisition ends around puberty — later learners usually retain an accent.",
+  "verdict": "overstated",
+  "corrected_claim": "Adult second-language learners nearly always retain an identifiable foreign accent, and some researchers place the end of the critical period at puberty, though some studies found older learners reaching native-like accents.",
+  "quote": "adult second-language learners nearly always retain an immediately identifiable foreign accent ... Some research studies have considered the critical period to be any point before puberty",
+  "source_url": "https://en.wikipedia.org/wiki/Critical_period_hypothesis",
+  "note": "Puberty cutoff is one view among several; page cites counterevidence"
+ },
+ {
+  "claim": "Cacti evolved their spines from leaves—modified leaves that reduce water loss and protect against herbivores.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most species of cacti have lost true leaves, retaining only spines, which are highly modified leaves. As well as defending against herbivores, spines help prevent water loss by reducing air flow close to the cactus and providing some shade.",
+  "source_url": "https://en.wikipedia.org/wiki/Cactus",
+  "note": ""
+ },
+ {
+  "claim": "Cubic boron nitride is the second hardest material after diamond and is used to machine hardened steel because it doesn't react with iron like diamond does.",
+  "verdict": "overstated",
+  "corrected_claim": "Cubic boron nitride is only slightly softer than diamond, and it beats diamond for machining steel because it is insoluble in iron, while diamond dissolves in it.",
+  "quote": "the hardness of bulk c-BN being slightly smaller and w-BN even higher than that of diamond ... c-BN surpasses diamond in mechanical applications, such as machining steel. Its usefulness arises from its insolubility in iron, nickel, and related alloys, whereas diamond is soluble in these metals.",
+  "source_url": "https://en.wikipedia.org/wiki/Boron_nitride",
+  "note": "Page doesn't rank it 'second hardest'; diamond is soluble in iron rather than 'reacting'"
+ },
+ {
+  "claim": "Oracle was founded in 1977 to build the first commercial SQL database — the company was named after a CIA project the founders had worked on.",
+  "verdict": "overstated",
+  "corrected_claim": "Oracle was co-founded in 1977 as Software Development Laboratories, and its name came from the codename of a 1977 CIA project; the CIA was Oracle's first customer.",
+  "quote": "co-founded Oracle on June 16, 1977, in Santa Clara, California, as Software Development Laboratories (SDL). ... The name also drew from the codename of a 1977 project for the Central Intelligence Agency, Oracle's first customer;",
+  "source_url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+  "note": "Page does not say it built the first commercial SQL database."
+ },
+ {
+  "claim": "Polioviruses infect through the intestine but cross into the nervous system — gut infection with neurological consequences.",
+  "verdict": "overstated",
+  "corrected_claim": "Poliovirus infects via the fecal–oral route and replicates in the gastrointestinal tract; paralytic disease occurs only when the virus enters the central nervous system and replicates in motor neurons.",
+  "quote": "Infection occurs via the fecal–oral route, meaning that one ingests the virus ... viral replication occurs in the gastrointestinal tract. ... Paralytic disease occurs when the virus enters the central nervous system (CNS) and replicates in motor neurons",
+  "source_url": "https://en.wikipedia.org/wiki/Poliovirus",
+  "note": "Nervous-system invasion happens only in a minority of cases, page calls it an accidental diversion"
+ },
+ {
+  "claim": "Organic produce isn't more nutritious than conventional—studies show minimal differences in vitamin and mineral content.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": "Superfood page does not mention organic vs conventional nutrition"
+ }
+]

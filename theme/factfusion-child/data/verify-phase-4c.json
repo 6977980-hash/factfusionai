@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "The Internet Archive's Wayback Machine has archived over 835 billion web pages since 1996 — preserving the history of the ephemeral web.",
+  "verdict": "overstated",
+  "corrected_claim": "As of October 2025, the Wayback Machine had archived more than 1 trillion web pages, with the Internet Archive capturing pages since at least 1995.",
+  "quote": "As of October 2025, the Wayback Machine has archived more than 1 trillion web pages and well over 99 petabytes of data.",
+  "source_url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+  "note": "Figure outdated (now over 1 trillion) and archiving dates to at least 1995, not 1996"
+ },
+ {
+  "claim": "Toxoplasma gondii infects 30-50% of humans — possibly altering behavior and risk-taking.",
+  "verdict": "overstated",
+  "corrected_claim": "Up to 50% of the global human population has been exposed to Toxoplasma gondii, and infected people have been found to have a 2.65 times higher risk of getting into a traffic accident.",
+  "quote": "up to 50% of the global population has been exposed to ... Infected subjects have a 2.65 times higher risk of getting into a traffic accident.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": "Page gives 'up to 50% exposed', not 30-50% infected; behaviour link stated as accident risk."
+ },
+ {
+  "claim": "The deepest snowfall ever recorded was 11.82 meters (38.8 feet) on Mount Ibuki, Japan, on February 14, 1927.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Deepest snowfall recorded: 11.82 meters (38.8 ft) on ... Mount Ibuki, Japan on 14 February 1927.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Phosphorene (2D black phosphorus) is a semiconductor with a tunable bandgap, unlike graphene which has none, making it promising for electronics.",
+  "verdict": "overstated",
+  "corrected_claim": "Phosphorene is a competitor to graphene because it has a nonzero band gap that can be tuned by strain and layer number — from 0.3 eV in bulk to 1.88 eV in a monolayer.",
+  "quote": "it has a nonzero fundamental band gap that can be modulated by strain and the number of layers in a stack ... Phosphorene has a thickness dependent direct band gap that changes to 1.88 eV in a monolayer from 0.3 eV in the bulk.",
+  "source_url": "https://en.wikipedia.org/wiki/Phosphorene",
+  "note": "Page does not explicitly say graphene has no band gap"
+ },
+ {
+  "claim": "The Rosetta Code wiki documents solutions to programming tasks in hundreds of languages — revealing both similarities and fascinating differences between languages.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "implementations of common algorithms and solutions to various programming problems in many different programming languages ... 933 computer programming languages that are used to solve tasks ... The Rosetta Code web repository illustrates how desired functionality is implemented very differently in various programming paradigms.",
+  "source_url": "https://en.wikipedia.org/wiki/Rosetta_Code",
+  "note": ""
+ },
+ {
+  "claim": "Toxoplasma can only sexually reproduce in cats — all other hosts are 'dead ends' for its lifecycle.",
+  "verdict": "overstated",
+  "corrected_claim": "Toxoplasma can sexually reproduce only within the intestines of members of the cat family; in all other hosts it reproduces only asexually, making them intermediate hosts.",
+  "quote": "can sexually reproduce only within the intestines of members of the cat family ... All other hosts – in which only asexual reproduction can occur – are intermediate hosts.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": "Other hosts are intermediate hosts, not 'dead ends'."
+ },
+ {
+  "claim": "Mount Baker, Washington, received 29.0 meters (95 feet) of snow in a single season (1998-1999), the world record for seasonal snowfall.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most in one season (1 July – 30 June): 29.0 meters, (95 ft); ... Mount Baker, Washington, United States, 1998 through 1999.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Silicene, stanene, and germanene are 2D materials made from silicon, tin, and germanium respectively, each with unique properties beyond graphene.",
+  "verdict": "overstated",
+  "corrected_claim": "Silicene, a 2D form of silicon, is not flat like graphene but periodically buckled — which gives it a band gap tuneable by an external electric field.",
+  "quote": "Contrary to graphene, silicene is not flat, but has a periodically buckled topology ... Its buckled structure gives silicene a tuneable band gap by applying an external electric field.",
+  "source_url": "https://en.wikipedia.org/wiki/Silicene",
+  "note": "Stanene and germanene not described on page"
+ },
+ {
+  "claim": "Code golf is competitive programming where the shortest source code wins — APL and J programs often win due to their terse syntax.",
+  "verdict": "overstated",
+  "corrected_claim": "Code golf is a recreational programming competition to write the shortest possible source code for a problem; it inspired ultra-terse 'golfing' languages like Jelly, itself influenced by APL and J.",
+  "quote": "Code golf is a type of recreational computer programming competition in which participants strive to achieve the shortest possible source code ... a similar informal competition is known to have been popular with earlier APL hackers.",
+  "source_url": "https://en.wikipedia.org/wiki/Code_golf",
+  "note": "Page does not say APL and J programs often win"
+ },
+ {
+  "claim": "Giardia lamblia has two nuclei per cell — giving it a 'face-like' appearance under microscopy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Notably, each G. duodenalis cell has two nuclei, both of which actively transcribe genes. ... If the organism is stained, its characteristic pattern resembles the familiar \"smiley face\" symbol.",
+  "source_url": "https://en.wikipedia.org/wiki/Giardia_lamblia",
+  "note": ""
+ },
+ {
+  "claim": "Marble Bar, Australia, experienced 160 consecutive days above 37.8°C (100°F) from October 1923 to April 1924.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Marble Bar, Western Australia | 31 October 1923 to 7 April 1924 (160 days)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Record: most consecutive days above 37.8 °C (100 °F)."
+ },
+ {
+  "claim": "Topological insulators conduct electricity only on their surfaces while being insulators in the bulk, potentially revolutionizing spintronics and quantum computing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A topological insulator is a material whose interior behaves as an electrical insulator while its surface behaves as an electrical conductor ... The most promising applications of topological insulators are spintronic devices and dissipationless transistors for quantum computers",
+  "source_url": "https://en.wikipedia.org/wiki/Topological_insulator",
+  "note": ""
+ },
+ {
+  "claim": "The International Obfuscated C Code Contest (IOCCC) has celebrated creative abuse of the C language since 1984 — winning entries are deliberately unreadable.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The IOCCC was started by Landon Curt Noll and Larry Bassel in 1984. ... the most creatively obfuscated ... making it hard to read by humans.",
+  "source_url": "https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest",
+  "note": ""
+ },
+ {
+  "claim": "Cryptosporidium survives chlorination of swimming pools — the leading cause of recreational water illness.",
+  "verdict": "overstated",
+  "corrected_claim": "Cryptosporidium is highly resistant to chlorine disinfection, so people who swim regularly in poorly sanitized pools are at risk of infection.",
+  "quote": "Cryptosporidium is highly resistant to chlorine disinfection; ... People who swim regularly in pools with insufficient sanitation (certain strains of Cryptosporidium are chlorine-resistant)",
+  "source_url": "https://en.wikipedia.org/wiki/Cryptosporidium",
+  "note": "Page does not call it the leading cause of recreational water illness"
+ },
+ {
+  "claim": "The fastest non-tornadic wind speed ever recorded was 408 km/h (254 mph) during Severe Tropical Cyclone Olivia on Barrow Island, Australia, on April 10, 1996.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Fastest non-tornadic winds: 408 km/h (254 mph) (3-second gust)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page places it at Barrow Island, Western Australia, 10 April 1996 (Cyclone Olivia)."
+ },
+ {
+  "claim": "Weyl semimetals host quasiparticles called Weyl fermions that behave as if they're massless, potentially enabling ultra-high-speed electronic devices.",
+  "verdict": "overstated",
+  "corrected_claim": "In Weyl semimetals, electrons behave as a solid-state analogue of relativistic massless particles, and the high mobility of these Weyl fermions may find use in electronics and computing.",
+  "quote": "electrons have a linear dispersion relation, making them a solid-state analogue of relativistic massless particles. ... The high mobility of charged Weyl fermions may find use in electronics and computing.",
+  "source_url": "https://en.wikipedia.org/wiki/Weyl_semimetal",
+  "note": "'Ultra-high-speed devices' goes beyond the page's 'may find use in electronics and computing'"
+ },
+ {
+  "claim": "Quines are programs that output their own source code without reading themselves — they exist in virtually every programming language.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A quine is a computer program that takes no input and produces a copy of its own source code as its only output. ... Quines are possible in any Turing-complete programming language, as a direct consequence of Kleene's recursion theorem.",
+  "source_url": "https://en.wikipedia.org/wiki/Quine_(computing)",
+  "note": ""
+ },
+ {
+  "claim": "Entamoeba histolytica causes amebic dysentery — the third leading parasitic cause of death worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "Entamoeba histolytica infection can be symptomless or cause amoebic dysentery or liver abscess, and is estimated to kill more than 55,000 people each year.",
+  "quote": "infection can be asymptomatic, or it can lead to amoebic dysentery or amoebic liver abscess. ... E. histolytica infection is estimated to kill more than 55,000 people each year.",
+  "source_url": "https://en.wikipedia.org/wiki/Entamoeba_histolytica",
+  "note": "Page gives no 'third leading parasitic cause of death' ranking"
+ },
+ {
+  "claim": "The fastest wind speed in a tornado was calculated at 516.6 km/h (321 mph) during the 1999 Bridge Creek-Moore tornado in Oklahoma.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Recently, the wind speeds were re-examined and adjusted to a maximum official wind speed of 321 mph (516.6 km/h).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Photonic crystals can be engineered to have 'photonic band gaps' that forbid certain light frequencies from propagating—enabling control over light like semiconductors control electrons.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Light waves may propagate through this structure or propagation may be disallowed, depending on their wavelength. ... Disallowed bands of wavelengths are called photonic band gaps. ... the same way that the periodic potential in a semiconductor crystal affects the propagation of electrons",
+  "source_url": "https://en.wikipedia.org/wiki/Photonic_crystal",
+  "note": ""
+ },
+ {
+  "claim": "Ken Thompson demonstrated a compiler backdoor in his 1984 Turing Award lecture — showing how malicious code could persist even after removing it from source code.",
+  "verdict": "overstated",
+  "corrected_claim": "Ken Thompson popularized the compiler backdoor in his 1983 Turing Award speech 'Reflections on Trusting Trust' — his compiler would plant itself in future compiler versions while the source code appeared clean.",
+  "quote": "in his Turing Award acceptance speech in 1983, 'Reflections on Trusting Trust'. ... would also add this feature undetectably to future compiler versions upon their compilation as well.",
+  "source_url": "https://en.wikipedia.org/wiki/Backdoor_(computing)",
+  "note": "Speech was in 1983 (article published 1984)"
+ },
+ {
+  "claim": "Naegleria fowleri is the 'brain-eating amoeba' — 97% fatal infection from warm freshwater.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Naegleria fowleri, also known as the brain-eating amoeba or brain-eating amoeboid ... the fatality rate is greater than 97%. ... It is typically found in warm freshwater bodies such as lakes,",
+  "source_url": "https://en.wikipedia.org/wiki/Naegleria_fowleri",
+  "note": ""
+ },
+ {
+  "claim": "The heaviest hailstone officially recorded weighed 1.02 kg (2.25 pounds) and fell in Gopalganj District, Bangladesh, on April 14, 1986.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Heaviest officially recorded: 1.02 kg (2.25 lb);",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Gopalganj District, Bangladesh, 14 April 1986."
+ },
+ {
+  "claim": "Liquid crystals used in displays exist in a state between solid crystals and liquids, with molecules that flow like liquids but maintain some crystal-like order.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "whose properties are between those of conventional liquids and those of solid crystals. ... short-range orientational order while still having an ability to flow. ... this makes them extremely useful in liquid-crystal displays (LCD).",
+  "source_url": "https://en.wikipedia.org/wiki/Liquid_crystal",
+  "note": ""
+ },
+ {
+  "claim": "The 'Trusting Trust' attack showed that you must trust your entire toolchain — a compromised compiler can insert vulnerabilities into any program it compiles.",
+  "verdict": "overstated",
+  "corrected_claim": "'Reflections on Trusting Trust' presented the persistent compiler backdoor attack now known as the Thompson hack — later countered by David A. Wheeler's diverse double compilation technique.",
+  "quote": "presented the persistent compiler backdoor attack now known as the Thompson hack or trusting trust attack ... It uses a technique called diverse double compilation to circumvent the hack",
+  "source_url": "https://en.wikipedia.org/wiki/Reflections_on_Trusting_Trust",
+  "note": "Page does not state the 'trust your entire toolchain' lesson or 'any program' scope"
+ },
+ {
+  "claim": "Acanthamoeba keratitis comes from contaminated contact lens solutions — blindness from protozoa.",
+  "verdict": "overstated",
+  "corrected_claim": "In the US, Acanthamoeba keratitis is nearly always associated with soft contact lens use, and the protozoan infection may cause permanent visual impairment or blindness.",
+  "quote": "nearly always associated with soft contact lens use ... may cause permanent visual impairment or blindness, due to damage to the cornea.",
+  "source_url": "https://en.wikipedia.org/wiki/Acanthamoeba_keratitis",
+  "note": "Not only from contaminated solutions; also tap water, swimming, trauma"
+ },
+ {
+  "claim": "The largest hailstone by diameter was 20 cm (8 inches) and fell in Vivian, South Dakota, on July 23, 2010.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Largest diameter officially measured: 20 cm (8.0 in)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Vivian, South Dakota, 23 July 2010."
+ },
+ {
+  "claim": "Electrorheological fluids can change from liquid to solid-like in milliseconds when an electric field is applied—used in dampers and clutches.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a typical ER fluid can go from the consistency of a liquid to that of a gel, and back ... with response times on the order of milliseconds",
+  "source_url": "https://en.wikipedia.org/wiki/Electrorheological_fluid",
+  "note": ""
+ },
+ {
+  "claim": "Debian has been reproduced bit-for-bit from source code — reproducible builds prevent supply chain attacks by making binaries verifiable.",
+  "verdict": "overstated",
+  "corrected_claim": "By July 2017 more than 90% of Debian's packages were proven to build reproducibly — verified reproducible builds are a strong countermeasure against attacks where binaries do not match their source.",
+  "quote": "By July 2017, more than 90% of the packages in the repository were proven to build reproducibly. ... Verified reproducible builds provide a strong countermeasure against attacks where binaries do not match their source code",
+  "source_url": "https://en.wikipedia.org/wiki/Reproducible_builds",
+  "note": "Page gives >90% of packages, not all of Debian"
+ },
+ {
+  "claim": "Phytoplankton produce 50% of Earth's oxygen — half of every breath comes from ocean microbes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Marine phytoplankton perform half of the global photosynthetic CO2 fixation ... and half of the oxygen production despite amounting to only ~1% of global plant biomass.",
+  "source_url": "https://en.wikipedia.org/wiki/Phytoplankton",
+  "note": ""
+ },
+ {
+  "claim": "The longest lightning bolt ever recorded stretched 829 km (515 miles) across Texas and Oklahoma on October 22, 2017.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Longest lightning bolt: 829 km (515 mi) ± 8 km.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "22 October 2017."
+ },
+ {
+  "claim": "Magnetorheological fluids stiffen when exposed to magnetic fields, used in adaptive suspension systems that can adjust damping hundreds of times per second.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "when subjected to a magnetic field, greatly increases in apparent viscosity, to the point of becoming a viscoelastic solid. ... the damping factor to be adjusted once every millisecond in response to conditions.",
+  "source_url": "https://en.wikipedia.org/wiki/Magnetorheological_fluid",
+  "note": ""
+ },
+ {
+  "claim": "WebAssembly (2017) lets languages like C++, Rust, and Go run in web browsers at near-native speed — breaking JavaScript's browser monopoly.",
+  "verdict": "overstated",
+  "corrected_claim": "WebAssembly, first released in March 2017, was designed to permit near-native code execution speed in the web browser, and languages such as C++, Rust and Go can compile to it.",
+  "quote": "Announced in 2015 (2015) and first released in March 2017 ... While WebAssembly was initially designed to permit near-native code execution speed in the web browser",
+  "source_url": "https://en.wikipedia.org/wiki/WebAssembly",
+  "note": "'Breaking JavaScript's monopoly' not stated; page says Wasm must defer to JavaScript for DOM access and benchmarks vary widely"
+ },
+ {
+  "claim": "Prochlorococcus is the smallest and most abundant photosynthetic organism — feeding the base of ocean food webs.",
+  "verdict": "overstated",
+  "corrected_claim": "Prochlorococcus, just 0.5 to 0.7 micrometres across, is probably the most abundant photosynthetic organism on Earth and forms part of the base of the ocean food chain.",
+  "quote": "Prochlorococcus is the smallest at just 0.5 to 0.7 micrometres in diameter. ... are probably the most abundant photosynthetic organism on Earth ... forms part of the base of the ocean food chain",
+  "source_url": "https://en.wikipedia.org/wiki/Prochlorococcus",
+  "note": "Page hedges 'probably' most abundant"
+ },
+ {
+  "claim": "The longest-duration single lightning flash lasted 17.1 seconds over Uruguay and Argentina on June 18, 2020.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Longest duration for a single lightning flash: 17.1 seconds on 18 June 2020",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Uruguay and northern Argentina."
+ },
+ {
+  "claim": "Non-Newtonian fluids like oobleck (cornstarch and water) become harder when struck quickly but flow like liquid under slow pressure.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "With slow motions it is a moderately viscous fluid, increases in viscosity as disturbed ... If a person were to punch or hit oobleck, it would thicken and act like a solid.",
+  "source_url": "https://en.wikipedia.org/wiki/Non-Newtonian_fluid",
+  "note": ""
+ },
+ {
+  "claim": "Electron lets developers build desktop apps with web technologies — VS Code, Slack, and Discord are all Electron apps running Chromium internally.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The framework is designed to create desktop applications using web technologies (mainly HTML, CSS and JavaScript ... that are rendered using a version of the Chromium browser engine ... Desktop applications built with Electron include Atom, balenaEtcher, Discord, Slack, and Visual Studio Code.",
+  "source_url": "https://en.wikipedia.org/wiki/Electron_(software_framework)",
+  "note": ""
+ },
+ {
+  "claim": "Marine viruses kill 20-40% of ocean bacteria daily — driving nutrient cycling and carbon flux.",
+  "verdict": "overstated",
+  "corrected_claim": "Marine viruses are estimated to kill 20% of the ocean's microorganism biomass every day, releasing organic matter that fuels nutrient cycling and helps the ocean sequester carbon.",
+  "quote": "It is estimated marine viruses kill 20% of the microorganism biomass every day. ... Viral activity also enhances the ability of the biological pump to sequester carbon in the deep ocean.",
+  "source_url": "https://en.wikipedia.org/wiki/Marine_virus",
+  "note": "Page says 20% of microorganism biomass, not 20-40% of bacteria."
+ },
+ {
+  "claim": "The highest UV index ever measured was 43.3 at Bolivia's Licancabur volcano at 5,920 meters elevation on December 29, 2003—light-skinned individuals could experience moderate sunburn in as little as 4 minutes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A light-skinned individual in such conditions may experience moderate sunburn in as little as 4 minutes.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "UV index 43.3 at Licancabur on 29 December 2003."
+ },
+ {
+  "claim": "Dilatant materials in protective gear harden on impact—D3O orange putty is soft and flexible until struck, when it becomes rigid and absorbs force.",
+  "verdict": "overstated",
+  "corrected_claim": "D3O is built on dilatant materials: its inventors used a fluid that flowed freely at rest but became instantly hard on impact, and it is now used in sports and motorcycle gear.",
+  "quote": "The fluid was free-flowing at rest but became instantly hard upon impact. ... they invented a flexible, pliable material that locked together and solidified in the event of a collision. ... it is used in sports and motorcycle gear",
+  "source_url": "https://en.wikipedia.org/wiki/D3o",
+  "note": "Page does not mention orange color or describe force absorption"
+ },
+ {
+  "claim": "React Native and Flutter enable building mobile apps for iOS and Android from a single codebase — write once, deploy everywhere (mostly).",
+  "verdict": "overstated",
+  "corrected_claim": "React Native lets developers use the React framework along with native platform capabilities, and is used to develop Android and iOS apps at companies such as Microsoft and Shopify.",
+  "quote": "by enabling developers to use the React framework along with native platform capabilities. ... It is used to develop Android and iOS applications at Microsoft, and Shopify.",
+  "source_url": "https://en.wikipedia.org/wiki/React_Native",
+  "note": "Page does not mention Flutter or a single codebase"
+ },
+ {
+  "claim": "Viral shunt returns bacterial carbon to dissolved organic matter — short-circuiting the food chain.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "by recycling them into dissolved organic matter (DOM), which can be readily taken up by microorganisms ... \"short-circuiting\" the amount of organic carbon that is transferred to higher trophic levels",
+  "source_url": "https://en.wikipedia.org/wiki/Viral_shunt",
+  "note": ""
+ },
+ {
+  "claim": "Typhoon Tip in 1979 was the most intense tropical cyclone ever recorded, with a central pressure of 870 hPa and sustained winds of 305 km/h (190 mph).",
+  "verdict": "overstated",
+  "corrected_claim": "The most intense tropical cyclone ever recorded was Super Typhoon Tip, whose eye reached a pressure of 870 hPa on 12 October 1979.",
+  "quote": "Most intense ever recorded: 870 hPa (25.69 inHg)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page gives Tip's pressure only; the 305 km/h wind figure was not found."
+ },
+ {
+  "claim": "Superalloys containing rare earth elements like rhenium can operate at 90% of their melting point—normal alloys fail at 50-70% of melting temperature.",
+  "verdict": "overstated",
+  "corrected_claim": "Nickel-based superalloys work at the highest homologous temperature of any common alloy system — about 90% of their melting point — and adding rhenium raises service temperatures by up to 60 °C.",
+  "quote": "requiring the highest homologous temperature of any common alloy system (Tm = 0.9, or 90% of their melting point). ... increasing service temperatures by 30 °C and 60 °C in second and third generation superalloys, respectively.",
+  "source_url": "https://en.wikipedia.org/wiki/Superalloy",
+  "note": "Rhenium is not a rare earth; 50-70% figure for normal alloys not on page"
+ },
+ {
+  "claim": "Kubernetes, open-sourced by Google in 2014, was based on internal tools (Borg) that Google had used for a decade to manage container deployments.",
+  "verdict": "overstated",
+  "corrected_claim": "Kubernetes was announced by Google on June 6, 2014, and its design was inspired by Borg, Google's internal cluster manager.",
+  "quote": "Kubernetes was announced by Google on June 6, 2014. ... The design and development of Kubernetes was inspired by Google's Borg cluster manager and based on Promise Theory.",
+  "source_url": "https://en.wikipedia.org/wiki/Kubernetes",
+  "note": "Page does not say Google used Borg for a decade."
+ },
+ {
+  "claim": "Ocean bacteria contain 3 gigatons of carbon — more than all fish combined.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Marine_microorganism",
+  "note": "Page gives no ocean bacterial carbon figure or fish comparison."
+ },
+ {
+  "claim": "Hurricane Patricia in 2015 had the highest maximum sustained wind speed ever recorded in a tropical cyclone at 345 km/h (215 mph).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page lists Patricia only for its 872 hPa pressure; the 345 km/h wind record was not found."
+ },
+ {
+  "claim": "Molybdenum disulfide (MoS₂) is a 2D semiconductor that could enable thinner, more flexible electronics than silicon, with electrons that behave differently in each valley of its band structure.",
+  "verdict": "overstated",
+  "corrected_claim": "Monolayer MoS2 is a direct-bandgap semiconductor being explored for flexible circuits, and odd-layer MoS2 is a promising material for valleytronics because its electrons have two energy-degenerate valleys.",
+  "quote": "While bulk MoS2 in the 2H-phase is known to be an indirect-band gap semiconductor, monolayer MoS2 has a direct band gap. MoS2 has been investigated as a component of flexible circuits. Due to the lack of spatial inversion symmetry, odd-layer MoS2 is a promising material for valleytronics",
+  "source_url": "https://en.wikipedia.org/wiki/Molybdenum_disulfide",
+  "note": "No comparison to silicon for thinner/flexible electronics."
+ },
+ {
+  "claim": "The term 'serverless' is a misnomer — servers still exist, you just don't manage them. AWS Lambda, launched in 2014, pioneered this model.",
+  "verdict": "overstated",
+  "corrected_claim": "'Serverless' is a misnomer — servers are still used by cloud providers to run developers' code; the customer just doesn't have to provision or manage them.",
+  "quote": "Serverless is a misnomer in the sense that servers are still used by cloud service providers to execute code for developers.",
+  "source_url": "https://en.wikipedia.org/wiki/Serverless_computing",
+  "note": "AWS Lambda 2014 launch and pioneering role not on page"
+ },
+ {
+  "claim": "A single liter of seawater contains 1 billion bacteria and 10 billion viruses.",
+  "verdict": "overstated",
+  "corrected_claim": "A single millilitre of seawater generally contains about 1 million to 10 million viruses, which works out to as many as 10 billion per litre.",
+  "quote": "Generally there are about 1 million to 10 million viruses in each mL of seawater",
+  "source_url": "https://en.wikipedia.org/wiki/Marine_microorganism",
+  "note": "Page gives no total bacteria count per litre; virus figure is a range."
+ },
+ {
+  "claim": "The 2011 Super Outbreak produced 207 confirmed tornadoes in a single 24-hour period on April 27, 2011, including 4 rated EF5.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "207 confirmed tornadoes occurred in a span of 24 hours on April 27, 2011.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page reports 11 EF4 and 4 EF5."
+ },
+ {
+  "claim": "Transition metal dichalcogenides (TMDs) are a family of layered 2D materials that can be semiconductors, superconductors, or topological insulators depending on composition.",
+  "verdict": "overstated",
+  "corrected_claim": "Transition metal dichalcogenides (TMDs) are atomically thin 2D materials stacked like graphite; depending on composition and structure they can be semiconducting, metallic, or even superconducting, as in WTe2.",
+  "quote": "Like graphite, TMD bulk crystals are formed of monolayers bound to each other by van-der-Waals attraction. ... The 1T polymorph of molybdenum sulfide is metallic in character while the 2H form is more semiconducting. ... WTe2 exhibits anomalous giant magnetoresistance and superconductivity.",
+  "source_url": "https://en.wikipedia.org/wiki/Transition_metal_dichalcogenide_monolayers",
+  "note": "Page does not mention topological insulators."
+ },
+ {
+  "claim": "Infrastructure as Code (IaC) treats server configuration as software — tools like Terraform and Ansible make infrastructure reproducible and version-controlled.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "managing and provisioning computer data center resources through machine-readable definition files ... The definitions may exist in a version control system rather than manual processes. ... allowed teams to reduce manual errors and reproduce environments reliably.",
+  "source_url": "https://en.wikipedia.org/wiki/Infrastructure_as_code",
+  "note": "Terraform and Ansible listed in notable tools table."
+ },
+ {
+  "claim": "Synechococcus cyanobacteria produce sticky polysaccharides that aggregate into marine snow.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Synechococcus",
+  "note": "Polysaccharides/marine snow not mentioned on page."
+ },
+ {
+  "claim": "The deadliest tornado in history killed approximately 1,300 people in Manikganj District, Bangladesh, on April 26, 1989.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On Earth: Approximately 1,300 deaths",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Daulatpur–Saturia tornado, Manikganj District, 26 April 1989."
+ },
+ {
+  "claim": "Heterostructures of 2D materials stacked like atomic Lego blocks can create entirely new materials with properties neither component has alone.",
+  "verdict": "overstated",
+  "corrected_claim": "Stacking two-dimensional materials held together by van der Waals forces creates heterostructures whose interlayer charge transfer, proximity coupling and moiré patterns lead to emergent properties.",
+  "quote": "Stacks of two-dimensional materials held together by van der Waals forces can form van der Waals heterostructures ... Interlayer charge transfer, proximity coupling, and moiré superlattice reconstruction lead to emergent properties",
+  "source_url": "https://en.wikipedia.org/wiki/Van_der_Waals_heterostructure",
+  "note": "'Entirely new materials with properties neither component has' paraphrases page's 'emergent properties'; no Lego analogy"
+ },
+ {
+  "claim": "DevOps emerged around 2008 to break down silos between development and operations — combining cultural practices with automation tools.",
+  "verdict": "overstated",
+  "corrected_claim": "DevOps merges software development and IT operations through a combination of practices, culture change and tools; the first DevOps Days conference was held in Ghent, Belgium, in 2009.",
+  "quote": "At its most successful, DevOps is a combination of specific practices, culture change, and tools. ... In 2009, the first DevOps Days conference was held in Ghent, Belgium.",
+  "source_url": "https://en.wikipedia.org/wiki/DevOps",
+  "note": "Page gives no 2008 origin date or silo-breaking framing"
+ },
+ {
+  "claim": "Coral bleaching occurs when corals expel their symbiotic Symbiodinium algae under heat stress.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Coral bleaching is the process where corals become white due to loss of symbiotic algae and photosynthetic pigments. ... To ensure short-term survival, the coral-polyp then consumes or expels the zooxanthellae.",
+  "source_url": "https://en.wikipedia.org/wiki/Coral_bleaching",
+  "note": "Page uses 'zooxanthellae'; triggers include abnormally warm temperatures"
+ },
+ {
+  "claim": "The Tri-State Tornado of 1925 traveled 219 miles (352 km) continuously on the ground across Missouri, Illinois, and Indiana, killing 695 people.",
+  "verdict": "overstated",
+  "corrected_claim": "The Tri-State Tornado of 18 March 1925 is the deadliest tornado in North American history, killing 695 people.",
+  "quote": "In North America: 695 deaths",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "The 219-mile path length is not on the page."
+ },
+ {
+  "claim": "Superplastic metals can be stretched to several times their original length without breaking when heated—aluminum superplastic forming creates complex aerospace parts.",
+  "verdict": "overstated",
+  "corrected_claim": "Superplastic aluminium alloys can be stretched to several times their original size without failing when heated to 470-520 °C, and superplastic forming was expected to cut manufacturing costs of many aircraft assemblies by 50%.",
+  "quote": "have the ability to be stretched to several times their original size without failure when heated to between 470 and 520 °C. ... it was anticipated that a 50% manufacturing cost reduction can be achieved for many aircraft assemblies.",
+  "source_url": "https://en.wikipedia.org/wiki/Superplasticity",
+  "note": "Page does not directly say it creates complex aerospace parts."
+ },
+ {
+  "claim": "Netflix's Chaos Monkey randomly terminates servers in production — testing whether systems can survive failures, a practice called chaos engineering.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "We have created Chaos Monkey, a program that randomly chooses a server and disables it during its usual hours of activity. ... It works by intentionally disabling computers in Netflix's production network",
+  "source_url": "https://en.wikipedia.org/wiki/Chaos_engineering",
+  "note": ""
+ },
+ {
+  "claim": "Giant kelp forests depend on bacteria to remineralize nutrients in the water column.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Kelp_forest",
+  "note": "Page does not mention bacteria remineralizing nutrients in kelp forests."
+ },
+ {
+  "claim": "The highest air pressure ever recorded above 750 meters was 1084.8 hPa at Tosontsengel, Mongolia, on December 19, 2001.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Highest air pressure ever recorded [above 750 meters (2,461 feet)]: 1084.8 hPa (32.03 inHg)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Tosontsengel, Mongolia, 19 December 2001."
+ },
+ {
+  "claim": "Thixotropic materials like ketchup thin when stirred or shaken but thicken when left still—exploited in paints that flow from the brush but don't drip.",
+  "verdict": "overstated",
+  "corrected_claim": "Thixotropic materials are stable at rest but become fluid when agitated; ketchup returns to a gel almost instantly, and in paints thixotropy lets the coating flow into a uniform layer and then resist sagging on a vertical surface.",
+  "quote": "Many gels and colloids are thixotropic materials, exhibiting a stable form at rest but becoming fluid when agitated. ... Some thixotropic fluids return to a gel state almost instantly, such as ketchup",
+  "source_url": "https://en.wikipedia.org/wiki/Thixotropy",
+  "note": "Page does not mention brushes or dripping specifically."
+ },
+ {
+  "claim": "The 'Twelve-Factor App' methodology (2011) defined best practices for building cloud-native applications — influencing how modern services are designed.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'Twelve-Factor App' methodology, drafted by developers at Heroku and first presented by Adam Wiggins around 2011, is a set of practices for building portable, resilient software-as-a-service applications.",
+  "quote": "drafted by developers at Heroku, a platform-as-a-service company ... was first presented by Adam Wiggins circa 2011 ... a methodology for building software-as-a-service applications",
+  "source_url": "https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology",
+  "note": "Page says SaaS apps, circa 2011, and notes criticism; 'influencing how modern services are designed' not stated"
+ },
+ {
+  "claim": "Deep ocean bacteria survive for millions of years with almost no energy — metabolic rates near zero.",
+  "verdict": "overstated",
+  "corrected_claim": "Deep subseafloor microbes live at extraordinarily slow metabolic rates; cells may live thousands of years before dividing, and microbes from sediment deposited 101.5 million years ago were revived.",
+  "quote": "Cells may live for thousands of years before dividing and there is no known limit to their age. ... all being from sediment deposited 101.5 million years ago, were alive and ready to eat.",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_biosphere",
+  "note": "'Metabolic rates near zero' and survival framing loosened; page gives specific figures"
+ },
+ {
+  "claim": "July 22, 2024, was the warmest day on record for the entire planet, with a global average temperature of 17.16°C (62.89°F).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The warmest day on record for the entire planet was 22 July 2024.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page gives 17.16 °C (62.89 °F)."
+ },
+ {
+  "claim": "Nanocellulose paper made from wood fibers can be as strong as cast iron but much lighter, potentially replacing plastic in packaging.",
+  "verdict": "overstated",
+  "corrected_claim": "Nanocellulose has a strength-to-weight ratio eight times that of stainless steel, and nanocellulose foams are being studied to replace polystyrene foams in packaging.",
+  "quote": "Its strength/weight ratio is 8 times that of stainless steel. ... Nanocellulose-based foams are being studied for packaging applications in order to replace polystyrene-based foams.",
+  "source_url": "https://en.wikipedia.org/wiki/Nanocellulose",
+  "note": "No cast iron comparison; packaging replacement is for polystyrene foams."
+ },
+ {
+  "claim": "Microservices architecture breaks applications into small, independent services — contrasting with monolithic applications where everything is in one codebase.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "organizes an application into a collection of loosely coupled, fine-grained services ... In the monolithic approach, an application supporting three functions would have to be scaled in its entirety",
+  "source_url": "https://en.wikipedia.org/wiki/Microservices",
+  "note": ""
+ },
+ {
+  "claim": "Bacterial spores have been germinated after 40 million years trapped in amber — extreme longevity.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacterial spores from a bee fossilized in amber about 25 million years ago reportedly germinated when the amber was cracked open, though such revivals of million-year-old spores are only claims.",
+  "quote": "The bee fossilized in amber was dated to being about 25 million years old. ... The spores germinated when the amber was cracked open ... revival of spores millions of years old has been claimed",
+  "source_url": "https://en.wikipedia.org/wiki/Endospore",
+  "note": "Page says 25 million years, not 40, and hedges such claims"
+ },
+ {
+  "claim": "Lightning heats the air around it to approximately 30,000°C (54,000°F)—about five times hotter than the surface of the Sun.",
+  "verdict": "overstated",
+  "corrected_claim": "The air around a lightning flash rapidly heats to temperatures of about 30,000 °C (54,000 °F).",
+  "quote": "The air around the lightning flash rapidly heats to temperatures of about 30,000 °C (54,000 °F).",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "Comparison to the Sun's surface is not on the page."
+ },
+ {
+  "claim": "Bioplastics made from algae can be completely biodegradable in seawater—unlike conventional bioplastics that require industrial composting.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Algae_fuel",
+  "note": "Page (algae fuel) does not mention algae bioplastics or seawater biodegradability"
+ },
+ {
+  "claim": "GraphQL, developed by Facebook in 2012 and open-sourced in 2015, lets clients request exactly the data they need — reducing over-fetching compared to REST.",
+  "verdict": "overstated",
+  "corrected_claim": "GraphQL, first released on September 14, 2015, lets a client's query define the exact shape of the data it needs.",
+  "quote": "A GraphQL query defines the exact shape of the data needed by the client.",
+  "source_url": "https://en.wikipedia.org/wiki/GraphQL",
+  "note": "2012 Facebook development and REST over-fetching comparison not on page"
+ },
+ {
+  "claim": "Bdelloid rotifers have survived 24 million years without sex — incorporating foreign genes horizontally.",
+  "verdict": "overstated",
+  "corrected_claim": "Bdelloid rotifers have been asexual for over 25 million years, yet up to 10% of their genome was obtained through horizontal gene transfer from bacteria, fungi and plants.",
+  "quote": "spans back to over 25 million years ago through fossil evidence ... a significant proportion of the bdelloid genome, up to 10%, having been obtained through horizontal gene transfer from bacteria, fungi and plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Bdelloid_rotifer",
+  "note": "Page says over 25 million years, not 24 million"
+ },
+ {
+  "claim": "Lightning occurs on Earth approximately 44 times per second, equating to nearly 1.4 billion flashes per year.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "occurs at an average frequency of approximately 44 (± 5) times per second ... equating to nearly 1.4 billion flashes per year.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Mycelium (fungal roots) can be grown into bricks, packaging, and even leather alternatives that are fully biodegradable.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycelium can be grown in molds into lightweight biodegradable building blocks, packaging alternatives to polystyrene, and artificial leather.",
+  "quote": "Alternatives to polystyrene and plastic packaging can be produced by growing mycelium in agricultural waste. One of the main commercial uses of mycelium is its use to create artificial leather.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycelium",
+  "note": "No 'bricks'; page notes added polymers can hurt biodegradability."
+ },
+ {
+  "claim": "gRPC uses Protocol Buffers for fast, efficient communication between services — often 10x faster than JSON-based REST APIs.",
+  "verdict": "overstated",
+  "corrected_claim": "gRPC uses Protocol Buffers both to encode data and as its interface description language for communication between services.",
+  "quote": "gRPC uses Protocol Buffers to encode data.",
+  "source_url": "https://en.wikipedia.org/wiki/GRPC",
+  "note": "'10x faster than JSON REST' not on page"
+ },
+ {
+  "claim": "Some bacteria can survive millions of years in Antarctic ice — psychrophile extremes.",
+  "verdict": "overstated",
+  "corrected_claim": "Actinobacteria have been shown to have lived about 500,000 years in the permafrost of Antarctica, and the psychrophile Chryseobacterium greenlandensis was found in 120,000-year-old ice.",
+  "quote": "Actinobacteria have been shown to have lived about 500,000 years in the permafrost conditions of Antarctica ... a psychrophile that was found in 120,000-year-old ice",
+  "source_url": "https://en.wikipedia.org/wiki/Psychrophile",
+  "note": "Page gives ~500,000 years in permafrost, not millions of years in ice"
+ },
+ {
+  "claim": "About 70% of all lightning occurs over land in the tropics, where atmospheric convection is greatest.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Occurrences are distributed unevenly across the planet with about 70% being over land in the tropics",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "E-textiles incorporate conductive threads and flexible electronics into fabrics, enabling garments that can monitor health or charge devices.",
+  "verdict": "overstated",
+  "corrected_claim": "E-textiles are often built with conductive yarns and can monitor vital signs through integrated electronics; fibers with solar cells could even harvest energy to power wearable electronics.",
+  "quote": "E-textiles are often constructed using various types of conductive yarns ... E-textiles can be used to monitor vital signs through integrated electronics. ... they allow fabrics to harvest solar energy, potentially powering wearable electronics.",
+  "source_url": "https://en.wikipedia.org/wiki/E-textiles",
+  "note": "Charging devices is only a potential solar-harvesting use"
+ },
+ {
+  "claim": "Kafka, originally developed at LinkedIn, processes trillions of messages per day at scale — it's named after the author Franz Kafka.",
+  "verdict": "overstated",
+  "corrected_claim": "Kafka was originally developed at LinkedIn, and Jay Kreps named it after author Franz Kafka because it is 'a system optimized for writing'.",
+  "quote": "Jay Kreps chose to name the software after the author Franz Kafka because it is \"a system optimized for writing\", and he liked Kafka's work.",
+  "source_url": "https://en.wikipedia.org/wiki/Apache_Kafka",
+  "note": "Trillions of messages per day not on page"
+ },
+ {
+  "claim": "Zombie bacteria can exist in a viable but non-culturable state (VBNC) — alive but won't grow in lab.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bacteria in a VBNC state cannot grow on standard growth media. ... but are alive and have the ability to become culturable once resuscitated",
+  "source_url": "https://en.wikipedia.org/wiki/Viable_but_nonculturable",
+  "note": "'Zombie' is a nickname not on the page"
+ },
+ {
+  "claim": "An average bolt of negative lightning carries 30,000 amperes, transfers 15 coulombs of charge, and releases 1 gigajoule of energy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An average bolt of negative lightning creates an electric current of 30,000 amperes (30 kA) ... transferring a total 15 C ( coulombs) of electric charge and 1 gigajoule of energy.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Electrospinning can produce nanofibers 1000 times thinner than human hair, used in wound dressings, filters, and tissue engineering scaffolds.",
+  "verdict": "overstated",
+  "corrected_claim": "Electrospinning produces fibers with diameters from nanometers to micrometers, used in wound dressings, air filtration and tissue-engineering scaffolds.",
+  "quote": "producing nanofibers with diameters ranging from nanometers to micrometers ... The use of nanofiber webs as a filtering medium is well established. ... The electrospun scaffolds made for tissue engineering applications can be penetrated with cells",
+  "source_url": "https://en.wikipedia.org/wiki/Electrospinning",
+  "note": "'1000 times thinner than human hair' not on page"
+ },
+ {
+  "claim": "Event sourcing stores all changes as a sequence of events rather than current state — allowing perfect audit logs and time travel debugging.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Event_sourcing",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "Persister cells are dormant bacteria that survive antibiotics without resistance genes — phenotypic tolerance.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Persisters are not mutants, but rather are dormant cells that can survive the antimicrobials ... Unlike multiple drug resistance, and antimicrobial resistance, antimicrobial tolerance is transient, and not inherited.",
+  "source_url": "https://en.wikipedia.org/wiki/Persister_cell",
+  "note": ""
+ },
+ {
+  "claim": "Positive lightning, which makes up less than 5% of all strikes, can produce peak currents up to 400,000 amperes—more than 10 times stronger than typical negative lightning.",
+  "verdict": "overstated",
+  "corrected_claim": "Positive lightning makes up less than 5% of all lightning strikes but can produce peak currents up to 400 kA, with positive ground flashes having roughly double the peak current of a typical negative flash.",
+  "quote": "Positive lightning is less common than negative lightning and on average makes up less than 5% of all lightning strikes. ... can produce peak currents up to 400 kA.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "Page says roughly double the peak current of typical negative flashes, not more than 10 times."
+ },
+ {
+  "claim": "Platinum is so catalytically active that 90% of chemical manufacturing processes use platinum group metals as catalysts at some stage.",
+  "verdict": "overstated",
+  "corrected_claim": "The most common use of platinum is as a catalyst in chemical reactions, often as platinum black, and it serves as a catalyst in several petroleum-industry processes.",
+  "quote": "The most common use of platinum is as a catalyst in chemical reactions, often as platinum black. ... Platinum is also used in the petroleum industry as a catalyst in a number of separate processes",
+  "source_url": "https://en.wikipedia.org/wiki/Platinum",
+  "note": "90% of chemical processes figure not on page"
+ },
+ {
+  "claim": "CQRS (Command Query Responsibility Segregation) separates read and write models — optimizing each independently for different access patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "CQRS uses separate query and command interfaces, and usually separate data models, to retrieve and modify data — though keeping those models consistent can be hard.",
+  "quote": "using separate Query and Command interfaces and usually data models to retrieve and modify data, respectively.",
+  "source_url": "https://en.wikipedia.org/wiki/Command%E2%80%93query_separation",
+  "note": "Page does not say the models are optimized independently for access patterns"
+ },
+ {
+  "claim": "Biofilm bacteria are 10-1000 times more resistant to antibiotics than planktonic cells.",
+  "verdict": "overstated",
+  "corrected_claim": "Antibiotic resistance in a biofilm can be as much as 5,000 times greater than in non-biofilm bacteria.",
+  "quote": "The level of antibiotic resistance in a biofilm is much greater than that of non-biofilm bacteria, and can be as much as 5,000 times greater.",
+  "source_url": "https://en.wikipedia.org/wiki/Biofilm",
+  "note": "Page gives up to 5,000 times, not a 10-1000 range"
+ },
+ {
+  "claim": "Lake Maracaibo in Venezuela is the most lightning-prone place on Earth, averaging 250 lightning bolts per day and seeing lightning on 297 days per year.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The place on Earth where lightning occurs most often is over Lake Maracaibo, ... produces 250 bolts of lightning a day, ... This activity occurs on average, 297 days a year.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Osmium is the densest naturally occurring element at 22.59 g/cm³—a one-liter cube would weigh over 22 kilograms.",
+  "verdict": "overstated",
+  "corrected_claim": "Osmium is the densest stable element at 22.587 g/cm³, about twice as dense as lead, so a one-liter block would weigh over 22 kilograms.",
+  "quote": "Osmium is a hard, brittle, blue-gray metal, and the densest stable element—about twice as dense as lead.",
+  "source_url": "https://en.wikipedia.org/wiki/Osmium",
+  "note": "Page says densest stable element (22.587 g/cm³), not 'naturally occurring'."
+ },
+ {
+  "claim": "The actor model, introduced in 1973, treats concurrent computation as message-passing between actors — implemented in Erlang and Akka.",
+  "verdict": "overstated",
+  "corrected_claim": "The actor model, which originated in 1973, treats concurrent computation as actors that affect each other only through message passing — Akka is an actor-based library for Scala and Java.",
+  "quote": "The actor model originated in 1973.",
+  "source_url": "https://en.wikipedia.org/wiki/Actor_model",
+  "note": "Erlang not described as an implementation on page"
+ },
+ {
+  "claim": "Microbes in biofilms communicate via electrical signals — bacterial 'neural' networks.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Biofilm",
+  "note": "Page does not mention electrical signalling between biofilm bacteria"
+ },
+ {
+  "claim": "The village of Kifuka in the Democratic Republic of Congo receives 158 lightning strikes per square kilometer per year, one of the highest densities in the world.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On average, this region receives 158 lightning strikes per square kilometre per year",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Hafnium has the highest melting point of any element that can form oxides—its oxide layer protects it from corrosion even at extreme temperatures.",
+  "verdict": "overstated",
+  "corrected_claim": "Hafnium reacts in air to form a protective hafnium oxide film that inhibits further corrosion, and its carbide is the most refractory binary compound known, melting above 3,890 °C.",
+  "quote": "Hafnium reacts in air to form a protective film of hafnium oxide in the monoclinic phase that inhibits further corrosion. ... Hafnium carbide is the most refractory binary compound known, with a melting point over 3,890 °C",
+  "source_url": "https://en.wikipedia.org/wiki/Hafnium",
+  "note": "Page does not say hafnium has the highest melting point of oxide-forming elements"
+ },
+ {
+  "claim": "Erlang was designed by Ericsson for telephone switches requiring 99.9999999% uptime — it can hot-swap code without stopping the system.",
+  "verdict": "overstated",
+  "corrected_claim": "Erlang was designed to improve the development of telephony applications, and its runtime supports hot swapping code without stopping the system; Ericsson's AXD301 switch built with it was reported to achieve nine 9s of availability.",
+  "quote": "Erlang was designed with the aim of improving the development of telephony applications. ... Hot swapping, where code can be changed without stopping a system. ... reported to achieve a high availability of nine \"9\"s",
+  "source_url": "https://en.wikipedia.org/wiki/Erlang_(programming_language)",
+  "note": "Nine-nines was a reported result for the AXD301, not a design requirement"
+ },
+ {
+  "claim": "Dental biofilms can contain 600+ bacterial species — complex ecosystems in your mouth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Dental_biofilm",
+  "note": "Source page failed to load (URL not found)"
+ },
+ {
+  "claim": "Most negative cloud-to-ground lightning flashes consist of 3-4 individual strokes, though some can have as many as 30 strokes in rapid succession.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "most negative CG lightning flashes are made up of 3 or 4 individual strokes, though there may be as many as 30.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Tantalum is used in capacitors because its oxide layer acts as an excellent dielectric, enabling the smallest capacitors with the highest capacitance.",
+  "verdict": "overstated",
+  "corrected_claim": "Tantalum capacitors use the metal's thin oxide layer as the dielectric, achieving high capacitance in a small volume.",
+  "quote": "using tantalum powder, pressed into a pellet shape, as one \"plate\" of the capacitor, the oxide as the dielectric ... a high capacitance can be achieved in a small volume",
+  "source_url": "https://en.wikipedia.org/wiki/Tantalum",
+  "note": "'Smallest' and 'highest' superlatives not stated."
+ },
+ {
+  "claim": "WhatsApp handled 450 million users with just 32 engineers — enabled by Erlang's concurrency model designed for telecom-grade reliability.",
+  "verdict": "overstated",
+  "corrected_claim": "By February 2013, WhatsApp served about 200 million active users with just 50 staff members, running on Erlang-based software since its creation in 2008.",
+  "quote": "By February 2013, WhatsApp had about 200 million active users and 50 staff members. ... At its creation in 2008, WhatsApp first ran on Erlang-based specific software, running on FreeBSD operating system",
+  "source_url": "https://en.wikipedia.org/wiki/WhatsApp",
+  "note": "Page has no 32-engineer/450-million figure and does not credit Erlang for the small team"
+ },
+ {
+  "claim": "Catheters, implants, and medical devices are common sites for biofilm infections — 80% of chronic infections.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Medical_device",
+  "note": "Page does not mention biofilms or the 80% figure."
+ },
+ {
+  "claim": "The return stroke of lightning travels at up to one-third the speed of light—approximately 100,000 km/s.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has been found to be around 100,000 km/s (one-third of the speed of light).",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Rhenium has the highest melting point of any metal at 3,186°C (after tungsten and carbon) and maintains strength at temperatures where other metals fail.",
+  "verdict": "overstated",
+  "corrected_claim": "Rhenium melts at 3,186 °C — one of the highest melting points of all elements, exceeded only by tungsten — and superalloys containing it are used in jet engine parts.",
+  "quote": "one of the highest melting points of all elements, exceeded by only tungsten ... Rhenium is added to high-temperature superalloys that are used to make jet engine parts, using 70% of the worldwide rhenium production.",
+  "source_url": "https://en.wikipedia.org/wiki/Rhenium",
+  "note": "Not the highest-melting metal; page says exceeded only by tungsten"
+ },
+ {
+  "claim": "Elixir (2011) runs on the Erlang VM but with Ruby-like syntax — making Erlang's power accessible to a wider audience.",
+  "verdict": "overstated",
+  "corrected_claim": "Elixir, first released in 2012, runs on the BEAM virtual machine used by Erlang and borrows features from Ruby, Erlang and Clojure, aiming for higher extensibility and productivity on the Erlang VM.",
+  "quote": "that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language. ... to enable higher extensibility and productivity in the Erlang VM while maintaining compatibility with Erlang's ecosystem.",
+  "source_url": "https://en.wikipedia.org/wiki/Elixir_(programming_language)",
+  "note": "Page gives 2012, not 2011; 'Ruby-like syntax' not stated"
+ },
+ {
+  "claim": "Quorum quenching enzymes can disrupt biofilm formation — a new approach to fighting infection.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the therapeutic enzymatic degradation of the signaling molecules will be possible when treating illness caused by biofilms ... prevent the formation of such biofilms and possibly weaken established biofilms",
+  "source_url": "https://en.wikipedia.org/wiki/Quorum_quenching",
+  "note": ""
+ },
+ {
+  "claim": "Only about 25% of all lightning is cloud-to-ground; 75% occurs within clouds or between clouds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In general, CG lightning flashes account for only 25% of all total lightning flashes worldwide.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Tungsten has the highest melting point of any element at 3,422°C—light bulb filaments are made of tungsten because it glows without melting.",
+  "verdict": "overstated",
+  "corrected_claim": "Tungsten has the highest melting point of all known elements, 3,422°C, and because it keeps its strength at high temperatures it is used for incandescent light bulb filaments.",
+  "quote": "has the highest melting point of all known elements, at 3,422 °C (6,192 °F; 3,695 K) ... Because it retains its strength at high temperatures and has a high melting point, elemental tungsten is used in many high-temperature applications, such as incandescent light bulb, cathode-ray tube, and vacuum tube filaments.",
+  "source_url": "https://en.wikipedia.org/wiki/Tungsten",
+  "note": "'Glows without melting' explanation is a paraphrase not stated on page"
+ },
+ {
+  "claim": "Haskell, named after logician Haskell Curry, is the most well-known purely functional language — all functions are pure with no side effects.",
+  "verdict": "overstated",
+  "corrected_claim": "Haskell, named after logician Haskell Curry, is a purely functional language: functions generally have no side effects, which are represented by a separate construct, a monad.",
+  "quote": "It is named after logician Haskell Curry. ... It is a purely functional programming language, which means that functions generally have no side effects.",
+  "source_url": "https://en.wikipedia.org/wiki/Haskell_(programming_language)",
+  "note": "Page doesn't call it the most well-known; says functions 'generally' have no side effects"
+ },
+ {
+  "claim": "Gut bacteria produce neurotransmitters like GABA and dopamine — microbial mood modulation.",
+  "verdict": "overstated",
+  "corrected_claim": "Gut microbes can produce neuroactive molecules including GABA, serotonin, acetylcholine, histamine and melatonin.",
+  "quote": "acetylcholine, catecholamines, γ-aminobutyric acid, histamine, melatonin, and serotonin",
+  "source_url": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+  "note": "Page does not attribute dopamine production to gut bacteria"
+ },
+ {
+  "claim": "Lightning can travel through a typical cloud-to-ground channel exceeding 5 km (3.1 miles) in length.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "in excess of 5 km (3.1 mi) tall, from within the cloud to the ground's surface.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Beryllium is 30% lighter than aluminum but 6 times stiffer, used in aerospace and the James Webb Space Telescope's mirrors.",
+  "verdict": "overstated",
+  "corrected_claim": "Beryllium's stiffness is about 35% greater than steel's and its density only 1.85 times that of water, so it is used in aerospace — the James Webb Space Telescope has 18 gold-plated beryllium mirror segments.",
+  "quote": "The modulus of elasticity of beryllium is approximately 35% greater than that of steel. ... The James Webb Space Telescope has 18 hexagonal beryllium sections for its mirrors, each plated with a thin layer of gold.",
+  "source_url": "https://en.wikipedia.org/wiki/Beryllium",
+  "note": "'30% lighter than aluminum' and '6 times stiffer' not on page"
+ },
+ {
+  "claim": "Monads in Haskell allow sequencing computations in a pure language — they're 'a monoid in the category of endofunctors' (a famous joke/explanation).",
+  "verdict": "overstated",
+  "corrected_claim": "In Haskell, monads let programmers chain actions into a well-defined sequence in a pure language; more formally, a monad is a monoid in the category of endofunctors.",
+  "quote": "Typically, programmers will use bind to chain monadic functions into a sequence ... More formally, a monad is a monoid in the category of endofunctors.",
+  "source_url": "https://en.wikipedia.org/wiki/Monad_(functional_programming)",
+  "note": "Page gives the phrase as a formal definition, not as a famous joke."
+ },
+ {
+  "claim": "Germ-free mice have abnormal brain development and behavior — proving microbiome-brain links.",
+  "verdict": "overstated",
+  "corrected_claim": "Germ-free mice show an exaggerated HPA-axis stress response compared with ordinary lab mice, one line of evidence linking gut microbes to the brain.",
+  "quote": "showed an exaggerated HPA axis response to stress, compared to non-GF laboratory mice",
+  "source_url": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+  "note": "Page reports only an altered stress response, not abnormal brain development or proof"
+ },
+ {
+  "claim": "The Apollo 12 rocket was struck by lightning shortly after takeoff because the rocket's exhaust plume created a conductive pathway through the atmosphere.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Rocket exhaust plumes provided a pathway for lightning when it was witnessed striking the Apollo 12 rocket",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Indium tin oxide (ITO) is the most widely used transparent conductor, found in virtually all touchscreens and LCD displays.",
+  "verdict": "overstated",
+  "corrected_claim": "Indium tin oxide is one of the most widely used transparent conducting oxides, used in touch-screens such as mobile phones and as a transparent conductive coating for liquid crystal displays.",
+  "quote": "Indium tin oxide is one of the most widely used transparent conducting oxides, not just for its electrical conductivity and optical transparency. ... These properties are utilized to great advantage in touch-screen applications such as mobile phones. ... ITO is often used to make transparent conductive coating for displays such as liquid crystal displays",
+  "source_url": "https://en.wikipedia.org/wiki/Indium_tin_oxide",
+  "note": "Page says 'one of the most widely used', not the most; no 'virtually all touchscreens'."
+ },
+ {
+  "claim": "Clojure (2007) is a modern Lisp running on the JVM — designed by Rich Hickey who spent 2.5 years developing it unpaid.",
+  "verdict": "overstated",
+  "corrected_claim": "Clojure, a Lisp dialect for the Java platform created by Rich Hickey, was released in October 2007 after he spent about two and a half years on it, much of that time with no outside funding.",
+  "quote": "spent about two and a half years working on Clojure before releasing it publicly in October 2007, much of that time working exclusively on Clojure with no outside funding",
+  "source_url": "https://en.wikipedia.org/wiki/Clojure",
+  "note": "Only 'much of that time' was unfunded, not all 2.5 years"
+ },
+ {
+  "claim": "Autism spectrum disorder is associated with altered gut microbiome composition in many studies.",
+  "verdict": "overstated",
+  "corrected_claim": "Studies propose that gut microbiota alterations may contribute to the brain neuroinflammation and dysfunction seen in autism.",
+  "quote": "Studies propose that immune, gastrointestinal inflammation, autonomic nervous system dysfunction, gut microbiota alterations, and dietary metabolites may contribute to brain neuroinflammation and dysfunction.",
+  "source_url": "https://en.wikipedia.org/wiki/Autism",
+  "note": "Source hedges ('studies propose', 'may contribute')"
+ },
+ {
+  "claim": "Thermonuclear explosions can trigger lightning within the mushroom cloud due to intense gamma radiation creating charged regions through Compton scattering.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "triggering lightning flashes within the mushroom cloud ... intense gamma radiation from large nuclear explosions may develop intensely charged regions in the surrounding air ... Compton scattering",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Scandium additions of just 0.2-0.5% can double the strength of aluminum alloys while maintaining weldability—used in aircraft and sports equipment.",
+  "verdict": "overstated",
+  "corrected_claim": "Aluminium-scandium alloys contain just 0.1–0.5% scandium, which strengthens the metal and limits grain growth in welds — they have been used in MiG fighter jets and in bicycle frames and baseball bats.",
+  "quote": "These alloys contain between 0.1% and 0.5% of scandium. ... The addition of scandium to aluminium limits the grain growth in the heat zone of welded aluminium components.",
+  "source_url": "https://en.wikipedia.org/wiki/Scandium",
+  "note": "'Double the strength' not on page"
+ },
+ {
+  "claim": "Scala combines functional and object-oriented programming on the JVM — it's used for big data processing with Apache Spark.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "supports both object-oriented programming and functional programming ... source code can be compiled to JVM bytecode and run on a Java virtual machine (JVM) ... The most well-known open-source cluster-computing solution written in Scala is Apache Spark",
+  "source_url": "https://en.wikipedia.org/wiki/Scala_(programming_language)",
+  "note": ""
+ },
+ {
+  "claim": "Depression and anxiety correlate with reduced gut microbiome diversity — psychobiotics are being developed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Psychobiotic",
+  "note": "Page does not mention gut microbiome diversity in depression/anxiety; it reports a 2021 review finding psychobiotics had no significant effect on youth anxiety"
+ },
+ {
+  "claim": "The median duration of a lightning flash is 0.52 seconds, composed of multiple strokes lasting 60-70 microseconds each.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Median duration is 0.52 seconds ... made up from a number of much shorter flashes (strokes) of around 60 to 70 microseconds",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Samarium-cobalt magnets maintain their strength at temperatures up to 350°C where neodymium magnets would fail.",
+  "verdict": "overstated",
+  "corrected_claim": "Samarium-cobalt magnets have maximum use temperatures from 250 °C to 550 °C, with higher temperature ratings and coercivity than neodymium magnets.",
+  "quote": "These magnets have good temperature stability, maximum use temperatures from 250 °C (523 K) to 550 °C (823 K) ... but have higher temperature ratings and higher coercivity.",
+  "source_url": "https://en.wikipedia.org/wiki/Samarium-cobalt_magnet",
+  "note": "Page gives 250-550 °C range, not 350 °C; neodymium failure not stated"
+ },
+ {
+  "claim": "F# brings functional programming to .NET — developed by Don Syme at Microsoft Research, it influenced features later added to C#.",
+  "verdict": "overstated",
+  "corrected_claim": "F# is a functional-first language that began at Microsoft Research in Cambridge as a .NET implementation of a core of OCaml, designed by Don Syme; it lists C# among the languages it influenced.",
+  "quote": "F# originates from Microsoft Research, Cambridge, UK. ... Designed by: Don Syme, Microsoft Research ... Influenced: C#, Elm, F*, LiveScript",
+  "source_url": "https://en.wikipedia.org/wiki/F_Sharp_(programming_language)",
+  "note": "Page does not describe specific features later added to C#"
+ },
+ {
+  "claim": "Bifidobacterium infantis is critical for infant gut health — evolved specifically for breast-fed babies.",
+  "verdict": "overstated",
+  "corrected_claim": "Bifidobacterium infantis lives primarily in the intestines of breast-fed infants and is unique in its ability to digest human milk oligosaccharides, bringing many health benefits.",
+  "quote": "Bifidobacterium longum subsp. infantis (B. infantis) exists primarily in the intestine of breast-fed infants. ... B. infantis is unique in its ability to digest and consume human milk oligosaccharides (HMOs).",
+  "source_url": "https://en.wikipedia.org/wiki/Bifidobacterium_infantis",
+  "note": "Page does not say 'critical' or that it evolved specifically for breast-fed babies"
+ },
+ {
+  "claim": "Ship contrails in the ocean have been found to slightly influence lightning frequency, as the water vapor from ships can affect the atmosphere's electrical conductivity.",
+  "verdict": "overstated",
+  "corrected_claim": "Relatively high lightning frequency has been observed along ship tracks in the ocean.",
+  "quote": "relatively high lightning frequency is seen along ship tracks.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "Page does not attribute it to ship water vapor changing atmospheric conductivity."
+ },
+ {
+  "claim": "Neodymium magnets are the strongest permanent magnets commercially available, enabling smaller motors, speakers, and hard drives.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "neodymium magnets are the strongest type of permanent magnet available commercially. ... their greater strength allows the use of smaller, lighter magnets for a given application.",
+  "source_url": "https://en.wikipedia.org/wiki/Neodymium_magnet",
+  "note": ""
+ },
+ {
+  "claim": "Julia was designed for scientific computing with C-like speed and Python-like usability — its multiple dispatch system is central to its design.",
+  "verdict": "overstated",
+  "corrected_claim": "Julia was originally designed for numerical and technical computing, offers performance approaching statically typed languages like C, and uses multiple dispatch as a core programming paradigm.",
+  "quote": "while also originally designed for numerical/technical computing. ... Performance approaching that of statically typed languages like C ... the use of multiple dispatch as a core programming paradigm",
+  "source_url": "https://en.wikipedia.org/wiki/Julia_(programming_language)",
+  "note": "Page does not mention Python-like usability."
+ },
+ {
+  "claim": "C-section babies have different gut microbiomes than vaginally-delivered babies for years.",
+  "verdict": "overstated",
+  "corrected_claim": "Birth mode is one of the most impactful factors shaping how a baby's gut microbiota develops.",
+  "quote": "birthmode being one of the most impactful",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": "Page does not say differences persist for years"
+ },
+ {
+  "claim": "The main charging area in a thunderstorm occurs where temperatures range from -15°C to -25°C and contains a mixture of supercooled water droplets, ice crystals, and graupel.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The main charging area in a thunderstorm occurs in the central part of the storm where air is moving upward rapidly ... temperatures range from −15 to −25 °C",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "Page also describes super-cooled cloud droplets, small ice crystals and graupel."
+ },
+ {
+  "claim": "Terfenol-D (terbium-dysprosium-iron alloy) is a giant magnetostrictive material that can change length by up to 2 mm per meter when magnetized.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Terfenol-D, an alloy of the formula Tbx Dy1−x Fe2 (x ≈ 0.3), is a magnetostrictive material. ... The alloy has the highest magnetostriction of any alloy, up to 0.002 m/m at saturation",
+  "source_url": "https://en.wikipedia.org/wiki/Terfenol-D",
+  "note": "0.002 m/m = 2 mm per meter."
+ },
+ {
+  "claim": "Zig aims to be a better C — with manual memory management but safer, no hidden control flow, and interoperable with C libraries.",
+  "verdict": "overstated",
+  "corrected_claim": "Zig is designed as a general-purpose improvement on C: it requires manual memory management, its standard library avoids hidden allocations, and Zig code can interoperate directly with C code.",
+  "quote": "Zig is a system programming language designed to be a general-purpose improvement to the C programming language. ... Zig requires manual memory management. ... The Zig standard library avoids hidden allocations.",
+  "source_url": "https://en.wikipedia.org/wiki/Zig_(programming_language)",
+  "note": "Page doesn't state 'safer' or 'no hidden control flow'."
+ },
+ {
+  "claim": "Antibiotic use in infancy is linked to increased risk of allergies, asthma, and obesity later.",
+  "verdict": "overstated",
+  "corrected_claim": "Antibiotic use has been linked to an increased risk of metabolic diseases such as obesity, and in infants amoxicillin and macrolides cause significant shifts in gut microbiota.",
+  "quote": "an increased risk towards metabolic diseases such as obesity ... In infants it was observed that amoxicillin and macrolides cause significant shifts in the gut microbiota.",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": "Allergy and asthma links to infant antibiotics not stated"
+ },
+ {
+  "claim": "About 90% of lightning leader 'steps' are approximately 45 meters (148 feet) in length as the channel ionizes its way through the atmosphere.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "About 90% of ionic channel lengths between 'pools' are approximately 45 m (148 ft) in length.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Nitinol stents can be compressed into a tiny tube for insertion, then expand to their programmed shape at body temperature to prop open arteries.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Stent",
+  "note": "Page mentions nitinol stents but not compression or expansion at body temperature"
+ },
+ {
+  "claim": "Nim compiles to C, C++, or JavaScript — offering Python-like syntax with C-like performance and metaprogramming via macros.",
+  "verdict": "overstated",
+  "corrected_claim": "Nim compiles to C, C++, JavaScript and Objective-C, has syntax resembling Python, emits fast optimized C code, and supports metaprogramming through syntactic macros.",
+  "quote": "Nim compiles to C, C++, JavaScript, Objective-C, ... The syntax of Nim resembles that of Python. ... The Nim compiler emits fast, optimized C code by default. ... It supports compile-time metaprogramming features such as syntactic macros and term rewriting macros.",
+  "source_url": "https://en.wikipedia.org/wiki/Nim_(programming_language)",
+  "note": "'C-like performance' comparison not stated."
+ },
+ {
+  "claim": "Hunter-gatherer Hadza people have 40% more gut bacterial diversity than Westerners.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Hadza_people",
+  "note": "Page does not compare Hadza gut diversity with Westerners"
+ },
+ {
+  "claim": "Lightning is considered an Essential Climate Variable by the World Meteorological Organization due to its connections to storm intensity and climate patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "Lightning is considered an Essential Climate Variable by the World Meteorological Organization.",
+  "quote": "Lightning is considered an Essential Climate Variable by the World Meteorological Organization.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "The stated reason (links to storm intensity and climate patterns) was not confirmed on the page."
+ },
+ {
+  "claim": "Borophene, a single layer of boron atoms, was first synthesized in 2015 and has unique properties including high flexibility and conductivity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2015 two research teams succeeded in synthesizing different borophene phases on silver (111) surfaces ... It can be stronger than graphene, and more flexible, in some configurations. ... Scanning tunneling spectroscopy confirmed that the borophenes are metallic.",
+  "source_url": "https://en.wikipedia.org/wiki/Borophene",
+  "note": ""
+ },
+ {
+  "claim": "V is a programming language that claims C-like performance with Zig-like safety — it compiles 1 million lines of code in under a second.",
+  "verdict": "overstated",
+  "corrected_claim": "V is a programming language designed for fast compiling and increased safety, with policies to facilitate memory-safety, speed and secure code, including bounds checking.",
+  "quote": "V has policies to facilitate memory-safety, speed, and secure code, ... It employs bounds checking, to guard against out of bounds use of variables.",
+  "source_url": "https://en.wikipedia.org/wiki/V_(programming_language)",
+  "note": "No C/Zig comparisons and no '1 million lines in under a second' figure on page"
+ },
+ {
+  "claim": "Enterotypes are distinct gut bacterial community types — like blood types for your microbiome.",
+  "verdict": "overstated",
+  "corrected_claim": "An enterotype is a classification of people based on the bacterial composition of their gut microbiota, though the value of classifying by enterotype has been challenged.",
+  "quote": "An enterotype is a classification of living organisms based on the bacteriological composition of their gut microbiota. ... The value of classifying by enterotype has been challenged.",
+  "source_url": "https://en.wikipedia.org/wiki/Enterotype",
+  "note": "No blood-type comparison; page notes the concept is challenged"
+ },
+ {
+  "claim": "Ball lightning, described as luminous spheres from pea-sized to several meters in diameter, has been reported for centuries but was first scientifically recorded with video and spectrum analysis in 2012 on the Tibetan Plateau.",
+  "verdict": "overstated",
+  "corrected_claim": "Ball lightning, described as luminescent spheres from pea-sized to several meters across, has been reported for centuries; the first spectra of natural ball lightning, recorded on the Tibetan Plateau in July 2012, were published in 2014.",
+  "quote": "vary from pea-sized to several meters in diameter ... published the results of recordings made in July 2012 of the optical spectrum of what was thought to be natural ball lightning",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Page says first recorded spectra (published 2014), not first scientific recording overall"
+ },
+ {
+  "claim": "Ice has 18 known crystalline phases, with some exotic forms like Ice VII existing only under extreme pressures found in planetary interiors.",
+  "verdict": "overstated",
+  "corrected_claim": "Under higher pressures and varying temperatures ice can form nineteen known crystalline phases, and exotic superionic ice is speculated to make up the interiors of ice giants like Uranus and Neptune.",
+  "quote": "ice can form in nineteen separate known crystalline phases at various densities ... It is speculated that superionic ice could compose the interior of ice giants such as Uranus and Neptune.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice",
+  "note": "Page says nineteen phases, not 18; Ice VII not discussed in planetary interiors."
+ },
+ {
+  "claim": "The first computer password was created at MIT in 1961 for the CTSS time-sharing system — and the first password theft happened that same year.",
+  "verdict": "overstated",
+  "corrected_claim": "CTSS, an operating system introduced at MIT in 1961, was the first computer system to implement password login.",
+  "quote": "an operating system introduced at MIT in 1961, was the first computer system to implement password login.",
+  "source_url": "https://en.wikipedia.org/wiki/Password",
+  "note": "First password theft the same year not on page"
+ },
+ {
+  "claim": "Bacteriocins are antimicrobial peptides bacteria use to kill competitors — natural antibiotics.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacteriocins are protein or peptide toxins that bacteria make to inhibit the growth of closely related strains — and they are being tested as narrow-spectrum antibiotics.",
+  "quote": "Bacteriocins are proteinaceous or peptidic toxins produced by bacteria to inhibit the growth of similar or closely related bacterial strain(s).",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriocin",
+  "note": "Source says inhibit similar/related strains; antibiotic use is proposed/tested"
+ },
+ {
+  "claim": "A 1960 survey at Oak Ridge National Laboratory found that 5.6% of personnel reported having witnessed ball lightning, suggesting it may be more common than previously thought.",
+  "verdict": "overstated",
+  "corrected_claim": "A 1960 survey found that 5.6% of 1,962 Oak Ridge National Laboratory personnel, and 3.1% of 15,923 Union Carbide Nuclear Company staff in Oak Ridge, reported seeing ball lightning.",
+  "quote": "According to a statistical investigation carried out in 1960, of 1,962 Oak Ridge National Laboratory monthly role personnel, and of all 15,923 Union Carbide Nuclear Company personnel in Oak Ridge, found 5.6% and 3.1% respectively reported seeing ball lightning.",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "'More common than thought' conclusion not on page"
+ },
+ {
+  "claim": "Metallic hydrogen, theorized to be a room-temperature superconductor, may have been briefly created in a laboratory at pressures of 495 GPa in 2017.",
+  "verdict": "overstated",
+  "corrected_claim": "Metallic hydrogen, suggested in 1968 to be a possible superconductor up to room temperature, was claimed by Harvard researchers in 2016–2017 to have been made in a diamond anvil cell at about 495 GPa.",
+  "quote": "In 1968, Neil Ashcroft suggested that metallic hydrogen might be a superconductor, up to room temperature ... released claims in a pre-print manuscript of experimental evidence that solid metallic hydrogen had been synthesized",
+  "source_url": "https://en.wikipedia.org/wiki/Metallic_hydrogen",
+  "note": "'Briefly' not supported; claim first made in a 2016 preprint, published 2017."
+ },
+ {
+  "claim": "Alan Turing cracked the Enigma code at Bletchley Park — some historians estimate this shortened WWII by 2-4 years, saving millions of lives.",
+  "verdict": "overstated",
+  "corrected_claim": "Alan Turing was a leading participant in breaking German ciphers at Bletchley Park — official war historian Harry Hinsley estimated this work shortened the war in Europe by more than two years.",
+  "quote": "During the Second World War, Turing was a leading participant in the breaking of German ciphers at Bletchley Park. ... However, official war historian Harry Hinsley estimated that this work shortened the war in Europe by more than two years.",
+  "source_url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "note": "Page: 'more than two years' (one historian), no lives-saved figure; Turing was one participant, not sole cracker"
+ },
+ {
+  "claim": "Nisin from Lactococcus lactis is a food preservative used since the 1950s — bacterial antibiotic in your food.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a polycyclic antibacterial peptide produced by the bacterium Lactococcus lactis that is used as a food preservative ... produced since the 1950s as Nisaplin",
+  "source_url": "https://en.wikipedia.org/wiki/Nisin",
+  "note": ""
+ },
+ {
+  "claim": "In 1753, Professor Georg Richmann of Saint Petersburg was killed by ball lightning while conducting a kite experiment similar to Benjamin Franklin's—the first recorded scientific fatality from ball lightning.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1753 Georg Richmann of Saint Petersburg, using a kite-flying apparatus similar to Benjamin Franklin's proposal, was killed when ball lightning travelled down the string and struck his forehead.",
+  "quote": "constructed a kite-flying apparatus similar to Benjamin Franklin's proposal a year earlier. ... ball lightning appeared, travelled down the string, struck Richmann's forehead and killed him.",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Page does not call it the first recorded scientific fatality"
+ },
+ {
+  "claim": "Pentadiamond, a form of carbon predicted by computer simulations, would be 58% harder than conventional diamond if it could be synthesized.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Superhard_material",
+  "note": "Pentadiamond not mentioned on page."
+ },
+ {
+  "claim": "Turing was prosecuted for homosexuality in 1952 and chemically castrated — he died in 1954 and received a posthumous royal pardon in 2013.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1952, Turing was prosecuted for homosexual acts. He accepted hormone treatment, a procedure commonly referred to as chemical castration, as an alternative to prison. ... Queen Elizabeth II granted a pardon in 2013.",
+  "source_url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "note": ""
+ },
+ {
+  "claim": "Type VI secretion systems are molecular syringes bacteria use to inject toxins into competitors.",
+  "verdict": "overstated",
+  "corrected_claim": "Type VI secretion systems resemble an inverted phage sticking out of the bacterial cell, moving effector toxins across the membrane into adjacent target cells.",
+  "quote": "Effectors are moved from the interior of a bacterial cell, across the membrane into an adjacent target cell. ... The T6SS is thought to resemble an inverted phage extending outward from the bacterial cell surface.",
+  "source_url": "https://en.wikipedia.org/wiki/Type_VI_secretion_system",
+  "note": "Page does not use 'syringe' wording"
+ },
+ {
+  "claim": "Scottish physicist C.T.R. Wilson predicted in the 1920s that electrical breakdown should occur high above thunderstorms—sprites weren't visually confirmed until 1989.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 1920s, C.T.R. Wilson predicted that electrical breakdown should occur high above large thunderstorms; the first video recording of such a transient luminous event came on July 6, 1989.",
+  "quote": "electrical breakdown should occur in the atmosphere high above large thunderstorms ... The first video recording of a TLE was captured on July 6, 1989.",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": "Page says first video of a TLE in 1989, not specifically sprites; nationality not confirmed"
+ },
+ {
+  "claim": "Wurtzite boron nitride is predicted to be 18% harder than diamond under certain conditions, though this hasn't been fully demonstrated experimentally.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wurtzite_boron_nitride",
+  "note": "Page failed to load (fetch error)"
+ },
+ {
+  "claim": "The Raspberry Pi, launched in 2012 for $35, was designed to promote computing education — over 40 million have been sold.",
+  "verdict": "overstated",
+  "corrected_claim": "The first Raspberry Pi launched on 29 February 2012 at $35 to help rekindle interest in programming among schoolchildren — over 75 million units had been sold by March 2026.",
+  "quote": "The first commercial Raspberry Pi, the Model B, was launched on 29 February 2012, with an initial price of $35. ... The foundation's goal was to create a low-cost computer to help rekindle interest in programming among schoolchildren.",
+  "source_url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
+  "note": "40 million was the May 2021 milestone; page now gives over 75 million"
+ },
+ {
+  "claim": "Contact-dependent inhibition lets bacteria inject toxins only into touching cells — close-range warfare.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Contact-dependent growth inhibition (CDI) is a phenomenon where a bacterial cell may deliver a polymorphic toxin molecule into neighbouring bacterial cells upon direct cell-cell contact, causing growth arrest or cell death.",
+  "source_url": "https://en.wikipedia.org/wiki/Contact-dependent_growth_inhibition",
+  "note": ""
+ },
+ {
+  "claim": "Sprites are massive electrical discharges that occur 50-90 km above thunderstorms, colored reddish-orange, and were named after Shakespeare's mischievous spirits.",
+  "verdict": "overstated",
+  "corrected_claim": "Sprites are discharges reaching 50 to 90 km above the Earth, normally reddish-orange or greenish-blue, named after mischievous sprites like Shakespeare's Ariel or Puck.",
+  "quote": "reaching 50 to 90 kilometres (31 to 56 mi) above the Earth's surface. ... They are normally colored reddish-orange or greenish-blue. ... named after the mischievous sprite, e.g., Shakespeare's Ariel or Puck",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": "Page gives reddish-orange or greenish-blue; named after the mischievous sprite (e.g. Ariel or Puck)"
+ },
+ {
+  "claim": "Lonsdaleite, also called hexagonal diamond, forms when meteors containing graphite strike Earth—it may be up to 58% harder than regular diamond.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "also called hexagonal diamond in reference to the crystal structure ... when meteors containing graphite strike the Earth, the immense heat and stress of the impact ... Mineralogical simulation predicts lonsdaleite to be 58% harder than diamond on the <100> face",
+  "source_url": "https://en.wikipedia.org/wiki/Lonsdaleite",
+  "note": ""
+ },
+ {
+  "claim": "Arduino, an open-source microcontroller platform from 2005, made electronics accessible to artists and hobbyists — spawning the maker movement.",
+  "verdict": "overstated",
+  "corrected_claim": "Arduino, open-source hardware that began in 2005 as a tool for students, aimed to give novices and professionals a low-cost, easy way to build devices.",
+  "quote": "The Arduino project began in 2005 as a tool for students at the ... aiming to provide a low-cost and easy way for novices and professionals to create devices",
+  "source_url": "https://en.wikipedia.org/wiki/Arduino",
+  "note": "Page does not mention artists/hobbyists or Arduino spawning the maker movement"
+ },
+ {
+  "claim": "Myxococcus xanthus hunts in packs and digests prey bacteria — wolves of the microbial world.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "preying as a \"pack\" on other microorganisms like bacteria or fungi ... results in the colony forming swarms called \"wolf-packs\" that may measure up to several inches wide ... allowing for total lysis of prey cells",
+  "source_url": "https://en.wikipedia.org/wiki/Myxococcus_xanthus",
+  "note": ""
+ },
+ {
+  "claim": "Blue jets emanate upward from cloud tops at speeds of 100-140 km/s and can extend up to 50 km altitude, lasting only 200-300 milliseconds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "emanate upwards from cloud tops at speeds of about 100–140 km/s (60–90 mi/s) ... extending up to around 50 km (30 mi) in altitude ... lasting 200 to 300 milliseconds",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": ""
+ },
+ {
+  "claim": "Q-carbon is a new phase of carbon harder than diamond, created by rapidly cooling carbon from a superheated state with lasers.",
+  "verdict": "overstated",
+  "corrected_claim": "Q-carbon (quenched carbon) is a claimed form of amorphous carbon, reportedly harder than diamond, made by melting carbon with nanosecond laser pulses and quenching it rapidly — though there is no independent experimental confirmation of it.",
+  "quote": "Q-carbon, short for quenched carbon, is claimed to be a type of amorphous carbon ... Carbon is melted using nanosecond laser pulses, then quenched rapidly to form Q-carbon.",
+  "source_url": "https://en.wikipedia.org/wiki/Q-carbon",
+  "note": "Page says claims are unconfirmed; described as amorphous carbon, not a new phase"
+ },
+ {
+  "claim": "RISC-V is an open-source CPU instruction set — unlike x86 and ARM, anyone can implement it without licensing fees.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "its specifications are released under permissive open-source licenses and can be implemented without paying royalties. ... Unlike proprietary ISAs such as x86 and ARM",
+  "source_url": "https://en.wikipedia.org/wiki/RISC-V",
+  "note": ""
+ },
+ {
+  "claim": "Bdellovibrio bacteriovorus is a predatory bacterium that invades and consumes other bacteria from inside.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Bdellovibrio cell then enters the host periplasmic space. ... The Bdellovibrio cell uses hydrolytic enzymes to break down the host cell molecules, which it uses to grow filamentously.",
+  "source_url": "https://en.wikipedia.org/wiki/Bdellovibrio_bacteriovorus",
+  "note": ""
+ },
+ {
+  "claim": "Gigantic jets can travel from thunderstorm tops to 90 km altitude, with one observed in 2001 reaching speeds of at least 2,000 km/s as it spread into the ionosphere.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Gigantic jets reach higher altitudes than blue jets, terminating at 90 km (56 mi). ... sped upward with speeds of at least 2,000 km/s",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": ""
+ },
+ {
+  "claim": "Amorphous carbon (diamond-like carbon) coatings are used on razor blades, hard drives, and medical implants for their hardness and biocompatibility.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Virtually all of the multi-bladed razors used for wet shaving have the edges coated with hydrogen-free DLC ... as a coating on hard-disk platters and hard-disk read heads to protect against head crashes ... DLC has proved to have excellent bio-compatibility as well.",
+  "source_url": "https://en.wikipedia.org/wiki/Diamond-like_carbon",
+  "note": ""
+ },
+ {
+  "claim": "The FizzBuzz test asks programmers to print 'Fizz' for multiples of 3, 'Buzz' for 5, and 'FizzBuzz' for both — reportedly 199 of 200 applicants fail it.",
+  "verdict": "overstated",
+  "corrected_claim": "The FizzBuzz interview test asks programmers to replace numbers divisible by three with 'fizz', by five with 'buzz', and by both with 'fizzbuzz' — a quick way to weed out applicants with no programming experience.",
+  "quote": "replacing any number divisible by three with the word \"fizz\" ... any number divisible by five with the word \"buzz\" ... any number divisible by both three and five with the word \"fizzbuzz\" ... a quick way to weed out applicants with absolutely no programming experience",
+  "source_url": "https://en.wikipedia.org/wiki/Fizz_buzz",
+  "note": "199-of-200 failure statistic not on page"
+ },
+ {
+  "claim": "Vampirococcus attaches to prey bacteria and sucks out their cytoplasm — bacterial vampire.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "V. chlorellavorus is an extracellular parasite and remains attached to the cell wall. ... destroying its host in the process by \"sucking out\" all of the cellular contents via peripheral vacuoles",
+  "source_url": "https://en.wikipedia.org/wiki/Vampirovibrio",
+  "note": "Page is about Vampirovibrio chlorellavorus, which preys on Chlorella algae; Vampirococcus and bacterial prey not mentioned"
+ },
+ {
+  "claim": "ELVES (Emission of Light and Very Low Frequency perturbations) are flattened, expanding glows around 400 km in diameter that last only about one millisecond in the ionosphere above thunderstorms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "ELVES often appear as a dim, flattened, expanding glow around 400 km (250 mi) in diameter ... They typically last for one millisecond.",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": ""
+ },
+ {
+  "claim": "Schwarzites are theoretical carbon structures with negative Gaussian curvature (saddle-shaped), recently synthesized inside zeolite templates.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Schwarzite",
+  "note": "Page failed to load (fetch error / not found)"
+ },
+ {
+  "claim": "The rubber duck debugging technique involves explaining code line-by-line to an inanimate object — often revealing bugs through the act of explanation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The programmer explaining their solution to an inanimate object (such as a rubber duck) ... the simple act of explaining, step by step, what the code is supposed to do often causes the problem to leap off the screen and announce itself.",
+  "source_url": "https://en.wikipedia.org/wiki/Rubber_duck_debugging",
+  "note": ""
+ },
+ {
+  "claim": "Micavibrio feeds on the outer surface of other bacteria — grazing rather than hunting.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Micavibrio",
+  "note": "Page not found (404)."
+ },
+ {
+  "claim": "Transient luminous events have been observed on Jupiter by the NASA Juno probe, proving that upper-atmospheric lightning phenomena occur on other planets.",
+  "verdict": "overstated",
+  "corrected_claim": "Transient luminous events have also been observed in far-ultraviolet images of Jupiter's upper atmosphere, showing these phenomena are not unique to Earth.",
+  "quote": "Transient luminous events have also been observed in far-ultraviolet images of Jupiter's upper atmosphere",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": "Page body does not credit the Juno probe"
+ },
+ {
+  "claim": "The theremin, invented in 1920 by Russian physicist Leon Theremin, is the only widely used musical instrument played without physical contact, using two metal antennas to sense hand position for pitch and volume.",
+  "verdict": "overstated",
+  "corrected_claim": "The theremin, invented in October 1920 by Russian physicist Leon Theremin, is played without physical contact: the distance from one antenna sets the pitch and the distance from the other sets the volume.",
+  "quote": "The instrument was invented in October 1920 by the Russian physicist Lev Sergeyevich Termen, known in the West as Leon Theremin. ... The distance from one antenna determines frequency (pitch), and the distance from the other controls amplitude (volume).",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": "Source does not say it is the 'only widely used' contactless instrument."
+ },
+ {
+  "claim": "Pair programming has two developers work at one computer — studies show it produces fewer bugs despite appearing less efficient.",
+  "verdict": "overstated",
+  "corrected_claim": "In pair programming two programmers work together at one workstation — the resulting code has fewer defects, though total human-hours increase and it is not uniformly beneficial.",
+  "quote": "Pair programming is a software development method in which two computer programmers work together at one workstation. ... However, the resulting code has fewer defects.",
+  "source_url": "https://en.wikipedia.org/wiki/Pair_programming",
+  "note": "Page adds caveats: more human-hours, meta-analysis says not uniformly beneficial"
+ },
+ {
+  "claim": "Some bacteria produce antibiotics only when population density is high enough — quorum-sensing weapons.",
+  "verdict": "overstated",
+  "corrected_claim": "Quorum sensing lets bacteria restrict expression of certain genes to high cell densities — Streptococcus pneumoniae, for example, regulates its antimicrobial bacteriocin production through a complex quorum sensing system.",
+  "quote": "quorum sensing enables bacteria to restrict the expression of specific genes to the high cell densities ... A complex quorum sensing system has evolved in S. pneumoniae that regulates bacteriocin production.",
+  "source_url": "https://en.wikipedia.org/wiki/Quorum_sensing",
+  "note": "Page does not specifically link quorum sensing to antibiotic production"
+ },
+ {
+  "claim": "The global rate of transient luminous events is estimated at several million per year, based on FORMOSAT-2 satellite observations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "observations to be several million events per year",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": ""
+ },
+ {
+  "claim": "Humpback whale songs follow a complex hierarchical structure with units, sub-phrases, phrases, and themes that can last up to 30 minutes and be repeated for hours or days.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The songs follow a distinct hierarchical structure. ... A collection of four or six units is known as a sub-phrase, lasting perhaps ten seconds. ... The whale song will last up to 30 or so minutes, and will be repeated over and over again over the course of hours or even days.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "Technical debt, coined by Ward Cunningham in 1992, describes the cost of shortcuts in software — like financial debt, it accumulates interest.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ward Cunningham coined the term technical debt in 1992. ... Every minute spent on not-quite-right code counts as interest on that debt.",
+  "source_url": "https://en.wikipedia.org/wiki/Technical_debt",
+  "note": ""
+ },
+ {
+  "claim": "Allelopathy in bacteria includes producing antibiotics, siderophores, and volatile compounds to suppress competitors.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Allelopathy",
+  "note": "Page does not mention antibiotics, siderophores or volatile compounds in bacteria"
+ },
+ {
+  "claim": "TROLLs (Transient Red Optical Luminous Lineaments) are red streaks that form after strong sprites and were only recently classified as a distinct phenomenon.",
+  "verdict": "overstated",
+  "corrected_claim": "TROLLs are red glows that form after a sprite tendril, occurring after strong sprites.",
+  "quote": "occur after strong sprites ... a red glow that forms after a sprite tendril",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": "'Only recently classified' not on page"
+ },
+ {
+  "claim": "Absolute pitch (perfect pitch) occurs in only about 1 in 10,000 people in the general population, though a 2019 review indicated prevalence of at least 4% among music students.",
+  "verdict": "overstated",
+  "corrected_claim": "Absolute pitch is widely reported to occur in about 1 in 10,000 people — a figure that may not be accurate — and a 2019 review indicated a prevalence of at least 4% among music students.",
+  "quote": "A proportion of 1 in 10,000 is widely reported, but may not be accurate.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "Page says the 1 in 10,000 figure may not be accurate"
+ },
+ {
+  "claim": "The 'bus factor' measures how many team members could be hit by a bus before a project fails — a low bus factor indicates dangerous knowledge concentration.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the minimum number of team members that have to suddenly disappear from a project before the project stalls ... A bus factor of one is a single point of failure.",
+  "source_url": "https://en.wikipedia.org/wiki/Bus_factor",
+  "note": ""
+ },
+ {
+  "claim": "Azospirillum promotes plant growth by producing auxins — bacteria as natural fertilizers.",
+  "verdict": "overstated",
+  "corrected_claim": "Many Azospirillum bacteria excrete plant hormones that make roots grow more branches and fine root hairs; A. brasilense is used commercially to promote crop growth, especially in South America.",
+  "quote": "Many Azospirillum excrete plant hormones that alter how the roots of plants grow. Affected roots frequently grow more branches and fine root hairs",
+  "source_url": "https://en.wikipedia.org/wiki/Azospirillum",
+  "note": "Page says plant hormones generally, not auxins specifically, and inoculants not 'fertilizers'"
+ },
+ {
+  "claim": "Ghosts (Greenish Optical Emissions from Sprite Tops) appear as faint green glows that persist after a red sprite dissipates, and were first noted as distinct phenomena in 2019.",
+  "verdict": "overstated",
+  "corrected_claim": "GHOSTs (Greenish Optical emission from sprite Tops) were first noted as a distinct phenomenon by storm chasers Hank Schyma and Paul M Smith in 2019.",
+  "quote": "were first noted as an exclusive phenomenon by storm chasers Hank Schyma and Paul M Smith in 2019",
+  "source_url": "https://en.wikipedia.org/wiki/Upper-atmospheric_lightning",
+  "note": "Persistence after the sprite dissipates not confirmed in fetched text"
+ },
+ {
+  "claim": "Pythagoras discovered in the 6th century BC that harmonious musical intervals occur when string lengths form simple integer ratios, founding the mathematical study of acoustics.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 6th century BC, Pythagoras wanted to know why some combinations of musical sounds seemed more beautiful than others, and found that the lengths of vibrating strings are expressible as ratios of integers.",
+  "quote": "wanted to know why some combinations of musical sounds seemed more beautiful than others",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "'Founding the mathematical study of acoustics' not stated"
+ },
+ {
+  "claim": "Yak shaving describes the chain of prerequisites before you can do what you actually wanted — named after a Ren & Stimpy episode.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Yak_shaving",
+  "note": "Wikipedia has no article on yak shaving (page redirects to Wiktionary notice)."
+ },
+ {
+  "claim": "Pseudomonas fluorescens protects plant roots by producing antifungal compounds — biocontrol agents.",
+  "verdict": "overstated",
+  "corrected_claim": "Some strains of Pseudomonas fluorescens protect plant roots against parasitic fungi such as Fusarium, producing compounds like 2,4-DAPG responsible for their biocontrol properties.",
+  "quote": "protecting the roots of some plant species against parasitic fungi such as Fusarium or the oomycete Pythium ... the compound found to be responsible for antiphytopathogenic and biocontrol properties in these strains",
+  "source_url": "https://en.wikipedia.org/wiki/Pseudomonas_fluorescens",
+  "note": "Page limits the protective effect to certain strains"
+ },
+ {
+  "claim": "Earth has experienced at least five major ice ages: the Huronian (2.4 billion years ago), Cryogenian, Andean-Saharan, late Paleozoic, and the current Quaternary Ice Age.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "at least five major ice ages in Earth's history",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page lists Huronian (2.4-2.1 Ga), Cryogenian, Andean-Saharan, late Paleozoic and Quaternary."
+ },
+ {
+  "claim": "The smallest sound a human can hear (threshold of hearing) is nine orders of magnitude smaller than ambient atmospheric pressure, demonstrating the ear's extraordinary sensitivity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is nine orders of magnitude smaller than the ambient pressure",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": ""
+ },
+ {
+  "claim": "Hofstadter's Law states: 'It always takes longer than you expect, even when you take into account Hofstadter's Law.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It always takes longer than you expect, even when you take into account Hofstadter's law.",
+  "source_url": "https://en.wikipedia.org/wiki/Hofstadter%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "Frankia bacteria fix nitrogen in actinorhizal plants like alder — not just legumes have bacterial partners.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The bacteria are filamentous and convert atmospheric nitrogen into ammonia ... They do this while living in root nodules on actinorhizal plants. ... All species in the genus Alnus in the family Betulaceae",
+  "source_url": "https://en.wikipedia.org/wiki/Frankia",
+  "note": "Alder (Alnus) listed among hosts"
+ },
+ {
+  "claim": "The Huronian glaciation 2.4-2.1 billion years ago was caused by the Great Oxygenation Event, which eliminated atmospheric methane, a powerful greenhouse gas.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the elimination of atmospheric methane",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page attributes the Huronian (2.4-2.1 Ga) to methane loss during the Great Oxygenation Event."
+ },
+ {
+  "claim": "The oldest known musical instrument is a simple flute dated to 50,000-60,000 years ago, found in Slovenia, though its origin as a human-made instrument is disputed.",
+  "verdict": "overstated",
+  "corrected_claim": "The oldest object identified by scholars as a musical instrument is a simple flute dated to 50,000-60,000 years ago; the disputed Divje Babe flute from Slovenia may be older, but many argue its holes were made by carnivores.",
+  "quote": "The oldest object identified by scholars as a musical instrument, is a simple flute, dated back 50,000–60,000 years. ... Its origin is disputed, with many arguing that it is most likely the product of carnivores chewing the bone",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "Page does not tie the 50,000-60,000-year flute to Slovenia; Divje Babe dated 43,400-67,000."
+ },
+ {
+  "claim": "Parkinson's Law of Triviality: organizations give disproportionate attention to trivial issues — also called 'bikeshedding' after a nuclear plant example.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "people within an organization commonly give disproportionate weight to trivial issues. ... The terms bicycle-shed effect, bike-shed effect, and bike-shedding were coined based on Parkinson's example;",
+  "source_url": "https://en.wikipedia.org/wiki/Law_of_triviality",
+  "note": "Parkinson's example contrasts a nuclear reactor with a bike shed."
+ },
+ {
+  "claim": "Plant immune systems can distinguish beneficial from pathogenic bacteria — selective recognition.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_immune_system",
+  "note": "Page failed to load (fetch error / not found)"
+ },
+ {
+  "claim": "During the Cryogenian period 720-630 million years ago, Earth may have become a 'Snowball Earth' with glacial ice sheets reaching the equator.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "occurred from 720 to 630 million years ago ... glacial ice sheets reached the equator",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": ""
+ },
+ {
+  "claim": "Infrasound (below 20 Hz) can travel thousands of kilometers and has been linked to feelings of unease, awe, or supernatural experiences in humans.",
+  "verdict": "overstated",
+  "corrected_claim": "Infrasound propagates over vast distances through Earth's atmosphere, and one study has suggested it may cause feelings of awe or fear in humans.",
+  "quote": "infrasound propagates over vast distances through the Earth's atmosphere ... One study has suggested that infrasound may cause feelings of awe or fear in humans.",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Page does not say 'thousands of kilometers' for infrasound generally; the awe/fear link rests on one study."
+ },
+ {
+  "claim": "Conway's Law states that organizations design systems mirroring their communication structure — software architecture reflects org charts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations.",
+  "source_url": "https://en.wikipedia.org/wiki/Conway%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "Agrobacterium tumefaciens transfers DNA into plant cells — the basis of plant genetic engineering.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The plasmid T-DNA that is transferred to the plant is an ideal vehicle for genetic engineering.",
+  "source_url": "https://en.wikipedia.org/wiki/Agrobacterium_tumefaciens",
+  "note": ""
+ },
+ {
+  "claim": "The term 'ice age' was coined by Karl Friedrich Schimper in 1837, who noticed moss growing on erratic boulders and deduced that glaciers once covered much of Europe.",
+  "verdict": "overstated",
+  "corrected_claim": "At the beginning of 1837, German botanist Karl Friedrich Schimper coined the term 'ice age' after studying mosses growing on erratic boulders in the alpine upland of Bavaria and concluding that ice had transported them there.",
+  "quote": "At the beginning of 1837, Schimper coined the term \"ice age\" (\"Eiszeit\") for the period of the glaciers. ... was studying mosses which were growing on erratic boulders in the alpine upland of Bavaria.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page says he concluded ice transported the boulders, not that glaciers covered much of Europe."
+ },
+ {
+  "claim": "The white bellbird makes the loudest bird call ever recorded at 125 decibels, louder than a rock concert and previously beaten only by the screaming piha at 116 dB.",
+  "verdict": "overstated",
+  "corrected_claim": "The white bellbird makes the loudest call ever recorded for birds, reaching 125 dB — beating the previous record holder, the screaming piha, at 116 dB.",
+  "quote": "the white bellbird makes the loudest call ever recorded for birds, reaching a sound pressure level (SPL) of 125 dB. The record was previously held by the screaming piha with an SPL of 116 dB.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Rock-concert comparison not on page"
+ },
+ {
+  "claim": "Goodhart's Law warns that when a measure becomes a target, it ceases to be a good measure — explaining why metrics gaming is so common.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When a measure becomes a target, it ceases to be a good measure",
+  "source_url": "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "Crown gall disease is caused by Agrobacterium inserting genes that make plant cells produce bacterial food.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tumors are incited by the conjugative transfer of a DNA segment (T-DNA) from the bacterial tumour-inducing (Ti) plasmid. ... The T-DNA carries genes for the biosynthetic enzymes for the production of unusual amino acids ... providing a carbon and nitrogen source for the bacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Crown_gall",
+  "note": ""
+ },
+ {
+  "claim": "The Antarctic ice sheet began forming about 34 million years ago, while the Arctic ice cap didn't form until about 2.58 million years ago.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Antarctic ice sheet began to form earlier, at about 34 Ma, in the mid- Cenozoic ... The definition of the Quaternary as beginning 2.58 Ma is based on the formation of the Arctic ice cap.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": ""
+ },
+ {
+  "claim": "Concert pitch A=440 Hz only became an international standard in 1939; before standardization, the A above middle C varied from 400 to 457 Hz across different times and places.",
+  "verdict": "overstated",
+  "corrected_claim": "Only in 1939 did an international conference recommend tuning the A above middle C to 440 Hz; historically that A had been tuned to a variety of pitches.",
+  "quote": "In 1939 an international conference recommended that the A above middle C be tuned to 440 Hz, now known as concert pitch. ... Historically, this A has been tuned to a variety of different pitches.",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "400-457 Hz range not in page text; 1939 was a recommendation"
+ },
+ {
+  "claim": "Hyrum's Law: with enough users, someone depends on every observable behavior of your system — making any change potentially breaking.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Hyrum%27s_law",
+  "note": "Source page failed to load (URL not found) on two attempts."
+ },
+ {
+  "claim": "Fire blight (Erwinia amylovora) can kill an apple orchard in one season — devastating bacterial disease.",
+  "verdict": "overstated",
+  "corrected_claim": "Under optimal conditions, fire blight (Erwinia amylovora) can destroy an entire orchard in a single growing season, a serious concern for apple and pear growers.",
+  "quote": "Under optimal conditions, it can destroy an entire orchard in a single growing season. ... It is a serious concern to apple and pear producers.",
+  "source_url": "https://en.wikipedia.org/wiki/Fire_blight",
+  "note": "Page adds 'under optimal conditions' caveat"
+ },
+ {
+  "claim": "The current interglacial period (the Holocene) began about 11,700 years ago, and without human influence, the next glacial period would likely begin at least 50,000 years from now.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Earth has been in an interglacial period known as the Holocene for around 11,700 years, ... Predicted changes in orbital forcing suggest that the next glacial period would begin at least 50,000 years from now.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": ""
+ },
+ {
+  "claim": "Blind listening tests since 1817 have consistently found no significant sound quality difference between Stradivarius violins and high-quality modern instruments.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "have never found any difference in sound between Stradivari's violins and high-quality violins",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": ""
+ },
+ {
+  "claim": "Zawinski's Law: every program attempts to expand until it can read email — those that cannot are replaced by ones that can.",
+  "verdict": "overstated",
+  "corrected_claim": "Zawinski's Law holds that every program attempts to expand until it can read mail.",
+  "quote": "Every program attempts to expand until it can read",
+  "source_url": "https://en.wikipedia.org/wiki/Jamie_Zawinski",
+  "note": "Fetched page text truncated the law; the 'those that cannot are replaced' clause could not be confirmed."
+ },
+ {
+  "claim": "Xylella fastidiosa causes Pierce's disease in grapevines — spread by sharpshooter insects.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "X. fastidiosa also colonizes the foreguts of insect vectors, which can be any xylem-feeding insects, often sharpshooters in the Cicadellidae subfamily Cicadellinae.",
+  "source_url": "https://en.wikipedia.org/wiki/Xylella_fastidiosa",
+  "note": ""
+ },
+ {
+  "claim": "Anthropogenic greenhouse gas emissions may outweigh the orbital forcing of Milankovitch cycles for hundreds of thousands of years, potentially preventing the next ice age.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "potentially outweigh the orbital forcing of the Milankovitch cycles",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page: for hundreds of thousands of years."
+ },
+ {
+  "claim": "Elephants communicate using infrasound that can travel through the ground for hundreds of kilometers, sensed by other herds through their feet.",
+  "verdict": "overstated",
+  "corrected_claim": "Elephants produce infrasound waves that travel through solid ground and are sensed by other herds using their feet, even herds that may be separated by hundreds of kilometres.",
+  "quote": "Elephants also produce infrasound waves that travel through solid ground and are sensed by other herds using their feet.",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Page says herds may be separated by hundreds of km, not that the ground waves travel hundreds of km."
+ },
+ {
+  "claim": "Greenspun's Tenth Rule: every sufficiently complicated C or Fortran program contains an ad-hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.",
+  "source_url": "https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule",
+  "note": ""
+ },
+ {
+  "claim": "Phytoplasmas cause 'witch's broom' disease — turning orderly plants into tangled masses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Many phytoplasma-infected plants develop a bushy or witch's broom appearance due to changes in their normal growth patterns.",
+  "source_url": "https://en.wikipedia.org/wiki/Phytoplasma",
+  "note": ""
+ },
+ {
+  "claim": "The closing of the Isthmus of Panama about 3 million years ago may have triggered strong glaciation in North America by changing ocean circulation patterns.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The closing of the Isthmus of Panama about 3 million years ago may have ushered in the present period of strong glaciation",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page: over North America, by ending water exchange between tropical Atlantic and Pacific."
+ },
+ {
+  "claim": "Synesthesia affects about 4% of the population, with music-to-color synesthesia being one of the most common forms, where sounds trigger visual color experiences.",
+  "verdict": "overstated",
+  "corrected_claim": "Estimates of synesthesia prevalence vary widely, with one study finding 4.4%; associating sounds with colors is another common form.",
+  "quote": "it showed a prevalence of 4.4%, with 9 different variations of synesthesia. ... Another common form of synesthesia is the association of sounds with colors.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "4.4% is from one study; estimates range widely."
+ },
+ {
+  "claim": "The 'worse is better' philosophy argues that simpler systems often win over more correct ones — Unix beat more elegant alternatives.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "simple, hacked-together software that makes it to market first will often outcompete better and more elegant designs ... Gabriel offers the examples of the adoption of C over Lisp, Unix over Lisp machines and VMS",
+  "source_url": "https://en.wikipedia.org/wiki/Worse_is_better",
+  "note": ""
+ },
+ {
+  "claim": "Ralstonia solanacearum causes bacterial wilt in over 200 plant species — one of the most destructive pathogens.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bacterial wilt caused by R. solanacearum is of economic importance because it infects over 250 plant species in over 50 families ... is classified as one of the world's most important phytopathogenic bacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Ralstonia_solanacearum",
+  "note": ""
+ },
+ {
+  "claim": "During glacial periods, Earth's ice sheets increase the planet's albedo (reflectivity), while forests decrease it—this creates a positive feedback loop that intensifies cooling.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ice and snow increase Earth's albedo, while forests reduce its albedo. ... Each glacial period is subject to positive feedback mechanisms, which makes it more severe,",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": ""
+ },
+ {
+  "claim": "The brown thrasher can sing up to 3,000 distinct song types, making it one of the most vocally complex birds known.",
+  "verdict": "overstated",
+  "corrected_claim": "The brown thrasher can sing up to 3,000 distinct kinds of song.",
+  "quote": "the number of distinct kinds of song they sing (up to 3000 in the brown thrasher)",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "'One of the most vocally complex birds' ranking not stated"
+ },
+ {
+  "claim": "The 90-90 rule: the first 90% of code takes 90% of time; the remaining 10% takes the other 90% of time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+  "source_url": "https://en.wikipedia.org/wiki/Ninety%E2%80%93ninety_rule",
+  "note": ""
+ },
+ {
+  "claim": "Streptomyces produce over 75% of clinically useful antibiotics — the pharmaceutical goldmine of soil bacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "Streptomyces produce over two-thirds of the clinically useful antibiotics of natural origin — a pharmaceutical goldmine found mostly in soil.",
+  "quote": "Streptomycetes produce over two-thirds of the clinically useful antibiotics of natural origin ... Found predominantly in soil and decaying vegetation, most streptomycetes produce spores.",
+  "source_url": "https://en.wikipedia.org/wiki/Streptomyces",
+  "note": "Page says over two-thirds, not over 75%"
+ },
+ {
+  "claim": "When glaciers grind rocks into dust and wind transports iron-rich dust to the open ocean, it fertilizes massive algal blooms that pull CO2 from the atmosphere, intensifying ice ages.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This allows winds to transport iron rich dust into the open ocean, where it acts as a fertilizer",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Sentence continues describing algal blooms drawing CO2 from the atmosphere."
+ },
+ {
+  "claim": "People who speak tonal languages like Mandarin or Vietnamese are significantly more likely to develop absolute pitch, suggesting early exposure to pitch-meaning associations is crucial.",
+  "verdict": "overstated",
+  "corrected_claim": "Absolute pitch is more common among speakers of tonal languages, such as most dialects of Chinese or Vietnamese.",
+  "quote": "Absolute pitch is more common among speakers of tonal languages, such as most dialects of Chinese or Vietnamese.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "'Significantly' and the causal 'crucial' inference not stated"
+ },
+ {
+  "claim": "Postel's Law (the robustness principle): be conservative in what you send, liberal in what you accept — a guiding principle of Internet protocols.",
+  "verdict": "overstated",
+  "corrected_claim": "Postel's law, the robustness principle — 'be conservative in what you do, be liberal in what you accept from others' — was written by Jon Postel in an early TCP specification, though later RFCs have criticized it.",
+  "quote": "be conservative in what you do, be liberal in what you accept from others",
+  "source_url": "https://en.wikipedia.org/wiki/Robustness_principle",
+  "note": "Page wording is 'what you do'; page also notes later critiques (RFC 3117, RFC 9413)"
+ },
+ {
+  "claim": "The petrichor smell after rain comes partly from geosmin produced by Streptomyces — bacterial aromatherapy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a contributor to the strong scent, known as petrichor, that occurs when rain falls after a spell of dry weather ... while the main genus in the Actinomyces that produces geosmin is Streptomyces.",
+  "source_url": "https://en.wikipedia.org/wiki/Geosmin",
+  "note": ""
+ },
+ {
+  "claim": "The Himalayas may be a major factor in the current ice age because their uplift increased rainfall and the rate at which CO2 is washed from the atmosphere through weathering.",
+  "verdict": "overstated",
+  "corrected_claim": "Some scientists believe the Himalayas are a major factor in the current ice age, because the mountains increased Earth's total rainfall and therefore the rate at which carbon dioxide is washed out of the atmosphere.",
+  "quote": "Some scientists believe that the Himalayas are a major factor in the current ice age, because these mountains have increased ... therefore the rate at which carbon dioxide is washed out of the atmosphere",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page says CO2 is washed out by rainfall and only 'some scientists believe'; it does not mention uplift-driven weathering."
+ },
+ {
+  "claim": "The 52-hertz whale, tracked since 1989, sings at a unique frequency much higher than other whales, and is sometimes called 'the world's loneliest whale' because no other whales are known to respond to its calls.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2004 researchers reported tracking a North Pacific whale for 12 years that sang at 52 Hz, a phenomenon scientists have been unable to explain.",
+  "quote": "Scientists have been unable to explain this phenomenon.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Page says tracked for 12 years as of 2004, not since 1989; 'loneliest whale' only in a reference title"
+ },
+ {
+  "claim": "The first spam email was sent in 1978 to 393 ARPANET users — advertising DEC computers, it generated some sales and much complaint.",
+  "verdict": "overstated",
+  "corrected_claim": "The first commercial spam email was sent on May 3, 1978, to around 400 ARPANET users, advertising a DEC presentation of its DECSYSTEM-20 products; it reportedly generated $13 million in sales, but the reaction was almost universally negative.",
+  "quote": "The first commercial spam electronic mail (although not yet called email), was sent on May 3, 1978, to around 400 users on the ARPANET. It reportedly generated $13 million in sales. The reaction to it was almost universally negative.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_email_spam",
+  "note": "Page says around 400 users (not 393), advertised a presentation for DECSYSTEM-20 products; sales reported as $13 million."
+ },
+ {
+  "claim": "Actinomycetes form filamentous colonies that look like fungal mycelium — bacteria pretending to be fungi.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In this role, the colonies often grow extensive mycelia, as fungi do, and the name of an important order of the phylum, Actinomycetales (the actinomycetes), reflects that they were long believed to be fungi.",
+  "source_url": "https://en.wikipedia.org/wiki/Actinomycetota",
+  "note": ""
+ },
+ {
+  "claim": "During the last glacial period, sea levels fluctuated 20-30 meters as water was sequestered in ice sheets, periodically opening and closing the Bering Strait.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "During the last glacial period the sea-level fluctuated 20 to 30 metres (66 to 98 ft) as water was sequestered, ... When ice collected and the sea level dropped sufficiently, flow through the Bering Strait",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": ""
+ },
+ {
+  "claim": "French scientist Vladimir Gavreau discovered infrasound in 1957 when investigating mysterious nausea in his laboratory, traced to a 7 Hz vibration from a loose motor.",
+  "verdict": "overstated",
+  "corrected_claim": "French scientist Vladimir Gavreau became interested in infrasound in 1957 when his team suffered bouts of deeply unpleasant nausea, traced to a 7 Hz infrasound wave from a loosely poised low-speed motor.",
+  "quote": "His interest in infrasonic waves first came about in 1957. ... experiencing bouts of periodic and deeply unpleasant nausea ... loosely poised low speed motor",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "Page says his interest began in 1957; it does not say he discovered infrasound."
+ },
+ {
+  "claim": "CAPTCHA was coined in 2003 at Carnegie Mellon — it's a backronym for 'Completely Automated Public Turing test to tell Computers and Humans Apart.'",
+  "verdict": "overstated",
+  "corrected_claim": "The term CAPTCHA was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper and John Langford — a contrived acronym for 'Completely Automated Public Turing test to tell Computers and Humans Apart.'",
+  "quote": "The term was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford. It is a contrived acronym for \"Completely Automated Public Turing test to tell Computers and Humans Apart\".",
+  "source_url": "https://en.wikipedia.org/wiki/CAPTCHA",
+  "note": "Page does not say coined at Carnegie Mellon"
+ },
+ {
+  "claim": "Caulobacter crescentus produces the strongest biological adhesive known — stronger than superglue.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Caulobacter_crescentus",
+  "note": "Page mentions an adhesive holdfast but no strength or superglue comparison"
+ },
+ {
+  "claim": "An ice-free Arctic Ocean paradoxically leads to more snowfall at high latitudes because more water evaporates, potentially triggering glacial advances.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1956, Ewing and Donn hypothesized that an ice-free Arctic Ocean leads to increased snowfall at high latitudes.",
+  "quote": "In 1956, Ewing and Donn hypothesized that an ice-free Arctic Ocean leads to increased snowfall at high latitudes.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page presents this as a 1956 hypothesis by Ewing and Donn, not established fact."
+ },
+ {
+  "claim": "The syrinx, the vocal organ of birds, can produce two notes simultaneously because birds can control the two sides of their trachea independently.",
+  "verdict": "overstated",
+  "corrected_claim": "The syrinx can control the two sides of a bird's trachea independently, which is how some species can produce two notes at once.",
+  "quote": "It can control the two sides of the trachea independently, which is how some species can produce two notes at once.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Page says only some species"
+ },
+ {
+  "claim": "reCAPTCHA was originally used to digitize books — users unknowingly transcribed words that OCR couldn't read while proving they were human.",
+  "verdict": "overstated",
+  "corrected_claim": "The original reCAPTCHA was designed to digitize books too illegible for computers to scan, crowdsourcing the reading of uncertain words — it helped digitize The New York Times archives.",
+  "quote": "designed for the digitization of books, particularly those that were too illegible to be ... The system helped to digitize the archives of The New York Times",
+  "source_url": "https://en.wikipedia.org/wiki/ReCAPTCHA",
+  "note": "'Unknowingly' not stated on page"
+ },
+ {
+  "claim": "Bacterial nanowires can conduct electricity over centimeter distances — living electrical components.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Microbial_nanowire",
+  "note": "Page failed to load (not found)."
+ },
+ {
+  "claim": "The existence of the greenhouse effect was proposed by Joseph Fourier in 1824, before the term 'greenhouse effect' was coined by Nils Ekholm in 1901.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The existence of the greenhouse effect, while not named as such, was proposed as early as 1824 by Joseph Fourier. ... introduced by Nils Gustaf Ekholm in 1901.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_climate_change_science",
+  "note": ""
+ },
+ {
+  "claim": "Melodic intonation therapy uses singing to help stroke patients with non-fluent aphasia regain speech, exploiting the right hemisphere's music processing abilities.",
+  "verdict": "overstated",
+  "corrected_claim": "Melodic intonation therapy uses singing to help people with communication problems from left-hemisphere damage, possibly by engaging language-capable regions in the undamaged right hemisphere.",
+  "quote": "possibly engaging language-capable regions in the undamaged right hemisphere. MIT is thought to stimulate these right language areas through the activation of music processing areas",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "Mechanism is hedged ('possibly', 'thought to')."
+ },
+ {
+  "claim": "The first webcam (1991) monitored a coffee pot at Cambridge University — allowing researchers to check if coffee was ready without walking to the break room.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was the subject of the world's first webcam, created by Quentin Stafford-Fraser and Paul Jardetzky in 1991. ... To save people working in the building the disappointment of finding the coffee machine empty",
+  "source_url": "https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot",
+  "note": ""
+ },
+ {
+  "claim": "Cyanobacteria created the Great Oxidation Event 2.4 billion years ago — they made our atmosphere breathable.",
+  "verdict": "overstated",
+  "corrected_claim": "The Great Oxidation Event, which began about 2.46–2.426 billion years ago, is inferred to have been caused by oxygen-releasing photosynthesis by cyanobacteria.",
+  "quote": "This began approximately 2.46–2.426 billion years ago ... The GOE is inferred to have been caused by cyanobacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+  "note": "Page hedges ('inferred', 'generally thought'); 'made atmosphere breathable' not stated"
+ },
+ {
+  "claim": "Eunice Newton Foote was the first to demonstrate CO2's heat-capturing effect in 1856, three years before John Tyndall's more famous experiments.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1856 Eunice Newton Foote examined the warming effect of sunlight on different gases and found it highest in carbon dioxide; John Tyndall advanced the work in 1859, and her paper was only rediscovered in the 21st century.",
+  "quote": "The warming effect of sunlight on different gases was examined in 1856 by Eunice Newton Foote ... Thirdly, the highest effect of the sun's rays I have found to be in carbonic acid gas.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_climate_change_science",
+  "note": "Page does not call her the first or link her work to Tyndall's"
+ },
+ {
+  "claim": "The Beach Boys' 'Good Vibrations' (1966) doesn't actually contain a theremin; it uses an Electro-Theremin, a different instrument invented by Paul Tanner.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The song features a similar-sounding instrument invented by Paul Tanner called an Electro-Theremin.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "The first YouTube video, 'Me at the zoo,' was uploaded on April 23, 2005 — it's 18 seconds of co-founder Jawed Karim at the San Diego Zoo.",
+  "verdict": "overstated",
+  "corrected_claim": "The first YouTube video, 'Me at the zoo,' was uploaded on April 23, 2005; it is 19 seconds of co-founder Jawed Karim at the San Diego Zoo in front of two elephants.",
+  "quote": "The 19-second video features Jawed Karim, one of the co-founders of YouTube ... It shows Karim at the San Diego Zoo in California, in front of two elephants.",
+  "source_url": "https://en.wikipedia.org/wiki/Me_at_the_zoo",
+  "note": "Page says 19 seconds (infobox 20), not 18."
+ },
+ {
+  "claim": "Some cyanobacteria can perform photosynthesis and nitrogen fixation — but not in the same cell at the same time.",
+  "verdict": "overstated",
+  "corrected_claim": "Some cyanobacteria fix nitrogen in specialized oxygen-free cells called heterocysts, while others fix nitrogen mainly at night, because photosynthesis can inhibit nitrogen fixation.",
+  "quote": "Some cyanobacteria can fix atmospheric nitrogen in anaerobic conditions by means of specialized cells called heterocysts. ... Nitrogen fixation commonly occurs on a cycle of nitrogen fixation during the night",
+  "source_url": "https://en.wikipedia.org/wiki/Cyanobacteria",
+  "note": "Too absolute: page says many cyanobacteria reduce nitrogen and CO2 under aerobic conditions by other methods"
+ }
+]
