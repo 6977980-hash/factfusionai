@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "The first message sent over ARPANET was 'LO' on October 29, 1969 — the system crashed before UCLA could finish typing 'LOGIN' to Stanford.",
+  "verdict": "overstated",
+  "corrected_claim": "On October 29, 1969, UCLA typed the L and the O to SRI over the first ARPANET link — then typed the G, and the system crashed.",
+  "quote": "at 22:30 hours on October 29, 1969 ... We typed the L and we asked on the phone ... Then we typed the G, and the system crashed ...",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": "Page doesn't call 'LO' the message or mention 'LOGIN'; receiver was SRI."
+ },
+ {
+  "claim": "Propionibacterium acnes, the bacterium blamed for acne, was recently found inside grapevine plants — transferred horizontally between kingdoms of life.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a unique example of horizontal interkingdom transfer of P. acnes to the domesticated grapevine",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": "Reported by Campisano et al."
+ },
+ {
+  "claim": "Palestinian referee at a World Cup, only took up the profession when she noticed there were no women among a group of referees she saw training?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/July",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The praying mantis is the only insect known to have stereo vision—they use binocular disparity to judge distances when striking prey.",
+  "verdict": "overstated",
+  "corrected_claim": "Mantises have stereo vision: their widely spaced eyes give them a wide binocular field and precise stereoscopic vision at close range.",
+  "quote": "Mantises have stereo vision. The eyes are widely spaced and laterally situated, affording a wide binocular field of vision and precise stereoscopic vision at close range.",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis",
+  "note": "'Only insect' and binocular disparity for striking not stated."
+ },
+ {
+  "claim": "French chef Marie-Antoine Carême, writing in the early 1800s, discussed how the rate of heating affects protein coagulation—presaging molecular gastronomy by over 150 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Marie-Antoine Carême, writing in the early 19th century, warned that stock must come to a boil very slowly or the albumin coagulates and hardens, perhaps presaging molecular gastronomy.",
+  "quote": "The concept of molecular gastronomy was perhaps presaged by Marie-Antoine Carême, one of the most famous French chefs, who said in the early 19th century that when making a food stock the broth must come to a boil very slowly, otherwise the albumin coagulates, hardens;",
+  "source_url": "https://en.wikipedia.org/wiki/Molecular_gastronomy",
+  "note": "'By over 150 years' not stated; page hedges with 'perhaps'."
+ },
+ {
+  "claim": "The law states that only that light which is absorbed by a system can bring about a photochemical change.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The law states that only that light which is absorbed by a system can bring about a photochemical change.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Martha's Vineyard in Massachusetts once had such high rates of hereditary deafness that nearly everyone — deaf and hearing — knew sign language.",
+  "verdict": "overstated",
+  "corrected_claim": "Martha's Vineyard had probably the most famous village sign language — the now-extinct Martha's Vineyard Sign Language — of the kind that arises in insular communities with a high incidence of deafness.",
+  "quote": "a relatively insular community with a high incidence of deafness ... The most famous of these is probably the extinct Martha's Vineyard Sign Language of the U.S.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": "Page doesn't say nearly everyone, deaf and hearing, knew sign language there."
+ },
+ {
+  "claim": "Enron's collapse in 2001 destroyed $74 billion in shareholder value and exposed massive accounting fraud — leading to the Sarbanes-Oxley Act and Arthur Andersen's dissolution.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Enron's shareholders lost $74 billion in the four years before the company's bankruptcy ... led to the passage of the Sarbanes-Oxley Act on July 30, 2002 ... which led to the dissolution of its accounting firm, Arthur Andersen",
+  "source_url": "https://en.wikipedia.org/wiki/Enron_scandal",
+  "note": ""
+ },
+ {
+  "claim": "The cactus Mammillaria hernandezii stores some seeds inside its stem and releases more when it senses adequate water, a primitive form of parental care.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "stores a portion of its seeds in its stem, and releases the rest to grow ... the presence of adequate water in the environment causes M. Hernandezii to release more seeds",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "The anti-cancer medication capecitabine can cause the loss of fingerprints as a side effect.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The anti-cancer medication capecitabine may cause the loss of fingerprints.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "The masses of the precursor stars that fueled these destructive events can be estimated from the type of explosion and the energy released, but those masses are not listed here.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The masses of the precursor stars that fueled these destructive events can be estimated from the type of explosion and the energy released, but those masses are not listed here.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The Internet transmitted only 1% of telecommunicated information in 1993, but 51% by 2000, and over 97% by 2007 — a complete takeover in just 14 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "51% by 2000, and more than 97% of the telecommunicated information by 2007",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": "Page gives 1% in 1993."
+ },
+ {
+  "claim": "Salinispora is the first bacterial genus that requires seawater to grow — it's obligately marine.",
+  "verdict": "overstated",
+  "corrected_claim": "Salinispora is the first Actinobacteria genus known to require seawater to grow.",
+  "quote": "Salinispora belongs to the Micromonosporaceae and is the first Actinobacteria genus known to require seawater for growth.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": "Page says first Actinobacteria genus, not first bacterial genus."
+ },
+ {
+  "claim": "Olivia Rodrigo wrote its first version chords in 20 minutes?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/July",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Female mantises don't always eat their mates—in the wild, only about 25% of encounters result in cannibalism, often when females are hungry.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It has sometimes been observed in natural populations, where about a quarter of male–female encounters result in the male being eaten by the female. ... females on poor diets are likelier to engage in sexual cannibalism than those on good diets.",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis",
+  "note": ""
+ },
+ {
+  "claim": "About 65% of adults worldwide are affected by lactose malabsorption—the inability to fully digest lactose.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Worldwide, around 65% of adults are affected by lactose malabsorption.",
+  "source_url": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+  "note": ""
+ },
+ {
+  "claim": "1825: Bromine discovered by Carl Jacob Löwig; and independently, in 1826, by Antoine Jérôme Balard.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bromine was discovered by Carl Jacob Löwig in 1825 and independently by Antoine Jérôme Balard in 1826",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "In the Nguni languages of South Africa, click consonants were borrowed from Khoisan languages through a word taboo where women avoided saying their husband's name.",
+  "verdict": "overstated",
+  "corrected_claim": "Nguni languages adopted their click consonants from Tuu (Khoisan) languages, at least partly due to a word taboo called hlonipha, in which women avoided words and sounds similar to their husband's name.",
+  "quote": "they were adopted from a Tuu language (or languages) by the languages of the Nguni cluster ... in the case of Nguni at least partially due to a type of word taboo called hlonipha ... women refraining from saying certain words and sounds that were similar to the name of their husband",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": "Page says 'at least partially' due to hlonipha"
+ },
+ {
+  "claim": "The availability heuristic causes people to overweight recent, memorable events — after plane crashes, many switch to driving even though flying is statistically far safer.",
+  "verdict": "overstated",
+  "corrected_claim": "Because of the availability heuristic, wide media coverage of rare events like airline accidents — versus routine risks like car accidents — skews perceived risk: the easier consequences are to recall, the greater they seem.",
+  "quote": "widespread and extensive coverage of unusual events, such as homicide or airline accidents ... less coverage of more routine, less sensational events, such as common diseases or car accidents. ... the easier it is to recall the consequences of something, the greater those consequences are often perceived to be.",
+  "source_url": "https://en.wikipedia.org/wiki/Availability_heuristic",
+  "note": "Page does not mention people switching from flying to driving after crashes"
+ },
+ {
+  "claim": "Angiosperms (flowering plants) use double fertilization, unique in biology, where one sperm fertilizes the egg and another creates nutrient-rich endosperm.",
+  "verdict": "overstated",
+  "corrected_claim": "In flowering plants, double fertilization sees one sperm fertilize the egg to form the embryo and another join the central cell to form triploid endosperm.",
+  "quote": "to fertilize the egg cell and central cell within the female gametophyte in a process termed double fertilization",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "'Unique in biology' not stated."
+ },
+ {
+  "claim": "Fingerprint sensors in smartphones can potentially be deceived by fake fingerprints cast in gels, as demonstrated by researchers after the iPhone 5S release in 2013.",
+  "verdict": "overstated",
+  "corrected_claim": "Some less sophisticated fingerprint sensors can be fooled by fake fingerprints cast in gels — and after the iPhone 5S came out in 2013, German hackers bypassed its Touch ID by photographing a fingerprint from a glass surface.",
+  "quote": "some less sophisticated sensors have been discovered to be vulnerable to quite simple methods of deception, such as fake fingerprints cast in gels. ... Following the release of the iPhone 5S model, a group of German hackers announced on September 21, 2013, that they had bypassed Apple's new Touch ID fingerprint sensor by photographing a fingerprint from a glass surface",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "The iPhone 5S bypass used a photographed print by hackers, not gel casts by researchers."
+ },
+ {
+  "claim": "This list only concerns \"living\" stars – those which are still seen by Earth-based observers existing as active stars: Still engaged in interior nuclear fusion that generates heat and light.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "This list only concerns \"living\" stars – those which are still seen by Earth-based observers existing as active stars: Still engaged in interior nuclear fusion that generates heat and light.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "Donald Davies coined the term 'packet switching' in 1965 at Britain's National Physical Laboratory — independently developing the same concept Paul Baran had proposed at RAND.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Donald Davies conceived of packet switching in 1965 at the National Physical Laboratory ... which he called packet switching, the term that would ultimately be adopted",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": ""
+ },
+ {
+  "claim": "Nocardia infections are considered an emerging disease — mortality from Nocardia brain abscesses is 31%, three times higher than other brain abscesses.",
+  "verdict": "overstated",
+  "corrected_claim": "Nocardia infections have become an emerging disease, and Nocardia brain abscesses have a 31% mortality rate versus under 10% for brain abscesses in general.",
+  "quote": "However, the mortality rate for brain abscesses associated with Nocardia infection is substantially higher (31%) than that for brain abscesses in general (<10%).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": "'Three times higher' not stated; page gives 31% vs <10%."
+ },
+ {
+  "claim": "United_States_Court_of_Appeals_for_the_First_Circuit\" title=\"United States Court of Appeals for the First Circuit\">a U.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/July",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Male mantises can continue mating even after decapitation because the abdominal nerve ganglion controls copulation independently of the brain.",
+  "verdict": "overstated",
+  "corrected_claim": "If a female bites off a male mantis's head after mating has begun, his movements may become even more vigorous, since copulatory movement is controlled by a ganglion in the abdomen, not the head.",
+  "quote": "The female may begin feeding by biting off the male's head (as they do with regular prey), and if mating has begun, the male's movements may become even more vigorous in its delivery of sperm. Early researchers thought that because copulatory movement is controlled by a ganglion in the abdomen, not the head,",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis",
+  "note": "Page frames it as mating already begun / early researchers' view, not general ability."
+ },
+ {
+  "claim": "Lactose intolerance is the ancestral state of all humans—lactase persistence (the ability to digest milk as adults) evolved only about 10,000 years ago.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lactose intolerance is the ancestral state of all humans before the recent evolution ... evolved relatively recently (in the last 10,000 years)",
+  "source_url": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+  "note": ""
+ },
+ {
+  "claim": "1831: Electromagnetic induction was discovered by Michael Faraday in England in 1831, and independently about the same time by Joseph Henry in the U.S.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "discovered by Michael Faraday in England in 1831, and independently about the same time by Joseph Henry in the United States",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Zulu and Xhosa use the letters c, q, and x for different click sounds — written using familiar letters but pronounced completely differently.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The most populous languages with clicks, Zulu and Xhosa, use the letters c, q, x",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": ""
+ },
+ {
+  "claim": "Schelling Points explain how people coordinate without communication — asked to meet someone in NYC with no arrangement, most people choose Grand Central at noon.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Schelling asked a group of students this question and found that the most common answer was ... noon at (the information booth at) Grand Central Terminal",
+  "source_url": "https://en.wikipedia.org/wiki/Focal_point_(game_theory)",
+  "note": "Checker was lenient: source adds a caveat. Page says students' most common answer; claim slightly generalizes."
+ },
+ {
+  "claim": "Liverworts reproduce using gemmae, single cells or cell masses that detach and grow into genetically identical new plants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Gemmae are single cells or masses of cells that detach from plants to form new clonal individuals. ... These are common in Liverworts and mosses.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "In 2024, deep learning research found that fingerprints from different fingers of the same person can be identified as belonging to that individual with 99.99% confidence—contradicting the prevailing assumption that prints from different fingers are independent.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2024, research using deep learning neural networks found contrary to \"prevailing assumptions\" that fingerprints from different fingers of the same person could be identified as belonging to that individual with 99.99% confidence.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "That is, the light now arriving at the Earth as images of the stars listed still shows them to internally generate new energy as of the time (in the distant past) that light now being received was emitted.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "That is, the light now arriving at the Earth as images of the stars listed still shows them to internally generate new energy as of the time (in the distant past) that light now being received was emitted.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "TCP/IP was installed on ARPANET in January 1983 after the DoD made it standard for all military networking — this date is often called the 'birthday of the Internet.'",
+  "verdict": "overstated",
+  "corrected_claim": "TCP/IP was installed on the ARPANET in January 1983 after the DoD made it standard for all military computer networking.",
+  "quote": "the ARPANET in January 1983 after the DoD made it standard for all military computer networking",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": "'Birthday of the Internet' not on page."
+ },
+ {
+  "claim": "Corynebacterium glutamicum is an industrial workhorse — used to produce millions of tons of amino acids like glutamic acid and lysine annually.",
+  "verdict": "overstated",
+  "corrected_claim": "Corynebacterium glutamicum is an industrial workhorse, widely used to produce amino acids such as L-glutamic acid and L-lysine.",
+  "quote": "is widely used in industry for the production of amino acids such as l-glutamic acid and l-lysine",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": "No tonnage given on page."
+ },
+ {
+  "claim": "B&nbsp;team in 2020 but started for the first team by the end of the season?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/July",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Mantises have a single ear located in the center of their chest—they use it specifically to detect bat echolocation and take evasive action.",
+  "verdict": "overstated",
+  "corrected_claim": "Mantises hear through two tympana in a single auditory chamber in their metathorax, and many use this thoracic organ to detect bat echolocation calls and respond evasively.",
+  "quote": "they have tympanate hearing, with two tympana in an auditory chamber in their metathorax. Many mantises also have an auditory thoracic organ that helps them avoid bats by detecting their echolocation calls and responding evasively.",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis",
+  "note": "Page describes two tympana in one chamber; 'specifically' for bats overstated."
+ },
+ {
+  "claim": "Lactase persistence evolved independently in several populations, likely as an adaptation to the domestication of dairy animals.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lactase persistence evolved in several populations independently, probably as an adaptation to the domestication of dairy animals",
+  "source_url": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+  "note": ""
+ },
+ {
+  "claim": "First law of thermodynamics – In the late 19th century, various scientists independently stated that energy and matter are persistent, although this was later to be disregarded under subatomic conditions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "formulated independently by various scientists in the late 19th century ... all of whom stated that energy and matter are persistent (although this was later to be disregarded under subatomic conditions).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Hadza and Sandawe, spoken in Tanzania, use clicks but are not related to the Khoisan languages of Southern Africa — clicks evolved independently.",
+  "verdict": "overstated",
+  "corrected_claim": "Sandawe and Hadza, two click languages spoken in Tanzania, are language isolates.",
+  "quote": "Sandawe and Hadza are language isolates spoken in Tanzania.",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": "Page does not say their clicks evolved independently"
+ },
+ {
+  "claim": "The Dot-com bubble peaked in March 2000 with the NASDAQ at 5,048 — it wouldn't return to that level for 15 years; companies with '.com' in their name saw valuations surge regardless of business model.",
+  "verdict": "overstated",
+  "corrected_claim": "The NASDAQ Composite peaked at 5,048.62 on March 10, 2000, at a time when investors would buy any dot-com company at any valuation, especially one with an Internet-related prefix or a '.com' suffix.",
+  "quote": "On Friday March 10, 2000, the NASDAQ Composite stock market index peaked at 5,048.62. ... at any valuation, in any dot-com company, especially if it had one of the Internet-related prefixes or a \".com\" suffix",
+  "source_url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+  "note": "Page does not state the 15-year recovery."
+ },
+ {
+  "claim": "The earliest Sumerian clay tablets from around 3000 BC list hundreds of medicinal plants including opium and myrrh.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "hundreds of medicinal plants including myrrh and opium are listed on clay tablets from around 3000 BC",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "Fingerprints can be detected on surfaces using nanoparticles and antibodies that reveal traces of cotinine (a nicotine metabolite), allowing identification of tobacco smokers from their prints.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "By treating the fingerprint with gold nanoparticles with attached cotinine antibodies ... the fingerprint of a smoker becomes fluorescent; non-smokers' fingerprints stay dark.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "The accretion limit is related to star formation: After about 120 M☉ have accreted in a protostar, the combined mass should have become hot enough for its heat to drive away any further incoming matter.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After about 120 M☉ have accreted in a protostar",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Tim Berners-Lee invented the World Wide Web at CERN in 1989-90 — linking hypertext documents into an information system accessible from any node on the network.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "into an information system, accessible from any node on the network",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": "Page credits research at CERN in 1989-90."
+ },
+ {
+  "claim": "Bifidobacteria produce antimicrobials and bacteriocins — they actively fight pathogens in your gut while helping you digest food.",
+  "verdict": "overstated",
+  "corrected_claim": "Some bifidobacteria produce antimicrobials and even bacteriocins, compounds that kill other bacteria.",
+  "quote": "Some bifidobacteria produce antimicrobials and notably, also bacteriocins.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": "Page does not mention fighting gut pathogens or digestion; says 'some' bifidobacteria."
+ },
+ {
+  "claim": "England, he discovered that he had been reported as being missing in action?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/July",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Flower mantises are aggressive mimics—they look so much like flowers that prey insects land on them expecting nectar, only to become a meal.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "labelling these mantises as 'aggressive mimics' with their ability to turn pollinators into prey ... various small flies and insects will land on and around the flowers, attracted by nectar",
+  "source_url": "https://en.wikipedia.org/wiki/Orchid_mantis",
+  "note": ""
+ },
+ {
+  "claim": "East Asian populations have the highest rates of lactose intolerance at about 90%, while Northern Europeans have the lowest.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lactose intolerance is most common among people of East Asian descent (with 90% lactose intolerance) ... As few as 5% of northern Europeans are lactose intolerant",
+  "source_url": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+  "note": ""
+ },
+ {
+  "claim": "Hess's law (Germain Hess), Julius Robert von Mayer, and James Joule were some of the first.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Julius Robert von Mayer, and James Joule were some of the first.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Germain Hess also named."
+ },
+ {
+  "claim": "The 'tsk-tsk' sound of disapproval in English is actually a dental click — one of the few click sounds used paralinguistically in European languages.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'tsk-tsk' sound in English is a dental click, used to express pity or to shame someone; in many languages from the central Mediterranean to Iran, a bare dental click with a head tilt means 'no.'",
+  "quote": "A simple dental click is used in English to express pity or to shame someone ... a bare dental click release accompanied by tipping the head upwards signifies \"no\"",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": "Page shows many other European languages use clicks paralinguistically; 'one of the few' unsupported"
+ },
+ {
+  "claim": "The representativeness heuristic leads investors to see patterns in random data — the 'hot hand' belief persists despite evidence that past stock performance doesn't predict future returns.",
+  "verdict": "overstated",
+  "corrected_claim": "The representativeness heuristic distorts how people judge randomness — a too-orderly coin sequence like THTHTH seems non-random, and it underlies the gambler's fallacy.",
+  "quote": "Irregularity and local representativeness affect judgments of randomness. ... THTHTH as a series of coin tosses would not be considered representative of randomly generated coin tosses ... The fallacy is commonly associated with gambling",
+  "source_url": "https://en.wikipedia.org/wiki/Representativeness_heuristic",
+  "note": "Page does not mention investors, stock performance or the hot hand."
+ },
+ {
+  "claim": "The Ebers Papyrus from ancient Egypt, circa 1550 BC, describes over 850 plant medicines including aloe, cannabis, castor bean, garlic, and juniper.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Ebers Papyrus from ancient Egypt, c. 1550 BC, describes over 850 plant medicines. ... lists over 800 plant medicines such as aloe, cannabis, castor bean, garlic, juniper, and mandrake.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Page gives both 850 and 800 in different places."
+ },
+ {
+  "claim": "The elasticity of skin decreases with age, making fingerprints of many senior citizens difficult to capture—the ridges get thicker while height between ridges and furrows becomes narrower.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Since the elasticity of skin decreases with age, many senior citizens have fingerprints that are difficult to capture. The ridges get thicker; the height between the top of the ridge and the bottom of the furrow gets narrow.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "In effect, the protostar reaches a temperature where it evaporates away material already collected as fast as it collects new material.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In effect, the protostar reaches a temperature where it evaporates away material already collected as fast as it collects new material.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The NSFNET backbone was decommissioned in 1995, removing the last restrictions on commercial Internet traffic — ending the era of government-funded networks.",
+  "verdict": "overstated",
+  "corrected_claim": "The optical backbone of the NSFNET was decommissioned in 1995, removing the last restrictions on the use of the Internet to carry commercial traffic.",
+  "quote": "The optical backbone of the NSFNET was decommissioned in 1995, removing the last restrictions",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": "'Ending the era of government-funded networks' not stated."
+ },
+ {
+  "claim": "S. epidermidis accounts for 31% of all nosocomial bloodstream infections — the most common cause of hospital-acquired bacteremia.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187637/",
+  "note": "Page returned a reCAPTCHA browser check; article text could not be fetched."
+ },
+ {
+  "claim": "Turkey's first all-women car race, the \"Volkswagen Polo Ladies Cup\"?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/July",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Brunner's stick mantis reproduces entirely through parthenogenesis—no males have ever been found in this species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An unusual reproductive strategy is adopted by Brunner's stick mantis from the southern United States: no males have ever been found in this species, and the females breed parthenogenetically.",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis",
+  "note": ""
+ },
+ {
+  "claim": "Most mammals, including all other primates, naturally lose the ability to digest lactose after weaning.",
+  "verdict": "overstated",
+  "corrected_claim": "Most mammals normally stop producing lactase and become lactose intolerant after weaning.",
+  "quote": "Most mammals normally cease to produce lactase and become lactose intolerant after weaning.",
+  "source_url": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+  "note": "Page doesn't mention primates specifically."
+ },
+ {
+  "claim": "1846: Urbain Le Verrier and John Couch Adams, studying Uranus's orbit, independently proved that another, farther planet must exist.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "each independently proved in 1846 that another, farther planet must exist",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Some Chinese nursery rhymes use click consonants for words like 'goose' and 'duck' — a playful use of sounds not found in normal Mandarin.",
+  "verdict": "overstated",
+  "corrected_claim": "Speakers of Gan Chinese produce nasal clicks in nursery rhymes about 'goose' and 'duck,' words that begin with an ng sound in Gan.",
+  "quote": "Speakers of Gan Chinese produce flapped nasal clicks in nursery rhymes",
+  "source_url": "https://en.wikipedia.org/wiki/Click_consonant",
+  "note": "Specific to Gan Chinese; 'not found in normal Mandarin' not stated"
+ },
+ {
+  "claim": "Signaling in economics, introduced by Michael Spence, explains why education may be valuable even without teaching useful skills — a degree signals ability and perseverance to employers.",
+  "verdict": "overstated",
+  "corrected_claim": "In Michael Spence's job-market signalling model, education can have value even if it adds nothing to a worker's productivity, because credentials signal the worker's ability to employers.",
+  "quote": "send a signal about their ability level to the employer by acquiring education credentials ... even if education did not contribute anything to an employee's productivity, it could still have value",
+  "source_url": "https://en.wikipedia.org/wiki/Signalling_(economics)",
+  "note": "Page mentions ability only, not perseverance."
+ },
+ {
+  "claim": "Dioscorides' De materia medica from 60 AD documented over 1,000 medicine recipes using 600+ plants and remained authoritative for 1,500 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In around 60 AD, the Greek physician Dioscorides, working for the Roman army, documented over 1000 recipes for medicines using over 600 medicinal plants in De materia medica. The book remained the authoritative reference on herbalism for over 1500 years, into the seventeenth century.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "The International Association for Identification, formed in 1915, was the first professional forensic organization, founded on the basis of fingerprint identification.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Fingerprinting was the basis upon which the first forensic professional organization was formed, the International Association for Identification (IAI), in 1915.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "The Eddington limit is based on light pressure from the core of an already-formed star: As mass increases past ~150 M☉, the intensity of light radiated from a Population I star's core will become sufficient for the light-pressure pushing outward to exceed the gravitational force pulling inward, and the surface material of the star will be free to float away into space.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As mass increases past ~150 M☉, the intensity of light radiated from a Population I star's core",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "CompuServe became the first service to offer commercial email to personal computer users in 1979 — and introduced real-time chat with its CB Simulator in 1980.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "CompuServe became the first service to offer commercial electronic mail capabilities and technical support to personal computer users ... the first to offer real-time chat with its CB Simulator",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": ""
+ },
+ {
+  "claim": "S. epidermidis secretes a protease that destroys S. aureus biofilms and prevents nasal colonization — skin bacteria that protect you from worse infections.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187637/",
+  "note": "Page returned a reCAPTCHA browser check; article text could not be fetched."
+ },
+ {
+  "claim": "America's first practical horseless carriage\", is now considered to just have been the first car running in Milwaukee?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/July",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Mantises catch prey in 50-70 milliseconds—too fast for the human eye to follow without slow-motion video.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis",
+  "note": "Page only says mantises 'strike rapidly'; no millisecond timing given."
+ },
+ {
+  "claim": "Traditional food cultures adapted to lactose intolerance—Mongolian kumis (fermented mare's milk) contains almost no lactose and serves as the main dairy source.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a fermented milk product that contains little to no lactose, which is the main source of dairy nutrition in Mongolia ... Traditional kumis is prepared by mixing fermented milk with fresh raw mares' milk. ... This makes kumis acceptable for lactose intolerant people.",
+  "source_url": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+  "note": ""
+ },
+ {
+  "claim": "1858: The Möbius strip was discovered independently by the German astronomer–mathematician August Ferdinand Möbius and the German mathematician Johann Benedict Listing in 1858.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was discovered independently by German astronomer–mathematician August Ferdinand Möbius",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Listing and 1858 also on page."
+ },
+ {
+  "claim": "The Bangime language of Mali is used as an 'anti-language' by its speakers to exclude outsiders — and it has no known relatives.",
+  "verdict": "overstated",
+  "corrected_claim": "Bangime, spoken by about 3,500 people on Mali's Bandiagara Escarpment, is listed as a language isolate — and is used as an anti-language.",
+  "quote": "Spoken in the Bandiagara Escarpment ... Used as an anti-language",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "Page doesn't say it is used to exclude outsiders; its isolate status is questioned in a cited paper."
+ },
+ {
+  "claim": "The Panic of 1873 triggered a 6-year depression called the 'Long Depression' — caused by railroad overexpansion and silver demonetization, it was the worst economic crisis until 1929.",
+  "verdict": "overstated",
+  "corrected_claim": "The Panic of 1873, following a railroad-driven overexpansion and the Coinage Act's shift to a de facto gold standard, triggered a U.S. depression lasting until 1879 that Americans called the 'Great Depression' until 1929.",
+  "quote": "A period of economic overexpansion arose from the northern railroad boom ... The depression ended in the spring of 1879",
+  "source_url": "https://en.wikipedia.org/wiki/Panic_of_1873",
+  "note": "'Worst until 1929' only implied; Long Depression is dated 1873-1896."
+ },
+ {
+  "claim": "Willow bark has been used for millennia to relieve pain; its active compound, salicylic acid, is the metabolite of aspirin.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Page does not mention willow bark or link salicylic acid to aspirin as a metabolite."
+ },
+ {
+  "claim": "Sir William Herschel began using fingerprints for identification in India in 1858, initially on contracts and deeds to prevent repudiation of signatures.",
+  "verdict": "overstated",
+  "corrected_claim": "Sir William James Herschel began fingerprinting in India in 1858, and in 1877 he first instituted the use of fingerprints on contracts and deeds.",
+  "quote": "in 1858, Sir William James Herschel initiated fingerprinting in India ... In 1877, he first instituted the use of fingerprints on contracts and deeds",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Contracts and deeds use dates to 1877, not 1858."
+ },
+ {
+  "claim": "Since their different compositions make them more transparent, Population II and Population III stars have higher and much higher mass limits, respectively.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Since their different compositions make them more transparent, Population II and Population III stars have higher and much higher mass limits, respectively.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "J.C.R. Licklider envisioned the 'Intergalactic Computer Network' in 1963 — his memos to ARPA colleagues laid the conceptual foundation for the Internet.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1963 J.C.R. Licklider began writing memos describing a distributed network to the IPTO staff, whom he addressed as 'Members and Affiliates of the Intergalactic Computer Network'.",
+  "quote": "He began by writing memos in 1963 describing a distributed network to the IPTO staff ... Members and Affiliates of the Intergalactic Computer Network",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": "'Conceptual foundation for the Internet' is an added claim."
+ },
+ {
+  "claim": "The attributable cost per catheter-related bloodstream infection is $11,971 to $56,000 — bacterial biofilms on medical devices are expensive problems.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187637/",
+  "note": "Page returned a reCAPTCHA browser check; article text could not be fetched."
+ },
+ {
+  "claim": "Spain, was discovered in 2006 during construction of the city's southern ring road?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Large mantises regularly hunt and eat small vertebrates including hummingbirds, lizards, frogs, and small snakes.",
+  "verdict": "overstated",
+  "corrected_claim": "Larger mantises sometimes eat small vertebrates such as lizards, frogs, fish, and particularly small birds.",
+  "quote": "Larger mantises sometimes eat smaller individuals of their own species, as well as small vertebrates such as lizards, frogs, fish, and particularly small birds.",
+  "source_url": "https://en.wikipedia.org/wiki/Mantis",
+  "note": "Page says 'sometimes', not 'regularly'; hummingbirds and snakes not named."
+ },
+ {
+  "claim": "Lactose intolerant people can typically drink at least one cup of milk without symptoms, especially if consumed with a meal.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "people are typically able to drink at least one cup of milk without developing symptoms",
+  "source_url": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+  "note": "Page adds that larger amounts are tolerated when taken with a meal."
+ },
+ {
+  "claim": "1858: Theory of evolution by natural selection – Charles Darwin (discovery about 1840), Alfred Russel Wallace (discovery about 1857–58) – papers published concurrently, 1858.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "in papers published concurrently in 1858.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Darwin about 1840, Wallace about 1857–1858 per page."
+ },
+ {
+  "claim": "Burushaski in Pakistan has about 130,000 speakers but no confirmed relatives — linguists have tried linking it to languages from the Caucasus to Na-Dene.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Linked to Caucasian languages, Indo-European, and Na-Dene languages in various proposals",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "Listed as an isolate with about 130,000 speakers in Pakistan and India."
+ },
+ {
+  "claim": "Overconfidence bias in traders is well-documented — male investors trade 45% more than female investors and earn 1% less annually, largely due to overconfidence.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Overconfidence_effect",
+  "note": "Page does not mention the 45%/1% trading figures or gender comparison."
+ },
+ {
+  "claim": "Morphine was the first alkaloid isolated from a plant (opium poppy) in 1806, launching modern pharmaceutical chemistry.",
+  "verdict": "overstated",
+  "corrected_claim": "Morphine, isolated from the opium poppy in 1806, was the first in a succession of alkaloids isolated from medicinal plants, soon followed by ipecacuanha, strychnos and quinine.",
+  "quote": "Alkaloids were isolated from a succession of medicinal plants, starting with morphine from the poppy in 1806, and soon followed by ipecacuanha and strychnos in 1817, quinine from the cinchona tree, and then many others.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "'Launching modern pharmaceutical chemistry' not stated."
+ },
+ {
+  "claim": "The Persian physician Rashid-al-Din Hamadani wrote in the early 14th century about the Chinese practice of identifying people via fingerprints, noting 'Experience shows that no two individuals have fingers exactly alike.'",
+  "verdict": "overstated",
+  "corrected_claim": "The Iranian physician Rashid-al-Din Hamadani (1247–1318) referred in his Universal History to the Chinese practice of identifying people via fingerprints, noting 'Experience shows that no two individuals have fingers exactly alike.'",
+  "quote": "In his Jami al-Tawarikh (Universal History), the Iranian physician Rashid-al-Din Hamadani (1247–1318) refers to the Chinese practice of identifying people via their fingerprints ... Experience shows that no two individuals have fingers exactly alike.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page gives his lifespan, not 'early 14th century' for the writing."
+ },
+ {
+  "claim": "Although the limit can be stretched for very early Population III stars, and although the exact value is uncertain, if any stars still exist above 150~200 M☉ they would challenge current theories of stellar evolution.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "if any stars still exist above 150~200 M☉ they would challenge current theories of stellar evolution",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "RFC 1, 'Host Software,' was written by Steve Crocker on April 7, 1969 — the Request for Comments process he initiated is still used today for Internet standards.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was written by Crocker and published on April 7, 1969 ... which is still used today for proposing and distributing contributions",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": ""
+ },
+ {
+  "claim": "The SARS-CoV-2 spike protein D614G mutation increased transmissibility — viruses evolve in real-time during pandemics.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "D614G confers a moderate advantage for infectivity ... increases transmissibility",
+  "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+  "note": ""
+ },
+ {
+  "claim": "File:Hyochangwon_as_Korea%27s_first_golf_course_-_Original.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Fleas can jump 50 times their body length—the equivalent of a human jumping over a 75-story building.",
+  "verdict": "overstated",
+  "corrected_claim": "Some flea species can leap 50 times their body length — a flea can jump 60 times its length in height and 110 times in distance, like a 1.8 m human jumping 110 m vertically.",
+  "quote": "Some species can leap 50 times their body length ... A flea can jump 60 times its length in height and 110 times its length in distance ... equivalent to a 1.8 m (6 ft) adult human jumping 110 m (361 ft) vertically and 200 m (656 ft) horizontally.",
+  "source_url": "https://en.wikipedia.org/wiki/Flea",
+  "note": "No 75-story building comparison on the page; it applies to some species."
+ },
+ {
+  "claim": "Celiac disease is an autoimmune condition where eating gluten causes damage to the small intestine, affecting about 1 in 100 people.",
+  "verdict": "overstated",
+  "corrected_claim": "Coeliac disease is a chronic autoimmune disease, mainly affecting the small intestine, caused by an abnormal immune response to gluten; in most countries between 1 in 50 and 1 in 200 people have it.",
+  "quote": "is a chronic autoimmune disease, mainly affecting the small intestine ... In most countries, between 1 in 50 and 1 in 200 people have coeliac disease.",
+  "source_url": "https://en.wikipedia.org/wiki/Coeliac_disease",
+  "note": "Prevalence on page is 1 in 50 to 1 in 200, not 1 in 100"
+ },
+ {
+  "claim": "The comet made a return appearance in 1992, when it was rediscovered by Japanese astronomer Tsuruhiko Kiuchi.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The comet made a return appearance in 1992, when it was rediscovered by Japanese astronomer Tsuruhiko Kiuchi.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Comet is 109P/Swift–Tuttle."
+ },
+ {
+  "claim": "The Ainu language of Japan was once considered related to Japanese, but is now classified as an isolate — its origins remain mysterious.",
+  "verdict": "overstated",
+  "corrected_claim": "Ainu of Hokkaido, Japan, is listed as a language isolate (if counted as a single language) — though it is sometimes hypothesized to be related to Korean and Japanese.",
+  "quote": "(if counted as a single language) ... Sometimes hypothesized to be related to Korean and Japanese",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "Page doesn't say it was once considered related and later reclassified, nor that its origins are mysterious."
+ },
+ {
+  "claim": "Adverse selection explains why used car markets feature 'lemons' — sellers know more about car quality than buyers, so only low-quality cars remain on the market (Akerlof's Nobel-winning insight).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Information asymmetry within the market relates to the seller having more information about the quality of the car as opposed to the buyer. ... Low prices drive away sellers of high-quality goods, leaving only lemons behind. ... jointly received the Nobel Memorial Prize in Economic Sciences",
+  "source_url": "https://en.wikipedia.org/wiki/The_Market_for_Lemons",
+  "note": ""
+ },
+ {
+  "claim": "The anticancer drug taxol (paclitaxel) was discovered in Pacific yew bark in 1971, and vincristine from Madagascar periwinkle treats leukemia.",
+  "verdict": "overstated",
+  "corrected_claim": "The anticancer drug taxol was derived from the Pacific yew, and the anti-cancer Vinca alkaloids vincristine and vinblastine were discovered in the 1950s from the Madagascar periwinkle.",
+  "quote": "and taxol (from the Pacific yew, Taxus brevifolia) were derived from medicinal plants. ... The Vinca alkaloids vincristine and vinblastine, used as anti-cancer drugs, were discovered in the 1950s from the Madagascar periwinkle, Catharanthus roseus.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "1971 date for taxol and leukemia use not on the page."
+ },
+ {
+  "claim": "Ancient methods of lie detection included making suspects chew rice (China), hold rice powder in their mouths (India), or lick hot metal rods (Middle East)—based on the principle that guilty people produce less saliva.",
+  "verdict": "overstated",
+  "corrected_claim": "Ancient lie detection included filling suspects' mouths with dried rice to spit out (India), placing rice powder in their mouths (China), or having them lick hot metal rods (Middle East), on the idea that guilty people produce less saliva.",
+  "quote": "In ancient India, some suspects were made to fill their mouths with dried rice and spit it back out. Similarly, in ancient China, those accused of a crime would have rice powder placed in their mouths. In ancient middle-eastern cultures, the accused were made to lick hot metal rods briefly.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": "Claim swaps China and India methods."
+ },
+ {
+  "claim": "Rare ultramassive stars that exceed this limit – for example in the R136 star cluster – might be explained by an exceptional event hypothesized to have occurred: some of the pairs of massive stars in close orbit in young, unstable multiple-star systems must, on rare occasions, collide and merge when certain unusual circumstances hold that make a collision possible.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Rare ultramassive stars that exceed this limit – for example in the R136 star cluster – might be explained by an exceptional event hypothesized to have occurred",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The first international ARPANET connections were made in 1973 to Norway and the UK — via satellite link to Peter Kirstein's group at University College London.",
+  "verdict": "overstated",
+  "corrected_claim": "ARPANET's first international connections were made in 1973 — to Norway (NORSAR) via a satellite link at Sweden's Tanum Earth Station, and to Peter Kirstein's group at University College London.",
+  "quote": "Connections were made in 1973 to Norway (NORSAR), via a satellite link at the Tanum Earth Station in Sweden, and to Peter Kirstein's research group at University College London",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": "Satellite link was for Norway, not UCL."
+ },
+ {
+  "claim": "The E484K mutation reduces neutralization by antibodies by over 10-fold — a single amino acid change can help viruses escape immunity.",
+  "verdict": "overstated",
+  "corrected_claim": "After a spike-deletion mutant acquired E484K, neutralization dropped a further fourfold - a single amino acid change can help viruses escape immunity.",
+  "quote": "resulting in a further fourfold drop in neutralization titre",
+  "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+  "note": "Source reports a further fourfold drop, not over 10-fold."
+ },
+ {
+  "claim": "Chicago's first high-rise building built by a black-owned construction firm, has penthouses that can be rented for over $20,000 per month?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Fleas store energy in a pad of resilin (a rubber-like protein) that they slowly compress then release explosively—like a compressed spring launching them into the air.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "fleas store muscle energy in a pad of the elastic protein named resilin ... muscles contract and deform the resilin pad, slowly storing energy ... which can then be released extremely rapidly to power leg extension for propulsion",
+  "source_url": "https://en.wikipedia.org/wiki/Flea",
+  "note": ""
+ },
+ {
+  "claim": "Many people with celiac disease are asymptomatic and only discovered through screening programs—they show intestinal damage without obvious symptoms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Those with asymptomatic coeliac disease are commonly diagnosed through screening programs.",
+  "source_url": "https://en.wikipedia.org/wiki/Coeliac_disease",
+  "note": ""
+ },
+ {
+  "claim": "1868: French astronomer Pierre Janssen and English astronomer Norman Lockyer independently discovered evidence in the solar spectrum for a new element that Lockyer named \"helium\".",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "independently discovered evidence in the solar spectrum for a new element that Lockyer named 'helium'.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Nivkh, spoken by only about 200 people in Russia's far east, is a language isolate that may have been spoken in the region for thousands of years.",
+  "verdict": "overstated",
+  "corrected_claim": "Nivkh, a language isolate with about 200 speakers, is spoken in the lower Amur River basin and northern Sakhalin in Russia.",
+  "quote": "Spoken in the lower Amur River basin and in the northern part of Sakhalin.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "Page lists ~200 speakers and location; nothing about being spoken for thousands of years."
+ },
+ {
+  "claim": "The 2008 subprime mortgage crisis originated from a game theory failure — rating agencies rated mortgage-backed securities AAA because they were paid by the issuers, not investors.",
+  "verdict": "overstated",
+  "corrected_claim": "Credit rating agencies were criticized for giving investment-grade ratings to subprime-backed securities that later defaulted, while being paid 'handsome fees' by investment banks 'to obtain the desired ratings.'",
+  "quote": "having given investment-grade ratings to MBSs and CDOs based on risky subprime mortgage loans that later defaulted ... paid 'handsome fees' by investment banks 'to obtain the desired ratings,'",
+  "source_url": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+  "note": "Page doesn't say the crisis originated from a 'game theory failure'."
+ },
+ {
+  "claim": "Over 50,000 medicinal plants are used across the world, with about 17,810 species confirmed to have medicinal uses by Kew Gardens.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Food and Agriculture Organization estimated in 2002 that over 50,000 medicinal plants are used across the world. ... 17,810 plant species have a medicinal use, out of some 30,000 plants for which a use of any kind is documented.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "Francesco Redi disproved the theory of spontaneous generation in 1668 by showing that maggots on rotting meat came from fly eggs, not from the meat itself—revolutionizing understanding of decomposition.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1668, Italian physician Francesco Redi disproved the theory of spontaneous generation. ... completely changed how people viewed the process of decomposition.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "The lowest mass for which this effect is active is the Eddington limit.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The lowest mass for which this effect is active is the Eddington limit.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Software bugs cost the US economy an estimated $59 billion annually (0.6% of GDP) according to a 2002 NIST study.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "bugs are \"so prevalent and so detrimental\" ... cost the US economy an estimated $59 billion annually ... about 0.6 percent of the gross domestic product",
+  "source_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "note": ""
+ },
+ {
+  "claim": "SARS-CoV-2 acquires about 2 mutations per month in the global population — viruses evolve on a timescale we can watch.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "approximately two mutations per month in the global population",
+  "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+  "note": ""
+ },
+ {
+  "claim": "Mongol army killed as many as three million people in less than two months?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Flea bodies are flattened sideways (not top-to-bottom like most insects), allowing them to slip easily between hairs and feathers of hosts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Their bodies are laterally compressed, permitting easy movement through the hairs or feathers on the host's body.",
+  "source_url": "https://en.wikipedia.org/wiki/Flea",
+  "note": ""
+ },
+ {
+  "claim": "The only treatment for celiac disease is a lifelong gluten-free diet—symptoms can improve within days of eliminating gluten.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The only treatment for coeliac disease is a lifelong gluten-free diet (GFD). ... Coeliac disease symptoms can improve within days of adopting a GFD.",
+  "source_url": "https://en.wikipedia.org/wiki/Coeliac_disease",
+  "note": ""
+ },
+ {
+  "claim": "(The formal discovery of the element was made in 1895 by two Swedish chemists, Per Teodor Cleve and Nils Abraham Langlet, who found helium emanating from the uranium ore cleveite.)\n1869: Dmitri Ivanovich Mendeleyev published his periodic table of chemical elements, and the following year (1870) Julius Lothar Meyer published his independently constructed version.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "who found helium emanating from the uranium ore cleveite. ... the following year (1870) Julius Lothar Meyer published his own independently constructed version.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "Papua New Guinea alone has about 37 language isolates — more than any other region on Earth.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'Papuasphere' centered on New Guinea may include as many as 37 language isolates.",
+  "quote": "Current research considers that the \"Papuasphere\" centered in New Guinea includes as many as 37 isolates.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "Page says Papuasphere centered in New Guinea (not PNG alone), 'as many as 37'; no 'more than any other region' claim."
+ },
+ {
+  "claim": "Herding behavior in finance explains bubbles — individual rational decisions to follow the crowd can lead to collective irrationality and market crashes.",
+  "verdict": "overstated",
+  "corrected_claim": "Herding is linked to stock market bubbles and crashes, and behavioral finance has identified herding in the collective irrationality of investors.",
+  "quote": "Large stock market trends often begin and end with periods of frenzied buying (bubbles) or selling (crashes). ... The academic study of behavioral finance has identified herding in the collective irrationality of investors",
+  "source_url": "https://en.wikipedia.org/wiki/Herd_behavior",
+  "note": "Page does not say individually rational decisions explain bubbles."
+ },
+ {
+  "claim": "About one quarter of drugs prescribed in modern medicine are derived from medicinal plants, including quinine, digoxin, and morphine.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In modern medicine, around a quarter [a] of the drugs prescribed to patients are derived from medicinal plants, and they are rigorously tested. ... These include the common drugs aspirin, digoxin, quinine, and opium.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Page lists opium rather than morphine in this sentence; morphine from poppy stated elsewhere."
+ },
+ {
+  "claim": "Myiasis (infestation of living tissue with fly larvae) can confuse forensic investigations because it indicates time of neglect or injury rather than time since death if the victim was colonized while still alive.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It may indicate the time of neglect or injury rather than PMI if the remains were colonized when alive.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Stars of greater mass have a higher rate of core energy generation, and heavier stars' luminosities increase far out of proportion to the increase in their masses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Stars of greater mass have a higher rate of core energy generation, and heavier stars' luminosities increase far out of proportion to the increase in their masses.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Maurice Wilkes, computing pioneer, realized in the late 1940s that 'a good part of the remainder of my life was going to be spent in finding errors in my own programs.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a good part of the remainder of my life was going to be spent in finding errors in my own programs.",
+  "source_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "note": ""
+ },
+ {
+  "claim": "The N501Y mutation in SARS-CoV-2 increases ACE2 binding affinity — making the virus stick better to human cells.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+  "note": "Review does not state N501Y ACE2 binding affinity (only in a cited reference title)."
+ },
+ {
+  "claim": "Jamaica, only took up the sport after a gymnastics injury?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/August",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "A female flea can lay up to 5,000 eggs in her lifetime—and the entire life cycle from egg to adult can complete in just two weeks under ideal conditions.",
+  "verdict": "overstated",
+  "corrected_claim": "A female flea can lay 5,000 or more eggs over her lifetime, which lets flea numbers increase rapidly.",
+  "quote": "Female fleas can lay 5000 or more eggs over their life, permitting rapid increase in numbers.",
+  "source_url": "https://en.wikipedia.org/wiki/Flea",
+  "note": "Page says 5000 or more (not up to); two-week full life cycle not stated."
+ },
+ {
+  "claim": "Nicolas Appert invented canning in 1810, earning him the title 'Father of Canning'—though he didn't understand why the process worked until Pasteur's discoveries decades later.",
+  "verdict": "overstated",
+  "corrected_claim": "French confectioner Nicolas Appert invented canning, yet why it worked was not understood until 1864, when Louis Pasteur found the link between microorganisms and spoilage.",
+  "quote": "It was invented by the French confectioner Nicolas Appert. ... it was not understood until 1864 when Louis Pasteur found the relationship between microorganisms",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Year 1810 and 'Father of Canning' title not on page."
+ },
+ {
+  "claim": "1873: Bolesław Prus propounded a \"law of combination\" describing the making of discoveries and inventions: \"Any new discovery or invention is a combination of earlier discoveries and inventions, or rests on them.\"\n1876: Oskar Hertwig and Hermann Fol independently described the entry of sperm into the egg and the subsequent fusion of the egg and sperm nuclei to form a single new nucleus.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Any new discovery or invention is a combination of earlier discoveries and inventions, or rests on them. ... the entry of sperm into the egg and the subsequent fusion of the egg and sperm nuclei.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The Tiwi language of Australia's Tiwi Islands was so isolated that traditionally it was extremely polysynthetic — but younger speakers have simplified it dramatically.",
+  "verdict": "overstated",
+  "corrected_claim": "Traditionally the Tiwi language of Australia's Tiwi Islands is polysynthetic, but the Tiwi spoken by younger generations is not.",
+  "quote": "Traditionally Tiwi is polysynthetic, but the Tiwi spoken by younger generations is not.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_isolate",
+  "note": "Page gives no causal link to isolation; only says younger generations' Tiwi is not polysynthetic."
+ },
+ {
+  "claim": "Moral hazard explains why insured people take more risks — knowing someone else bears the cost changes behavior, which is why car insurance has deductibles.",
+  "verdict": "overstated",
+  "corrected_claim": "Moral hazard means insured people may take more risk: someone insured against car theft may be less careful about locking their car, and coinsurance, co-payments and deductibles are used to reduce it.",
+  "quote": "a person with insurance against automobile theft may be less cautious about locking their car because the negative consequences of vehicle theft are now (partially) the responsibility of the insurance company. ... Coinsurance, co-payments, and deductibles reduce the risk of moral hazard",
+  "source_url": "https://en.wikipedia.org/wiki/Moral_hazard",
+  "note": "Page links deductibles to moral hazard in health insurance, not as the reason car insurance has them."
+ },
+ {
+  "claim": "Daffodils contain galantamine, an alkaloid now licensed for treating Alzheimer's disease, evolved as a bitter-tasting herbivore deterrent.",
+  "verdict": "overstated",
+  "corrected_claim": "Daffodils contain galantamine, an alkaloid licensed for treating Alzheimer's disease; their alkaloids are bitter and toxic and concentrated in the parts most likely to be eaten by herbivores.",
+  "quote": "contain nine groups of alkaloids including galantamine, licensed for use against Alzheimer's disease. The alkaloids are bitter-tasting and toxic, and concentrated in the parts of the plant such as the stem most likely to be eaten by herbivores; they may also protect against parasites.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Page does not say galantamine 'evolved as' a deterrent."
+ },
+ {
+  "claim": "Flesh flies (Sarcophagidae) give live birth rather than laying eggs, depositing maggots directly onto decomposing bodies at any stage of decomposition.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Flesh-flies are viviparous, frequently giving birth to live young on dead humans and other animals at any stage of decomposition",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "The Eddington limit is the point beyond which a star ought to push itself apart, or at least shed enough mass to reduce its internal energy generation to a lower, sustainable rate.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Eddington limit is the point beyond which a star ought to push itself apart, or at least shed enough mass to reduce its internal energy generation to a lower, sustainable rate.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "NASA's Goddard Space Flight Center reduced their average error rate from 4.5 per 1,000 lines of code to 1 per 1,000 SLOC through rigorous development processes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "managed to reduce their average number of errors from 4.5 per 1,000 lines of code",
+  "source_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "note": "Page: Goddard (1994) cut errors from 4.5 to 1 per 1,000 SLOC."
+ },
+ {
+  "claim": "Mink-to-human transmission of SARS-CoV-2 in Denmark created a novel variant cluster — viruses can ping-pong between species and evolve.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "initially named 'cluster 5' (now B.1.1.298)",
+  "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+  "note": ""
+ },
+ {
+  "claim": "Polish poets, led a poverty-stricken life and his works were rarely appreciated until decades after his death?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/September",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Adult fleas can survive several months without feeding—waiting in cocoons for vibrations that signal a potential host is nearby.",
+  "verdict": "overstated",
+  "corrected_claim": "Fully developed adult fleas can live for several months without eating as long as they stay in their cocoons, and vibrations are among the triggers that make them emerge.",
+  "quote": "Completely developed adult fleas can live for several months without eating, so long as they do not emerge from their puparia. Trigger factors for emergence include vibrations (including sound), heat (in warm-blooded hosts)",
+  "source_url": "https://en.wikipedia.org/wiki/Flea",
+  "note": "Combines separate statements; 'waiting for host vibrations' framing slightly beyond text."
+ },
+ {
+  "claim": "The earliest known food preservation by drying dates back to 12,000 BC in Asia and the Middle East.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the earliest known practice dates back to 12,000 B.C. by inhabitants of the modern Asian and Middle Eastern regions.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": ""
+ },
+ {
+  "claim": "1877: In England, Edward Sharpey-Schafer reported to the Royal Society his discovery of what eventually came to be called the nerve synapse; the Royal Society was skeptical of the unconventional notion of such spaces separating individual neurons, and asked him to withdraw his report.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "and asked him to withdraw his report.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Hangul was so unpopular with Korean elites that it was banned and persecuted for centuries — they considered it inferior to Chinese characters.",
+  "verdict": "overstated",
+  "corrected_claim": "Hangul was looked down upon by Korean elites for centuries, and King Yeonsangun persecuted its use in 1504; it only gained societal acceptance in the late 19th century.",
+  "quote": "it was looked down upon by the elite for centuries. ... King Yeonsangun (r. 1495–1506) persecuted the use of Hangul during the 1504 second literati purge.",
+  "source_url": "https://en.wikipedia.org/wiki/Hangul",
+  "note": "Persecution was a specific episode, not centuries of bans."
+ },
+ {
+  "claim": "The Coase Theorem states that without transaction costs, private bargaining produces efficient outcomes regardless of initial property rights — but real-world transaction costs make this ideal unreachable.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "will lead to a Pareto efficient outcome regardless of the initial allocation of property ... argued that real-world transaction costs are rarely low enough to allow for efficient bargaining",
+  "source_url": "https://en.wikipedia.org/wiki/Coase_theorem",
+  "note": ""
+ },
+ {
+  "claim": "The global market for medicinal and aromatic plants was US$68 billion per year in 2023, growing 10-20% annually.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As of 2023 by one estimate, the global market was US$68 billion per year, growing by 10-20% annually.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "Scorpionflies (Mecoptera) were found to be the first insects to arrive at a donated human cadaver in Texas research, remaining on the corpse for 1.5 days and outnumbering flies during that period.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Scorpionflies (order Mecoptera) were the first insects to arrive at a donated human cadaver. ... remained on the corpse for one and a half days, outnumbering flies during that period",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "The actual limit-point mass depends on how opaque the gas in the star is, and metal-rich Population I stars have lower mass limits than metal-poor Population II stars.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The actual limit-point mass depends on how opaque the gas in the star is, and metal-rich Population I stars have lower mass limits than metal-poor Population II stars.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The Space Shuttle software achieved zero defects across 500,000 lines of code — one of the most reliable software systems ever created.",
+  "verdict": "overstated",
+  "corrected_claim": "Some software projects have attained zero defects — among them the Space Shuttle software, with 500,000 source lines of code.",
+  "quote": "Some projects even attained zero defects ... Space Shuttle software with 500,000 SLOC",
+  "source_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "note": "'One of the most reliable systems ever created' is not stated."
+ },
+ {
+  "claim": "Over 1 million SARS-CoV-2 genome sequences were shared via GISAID — enabling real-time surveillance of viral evolution unprecedented in history.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "more than one million SARS-CoV-2 sequences available via the Global Initiative on Sharing All Influenza Data (GISAID)",
+  "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+  "note": ""
+ },
+ {
+  "claim": "Azerbaijani poets of the 15th and 16th centuries, only started in 1928?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/September",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Female rabbit fleas can detect hormonal changes in their rabbit host's blood that indicate pregnancy—timing their own reproduction to coincide with the birth of baby rabbits.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the changing levels of certain hormones in a female rabbit's blood that show that she is near to parturition. This triggers sexual maturity in the fleas and they mate and start producing eggs. ... As soon as the young rabbits are born, the fleas move onto them",
+  "source_url": "https://en.wikipedia.org/wiki/Spilopsyllus_cuniculi",
+  "note": ""
+ },
+ {
+  "claim": "Bog butter—butter preserved in Irish peat bogs—has been found edible after centuries, due to the acidic, oxygen-free environment.",
+  "verdict": "overstated",
+  "corrected_claim": "Butter has been preserved as 'bog butter' in Irish peat bogs for centuries.",
+  "quote": "Butter and similar substances have been preserved as bog butter in Irish peat bogs for centuries.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Page does not say it was edible or explain acidic/oxygen-free cause."
+ },
+ {
+  "claim": "In 1888, in Spain, Santiago Ramón y Cajal, having used the Italian scientist Camillo Golgi's technique for staining nerve cells, published his discovery of the nerve synapse, which in 1889 finally gained acceptance and won Ramón y Cajal recognition as an, alongside Golgi – many say, the – \"founder of modern neuroscience\".",
+  "verdict": "overstated",
+  "corrected_claim": "In 1888 Santiago Ramón y Cajal, using Camillo Golgi's staining technique, published his discovery of the nerve synapse, which gained acceptance in 1889 and won him recognition, alongside Golgi, as the founder of modern neuroscience.",
+  "quote": "won Ramón y Cajal recognition, alongside Golgi, as the 'founder of modern neuroscience'.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Garbled wording ('as an, alongside Golgi – many say, the –') differs from current page."
+ },
+ {
+  "claim": "King Sejong created Hangul specifically so commoners could become literate — the elite's monopoly on Chinese characters kept most Koreans illiterate.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The difficulty of the script limited its use to mostly upper-class people; commoners were largely illiterate. ... have newly designed twenty-eight letters, which I wish to have everyone practice at their ease.",
+  "source_url": "https://en.wikipedia.org/wiki/Hangul",
+  "note": ""
+ },
+ {
+  "claim": "LIBOR rigging scandal revealed that major banks manipulated the benchmark interest rate affecting $350 trillion in financial products — resulting in billions in fines.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Libor underpins approximately $350 trillion in derivatives. ... On 19 December 2012, UBS agreed to pay regulators $1.5 billion ... Deutsche Bank agreed to a combined US$2.5 billion in fines",
+  "source_url": "https://en.wikipedia.org/wiki/Libor_scandal",
+  "note": "$350 trillion and multi-billion fines stated."
+ },
+ {
+  "claim": "Of 185 cancer-treating small-molecule drugs approved from 1981-2019, 65% were derived from or inspired by natural plant substances.",
+  "verdict": "overstated",
+  "corrected_claim": "Of 185 small-molecule cancer drugs approved from 1981 to 2019, 65% were derived from or inspired by natural substances.",
+  "quote": "Among cancer treatments, of 185 small-molecule drugs approved in the period from 1981 to 2019, 65% were derived from or inspired by natural substances.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Page says 'natural substances', not specifically plant substances."
+ },
+ {
+  "claim": "If maggots are exposed to salt water for more than 30 minutes, their development is delayed by approximately 24 hours—important for estimating time of death in drowning cases.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "From the cases Goff observed he found that if subjected for more than 30 minutes, there was a 24‑hour developmental delay.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Before their demise, the hypothetical metal-free Population III stars would have had the highest allowed mass, somewhere around 300 M☉.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Before their demise, the hypothetical metal-free Population III stars would have had the highest allowed mass, somewhere around 300 M☉.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "A 'Heisenbug' is a bug that disappears or changes behavior when you try to debug it — humorously named after Heisenberg's uncertainty principle.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Other bugs may stop occurring whenever the setup is augmented to help find the bug, such as running the program with a debugger; these are called heisenbugs (humorously named after the Heisenberg uncertainty principle).",
+  "source_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "note": ""
+ },
+ {
+  "claim": "Prophages (dormant viruses in bacterial DNA) can convert harmless bacteria into deadly pathogens — like making Vibrio cholerae produce cholera toxin.",
+  "verdict": "overstated",
+  "corrected_claim": "Phages can convert harmless strains of Vibrio cholerae and Corynebacterium diphtheriae into highly virulent ones that cause cholera and diphtheria.",
+  "quote": "conversion of harmless strains of Corynebacterium diphtheriae or Vibrio cholerae by bacteriophages",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page does not specifically mention cholera toxin production"
+ },
+ {
+  "claim": "First Nations farmers to use the methods of European peasants?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/September",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Fleas transmitted the Black Death, which killed an estimated 75-200 million people in the 14th century—about a third of Europe's population.",
+  "verdict": "overstated",
+  "corrected_claim": "The oriental rat flea carries the bacterium behind bubonic plague; the Black Death of 1346-1353 likely killed over a third of Europe's population, and plague outbreaks killed up to 200 million people across Europe between 1346 and 1671.",
+  "quote": "The oriental rat flea, Xenopsylla cheopis, is a vector of Yersinia pestis, the bacterium that causes bubonic plague. Outbreaks killed up to 200 million people across Europe between 1346 and 1671. The Black Death pandemic between 1346 and 1353 likely killed over a third of the population of Europe.",
+  "source_url": "https://en.wikipedia.org/wiki/Flea",
+  "note": "Up to 200M is for 1346-1671 outbreaks, not the 14th-century Black Death; 75M low bound not on page."
+ },
+ {
+  "claim": "Century eggs are preserved through 'inorganic fermentation'—placed in alkaline mud for weeks, which raises pH instead of using bacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "Century eggs undergo 'inorganic' fermentation: an alkaline substance raises their pH so they preserve instead of spoiling.",
+  "quote": "resulting in their \"inorganic\" fermentation through raised pH instead of spoiling.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Duration of weeks not on page."
+ },
+ {
+  "claim": "1879: British physicist-chemist Joseph Swan independently developed an incandescent light bulb at the same time as American inventor Thomas Edison was independently working on his incandescent light bulb.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "at the same time as American inventor Thomas Edison was working on his own incandescent light bulb.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Hangul originally had 28 letters, but only 24 are used in modern Korean — four letters became obsolete as the sounds they represented disappeared from the language.",
+  "verdict": "overstated",
+  "corrected_claim": "Hangul originally had 28 letters, but modern Korean uses 24 basic letters; four original letters (ㆁ, ㅿ, ㆆ and ㆍ) are obsolete.",
+  "quote": "Modern Korean language orthographies use 24 basic letters.",
+  "source_url": "https://en.wikipedia.org/wiki/Hangul",
+  "note": "Reason (sounds disappearing) not stated in passage."
+ },
+ {
+  "claim": "The Dunning-Kruger effect in investing shows that the least competent traders are most confident in their abilities — while expert traders often underestimate their skills.",
+  "verdict": "overstated",
+  "corrected_claim": "The Dunning-Kruger effect is the tendency of people with low ability in an area to give overly positive assessments of that ability, while high performers tend to underestimate their skills.",
+  "quote": "The Dunning–Kruger effect is the tendency of people with low ability in a specific area ... to give overly positive assessments of this ability. ... The term may also refer to the tendency of high performers to underestimate their skills.",
+  "source_url": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+  "note": "Page says nothing about investing or traders."
+ },
+ {
+  "claim": "Ötzi the Iceman, frozen in the Alps for 5,000+ years, carried a mushroom possibly used as medicine against whipworm parasites.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A mushroom found in the personal effects of Ötzi the Iceman, whose body was frozen in the Ötztal Alps for more than 5,000 years, may have been used against whipworm.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "Nicrophorus beetles carry Poecilochirus mites that eat fly eggs—if these beetles arrive before fly eggs hatch, the first eggs are eaten and maggot development is delayed, potentially skewing time-of-death estimates.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "If they arrive at the corpse before any fly eggs hatch into maggots, the first eggs are eaten and maggot development is delayed. ... this may lead to incorrect PMI estimates.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "In theory, a more massive star could not hold itself together because of the mass loss resulting from the outflow of stellar material.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In theory, a more massive star could not hold itself together because of the mass loss resulting from the outflow of stellar material.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Linus's law states 'given enough eyeballs, all bugs are shallow' — though security experts dispute this, noting that even reviewers may not be qualified to spot vulnerabilities.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "popularized by Eric S. Raymond as Linus's law says that popular open-source software has more chance of having few or no bugs than other software, because \"given enough eyeballs, all bugs are shallow\". ... even if people are reviewing the code, that doesn't mean they're qualified to do so.",
+  "source_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "note": ""
+ },
+ {
+  "claim": "A 68-year-old patient with an antibiotic-resistant superbug infection was saved in 2017 using personalized phage therapy — cocktails of viruses that kill bacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2016 a 68-year-old diabetic patient with a multidrug-resistant A. baumannii infection was treated with intravenous and percutaneous phage therapy; his condition reversed and he was eventually discharged.",
+  "quote": "68-year-old diabetic patient with necrotizing pancreatitis",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page dates treatment to March 2016 (2017 is the case report)"
+ },
+ {
+  "claim": "New York State's private schools being subject to structured regulatory oversight for the very first time?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/September",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "The chigoe flea (Tunga penetrans) burrows into human skin—usually in feet—where it swells to the size of a pea and causes a disease called tungiasis.",
+  "verdict": "overstated",
+  "corrected_claim": "The female chigoe flea (Tunga penetrans) burrows most of its body into a host's skin, where its midsection swells to the size of a pea, causing tungiasis.",
+  "quote": "Female T. penetrans embed themselves within the skin of a host and this can cause tungiasis. ... In 3a, maximum hypertrophy is achieved and the flea's midsection swells to the size of a pea.",
+  "source_url": "https://en.wikipedia.org/wiki/Chigoe_flea",
+  "note": "Page does not say it usually infests the feet"
+ },
+ {
+  "claim": "In 2015, the WHO classified processed meat (salted, cured, or smoked) as 'carcinogenic to humans,' putting it in the same category as tobacco.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2015 the WHO's cancer agency classified processed meat (salted, cured or smoked) as 'carcinogenic to humans.'",
+  "quote": "classified processed meat—i.e., meat that has undergone salting, curing, and smoking—as \"carcinogenic to humans\".",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Tobacco comparison not on page."
+ },
+ {
+  "claim": "Swan's first successful electric light bulb and Edison's electric light bulb were both patented in 1879.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Swan's first successful electric light bulb and Edison's electric light bulb were both patented in 1879.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "A Morse code for Hangul was developed in 1888 — just 44 years after the first Morse code was used in the West.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1888, Korean scholar Kim Hagu developed the first Morse code specification for Hangul.",
+  "quote": "In 1888, a Morse code specification for Hangul was developed for the first time by Korean scholar Kim Hagu.",
+  "source_url": "https://en.wikipedia.org/wiki/Hangul",
+  "note": "1844 Western comparison not on page."
+ },
+ {
+  "claim": "Principal-agent problems pervade economics — managers (agents) may act in their own interest rather than shareholders' (principals'), explaining golden parachutes and excessive risk-taking.",
+  "verdict": "overstated",
+  "corrected_claim": "A classic principal–agent problem is corporate management (agent) and shareholders (principal), where the principal must worry whether the agent acts in its best interest.",
+  "quote": "corporate management (agent) and shareholders (principal) ... In all these cases, the principal has to be concerned with whether the agent is acting in the best interest of the principal.",
+  "source_url": "https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem",
+  "note": "Golden parachutes not mentioned."
+ },
+ {
+  "claim": "A 2020 Kew Gardens report identified 723 medicinal plants at risk of extinction, partly due to over-collection for medicine.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A report in 2020 by the Royal Botanic Gardens, Kew identifies 723 medicinal plants as being at risk of extinction, caused partly by over-collection.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "DNA profiling uses repetitive sequences called Short Tandem Repeats (STRs), which are so variable that unrelated individuals are unlikely to share the same patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "DNA profiling relies on short tandem repeats (STRs), very short sequences repeated many times that generate a lot of variation between people.",
+  "quote": "VNTR loci are similar between closely related individuals, but are so variable that unrelated individuals are unlikely to have the same VNTRs.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "The 'so variable unrelated individuals unlikely to share' statement is about VNTRs; for STRs the page says they generate a lot of variation."
+ },
+ {
+  "claim": "In practice the theoretical Eddington Limit must be modified for high luminosity stars and the empirical Humphreys–Davidson limit is used instead.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In practice the theoretical Eddington Limit must be modified for high luminosity stars and the empirical Humphreys–Davidson limit is used instead.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The median software project spends 17-20% of development effort on bug fixing, according to studies from 1978 and 2020.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the median of projects invested 17 percent of their development effort in bug fixing. In 2020, research on GitHub repositories showed the median is 20 percent.",
+  "source_url": "https://en.wikipedia.org/wiki/Software_bug",
+  "note": ""
+ },
+ {
+  "claim": "Some roseophages use deoxyuridine instead of deoxythymidine in their DNA — a way to evade bacterial CRISPR defense systems.",
+  "verdict": "overstated",
+  "corrected_claim": "Marine roseophages contain deoxyuridine instead of deoxythymidine in their DNA, with some evidence that this is a mechanism to evade bacterial defenses such as restriction enzymes and CRISPR.",
+  "quote": "contain deoxyuridine (dU) instead of deoxythymidine (dT) in their genomic DNA. ... some evidence that this unusual component is a mechanism to evade bacterial defense mechanisms",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page says only 'some evidence', and lists restriction enzymes too"
+ },
+ {
+  "claim": "Britain in the first half of the twentieth century?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/September",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Flea circuses were real Victorian entertainments where fleas 'performed' by pulling miniature carts and appearing to joust—they were actually glued to props.",
+  "verdict": "overstated",
+  "corrected_claim": "Flea circuses used real fleas harnessed with thin gold or copper wire to props, letting them pull small carts or turn a Ferris wheel; there are also historical reports of fleas glued to the enclosure.",
+  "quote": "Running fleas can pull small carts and vehicles or rotate a Ferris wheel. There are historical reports of fleas glued to the base of the flea circus enclosure. Once sorted, they are harnessed by carefully wrapping a thin gold or copper wire around their neck.",
+  "source_url": "https://en.wikipedia.org/wiki/Flea_circus",
+  "note": "Victorian era and jousting not on page; fleas harnessed with wire rather than glued to props."
+ },
+ {
+  "claim": "Smoke preserves food through pyrolysis products like phenols (syringol, guaiacol, catechol), which have antimicrobial properties.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Smoke deposits a number of pyrolysis products onto the food, including the phenols syringol, guaiacol and catechol.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Antimicrobial role stated for salting and smoking generally."
+ },
+ {
+  "claim": "Circa 1880: the integraph was invented independently by the British physicist Sir Charles Vernon Boys and by the Polish mathematician, inventor, and electrical engineer Bruno Abakanowicz.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the integraph was invented independently by the British physicist Sir Charles Vernon Boys and by the Polish mathematician",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Gallaudet University in Washington D.C. is the only liberal arts university for deaf people in the world, founded in 1864.",
+  "verdict": "overstated",
+  "corrected_claim": "Gallaudet University in Washington, D.C. — founded as a school for the deaf in 1857 and made a college in 1864 — is still the only liberal arts university for deaf people in the world.",
+  "quote": "founded a school for the deaf in 1857 in Washington, D.C., which in 1864 became the National Deaf-Mute College. Now called Gallaudet University, it is still the only liberal arts university for deaf people in the world.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": "Founded 1857 as a school; 1864 is when it became a college."
+ },
+ {
+  "claim": "The Japanese asset bubble of the late 1980s saw Tokyo's Imperial Palace grounds valued at more than all of California — the subsequent crash led to Japan's 'Lost Decade' (which became two).",
+  "verdict": "overstated",
+  "corrected_claim": "At the peak of Japan's late-1980s bubble, the Tokyo Imperial Palace grounds were estimated to be worth more than the entire real estate value of California — and the decade after 1991 is known as the Lost Decade.",
+  "quote": "At their peak, prices in central Tokyo were such that the 1.15 square kilometer Tokyo Imperial Palace grounds were estimated to be worth more than the entire real estate value of California. ... The decade beyond 1991 is known as the Lost Decade",
+  "source_url": "https://en.wikipedia.org/wiki/Japanese_asset_price_bubble",
+  "note": "'Which became two' not stated on page."
+ },
+ {
+  "claim": "Charles Darwin proposed the 'root-brain hypothesis' in 1880, suggesting root tips act like simple brains directing plant movement.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the tip of roots acts like the brain of some lower animals",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page names Darwin's root-brain hypothesis, 1880."
+ },
+ {
+  "claim": "The CODIS DNA profiling system uses 20 core loci (genetic locations), allowing match probabilities of 1 in a quintillion (10^18) or more.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In North America, systems that amplify the CODIS 20 core loci are almost universal ... This has resulted in the ability to generate match probabilities of 1 in a quintillion (1 × 1018) or more.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "Stars that are at least sometimes visible to the unaided eye have their apparent magnitude (6.5 or brighter) highlighted with a sky blue background.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Stars that are at least sometimes visible to the unaided eye have their apparent magnitude (6.5 or brighter) highlighted with a sky blue background.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "In a 2019 poll, 88% of computer scientists believed P ≠ NP, and among experts specifically, 99% believed it — yet no one has proven it.",
+  "verdict": "overstated",
+  "corrected_claim": "In polls conducted in 2018 (published 2019), 88% of responders believed P ≠ NP, rising to 99% among experts — yet it remains unproven.",
+  "quote": "The share of responders believing that P ≠ NP was 61% in 2001, 83% in 2011, and 88% in 2018 ... When restricted to experts, 99% of 2018 responders believed P ≠ NP.",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": "Poll was conducted in 2018, published 2019."
+ },
+ {
+  "claim": "The FDA approved the first phage-based food safety product in 2006 — viruses that kill Listeria bacteria on deli meat.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2006 the FDA approved LISTEX, a phage product used on cheese to kill Listeria monocytogenes; separately, LMP-102 was approved for ready-to-eat poultry and meat.",
+  "quote": "the FDA approved LISTEX (developed and produced by Micreos) ... LMP-102 (Intralytix) was approved for treating ready-to-eat (RTE) poultry and meat products.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page names LISTEX on cheese for 2006 and does not call it the first"
+ },
+ {
+  "claim": "England, marking the first time the serial was filmed overseas?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/October",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Mosquitoes are the deadliest animals on Earth, killing over one million people annually through disease transmission including malaria, dengue, and Zika.",
+  "verdict": "overstated",
+  "corrected_claim": "By transmitting diseases such as malaria, filariasis, yellow fever and dengue, mosquitoes cause the deaths of over one million people each year.",
+  "quote": "By transmitting diseases, mosquitoes cause the deaths of over one million people each year. ... Those species include vectors of parasitic diseases such as malaria and filariasis and arboviral diseases such as yellow fever and dengue fever.",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": "'Deadliest animals' and Zika not on the page."
+ },
+ {
+  "claim": "Salt preserves food through osmosis—it draws moisture out, increasing solute concentration until the environment becomes inhospitable for microorganisms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "with the aim of drawing moisture out of the food by the process of osmosis. ... Salt accelerates the drying process using osmosis and also inhibits the growth of several common strains of bacteria.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": ""
+ },
+ {
+  "claim": "1886: The Hall–Héroult process for inexpensively producing aluminum was independently discovered by the American engineer-inventor Charles Martin Hall and the French scientist Paul Héroult.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1886: The Hall–Héroult process for inexpensively producing aluminum was independently discovered by the American engineer-inventor Charles Martin Hall and the French scientist Paul Héroult.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "International Sign, used at deaf events like the Deaflympics, is more complex than a typical pidgin — almost a full language in its own right.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "International Sign, formerly known as Gestuno, is used mainly at international deaf events such as the Deaflympics ... they conclude that it is more complex than a typical pidgin and indeed is more like a full sign language.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": ""
+ },
+ {
+  "claim": "Peak-end rule in behavioral economics shows people judge experiences by their peak intensity and ending — a painful medical procedure remembered better if it ends with mild discomfort.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "people judge an experience largely based on how they felt at its peak (i.e., its most intense point) and at its end ... rated their experience as less unpleasant",
+  "source_url": "https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule",
+  "note": ""
+ },
+ {
+  "claim": "Jagadish Chandra Bose invented instruments to measure electrical responses in plants in the early 1900s, considered the 'father of plant neurobiology'.",
+  "verdict": "overstated",
+  "corrected_claim": "Jagadish Chandra Bose invented instruments to measure electrical responses in plants and is regarded as an important forerunner of plant neurobiology.",
+  "quote": "invented various devices and instruments to measure electrical responses in plants",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "'Father of plant neurobiology' only in a reference title; date not given."
+ },
+ {
+  "claim": "Low-template DNA (less than 0.1 ng in a sample) can cause 'allelic dropout' where genetic markers randomly disappear from results, making mixture interpretation unreliable.",
+  "verdict": "overstated",
+  "corrected_claim": "Low-template DNA (less than 0.1 ng in a sample) can cause random effects such as allelic dropout, where genetic markers fail to show up in results.",
+  "quote": "Low-template DNA can happen when there is less than 0.1 ng ... can lead to more stochastic effects (random events) such as allelic dropout or allelic drop-in.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Claim that it makes mixture interpretation unreliable not directly stated."
+ },
+ {
+  "claim": "The second list includes some notable stars which are below 60 M☉ for the purpose of comparison.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "The second list includes some notable stars which are below 60 M☉ for the purpose of comparison.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "Kurt Gödel wrote to John von Neumann in 1956 asking whether theorem-proving could be solved in quadratic time — essentially asking about P vs NP 15 years before it was formally defined.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In a 1956 letter written by Kurt Gödel to John von Neumann ... Gödel asked whether theorem-proving (now known to be co-NP-complete) could be solved in quadratic or linear time",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": "Cook introduced the precise statement in 1971."
+ },
+ {
+  "claim": "T4 phage assembly requires helper proteins that act catalytically — viruses have their own molecular machines within machines.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "helper proteins that act catalytically during phage morphogenesis",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": ""
+ },
+ {
+  "claim": "Manhattan's only remaining 19th-century house with its original furnishings?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/November",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Only female mosquitoes bite—they need blood proteins to develop their eggs, while both males and females drink flower nectar for energy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Males only drink sugary fluids, and have less specialized mouthparts. ... Females of many blood-feeding species need a blood meal to begin the process of egg development. ... Both male and female mosquitoes feed on nectar, aphid honeydew, and plant juices,",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": ""
+ },
+ {
+  "claim": "Fresh produce packaging typically contains about 8% oxygen—enough for plant respiration but low enough to slow oxidation.",
+  "verdict": "overstated",
+  "corrected_claim": "Packaging fresh fruits and vegetables with reduced oxygen and increased carbon dioxide slows their respiration.",
+  "quote": "Reducing oxygen (O2) concentration and increasing the",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "8% oxygen figure not on page."
+ },
+ {
+  "claim": "In 1895 the Russian linguist Filipp Fortunatov, and in 1896 the Swiss linguist Ferdinand de Saussure, independently formulated the sound law now known as the Fortunatov–de Saussure law.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1895 the Russian linguist Filipp Fortunatov, and in 1896 the Swiss linguist Ferdinand de Saussure, independently formulated the sound law now known as the Fortunatov–de Saussure law.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Sign languages use space grammatically — the location where you make a sign can indicate who is doing what to whom.",
+  "verdict": "overstated",
+  "corrected_claim": "Sign languages use space grammatically — in many verbs, the subject and object determine the direction in which the sign moves.",
+  "quote": "by the use of space, two manual articulators, and the signer's face and body. ... subject and object of a verb determine the direction of the verb's movement (inflection)",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": "Page ties grammar to movement direction in space, not the location where a sign is made."
+ },
+ {
+  "claim": "Incentive compatibility requires mechanism design to align individual incentives with desired outcomes — the Vickrey-Clarke-Groves mechanism achieves this for public goods valuations.",
+  "verdict": "overstated",
+  "corrected_claim": "The Vickrey-Clarke-Groves mechanism is a generic truthful mechanism for reaching a socially optimal outcome, though it has problems that keep it from fully solving the public goods problem.",
+  "quote": "a generic truthful mechanism for achieving a socially optimal solution ... However, the VCG mechanism also has several problems which keep it from fully solving the public goods problem",
+  "source_url": "https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_mechanism",
+  "note": "Page says VCG does not fully solve public goods valuations."
+ },
+ {
+  "claim": "Researchers in 2017 found a 'decision-making center' in root tips of dormant Arabidopsis seeds that determines when germination occurs.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2017 University of Birmingham biologists reported a 'decision-making center' in the root tip of dormant Arabidopsis seeds.",
+  "quote": "In 2017 biologists from University of Birmingham announced that they found a \"decision-making center\" in the root tip of dormant Arabidopsis seeds.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page body doesn't say what it determines."
+ },
+ {
+  "claim": "MiniSTR technology, developed after 9/11, allows DNA analysis of highly degraded samples by targeting smaller DNA fragments than traditional STR testing.",
+  "verdict": "overstated",
+  "corrected_claim": "MiniSTR technology helps analyze highly degraded DNA by targeting smaller fragments; its success was first reported in 1995, when it was used to identify victims of the Waco fire.",
+  "quote": "The success that smaller PCR products produce a higher success rate with highly degraded samples was first reported in 1995, when miniSTR technology was used to identify victims of the Waco fire.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Page links miniSTR to 1995 Waco fire, not developed after 9/11."
+ },
+ {
+  "claim": "The method used to determine each star's mass is included to give an idea of the data's uncertainty; note that the mass of binary stars can be determined far more accurately.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The method used to determine each star's mass is included to give an idea of the data's uncertainty; note that the mass of binary stars can be determined far more accurately.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "John Nash wrote to the NSA in 1955 speculating that cracking a sufficiently complex code would require exponential time — implicitly conjecturing P ≠ NP.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1955, mathematician John Nash wrote a letter to the National Security Agency ... If proved, this would imply what is now called P ≠ NP",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": ""
+ },
+ {
+  "claim": "Walter Fiers in 1976 was the first to sequence a complete viral genome — bacteriophage MS2 — launching the era of genomics.",
+  "verdict": "overstated",
+  "corrected_claim": "Walter Fiers was the first to establish the complete nucleotide sequence of a gene in 1972, and in 1976 he sequenced the viral genome of bacteriophage MS2.",
+  "quote": "the first to establish the complete nucleotide sequence of a gene ... the viral genome of bacteriophage MS2",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page calls 1972 gene sequence the first; does not say MS2 was the first complete genome or 'launched genomics'"
+ },
+ {
+  "claim": "New Zealand's oldest ice creamery, has used the same recipes since 1926?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/November",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Mosquito proboscis contains six needle-like stylets—two saw through skin, two hold tissue apart, one injects saliva, and one sucks blood.",
+  "verdict": "overstated",
+  "corrected_claim": "A mosquito's proboscis sheaths six needle-like stylets: two mandibles, two maxillae, the hypopharynx and the labrum, whose sharp tips saw their way into the skin.",
+  "quote": "a bundle (fascicle) of six piercing mouthparts or stylets. These are two mandibles, two maxillae, the hypopharynx, and the labrum. ... The extremely sharp tips of the labrum and maxillae are moved backwards and forwards to saw their way into the skin,",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": "Page does not assign roles of holding tissue, injecting saliva and sucking blood."
+ },
+ {
+  "claim": "Confit, the French preservation method of cooking meat in its own fat, was popular before refrigeration and remains a culinary tradition.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Confit appears only in a reference title, not the article text."
+ },
+ {
+  "claim": "1895: Adrenaline was discovered by the Polish physiologist Napoleon Cybulski.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1895: Adrenaline was discovered by the Polish physiologist Napoleon Cybulski.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "In ASL, the sign for 'not yet' requires a specific tongue position and head movement — without these, it becomes a completely different word.",
+  "verdict": "overstated",
+  "corrected_claim": "In ASL, the sign for 'not yet' requires the tongue to touch the lower lip and the head to rotate from side to side, in addition to the hand movement.",
+  "quote": "the sign translated as not yet, which requires that the tongue touch the lower lip and the head rotate from side to side, in addition to the manual part of the sign.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": "Page doesn't say it becomes a completely different word without them."
+ },
+ {
+  "claim": "The Greenspan Put described market belief that the Fed would intervene to prevent crashes — this moral hazard may have encouraged excessive risk-taking before 2008.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The expectation of a Fed put to arrest market declines created moral hazard ... free insurance for aggressive risk-taking ... their compromised solvency in the 2008 financial crisis",
+  "source_url": "https://en.wikipedia.org/wiki/Greenspan_put",
+  "note": ""
+ },
+ {
+  "claim": "When exposed to anesthetics, Venus flytraps stop generating electrical signals and their traps remain open—similar to anesthetized animals.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Venus flytraps no longer generate electrical signals and their traps remain open when trigger hairs were touched.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "Y-chromosome analysis can trace paternal lineage and is stored in a reference database (YHRD) containing over 300,000 haplotypes from worldwide populations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It currently comprises more than 300,000 minimal (8 locus) haplotypes from world-wide populations as well as data on their frequency.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "The masses listed below are the stars' current (evolved) mass, not their initial (formation) mass.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "The masses listed below are the stars' current (evolved) mass, not their initial (formation) mass.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "Donald Knuth believes P = NP but thinks a proof 'will almost surely be nonconstructive' — meaning it wouldn't give us practical fast algorithms.",
+  "verdict": "overstated",
+  "corrected_claim": "Donald Knuth doubts a proof of P = NP would help in practice, saying 'such a proof will almost surely be nonconstructive.'",
+  "quote": "I don't believe that the equality P = NP will turn out to be helpful even if it is proved ... such a proof will almost surely be nonconstructive",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": "Page does not state that Knuth believes P = NP."
+ },
+ {
+  "claim": "Bacteria have evolved CRISPR, retrons, and Thoeris defense systems against phages — an ancient immune arms race.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacteria have evolved numerous mechanisms to block phage infection, including the CRISPR system, retrons, and the Thoeris system, which fights phages by degrading NAD+.",
+  "quote": "The CRISPR system ... Retrons and the anti-toxin system encoded by them. ... The Thoeris defense system is known to deploy a unique strategy for bacterial antiphage resistance via NAD+ degradation.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "'Ancient arms race' framing not on page"
+ },
+ {
+  "claim": "Cinderella Boy\" for winning a starring role in his first Broadway show?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ARecent_additions/2023/December",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Mosquitoes inject saliva that contains anticoagulants and immunosuppressants—this saliva causes the itchy reaction, not the blood extraction.",
+  "verdict": "overstated",
+  "corrected_claim": "Mosquito saliva contains proteins that block blood clotting and modulate the host's immune response, and the saliva transferred during a bite can cause an itchy rash.",
+  "quote": "Mosquito saliva blocks the host's hemostasis system, with proteins that reduce vascular constriction, blood clotting, and platelet aggregation, to ensure the blood keeps flowing. ... The mosquito's saliva is transferred to the host during the bite, and can cause an itchy rash.",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": "Page does not say the blood extraction itself is not the cause of itching."
+ },
+ {
+  "claim": "Alcohol is metabolized differently than most drugs—90% is processed by the liver at a constant rate regardless of blood concentration (zero-order kinetics).",
+  "verdict": "overstated",
+  "corrected_claim": "About 90% of ethanol metabolism happens in the liver during a typical drinking session, and alcohol is removed from the bloodstream at an approximately constant rate (zero-order kinetics).",
+  "quote": "During a typical drinking session, approximately 90% of the metabolism of ethanol occurs in the liver. ... ethanol is removed from the bloodstream at an approximately constant rate (linear decay or zero-order kinetics)",
+  "source_url": "https://en.wikipedia.org/wiki/Ethanol_metabolism",
+  "note": "Rate is 'approximately' constant; comparison with most drugs and 'regardless of concentration' not stated."
+ },
+ {
+  "claim": "It was independently discovered in 1900 by the Japanese chemist Jōkichi Takamine and his assistant Keizo Uenaka.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "It was independently discovered in 1900 by the Japanese chemist Jōkichi Takamine and his assistant Keizo Uenaka.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). 'It' refers to adrenaline; claim lacks its subject."
+ },
+ {
+  "claim": "The first known manual alphabet for deaf people was developed by a Spanish monk, Pedro Ponce de León, in the 16th century.",
+  "verdict": "overstated",
+  "corrected_claim": "The first known manual alphabet used in deaf schools was developed by Pedro Ponce de León, building on monastic sign languages.",
+  "quote": "Monastic sign languages were the basis for the first known manual alphabet used in deaf schools, developed by Pedro Ponce de León.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": "Page doesn't call him a Spanish monk or give the 16th century; it's 'first used in deaf schools'."
+ },
+ {
+  "claim": "The IKEA effect shows people value things more highly when they helped create them — partially assembled furniture is valued higher than identical pre-assembled items.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a cognitive bias in which consumers place a disproportionately high value on products they partially created ... subjects were willing to pay 63% more for furniture they had assembled themselves",
+  "source_url": "https://en.wikipedia.org/wiki/IKEA_effect",
+  "note": ""
+ },
+ {
+  "claim": "French bean plants can detect and grow toward a support cane 30 cm away, adjusting growth patterns to use it as future support.",
+  "verdict": "overstated",
+  "corrected_claim": "Potted French bean plants placed 30 cm from a garden cane adjusted their growth patterns so they could use the cane as a support in the future.",
+  "quote": "potted French bean plants, when planted 30 centimetres from a garden cane, would adjust their growth patterns",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page doesn't say they detect or grow toward the cane."
+ },
+ {
+  "claim": "A genetic chimera is an ultra-rare individual with at least two different sets of DNA—there have been cases where DNA profiling falsely suggested a mother was unrelated to her own children.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "ultra-rare individuals, known as \"chimeras\", have at least two different sets of genes. There have been two cases of DNA profiling that falsely suggested that a mother was unrelated to her children.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "A few notable large stars with masses less than 60 M☉ are shown in the table below for the purpose of comparison, ending with the Sun, which is very close, but would otherwise be too small to be included in the list.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "A few notable large stars with masses less than 60 M☉ are shown in the table below for the purpose of comparison, ending with the Sun, which is very close, but would otherwise be too small to be included in the list.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": "Page fragment, not a standalone fact (needs rewriting by hand). "
+ },
+ {
+  "claim": "If P = NP, a computer could find a formal proof of any theorem that has a 'reasonable length' proof — potentially revolutionizing or ending mathematical research as we know it.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "it would transform mathematics by allowing a computer to find a formal proof of any theorem ... which has a proof of a reasonable length",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": ""
+ },
+ {
+  "claim": "The Hailong anti-phage defense triggers bacterial suicide via ion channels — infected cells die to protect the colony.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An infecting phage can activate HalA, triggering membrane depolarization and thus cell death. Although the infected cell is likely going to die, this protects the bacterial population from further spread.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": ""
+ },
+ {
+  "claim": "DYK consists of a series of \"hooks\", which are interesting facts taken from Wikipedia's newest content, of the format \"Did you know that.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ADid_you_know",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "People with type O blood are significantly more attractive to mosquitoes than those with type A blood.",
+  "verdict": "overstated",
+  "corrected_claim": "Mosquitoes prefer to feed on people with type O blood, an abundance of skin bacteria and high body heat, and they also favor pregnant women.",
+  "quote": "Mosquitoes prefer to feed on people with type O blood, an abundance of skin bacteria, and high body heat; they also favor pregnant women.",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": "No comparison with type A or 'significantly' on the page."
+ },
+ {
+  "claim": "The average person metabolizes alcohol at about 15 mg/dL per hour (men) or 18 mg/dL per hour (women)—roughly one standard drink per hour.",
+  "verdict": "overstated",
+  "corrected_claim": "Earlier studies found mean alcohol elimination rates of 15 mg/dL per hour for men and 18 mg/dL per hour for women — very roughly 8 grams of pure ethanol (one British unit) per hour.",
+  "quote": "Earlier studies found mean elimination rates of 15 mg/dL per hour for men and 18 mg/dL per hour for women ... This mean rate is very roughly 8 grams of pure ethanol per hour (one British unit).",
+  "source_url": "https://en.wikipedia.org/wiki/Ethanol_metabolism",
+  "note": "Page says roughly one British unit per hour, not one standard drink."
+ },
+ {
+  "claim": "1896: Radioactivity was discovered independently by Henri Becquerel and Silvanus Thompson.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1896: Radioactivity was discovered independently by Henri Becquerel and Silvanus Thompson.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "A language dies approximately every two weeks — by some estimates, 90% of languages currently spoken will be extinct or moribund by 2100.",
+  "verdict": "overstated",
+  "corrected_claim": "Some linguists estimate that between 50% and 90% of the world's languages will be severely endangered or dead by the year 2100.",
+  "quote": "Some linguists estimate that between 50% and 90% of them will be severely endangered or dead by the year 2100.",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": "Page has no 'one language every two weeks' figure; 90% is the top of a 50-90% range."
+ },
+ {
+  "claim": "The Revelation Principle in mechanism design proves any outcome achievable by any mechanism can also be achieved by a direct mechanism where truth-telling is optimal.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The revelation principle says that if a social choice function can be implemented with some non-honest mechanism—one where players have an incentive to lie—the same function can be implemented by an incentive-compatible (honesty-promoting) mechanism with the same equilibrium outcome (payoffs).",
+  "source_url": "https://en.wikipedia.org/wiki/Revelation_principle",
+  "note": ""
+ },
+ {
+  "claim": "Plants can detect soil volume and adapt growth accordingly, independent of nutrient availability, showing spatial awareness.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page doesn't mention sensing soil volume."
+ },
+ {
+  "claim": "DNA evidence posthumously exonerated Frank Lee Smith in 2000 after spending 14 years on death row for murder—but he died of cancer just before his innocence was proven.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2000 Frank Lee Smith was proved innocent by DNA profiling ... after spending 14 years on death row in Florida, USA. However he had died of cancer just before his innocence was proven.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "Technically they are not stars, as they no longer generate heat and light via nuclear fusion in their cores.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Technically they are not stars, as they no longer generate heat and light via nuclear fusion in their cores.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Finding a minor in a graph can be done in O(n²) time — but the hidden constant is greater than 10↑↑↑↑3 (a number requiring Knuth's up-arrow notation).",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": "10↑↑↑↑3 is from a separate Knuth quote, not the graph-minor constant (which depends superexponentially on H's size)."
+ },
+ {
+  "claim": "Phage genomes are highly mosaic — different regions come from completely different evolutionary sources, shuffled by recombination.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacteriophage genomes can be highly mosaic, built from modules that turn up in other phage species in different arrangements, shuffled partly by recombination.",
+  "quote": "Bacteriophage genomes can be highly mosaic ... These modules may be found in other phage species in different arrangements.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "'Completely different evolutionary sources' overstates the page"
+ },
+ {
+  "claim": "The article must be at least 1500 characters of original prose, which includes only raw text and does not include markup.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ADid_you_know",
+  "note": "Source page (Wikipedia project namespace) failed to load via WebFetch (URL_NOT_FOUND); also the claim text is a scraped fragment/markup, not a complete fact."
+ },
+ {
+  "claim": "Mosquitoes can detect CO2 from human breath up to 50 meters away—they use this to locate hosts even in complete darkness.",
+  "verdict": "overstated",
+  "corrected_claim": "Female mosquitoes hunt for hosts by smelling substances such as carbon dioxide, which switches on odour and visual search behaviours they would not otherwise use.",
+  "quote": "Female mosquitoes hunt for hosts by smelling substances such as carbon dioxide (CO2) ... It activates odour and visual search behaviours that it otherwise would not use, when in presence of CO2.",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": "50-meter distance and complete darkness not on the page."
+ },
+ {
+  "claim": "Acetaldehyde, the first metabolite of alcohol, is a toxic carcinogen that contributes to hangovers and alcohol-related health problems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The main metabolite is acetaldehyde, a toxic carcinogen. ... which causes acetaldehyde levels to peak higher, producing more severe hangovers",
+  "source_url": "https://en.wikipedia.org/wiki/Ethanol_metabolism",
+  "note": ""
+ },
+ {
+  "claim": "1898: Thorium radioactivity was discovered independently by Gerhard Carl Schmidt and Marie Curie.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1898: Thorium radioactivity was discovered independently by Gerhard Carl Schmidt and Marie Curie.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Language revitalization is correlated with better health outcomes in indigenous communities — language loss affects more than just communication.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In contrast, language revitalization is correlated with better health outcomes in indigenous communities.",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": ""
+ },
+ {
+  "claim": "Quantitative easing by the Federal Reserve injected $4.5 trillion into the economy after 2008 — an unprecedented monetary experiment whose long-term effects are still debated.",
+  "verdict": "overstated",
+  "corrected_claim": "The Federal Reserve's post-2008 quantitative easing accumulated $4.5 trillion in assets before purchases halted in October 2014 — a scope commentators called 'unprecedented', and its effectiveness remains intensely disputed.",
+  "quote": "Purchases were halted on 29 October 2014 after accumulating $4.5 trillion in assets. ... many commentators called the scope of the Federal Reserve quantitative easing program after the 2008 crisis \"unprecedented\" ... The effectiveness of quantitative easing is the subject of an intense dispute among researchers",
+  "source_url": "https://en.wikipedia.org/wiki/Quantitative_easing",
+  "note": "$4.5T was assets accumulated, not 'injected into the economy'; page discusses disputed effectiveness, not 'long-term effects'."
+ }
+]

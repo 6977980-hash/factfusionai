@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "A Malaysian ant species (Camponotus saundersi) can commit 'suicidal altruism' by rupturing its own body to spray a poisonous, corrosive secretion at attackers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "found in Malaysia and Brunei ... thereby spraying a sticky secretion in all directions from the anterior region of its head. ... The \"toxic glue\" of C. saundersi is predominately composed of polyacetates, aliphatic hydrocarbons, and alcohols.",
+  "source_url": "https://en.wikipedia.org/wiki/Camponotus_saundersi",
+  "note": ""
+ },
+ {
+  "claim": "The earliest archaeological evidence of fermentation is 13,000-year-old residues of a beer with the consistency of gruel, found in a cave near Haifa, Israel.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The earliest archaeological evidence of fermentation is the 13,000-year-old residue of beer, with the consistency of gruel",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": ""
+ },
+ {
+  "claim": "The Kola Superdeep Borehole in Russia reaches 12,262 meters deep - the deepest artificial point on Earth, where temperatures reach 180°C.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q19572",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "In 1888, a sensational story claimed that James Wickham, a British scientist, introduced two whales to the Great Salt Lake in an attempt to start a whale oil industry.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The story was first reported in 1888 ... British scientist and entrepreneur James Wickham had introduced two whales into the Great Salt Lake with the intention of starting a whale oil industry",
+  "source_url": "https://en.wikipedia.org/wiki/Great_Salt_Lake_whale_hoax",
+  "note": ""
+ },
+ {
+  "claim": "Great white shark teeth are continuously replaced like a conveyor belt, roughly every few weeks - the design changes to match their diet as they grow from fish-eating juveniles to marine-mammal-hunting adults.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "constantly replaced throughout their lives, like a conveyor belt pushing a new tooth forward roughly every few weeks. ... Larger sharks increasingly target marine mammals",
+  "source_url": "https://www.sciencealert.com/great-white-sharks-grow-deadly-new-types-of-teeth-as-they-age",
+  "note": ""
+ },
+ {
+  "claim": "Children were the key creators of Nicaraguan Sign Language's grammar — younger learners made the language more complex and structured than older signers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the young children had taken the language of the older children to a higher level of complexity ... is indicative that the language matures as the younger cohorts make the grammar more complex",
+  "source_url": "https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language",
+  "note": ""
+ },
+ {
+  "claim": "The Condorcet Paradox shows that majority preferences can be cyclic: voters might prefer A over B, B over C, and C over A — making it impossible to identify a 'true' winner.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a majority of voters will prefer A to B, B to C, and also C to A, even if every voter's individual preferences are rational and avoid self-contradiction ... implies that the election has no Condorcet winner",
+  "source_url": "https://en.wikipedia.org/wiki/Condorcet_paradox",
+  "note": ""
+ },
+ {
+  "claim": "Plants can transmit electrical signals throughout their bodies using action potentials, affecting processes like photosynthesis, flowering, and wound responses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These action potentials can influence processes such as ... wound responses, respiration, photosynthesis, and flowering",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "The Mediterranean Sea reaches 5,267 meters at its deepest point in the Calypso Deep.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q4918",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "When elephants are upset, they will comfort each other by stroking loved ones with their trunks and emitting small chirps - young elephants also suck their trunks for comfort.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When times get tough, elephants will comfort each other by stroking loved ones with their trunks and emitting small chirps. Young elephants will also suck their trunks to comfort themselves.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Edmond Locard, known as the 'Sherlock Holmes of France,' formulated the basic principle of forensic science: 'Every contact leaves a trace,' now known as Locard's Exchange Principle.",
+  "verdict": "overstated",
+  "corrected_claim": "Edmond Locard, known as the 'Sherlock Holmes of Lyon, France,' formulated the basic principle of forensic science: 'Every contact leaves a trace,' now known as Locard's exchange principle.",
+  "quote": "Edmond Locard (1877–1966) was a pioneer in forensic science who became known as the Sherlock Holmes of Lyon, France. He formulated the basic principle of forensic science as: \"Every contact leaves a trace\".",
+  "source_url": "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+  "note": "Nickname on page is 'Sherlock Holmes of Lyon, France', not 'of France'."
+ },
+ {
+  "claim": "Research using machine learning offers a new way By Amirali Aghazadeh Published 3 January 26 Search for Life More about Space Exploration Rocket launch today: Is there a rocket launch and what time?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.space.com/science-astronomy",
+  "note": "Space.com index page is live; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The Boeing 787 Dreamliner has a bug where all electrical generators shut down if the aircraft is kept 'on' for more than 248 days continuously — caused by an integer overflow.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "experienced an integer overflow bug which could shut down all electrical generators if the aircraft were to be kept \"on\" for more than 248 days.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "Prions contain no DNA or RNA — they're misfolded proteins that 'reproduce' by corrupting normal proteins into copies of themselves.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Unlike other infectious agents such as viruses, bacteria, and fungi, prions do not contain nucleic acids ... a misfolded protein that induces folding problems in normal variants of the same protein",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "New Scan Spots Heart Disease Years Before Symptoms Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The smallest and largest workers in the ant species Carebara diversa show nearly a 500-fold difference in their dry body weights.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The smallest and largest workers in Carebara diversa show nearly a 500-fold difference in their dry weights.",
+  "source_url": "https://en.wikipedia.org/wiki/Ant",
+  "note": ""
+ },
+ {
+  "claim": "The science of fermentation is called zymology or zymurgy, from the Greek word for leaven.",
+  "verdict": "overstated",
+  "corrected_claim": "The science of fermentation is known as zymology or zymurgy.",
+  "quote": "The science of fermentation is known as zymology or zymurgy.",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page gives no Greek etymology."
+ },
+ {
+  "claim": "Mauna Kea in Hawaii rises 10,203 meters from its oceanic base - taller than Mount Everest when measured from base to peak.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q131230",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "French soldiers interred in Bayonet Trench were popularly believed to have been buried alive with their rifles in their hands.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This led to the myth that the French soldiers had been buried alive when their trench collapsed during bombardment and died standing with their rifles in their hands.",
+  "source_url": "https://en.wikipedia.org/wiki/Bayonet_Trench",
+  "note": ""
+ },
+ {
+  "claim": "PFAS 'forever chemicals' have been linked to multiple sclerosis in a concerning new study published in 2026.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Forever Chemicals Linked to Multiple Sclerosis in Concerning New Study ... participants whose blood contained a higher concentration of these chemicals had a significantly higher risk of MS",
+  "source_url": "https://www.sciencealert.com/forever-chemicals-linked-to-multiple-sclerosis-in-concerning-new-study",
+  "note": "Article dated Jan 2026."
+ },
+ {
+  "claim": "Between 50% and 90% of the world's roughly 7,000 languages are expected to be severely endangered or extinct by the year 2100.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The general consensus is that between 6,000 and 7,000 languages are currently spoken. Some linguists estimate that between 50% and 90% of them will be severely endangered or dead by the year 2100.",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": ""
+ },
+ {
+  "claim": "Robert Axelrod's 1984 computer tournament found that 'Tit for Tat' — the simplest strategy of cooperating first, then copying the opponent's last move — beat all other strategies in iterated Prisoner's Dilemma.",
+  "verdict": "overstated",
+  "corrected_claim": "In Robert Axelrod's two computer tournaments around 1980, 'Tit for Tat' — cooperate first, then copy the opponent's previous move — was both the simplest strategy and the most successful.",
+  "quote": "The strategy was first introduced by Anatol Rapoport in Robert Axelrod's two tournaments, held around 1980. Notably, it was (on both occasions) both the simplest strategy and the most successful in direct competition.",
+  "source_url": "https://en.wikipedia.org/wiki/Tit_for_tat",
+  "note": "Tournaments were around 1980, not 1984."
+ },
+ {
+  "claim": "Wounded plants release volatile odors like methyl jasmonate and methyl salicylate that neighboring plants detect and respond to by increasing their chemical defenses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Wounded or infected plants produce distinctive volatile odors ... Plants detecting these sorts of volatile signals often respond by increasing their chemical defences",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "The Caribbean Sea plunges to 7,686 meters in the Cayman Trough - deeper than many oceanic trenches.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1247",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Truman Show Delusion is a real mental condition where patients believe they are the star of an imaginary reality show - the term was coined by two psychiatrists in 2008.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Truman Show Delusion is a mental condition marked by a patient’s belief that he or she is the star of an imaginary reality show. Two psychiatrists coined the term in 2008.",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Locard's Exchange Principle holds that the perpetrator of a crime will bring something into the crime scene and leave with something from it, both of which can be used as forensic evidence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In forensic science, Locard's principle holds that the perpetrator of a crime will bring something into the crime scene and leave with something from it, and that both can be used as forensic evidence.",
+  "source_url": "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+  "note": ""
+ },
+ {
+  "claim": "By Josh Dinner Last updated 30 January 26 Launches &amp; Spacecraft SpaceX launches Starlink satellites from two coasts in two days By Robert Z.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.space.com/science-astronomy",
+  "note": "Space.com index page is live; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The Patriot missile system failed to intercept an Iraqi Scud missile in 1991, killing 28 American soldiers, because its clock drifted by 0.34 seconds after 100 hours of operation.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1991 a software error made a Patriot missile system's clock drift by one third of a second over one hundred hours, so it failed to intercept an incoming Iraqi Al-Husayn missile that struck barracks in Dhahran, Saudi Arabia, killing 28 Americans.",
+  "quote": "software error of a MIM-104 Patriot caused its system clock to drift by one third of a second over a period of one hundred hours – resulting in failure to locate and intercept an incoming Iraqi Al-Husayn missile, which then struck Dharan barracks, Saudi Arabia (February 25, 1991), killing 28 Americans.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Page says one third of a second (not 0.34 s) and 28 Americans; 'soldiers' not stated."
+ },
+ {
+  "claim": "All known prion diseases in mammals are 100% fatal with no effective treatment — they progressively destroy brain tissue.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These diseases are progressive, have no known effective treatment, and are invariably fatal.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Scientists have developed a new footprint-based method that can tell apart nearly indistinguishable species with ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Some ants practice 'agriculture'—leafcutter ants cultivate fungus gardens, and have been doing so for approximately 50 million years.",
+  "verdict": "overstated",
+  "corrected_claim": "Leafcutter ants actively cultivate fungus gardens, feeding them freshly cut plant material; they fully domesticated their fungal partner 15 million years ago, a process that took 30 million years to complete.",
+  "quote": "The ants actively cultivate their fungus, feeding it with freshly cut plant material and keeping it free from pests and molds. These ants fully domesticated their fungal partner 15 million years ago, a process that took 30 million years to complete.",
+  "source_url": "https://en.wikipedia.org/wiki/Leafcutter_ant",
+  "note": "Page gives no '50 million years' figure; says domestication completed 15 Mya after a 30-million-year process."
+ },
+ {
+  "claim": "Louis Pasteur founded zymology in 1856 when he connected yeast to fermentation, though he incorrectly believed fermentation required living cells.",
+  "verdict": "overstated",
+  "corrected_claim": "Louis Pasteur founded zymology in 1856 when he connected yeast to fermentation; in his time, 'ferments' were thought to function only within living organisms.",
+  "quote": "The French chemist Louis Pasteur founded zymology in 1856 when he connected yeast to fermentation. ... The 'ferments' were thought to function only within living organisms.",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page does not explicitly say Pasteur was wrong."
+ },
+ {
+  "claim": "The Nile River stretches 6,650 km through northeastern Africa, making it the longest river in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q3392",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The Adoration of the Magi in the Snow, recently re-dated, is now known to be the earliest of Bruegel's snow paintings.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This has the effect of making the painting Bruegel's earliest snow scene, rather than perhaps his last.",
+  "source_url": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_in_the_Snow",
+  "note": ""
+ },
+ {
+  "claim": "Cancer may emit protective signals that guard the brain against Alzheimer's disease - explaining a puzzling inverse relationship between the conditions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "certain cancers may actually send a protective signal to the brain ... people with cancer seem less likely to develop Alzheimer's ... those with Alzheimer's are less likely to get cancer",
+  "source_url": "https://www.sciencealert.com/cancer-may-emit-signals-that-protect-the-brain-against-alzheimers",
+  "note": ""
+ },
+ {
+  "claim": "More than 50% of the world's endangered languages are concentrated in just 8 countries: India, Brazil, Mexico, Australia, Indonesia, Nigeria, Papua New Guinea, and Cameroon.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "More than 50% of the world's endangered languages are located in just eight countries: India, Brazil, Mexico, Australia, Indonesia, Nigeria, Papua New Guinea, and Cameroon.",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": ""
+ },
+ {
+  "claim": "The January Effect anomaly shows that small-cap stocks historically outperform in January — attributed to tax-loss selling in December and subsequent repurchasing in the new year.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "since 1925 small stocks had outperformed the broader market in the month of January ... sell stocks for tax reasons at year end (such as to claim a capital loss) and reinvest after the first of the year",
+  "source_url": "https://en.wikipedia.org/wiki/January_effect",
+  "note": ""
+ },
+ {
+  "claim": "Plants can detect vibrations caused by caterpillars chewing and respond by increasing production of defensive chemicals like glucosinolates.",
+  "verdict": "overstated",
+  "corrected_claim": "Plants can respond to vibrations created during herbivory by upregulating chemical defenses such as glucosinolates and anthocyanins.",
+  "quote": "Plants upregulate chemical defenses such as glucosinolate and anthocyanin in response to vibrations created during herbivory.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "Caterpillars not named in page body."
+ },
+ {
+  "claim": "The Arctic Ocean's deepest point is 5,550 meters, yet it's the shallowest of the world's five oceans on average.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q788",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Cats' short-term memory for physical movement (stepping over obstacles) lasts about 10 minutes, but their visual-only memory lasts just a few seconds.",
+  "verdict": "overstated",
+  "corrected_claim": "Cats' short-term memory of stepping over an obstacle lasts about 10 minutes - but just a few seconds if they were stopped before their forelegs stepped over it.",
+  "quote": "scientists determined that cats' short-term memory of certain things lasts 10 minutes ... just a few seconds when animals were stopped before their forelegs stepped over the obstacle.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": "Page frames the short memory as cats stopped before stepping over, not 'visual-only memory'."
+ },
+ {
+  "claim": "The Marsh test, developed by James Marsh in 1836, could detect as little as one-fiftieth of a milligram of arsenic and revolutionized forensic toxicology in poisoning cases.",
+  "verdict": "overstated",
+  "corrected_claim": "The Marsh test, first described by James Marsh in 1836, could detect as little as one-fiftieth of a milligram of arsenic.",
+  "quote": "He first described this test in The Edinburgh Philosophical Journal in 1836. ... it could detect as little as one-fiftieth of a milligram of arsenic",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": "'Revolutionized forensic toxicology' not stated."
+ },
+ {
+  "claim": "New experiments support 'RNA world' hypothesis By Keith Cooper Published 5 January 26 Search for Life Can scientists detect life without knowing what it looks like?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.space.com/science-astronomy",
+  "note": "Space.com index page is live; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The Mars Climate Orbiter was destroyed in 1999 because one team used metric units (newtons) while another used imperial units (pound-force) for thrust calculations.",
+  "verdict": "overstated",
+  "corrected_claim": "The Mars Climate Orbiter was destroyed because software on the ground generated commands in pound-force (lbf) rather than newtons (N).",
+  "quote": "due to software on the ground generating commands based on parameters in pound-force (lbf) rather than newtons (N).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Page does not mention two teams using different unit systems, nor the year."
+ },
+ {
+  "claim": "Prions are virtually indestructible — they resist heat, radiation, formaldehyde, and proteases that would destroy any other infectious agent.",
+  "verdict": "overstated",
+  "corrected_claim": "Prions are generally resistant to proteases, heat, ionizing radiation and formaldehyde treatments.",
+  "quote": "In general, prions are resistant to proteases, heat, ionizing radiation, and formaldehyde treatments",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "'Virtually indestructible' and comparison with all other agents not stated."
+ },
+ {
+  "claim": "Scientists found their immune systems retained long-lasting memory cells primed to recognize cancer.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Honeypot ant workers called 'repletes' are fed until their abdomens swell enormously, serving as living food storage vessels for the colony.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Repletes are fed by other worker ants until their abdomens become swollen with honey. This extreme growth causes the repletes to become mostly immobile as they act as the \"living pantry\" for the colony.",
+  "source_url": "https://en.wikipedia.org/wiki/Honeypot_ant",
+  "note": ""
+ },
+ {
+  "claim": "Eduard Buchner won the 1907 Nobel Prize in Chemistry for discovering 'cell-free fermentation'—proving that sugar could be fermented without living yeast cells.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1897 the German chemist and zymologist Eduard Buchner of Humboldt University of Berlin found that sugar was fermented even when there were no living yeast cells in the mixture ... In 1907 he received the Nobel Prize in Chemistry for his research and discovery of 'cell-free fermentation'.",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": ""
+ },
+ {
+  "claim": "The Amazon River carries more water than any other river - about 20% of all freshwater flowing into the world's oceans.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q3783",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The Mingxing Film Company released more than 150 films in 16 years, but most are now lost.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Between its establishment in 1922 and 1938, it released 174 narrative films ... The majority of Mingxing's 174 films, as with most early Chinese films, are considered lost.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Mingxing_films",
+  "note": "174 films 1922-1938 (16 years), majority lost."
+ },
+ {
+  "claim": "U.S. life expectancy hit a record high in 2024 and could still be climbing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "US life expectancy rose to 79 years in 2024 – the highest mark in American history. ... preliminary statistics suggest a continued improvement in 2025.",
+  "source_url": "https://www.sciencealert.com/us-life-expectancy-broke-records-in-2024-and-could-still-be-climbing",
+  "note": ""
+ },
+ {
+  "claim": "The 20 most common languages are spoken by 50% of the world's population, while most languages have fewer than 10,000 speakers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The 20 most common languages, each with more than 50 million speakers, are spoken by 50% of the world's population, but most languages are spoken by fewer than 10,000 people.",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": ""
+ },
+ {
+  "claim": "Mental accounting, coined by Richard Thaler, explains why people treat money differently based on its source — a $100 tax refund feels like 'free money' to spend, while $100 from wages feels like savings.",
+  "verdict": "overstated",
+  "corrected_claim": "Mental accounting, a model of consumer behaviour developed by Richard Thaler, describes how people keep multiple mental accounts for the same kind of resource, often violating the principle that money is fungible.",
+  "quote": "Mental accounting (or psychological accounting) is a model of consumer behaviour developed by Richard Thaler. ... People can even have multiple mental accounts for the same kind of resource. ... the principle of fungibility is often violated in practice.",
+  "source_url": "https://en.wikipedia.org/wiki/Mental_accounting",
+  "note": "Tax refund vs wages example not on the page."
+ },
+ {
+  "claim": "Sunflowers exhibit heliotropism, following the sun across the sky during the day by differential growth on opposite sides of the stem.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "Page doesn't mention sunflowers or sun-tracking (only a link 'Heliotropism')."
+ },
+ {
+  "claim": "The Sulu Sea plunges to 5,576 meters and is nearly completely enclosed by islands in the Philippines.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q160194",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Disrupting a cat's routine can make even healthy cats exhibit symptoms of illness, including vomiting, decreased appetite, and going to the bathroom outside the litter box.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Even healthy cats can exhibit symptoms of illness ... including going to the bathroom outside the litter box, vomiting, and a decreased appetite.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": ""
+ },
+ {
+  "claim": "In 1784, John Toms was convicted of murder when a pistol wad (crushed paper) found in the victim's head wound matched perfectly with a torn newspaper found in Toms's pocket—one of the earliest examples of forensic evidence.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1784, John Toms was convicted of murder after a pistol wad found in the victim's head wound matched perfectly with a torn newspaper in Toms's pocket.",
+  "quote": "John Toms was tried and convicted for murdering Edward Culshaw with a pistol. ... matched perfectly with a torn newspaper found in Toms's pocket.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": "Page does not call it one of the earliest examples."
+ },
+ {
+  "claim": "GCIRS 13E is one of the most massive known stars at approximately 1,300 solar masses - so massive it defies current stellar models.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q250898",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The Mars Polar Lander crashed in 1999 because its software misinterpreted leg deployment vibrations as evidence of landing, shutting off the engines 40 meters above the surface.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was destroyed because its flight software mistook vibrations caused by the deployment of the stowed legs for evidence that the vehicle had landed and shut off the engines 40 meters from the Martian surface (December 3, 1999).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "Prions can survive heating to 134°C (273°F) for 18 minutes in a pressurized autoclave — conditions that sterilize everything else.",
+  "verdict": "overstated",
+  "corrected_claim": "Prions are so tough that even heating to 134 °C (273 °F) for 18 minutes in a pressurized steam autoclave is only somewhat effective at deactivating them.",
+  "quote": "Heating at 134 °C (273 °F) for 18 minutes in a pressurized steam autoclave ... has been found to be somewhat effective in deactivating prions",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page says this treatment is somewhat effective, not that prions survive it."
+ },
+ {
+  "claim": "Tiny Mammals Are Sending Warning Signs Scientists Can Finally Read Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The Australian jack jumper ant (Myrmecia pilosula) has only a single pair of chromosomes—the lowest number known for any animal.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The jack jumper ant genome is contained on a single pair of chromosomes ... This is the lowest number known (indeed possible) for any animal.",
+  "source_url": "https://en.wikipedia.org/wiki/Jack_jumper_ant",
+  "note": "Males are haploid with one chromosome."
+ },
+ {
+  "claim": "The oldest evidence of winemaking dates to around 6000 BC in Georgia, in the Caucasus region.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Winemaking dates from circa 6000 BC in Georgia in the Caucasus area.",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": ""
+ },
+ {
+  "claim": "The Yangtze River stretches 6,300 km across China, making it the longest river in Asia and third longest in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q5413",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The main cemetery of Mainz was established in 1803 and became the model for the Cimetière du Père-Lachaise in Paris.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was established in 1803 when Mainz was under French administration. It became the model for the Cimetière du Père-Lachaise in Paris.",
+  "source_url": "https://en.wikipedia.org/wiki/Hauptfriedhof_Mainz",
+  "note": ""
+ },
+ {
+  "claim": "A cheap daily vitamin D supplement may have surprising health benefits specifically for women.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencealert.com/a-cheap-daily-supplement-may-have-surprising-health-benefits-for-women",
+  "note": "The supplement in the article is creatine, not vitamin D."
+ },
+ {
+  "claim": "Pirahã, spoken by about 300 people in the Amazon, may have as few as 10-13 phonemes — one of the simplest sound systems of any language.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Pirahã is estimated to have between 250 and 380 speakers. ... There is a claim that Pirahã has as few as ten phonemes, one fewer than Rotokas",
+  "source_url": "https://en.wikipedia.org/wiki/Pirah%C3%A3_language",
+  "note": "Page: at most thirteen phonemes."
+ },
+ {
+  "claim": "The Giffen Good paradox describes goods where demand increases as price rises — Sir Robert Giffen observed this with bread among poor 19th-century British workers who couldn't afford meat as bread prices rose.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Giffen first proposed the paradox from his observations of the purchasing habits of the Victorian-era poor. ... are forced to curtail their consumption of meat",
+  "source_url": "https://en.wikipedia.org/wiki/Giffen_good",
+  "note": "Checker was lenient: source adds a caveat. Page notes the attribution to Giffen is disputed."
+ },
+ {
+  "claim": "Plant roots can sense gravity using starch-filled amyloplasts that fall in the direction of gravitational pull, allowing roots to grow downward.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "At the root tip, amyloplasts containing starch granules fall in the direction of gravity.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "The South China Sea reaches 5,559 meters deep and contains some of the world's busiest shipping lanes.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q37660",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Ravens can hold grudges for weeks against other ravens who treated them unfairly, but will respond in a friendly way to birds they liked for at least three years.",
+  "verdict": "overstated",
+  "corrected_claim": "Ravens hold grudges, but they also remember birds they like and will respond in a friendly way to them for at least three years after seeing them.",
+  "quote": "But they also hold grudges. ... They also remember birds they like and will respond in a friendly way to certain birds for at least three years after seeing them.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/10-fascinating-facts-about-ravens",
+  "note": "Page gives no duration for grudges ('for weeks' and 'unfairly' not in text)."
+ },
+ {
+  "claim": "Henry Goddard at Scotland Yard pioneered the use of bullet comparison in 1835 by noticing a flaw in a bullet and tracing it back to the mold used in the manufacturing process.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "pioneered the use of bullet comparison in 1835 ... trace this back to the mold that was used in the manufacturing process.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": ""
+ },
+ {
+  "claim": "Earth orbits the Sun at approximately 107,200 km/h (67,000 mph), completing one revolution every 365.25 days.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q2",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The 'World of Warcraft Corrupted Blood incident' (2005) became a case study for epidemiologists — a virtual plague spread uncontrollably due to a bug, mimicking real-world disease patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "World of Warcraft's Corrupted Blood incident, in which a bug let a deadly virtual disease escape a single raid into the wider game world, became the center of academic research on the spread of infectious diseases.",
+  "quote": "the bug became the center of some academic research on the spread of infectious diseases.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Page does not give 2005, 'case study for epidemiologists' or 'mimicking real-world disease patterns'."
+ },
+ {
+  "claim": "The human incubation period for prion diseases can be 5 to 20+ years, but once symptoms appear, death occurs within months.",
+  "verdict": "overstated",
+  "corrected_claim": "Prion diseases can incubate for 5 to 20 years or more, but once symptoms appear the disease progresses rapidly to brain damage and death.",
+  "quote": "is relatively long (5 to 20 years or more) ... once symptoms appear the disease progresses rapidly, leading to brain damage and death",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "No 'months' timeframe on page."
+ },
+ {
+  "claim": "Tumors are packed with macrophages, immune cells that should attack cancer but are usually silenced by the tumor ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "In the Brazilian ant Forelius pusillus, some workers sacrifice themselves each night by sealing the nest entrance from outside—they have no way to return and die protecting the colony.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Brazilian ant Forelius pusillus, one to eight workers seal the nest entrance from the outside at sunset each day — in effect sacrificing themselves, as they have no chance of returning to the nest.",
+  "quote": "One to eight workers seal the nest entrance from the outside ... in effect sacrificing themselves, as they have no chance of returning to the nest.",
+  "source_url": "https://en.wikipedia.org/wiki/Ant",
+  "note": "Page says 'in effect sacrificing' at sunset; does not state they die"
+ },
+ {
+  "claim": "Food fermentation serves five main purposes: creating diverse flavors and textures, preservation through acids and alcohol, enriching food with proteins and vitamins, eliminating antinutrients, and reducing cooking time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Food fermentation serves five main purposes: to enrich the diet through development of a diversity of flavors, aromas, and textures in food substrates; To preserve substantial amounts of food through lactic acid, alcohol, acetic acid, and alkaline fermentations; to enrich food substrates with protein, essential amino acids, and vitamins; to eliminate antinutrients; and to reduce cooking time and the associated use of fuel.",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": ""
+ },
+ {
+  "claim": "The Yellow River (Huang He) is 5,464 km long and carries so much sediment that it gives the water its distinctive yellow color.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q7355",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Bob Hobman recreated a possible sea journey by Palaeolithic humans after 130,000-year-old tools were found on the island of Crete.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After the 2010 discovery of tools dated to over 130,000 years ago on Crete, Hobman was inspired to recreate a sea journey to the island taken by Palaeolithic humans.",
+  "source_url": "https://en.wikipedia.org/wiki/Bob_Hobman",
+  "note": ""
+ },
+ {
+  "claim": "Scientists have identified specific epigenetic switches that can slow the production of fat cells.",
+  "verdict": "overstated",
+  "corrected_claim": "Scientists have identified an epigenetic switch that can slow the production of fat cells by blocking PPARγ's fat-making instructions.",
+  "quote": "PPARγ's fat-making instructions can be blocked by a specific epigenetic switch",
+  "source_url": "https://www.sciencealert.com/scientists-identify-an-epigenetic-switch-that-can-slow-production-of-fat-cells",
+  "note": "Article describes one switch, not multiple."
+ },
+ {
+  "claim": "Pirahã women use fewer consonants than men — they sometimes substitute /h/ for /s/, giving them potentially only 9 phonemes.",
+  "verdict": "overstated",
+  "corrected_claim": "Pirahã women uniformly replace /s/ with /h/, and by one count the language has as few as nine phonemes for women.",
+  "quote": "There is a claim that Pirahã has as few as ten phonemes, one fewer than Rotokas, or even as few as nine for women.",
+  "source_url": "https://en.wikipedia.org/wiki/Pirah%C3%A3_language",
+  "note": "Page says women 'uniformly' replace /s/, not 'sometimes'."
+ },
+ {
+  "claim": "The Chicken Game (or Hawk-Dove game) models nuclear deterrence: both players driving toward each other lose if neither swerves, but the one who swerves first looks weak.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The game of chicken, also known as the hawk-dove game or snowdrift game, ... Bertrand Russell famously compared the game of Chicken to nuclear brinkmanship ... a crash is presumed to be the worst outcome for both players.",
+  "source_url": "https://en.wikipedia.org/wiki/Chicken_(game)",
+  "note": ""
+ },
+ {
+  "claim": "Carnivory has evolved independently at least 12 times in plants across five different orders of flowering plants, representing remarkable convergent evolution.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "True carnivory is believed to have evolved independently at least 12 times in five different orders of flowering plants, and is represented by more than a dozen genera.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The Weddell Sea near Antarctica reaches 6,820 meters deep and produces some of the coldest, densest water in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q173343",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Ravens make toys - a rare animal behavior - using sticks, pinecones, golf balls, or rocks to play with each other or by themselves.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ravens even make toys—a rare animal behavior—by using sticks, pinecones, golf balls, or rocks to play with each other or by themselves.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/10-fascinating-facts-about-ravens",
+  "note": ""
+ },
+ {
+  "claim": "The Jack the Ripper case in 1888 produced the earliest surviving offender profile, created by police surgeon Thomas Bond, who described the killer as a man of 'solitary habits' subject to 'periodical attacks of homicidal and erotic mania.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is the earliest surviving offender profile ... a man of solitary habits ... periodical attacks of homicidal and erotic mania",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": ""
+ },
+ {
+  "claim": "Venus has a surface temperature of 464°C - hotter than Mercury despite being farther from the Sun, due to its runaway greenhouse effect.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q313",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Pac-Man's famous kill screen at level 256 is caused by an integer overflow — the game tries to draw 256 fruits but can only handle 8-bit values, corrupting half the screen.",
+  "verdict": "overstated",
+  "corrected_claim": "Pac-Man's level 256 kill screen comes from a bug: when the fruit counter rolls over, the entire right side of the screen becomes a jumbled mess of symbols.",
+  "quote": "The maximum number of fruit available is seven and when that number rolls over, it causes the entire right side of the screen to become a jumbled mess of symbols.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Page does not mention 8-bit values or drawing 256 fruits."
+ },
+ {
+  "claim": "Prions may play a role in long-term memory — the same protein-folding mechanism that causes disease might help neurons store information.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2005 review suggested the prion protein PrP may have a normal function in maintaining long-term memory, and a prion-like form of the protein CPEB appears essential for maintaining long-term synaptic changes.",
+  "quote": "A review of evidence in 2005 suggested that PrP may have a normal function in the maintenance of long-term memory. ... essential for maintaining long-term synaptic changes.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page links PrP/CPEB to memory but does not say the disease-causing folding mechanism helps neurons store information."
+ },
+ {
+  "claim": "A new study finds their leg bones and tendons were likely strong enough to support hopping, ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Ants are among the few animals besides mammals where interactive teaching has been observed—a knowledgeable forager leads naive nest-mates to food sources through 'tandem running.'",
+  "verdict": "overstated",
+  "corrected_claim": "Ants may be the only group apart from mammals where interactive teaching has been observed: a knowledgeable Temnothorax albipennis forager can lead a naive nest-mate to food by 'tandem running.'",
+  "quote": "ants may be the only group apart from mammals where interactive teaching has been observed. A knowledgeable forager of Temnothorax albipennis can lead a naïve nest-mate to newly discovered food by the process of tandem running.",
+  "source_url": "https://en.wikipedia.org/wiki/Ant",
+  "note": "Page says 'only group' and names a specific species (Temnothorax albipennis)"
+ },
+ {
+  "claim": "Nattō, a Japanese fermented soybean food, is made using Bacillus bacteria rather than the lactic acid bacteria used in most other fermented foods.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists nattō by name; Bacillus not mentioned."
+ },
+ {
+  "claim": "The Mississippi River flows 3,766 km through the heart of North America, draining about 40% of the continental United States.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1497",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Soviet atrocities against prisoners of war during World War II included the murder of tens of thousands of Polish soldiers in the Katyn massacre.",
+  "verdict": "overstated",
+  "corrected_claim": "Soviet atrocities against prisoners of war in WWII included the Katyn massacre, which killed nearly 22,000 Poles, including about 8,000 military officers.",
+  "quote": "nearly 22,000 Polish intelligentsia, including about 8,000 military officers",
+  "source_url": "https://en.wikipedia.org/wiki/Soviet_atrocities_committed_against_prisoners_of_war_during_World_War_II",
+  "note": "Victims were ~22,000 Polish intelligentsia incl. ~8,000 officers, not 'tens of thousands of soldiers'."
+ },
+ {
+  "claim": "Unlike virtually all other birds, the New Caledonian crow has a bill that doesn't curve downward - scientists believe it evolved this way to help grasp tools more easily and see what the tool is doing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Unlike virtually all other birds, the New Caledonian crow has a bill that does not curve downwards. ... scientists now think that their unique beak evolved to help it grasp tools more easily",
+  "source_url": "https://www.mentalfloss.com/animals/birds/12-fascinating-facts-about-crows",
+  "note": ""
+ },
+ {
+  "claim": "Pirahã has no words for specific numbers — only terms meaning roughly 'small amount' and 'larger amount', challenging theories about universal grammar.",
+  "verdict": "overstated",
+  "corrected_claim": "Everett argues Pirahã has no words for numerals at all — hói and hoí mean 'small quantity' and 'larger quantity'.",
+  "quote": "Everett said that Pirahã has no words for numerals at all ... hói and hoí actually mean \"small quantity\" and \"larger quantity\"",
+  "source_url": "https://en.wikipedia.org/wiki/Pirah%C3%A3_language",
+  "note": "The universal-grammar challenge on the page concerns recursion, not numbers."
+ },
+ {
+  "claim": "The South Sea Bubble of 1720 saw shares in the South Sea Company rise 800% in months before collapsing — Isaac Newton lost £20,000 and reportedly said 'I can calculate the motions of stars, but not the madness of men.'",
+  "verdict": "overstated",
+  "corrected_claim": "In the 1720 South Sea Bubble, South Sea Company shares climbed from £128 in January to £1,000 by early August before collapsing back to £100 — Isaac Newton lost at least £10,000 and reportedly said 'I can calculate the movement of the stars, but not the madness of men.'",
+  "quote": "from £128 in January 1720 ... The price finally reached £1,000 in early August 1720 ... dropping back to £100 per share before the year was out. ... lost at least £10,000 ... I can calculate the movement of the stars, but not the madness of men",
+  "source_url": "https://en.wikipedia.org/wiki/South_Sea_Company",
+  "note": "Page says Newton lost at least £10,000, not £20,000; rise ~680%."
+ },
+ {
+  "claim": "There are over 800 species of carnivorous plants, with about 3 new species discovered per year since 2000, and roughly one quarter are threatened with extinction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "at least 800 species of carnivorous plants ... The number of known species has increased by approximately 3 species per year since the year 2000. ... roughly one quarter are threatened with extinction from human actions.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The Sargasso Sea reaches 7,000 meters deep and is the only sea without a coastline, bounded only by ocean currents.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q169274",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Ravens in Alaska and Canada have been observed using snow-covered roofs as slides, and in Maine they've been seen rolling down snowy hills for fun.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Ravens have been observed in Alaska and Canada using snow-covered roofs as slides. In Maine, they have been seen rolling down snowy hills.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/10-fascinating-facts-about-ravens",
+  "note": "Checker was lenient: source adds a caveat. 'For fun' is a mild gloss of play context."
+ },
+ {
+  "claim": "Alphonse Bertillon created the first scientific criminal identification system in the 1880s, using anthropometry (body measurements), which was eventually replaced by fingerprinting but his innovations like the mug shot remain in use today.",
+  "verdict": "overstated",
+  "corrected_claim": "Around 1879, Alphonse Bertillon became the first to apply anthropometry to law enforcement; fingerprinting soon replaced his methods, but innovations like the mug shot remain in use today.",
+  "quote": "was the first to apply the anthropological technique of anthropometry to law enforcement. He created the Bertillon System around 1879. ... his other contributions like the mug shot and the systematization of crime-scene photography remain in place to this day.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": "Page says around 1879 and first use of anthropometry, not 'first scientific identification system in the 1880s'."
+ },
+ {
+  "claim": "Mercury's surface temperature swings from 700°C during the day to -180°C at night - the most extreme temperature variation in the solar system.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q308",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Eve Online's Trinity patch in 2007 accidentally deleted the Windows boot.ini file from users' computers — the game had a file with the same name, and the deletion targeted the wrong directory.",
+  "verdict": "overstated",
+  "corrected_claim": "Eve Online's Trinity patch erased the boot.ini file from several thousand players' computers, because a legacy in-game system was also named boot.ini and the deletion targeted the wrong directory.",
+  "quote": "deployment of the Trinity patch erased the boot.ini file from several thousand users' computers rendering them unable to boot. This was due to the usage of a legacy system within the game that was also named boot.ini. As such, the deletion had targeted the wrong directory instead of the /eve directory.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Year 2007 not stated on the page."
+ },
+ {
+  "claim": "Fungal prions exist in yeast and are often beneficial — they help organisms adapt to new environments without changing their DNA.",
+  "verdict": "overstated",
+  "corrected_claim": "Some yeast prions have evolved functions that benefit the fungus, and prions can pass traits to offspring without any change to the genome.",
+  "quote": "have evolved specific functions that are beneficial to the microorganism ... vectors of epigenetic inheritance, transferring traits to offspring without any genomic change.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page says some fungal prions are beneficial; 'often' and 'adapt to new environments' not stated."
+ },
+ {
+  "claim": "The protein senses physical activity and pushes bone marrow stem cells to build bone instead of storing fat, slowing age-related bone loss.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The Argentine ant has formed a 'supercolony' spanning 6,000 km along the Mediterranean coast—workers from distant colonies recognize each other as nestmates.",
+  "verdict": "overstated",
+  "corrected_claim": "Introduced Argentine ant supercolonies can extend across hundreds or thousands of kilometers, and individuals from one nest can mingle in a neighboring nest without being attacked.",
+  "quote": "across hundreds or thousands of kilometers in different parts of the introduced range ... individuals from one nest can mingle in a neighboring nest without being attacked.",
+  "source_url": "https://en.wikipedia.org/wiki/Argentine_ant",
+  "note": "Page does not mention the 6,000 km Mediterranean supercolony"
+ },
+ {
+  "claim": "Surströmming, Swedish fermented herring, is so pungent that it's usually opened outdoors, and some airlines have banned it due to the risk of pressurized cans exploding.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists surströmming by name; outdoors/airline/can details not mentioned."
+ },
+ {
+  "claim": "The Volga River at 3,530 km is Europe's longest river and drains into the Caspian Sea.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q626",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The suppression of the Diaspora Revolt of 115–117 CE led to the near-total annihilation and displacement of Jewish communities in Cyrenaica, Cyprus, and much of Egypt.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "near-total expulsion and annihilation of Jews from Cyrenaica, Cyprus, and many parts of Egypt",
+  "source_url": "https://en.wikipedia.org/wiki/Diaspora_Revolt",
+  "note": ""
+ },
+ {
+  "claim": "Goats' horizontal rectangular pupils give them a sharp panoramic view that lets them see nearly all around themselves - this helps them detect predators from various directions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "these animals must see panoramically to detect predators that could approach from various directions, ... their shape creates a sharp panoramic view that’s wider and shorter than what you’d get with a round or vertical pupil",
+  "source_url": "https://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes",
+  "note": ""
+ },
+ {
+  "claim": "Pirahã requires speakers to mark every statement with evidentiality suffixes — you must indicate whether you saw something yourself, heard about it, or deduced it.",
+  "verdict": "overstated",
+  "corrected_claim": "Pirahã speakers must state their source of information, with verb suffixes marking whether an event was observed, deduced or heard as hearsay.",
+  "quote": "in Pirahã speakers must state their source of information: they cannot be ambiguous ... Other verbal suffixes indicate that an action is deduced from circumstantial evidence, or based on hearsay.",
+  "source_url": "https://en.wikipedia.org/wiki/Pirah%C3%A3_language",
+  "note": "'Every statement' not stated."
+ },
+ {
+  "claim": "The Allais Paradox, discovered in 1953, shows people make inconsistent choices when expected utility theory predicts they should be indifferent — demonstrating that humans don't maximize expected value.",
+  "verdict": "overstated",
+  "corrected_claim": "The Allais paradox, first presented by Maurice Allais in 1952 and published in 1953, shows that people's choices between gambles can be inconsistent with expected utility theory.",
+  "quote": "The Allais Paradox was first introduced in 1952, where Maurice Allais presented various choice sets to an audience of economists ... in 1953 Allais published his finding of the Allais paradox in Econometrica",
+  "source_url": "https://en.wikipedia.org/wiki/Allais_paradox",
+  "note": "First introduced 1952 (published 1953); page does not frame it as indifference or 'humans don't maximize expected value'"
+ },
+ {
+  "claim": "The Venus flytrap can close its trap in less than a second, using a mechanism where cells rapidly change shape from convex to concave when triggered.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This whole process takes less than a second. ... rapidly from convex to concave",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The Horizon Deep in the Tonga Trench reaches 10,817 meters - the second deepest point in the ocean after Challenger Deep.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1628178",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Ravens show empathy - when a raven's friend loses a fight, they console the losing bird.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When a raven's friend loses in a fight, they will seem to console the losing bird.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/10-fascinating-facts-about-ravens",
+  "note": ""
+ },
+ {
+  "claim": "The Uhlenhuth test, invented in 1901, could distinguish human blood from animal blood using antigen-antibody reactions, representing a major breakthrough in forensic science.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was invented by Paul Uhlenhuth in 1901. ... The test represented a major breakthrough and came to have tremendous importance in forensic science.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_science",
+  "note": ""
+ },
+ {
+  "claim": "Melnick 42 is a hypergiant star approximately 189 times the mass of our Sun, located in the Large Magellanic Cloud.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q3854274",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Steam for Linux had a bug where moving the installation directory could cause 'rm -rf \"$STEAMROOT/\"*' to delete the entire root filesystem when STEAMROOT became an empty string.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Steam client for Linux could accidentally delete all the user's files in every directory on the computer. This happened to users that had moved Steam's installation directory.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Page also gives the rm -rf \"$STEAMROOT/\"* line running on an empty path."
+ },
+ {
+  "claim": "Prions can persist in soil for years by binding to clay minerals, creating environmental reservoirs of disease.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Overwhelming evidence shows that prions resist degradation and persist in the environment for years ... may then linger in the soil by binding to clay and other minerals.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Scientists have developed a powerful new method that reveals the hidden rules guiding how cancer cells gain and lose whole chromosomes—massive genetic shifts ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The bullet ant's sting is rated as the most painful insect sting on the Schmidt Sting Pain Index, described as 'pure, intense, brilliant pain' lasting up to 24 hours.",
+  "verdict": "overstated",
+  "corrected_claim": "The bullet ant's sting ranks highest of all insect stings on Justin O. Schmidt's sting pain index, at 4.0+, and the pain can continue unabated for up to 24 hours.",
+  "quote": "The bullet ant's sting currently ranks the highest of all insect stings on Justin O. Schmidt's informal sting pain index, at 4.0+. ... continues unabated for up to 24 hours.",
+  "source_url": "https://en.wikipedia.org/wiki/Bullet_ant",
+  "note": "The 'pure, intense, brilliant pain' description is not on the page"
+ },
+ {
+  "claim": "Alaska has more cases of botulism than any other US state, primarily due to traditional fermented food preparation methods that don't properly sterilize ingredients.",
+  "verdict": "overstated",
+  "corrected_claim": "Alaska has more cases of botulism than any other US state, caused by the traditional Alaska Native practice of letting animal products such as whole fish, seal oil and birds ferment for an extended period before eating.",
+  "quote": "It has more cases of botulism than any other state in the United States of America. This is caused by the traditional Alaska Native practice of allowing animal products such as whole fish, fish heads, walrus, sea lion, and whale flippers, beaver tails, seal oil, and birds, to ferment for an extended period of time before being consumed.",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page blames long fermentation of animal products, not failure to sterilize."
+ },
+ {
+  "claim": "The Mekong River stretches 4,350 km through six countries in Southeast Asia, feeding 60 million people.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q41179",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "An enigmatic ancient site deep in Madagascar (Teniky) may have been built by Zoroastrians.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The deep inland location of the site makes its builders particularly enigmatic ... located in the Isalo Massif, a mountainous formation in Madagascar's southwestern Ihorombe region ... The team hypothesizes that the builders of Teniky were settlers of Zoroastrian origin",
+  "source_url": "https://en.wikipedia.org/wiki/Teniky",
+  "note": ""
+ },
+ {
+  "claim": "Pupil shape reveals an animal's role in the food chain - predators that ambush prey tend to have vertical slit pupils, while herbivores that are prey usually have horizontal pupils.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the shape of an animal’s pupils is a clue to its place in the food chain. Predatory animals that ambush their prey tend to have vertical slit pupils ... herbivores that are prey for other animals usually have horizontal pupils.",
+  "source_url": "https://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes",
+  "note": ""
+ },
+ {
+  "claim": "Mandarin Chinese uses tone to distinguish meaning: 'mā' (mother), 'má' (hemp), 'mǎ' (horse), and 'mà' (scold) are four completely different words.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "mā (媽/妈) 'mother' ... má (麻/麻) 'hemp' ... mǎ (馬/马) 'horse' ... mà (罵/骂) 'scold'",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": ""
+ },
+ {
+  "claim": "The Centipede Game paradox shows that backward induction predicts players will defect on the first move, even though continuing cooperation would benefit everyone — but real humans often cooperate.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Defection by the first player is the unique subgame perfect equilibrium ... If it could be enforced, both players would prefer that they both cooperate throughout the entire game. ... Instead, subjects regularly show partial cooperation",
+  "source_url": "https://en.wikipedia.org/wiki/Centipede_game",
+  "note": ""
+ },
+ {
+  "claim": "The Venus flytrap has a simple memory: its trap requires two separate touches between 0.5 to 30 seconds apart to close, preventing false triggers from rain or debris.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "two stimuli are required, 0.5 to 30 seconds apart",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The Greenland Sea reaches 5,600 meters deep and plays a crucial role in global ocean circulation.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q132868",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Ravens have pushed rocks on people to keep them from climbing to their nests, played dead beside beaver carcasses to scare other ravens away, and stolen packaged meats from Costco customers' shopping carts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the wild, ravens have pushed rocks on people to keep them from climbing to their nests, played dead beside a beaver carcass to scare other ravens away from the feast, and stolen Costco customers' packaged meats right out of their carts.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/10-fascinating-facts-about-ravens",
+  "note": ""
+ },
+ {
+  "claim": "Blowflies can detect the smell of death from up to 16 kilometers (10 miles) away and are often the first insects to arrive at a corpse, making them crucial for determining time of death.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "they have the ability to smell death from up to ten miles (16 km) away",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "LBV 1806-20 is a luminous blue variable star approximately 165 solar masses - one of the most massive stars known.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q753574",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The 2003 Northeast blackout affecting 55 million people was triggered by a race condition in General Electric's XA/21 monitoring software that allowed a local outage to cascade.",
+  "verdict": "overstated",
+  "corrected_claim": "The 2003 Northeast blackout was triggered by a local outage that went undetected because of a race condition in General Electric Energy's XA/21 monitoring software.",
+  "quote": "was triggered by a local outage that went undetected due to a race condition in General Electric Energy's XA/21 monitoring software.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "55 million affected is not on the page."
+ },
+ {
+  "claim": "Plants can uptake prions from contaminated soil and transmit them to animals that eat them — completing an environmental disease cycle.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "prions can be taken up by plants that are eaten by herbivores, thus completing the cycle.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Scientists Turn Tumor Immune Cells Into Cancer Killers Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Camponotus floridanus ants perform a form of surgery—amputating the injured legs of nestmates to prevent infection, the first non-human animal known to do this.",
+  "verdict": "overstated",
+  "corrected_claim": "Camponotus floridanus workers amputate the injured legs of nestmates when the femur is hurt — a femur injury carries a greater risk of infection than a tibia injury.",
+  "quote": "C. floridanus workers have been found to amputate the affected legs of nestmates when the femur is injured. A femur injury carries a greater risk of infection unlike a tibia injury.",
+  "source_url": "https://en.wikipedia.org/wiki/Ant",
+  "note": "Page does not say they are the first non-human animal to do this"
+ },
+ {
+  "claim": "Kiviak, a traditional Inuit food, is made by stuffing up to 500 small seabirds into a seal skin and fermenting them for several months.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists kiviak by name with no details."
+ },
+ {
+  "claim": "The Congo River is 4,700 km long and is the deepest river in the world, reaching depths of 220 meters.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q3503",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "L'Attaque, the board game that became Stratego, was patented in 1908 by its designer, a 57-year-old woman (Hermance Edan).",
+  "verdict": "overstated",
+  "corrected_claim": "L'Attaque, the near-identical forerunner of Stratego, was designed by Frenchwoman Hermance Edan, who filed a patent for it on November 26, 1908.",
+  "quote": "on November 26 1908 Frenchwoman Hermance Edan filed a patent ... Stratego is a nearly identical game to L'Attaque, aside from the use of additional pieces.",
+  "source_url": "https://en.wikipedia.org/wiki/L%27Attaque",
+  "note": "Her age (57) not on page."
+ },
+ {
+  "claim": "Vertical slit pupils help small ambush predators like cats and snakes judge distance for pouncing, while bigger cats and wolves have round pupils because they need to chase down prey.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "vertical, slit-shaped pupils help small ambush predators like cats and snakes judge the distance of prey ... Bigger cats and wolves, on the other hand, have round pupils",
+  "source_url": "https://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes",
+  "note": ""
+ },
+ {
+  "claim": "About 70% of the world's languages are tonal — including most languages in Africa, East Asia, and the Americas.",
+  "verdict": "overstated",
+  "corrected_claim": "Tonal languages are common in East and Southeast Asia, Africa, the Pacific, and among indigenous peoples of the Americas.",
+  "quote": "Tonal languages are common in East and Southeast Asia, Africa, the Pacific, and among indigenous people of the Americas.",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": "The 70% figure is not on the page."
+ },
+ {
+  "claim": "The Dutch Disease describes how a natural resource boom can harm other sectors — named after the Netherlands' experience when North Sea gas discovery in the 1960s caused manufacturing decline.",
+  "verdict": "overstated",
+  "corrected_claim": "The term Dutch disease was coined by The Economist in 1977 to describe the decline of the Netherlands' manufacturing sector after the discovery of the large Groningen gas field in 1959.",
+  "quote": "The term was coined in 1977 by The Economist to describe the decline of the manufacturing sector in the Netherlands after the discovery of the large Groningen gas field in 1959.",
+  "source_url": "https://en.wikipedia.org/wiki/Dutch_disease",
+  "note": "It was the onshore Groningen gas field found in 1959, not North Sea gas in the 1960s."
+ },
+ {
+  "claim": "Bladderworts (Utricularia) create a partial vacuum inside bladder traps, then suck in prey in milliseconds when trigger hairs are touched—the fastest known plant movement.",
+  "verdict": "overstated",
+  "corrected_claim": "Bladderworts (Utricularia) pump ions out of their bladders so water follows by osmosis, creating a partial vacuum inside the trap that sucks in prey when triggered.",
+  "quote": "generating a partial vacuum inside the bladder",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Page gives no speed (milliseconds) and does not call it the fastest plant movement"
+ },
+ {
+  "claim": "The Banda Sea plunges to 6,400 meters and contains some of the richest marine biodiversity in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q171510",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Elephants are not actually scared of mice - they have poor vision and can get startled when anything suddenly scurries by, but mice themselves don't frighten them.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Mice themselves don't frighten elephants, but the pachyderms have poor vision and can get extremely startled when anything suddenly scurries by.",
+  "source_url": "https://www.mentalfloss.com/animals/12-interesting-facts-about-elephants",
+  "note": ""
+ },
+ {
+  "claim": "Forensic entomologists can estimate time of death by analyzing insect life cycles, as blowfly eggs hatch to the first larval stage within 8 hours to one day.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Hatching from an egg to the first larval stage takes from eight hours to one day.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Earth maintains an average temperature of 15°C, making it the only planet known to support liquid water on its surface.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q2",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The Year 2038 problem will occur when Unix 32-bit signed integer timestamps overflow — 2,147,483,647 seconds after January 1, 1970, systems will think it's December 13, 1901.",
+  "verdict": "overstated",
+  "corrected_claim": "The Year 2038 problem arises because many Unix-like systems count seconds since 1 January 1970 in a 32-bit signed integer, whose maximum value is 2,147,483,647 seconds.",
+  "quote": "as many Unix-like systems calculate the time in seconds since 1 January 1970, and store this number as a 32-bit signed integer, for which the maximum possible value is 231 − 1 (2,147,483,647) seconds.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Wrap-around to December 13, 1901 not stated on the page."
+ },
+ {
+  "claim": "Mad cow disease (BSE) jumped to humans as variant Creutzfeldt-Jakob disease (vCJD) — one of the few documented prion cross-species transmissions.",
+  "verdict": "overstated",
+  "corrected_claim": "Variant Creutzfeldt-Jakob disease in humans is thought to be caused by the prion that causes mad cow disease, transmitted through infected meat — a rare case of a prion crossing species.",
+  "quote": "is thought to be caused by a prion that typically infects cattle ... transmitted through infected meat. ... it is unusual for a prion disease to transmit from one species to another",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page hedges ('thought to be') rather than stating BSE definitively jumped to humans."
+ },
+ {
+  "claim": "Researchers found that grandparents who provided childcare scored higher on memory and verbal skills than ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Honey bees communicate the location and distance of food sources through the 'waggle dance'—a figure-eight pattern that encodes direction relative to the sun and distance from the hive.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A worker bee's waggle dance involves running through a small figure-eight pattern ... any angle to the right or left of the sun is coded by a corresponding angle to the right or left of the upward direction. ... The distance between hive and recruitment target is encoded in the duration of the waggle runs.",
+  "source_url": "https://en.wikipedia.org/wiki/Waggle_dance",
+  "note": ""
+ },
+ {
+  "claim": "Humans have five basic tastes: sweet, sour, salty, bitter, and umami (savory). Each has its own type of receptor.",
+  "verdict": "overstated",
+  "corrected_claim": "Taste receptors in the mouth sense five basic tastes — saltiness, sweetness, bitterness, sourness and savoriness (umami) — and each type of receptor transduces its signal in a different way.",
+  "quote": "Taste receptors in the mouth sense the five basic tastes ... Each type of receptor has a different manner of sensory transduction.",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Page doesn't say each taste has its own receptor type; it notes it is debated whether each cell is tuned to one tastant."
+ },
+ {
+  "claim": "The Brahmaputra River flows 2,900 km and drops 4,500 meters from its source in Tibet to the Bay of Bengal.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q45403",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The first silver dollars of the Republic of China were crudely designed mementos.",
+  "verdict": "overstated",
+  "corrected_claim": "The Republic of China honored Sun Yat-sen with its first silver dollars; intended as keepsakes, they show a crudely rendered portrait, likely due to hasty engraving of the dies.",
+  "quote": "was honored by the Republican government with its first silver dollars. ... Sun Yat-sen's portrait is rendered crudely, likely due to the inexperienced and rapid engraving of the steel dies ... Intended as keepsakes, neither the Sun Yat-sen or Li Yuanhong dollar pieces saw active circulation",
+  "source_url": "https://en.wikipedia.org/wiki/Memento_dollar",
+  "note": "Page says the portrait was rendered crudely, not that the coin design overall was crude."
+ },
+ {
+  "claim": "Vitamin E was named 'tocopherol' as it was identified as essential for live births in rats.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Because the vitamin activity was first identified as essential for fertilized eggs to result in live births (in rats), it was given the name \"tocopherol\" from Greek words meaning birth and to bear or carry.",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin_E",
+  "note": ""
+ },
+ {
+  "claim": "The Chori language of Nigeria distinguishes six different tone levels — the most ever documented in any language.",
+  "verdict": "overstated",
+  "corrected_claim": "Most tonal languages distinguish at most five pitch levels, but the Chori language of Nigeria is described as distinguishing six surface tone registers.",
+  "quote": "Languages may distinguish up to five levels of pitch ... the Chori language of Nigeria is described as distinguishing six surface tone registers.",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": "Page doesn't call it the most ever documented."
+ },
+ {
+  "claim": "Prospect Theory, developed by Kahneman and Tversky in 1979, shows people evaluate outcomes relative to a reference point — a salary cut from $80k to $70k feels worse than never having $80k.",
+  "verdict": "overstated",
+  "corrected_claim": "Prospect theory, developed by Daniel Kahneman and Amos Tversky in 1979, holds that people evaluate gains and losses relative to a neutral reference point rather than in absolute terms.",
+  "quote": "that was developed by Daniel Kahneman and Amos Tversky in 1979. ... people evaluate the utility of gains and losses relative to a certain \"neutral\" reference point.",
+  "source_url": "https://en.wikipedia.org/wiki/Prospect_theory",
+  "note": "Salary example ($80k to $70k) is not in the source."
+ },
+ {
+  "claim": "Nepenthes rajah pitcher plants can grow pitchers large enough to occasionally trap small mammals and reptiles, not just insects.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the larger ones, such as Nepenthes rajah, also occasionally take small mammals and reptiles",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The Celebes Sea reaches 6,200 meters deep and is nearly completely enclosed by the Philippine and Indonesian archipelagos.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q19270",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Wild penguins show no particular fear of human tourists because they aren't used to danger from animals on solid ground.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Because they aren't used to danger from animals on solid ground, wild penguins exhibit no particular fear of human tourists.",
+  "source_url": "https://www.mentalfloss.com/animals/birds/20-fun-facts-about-penguins-world-penguin-day",
+  "note": ""
+ },
+ {
+  "claim": "Jean Pierre Mégnin published 'La Faune des Cadavres' in 1894, identifying eight distinct waves of insect succession on corpses—a foundational work for forensic entomology.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "The Fauna of Cadavers (1894) ... there are eight distinct faunal successions attracted to a corpse",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Checker was lenient: source adds a caveat. Eight waves apply to exposed corpses (two for buried)."
+ },
+ {
+  "claim": "Mars experiences temperatures ranging from 35°C to -143°C, with an average of -63°C.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q111",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "MD5 was declared 'cryptographically broken and unsuitable for further use' in 2008 — yet as of 2019, one quarter of content management systems still used MD5 for password hashing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On 31 December 2008, the CMU Software Engineering Institute concluded that MD5 was essentially \"cryptographically broken and unsuitable for further use\". ... As of 2019, one quarter of widely used content management systems were reported to still use MD5 for password hashing.",
+  "source_url": "https://en.wikipedia.org/wiki/MD5",
+  "note": ""
+ },
+ {
+  "claim": "Deinococcus radiodurans can survive 6,000 Gy of ionizing radiation — 1,500 times the dose that would kill a human.",
+  "verdict": "overstated",
+  "corrected_claim": "Deinococcus radiodurans can tolerate ionizing radiation doses of 1,500 to 6,000 Gy.",
+  "quote": "1,500 to 6,000 Gy",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page gives a 1,500-6,000 Gy range and no comparison to a lethal human dose."
+ },
+ {
+  "claim": "Researchers found that the cancer-driving protein MYC also suppresses immune alarm signals, allowing tumors to grow ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Bees can see ultraviolet light and detect the polarization patterns in skylight, allowing them to navigate even on cloudy days.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "All bees are able to detect desirable flowers by recognizing ultraviolet patterning on flowers, and by floral odors. ... He showed that honey bees use the sun as their main compass but can still locate its position on cloudy days by reading the polarization pattern of skylight.",
+  "source_url": "https://en.wikipedia.org/wiki/Bee",
+  "note": ""
+ },
+ {
+  "claim": "The tongue has between 2,000 and 5,000 taste buds, each containing 50 to 100 taste receptor cells.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There are between 2000 and 5000 taste buds that are located on the back and front of the tongue. ... Each taste bud contains 50 to 100 taste receptor cells.",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": ""
+ },
+ {
+  "claim": "The Indus River is 3,180 km long and gave India its name - 'Indus' comes from Sanskrit 'Sindhu' meaning river.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q7348",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The Haitian Revolution began when Cécile Fatiman sacrificed a black pig, a ritual later repeated by Haitians resisting foreign occupation.",
+  "verdict": "overstated",
+  "corrected_claim": "At Bois Caïman, at the start of the Haitian Revolution, Cécile Fatiman sacrificed a black pig — a Petwo Vodou rite that, according to scholar Garvey F. Lundy, was later used by Haitians resisting the US occupation and the Duvalier dynasty.",
+  "quote": "Fatiman then sacrificed a black pig, in an invocation of the lwa. ... Garvey F. Lundy understood this to be a Petwo rite of Vodou, which was later used by Haitians that resisted the United States occupation and the Duvalier dynasty.",
+  "source_url": "https://en.wikipedia.org/wiki/C%C3%A9cile_Fatiman",
+  "note": "Later use is one scholar's interpretation and includes the Duvalier dynasty, not only foreign occupation; page does not say the revolution began with the sacrifice"
+ },
+ {
+  "claim": "Sammy Basso was the oldest known person with progeria.",
+  "verdict": "overstated",
+  "corrected_claim": "Sammy Basso was one of the oldest known survivors of progeria, dying in October 2024 at the age of 28.",
+  "quote": "one of the oldest known survivors of the disease ... He collapsed and died due to suspected cardiovascular complications on 5 October 2024 at the age of 28.",
+  "source_url": "https://en.wikipedia.org/wiki/Sammy_Basso",
+  "note": "Page says 'one of the oldest known survivors', not the oldest."
+ },
+ {
+  "claim": "Vietnamese has six tones, and a tongue twister 'Bấy nay bây bầy bảy bẫy bậy' uses all of them on nearly identical syllables.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Below is a table of the six Vietnamese tones and their corresponding tone accent or diacritics. ... Bấy nay bây bầy bảy bẫy bậy.",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": ""
+ },
+ {
+  "claim": "The Stag Hunt game models the tension between safety and social cooperation — hunting alone guarantees a rabbit, but only mutual cooperation catches the valuable stag.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This sets up a stylized conflict between safety and social cooperation ... One hunter can catch a hare alone with less effort and less time, but it is worth far less than a stag ... the only way to successfully hunt a stag is with the other's help.",
+  "source_url": "https://en.wikipedia.org/wiki/Stag_hunt",
+  "note": ""
+ },
+ {
+  "claim": "Nepenthes lowii pitcher plants supplement their diet with tree shrew droppings—the shrews use the pitcher as a toilet while feeding on nectar.",
+  "verdict": "overstated",
+  "corrected_claim": "Tree shrews and rats defecate into the pitchers of Nepenthes rajah, and the tree shrew has a similar relationship with at least two other giant Nepenthes species.",
+  "quote": "a similar relationship with at least two other giant species of Nepenthes",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Page does not mention Nepenthes lowii; describes N. rajah"
+ },
+ {
+  "claim": "Following 150 minutes of moderate-to-vigorous exercise per week for 12 months can make your brain look biologically 0.6 years younger on MRI scans - the control group showed brains 0.35 years older than chronological age.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "150 minutes per week of moderate-to-vigorous aerobic activity ... had brains that showed signs of being 0.6 years younger on average than their chronological age ... had brains that looked roughly 0.35 years older than their calendar age",
+  "source_url": "https://www.sciencealert.com/exercise-can-actually-make-your-brain-look-younger-mri-scans-reveal",
+  "note": ""
+ },
+ {
+  "claim": "Cheese skipper flies (Piophilidae) do not colonize a corpse until 3-6 months after death, making them valuable indicators for estimating longer postmortem intervals.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "they do not take up residence in a corpse until three to six months after death.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "UY Scuti is one of the largest known stars, with a radius approximately 1,700 times that of our Sun.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q14914807",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "An MD5 collision can now be found in less than one second on a regular computer — down from the 2004 attack that required one hour on an IBM p690 cluster.",
+  "verdict": "overstated",
+  "corrected_claim": "An MD5 collision can now be found within seconds on a computer with a 2.6 GHz Pentium 4, while the 2004 analytical attack was reported to take one hour on an IBM p690 cluster.",
+  "quote": "A collision attack exists that can find collisions within seconds on a computer with a 2.6 GHz Pentium 4 processor (complexity of 224.1). ... Their analytical attack was reported to take only one hour on an IBM p690 cluster.",
+  "source_url": "https://en.wikipedia.org/wiki/MD5",
+  "note": "Page says 'within seconds', not under one second on a regular computer."
+ },
+ {
+  "claim": "Bacteria from Earth survived three years in outer space on the International Space Station, supporting the theory of panspermia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "bacteria from Earth, particularly Deinococcus radiodurans, were found to survive for three years in outer space, based on studies on the International Space Station. These findings support the notion of panspermia.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": ""
+ },
+ {
+  "claim": "Or view our many newsfeeds in your RSS reader: Email Newsletter RSS Feeds Follow Us Keep up to date with the latest news from ScienceDaily via social networks: Facebook X / Twitter Have Feedback?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Bumblebees can detect flowers' electromagnetic fields, using this information to determine which flowers have recently been visited by other bees.",
+  "verdict": "overstated",
+  "corrected_claim": "Bumblebees can detect both the presence and the pattern of electric fields on flowers, and use this to tell whether a flower has recently been visited by another bee.",
+  "quote": "They can also detect both the presence and the pattern of electric fields on flowers ... They use this information to find out if a flower has been recently visited by another bee.",
+  "source_url": "https://en.wikipedia.org/wiki/Bumblebee",
+  "note": "Page says electric fields, not electromagnetic fields"
+ },
+ {
+  "claim": "Taste perception begins to fade during aging as tongue papillae are lost and saliva production decreases.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "taste perception begins to fade during ageing, tongue papillae are lost ... saliva production slowly decreases",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": ""
+ },
+ {
+  "claim": "Mount Olympus in Greece rises 2,918 meters and was believed by ancient Greeks to be the home of the gods.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q80344",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "While the objects on the Farnese Artemis had initially been identified as female breasts, the museum housing the statue now describes them as bull scrotums.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The 1883 handbook identified the objects under the small acorns as symbolic female breasts (polymastia). ... The museum, however, now states that these are, in fact bull scrotums, sacrificed to the goddess.",
+  "source_url": "https://en.wikipedia.org/wiki/Farnese_Artemis",
+  "note": ""
+ },
+ {
+  "claim": "Neurocysticercosis has been referred to as 'the great imitator' because it can mimic many other neurological disorders.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ranging from asymptomatic to deadly, neurocysticercosis has been referred to as the \"great imitator\" ... as it can mimic many other neurological disorders.",
+  "source_url": "https://en.wikipedia.org/wiki/Neurocysticercosis",
+  "note": ""
+ },
+ {
+  "claim": "Silbo Gomero, a whistled language in the Canary Islands, can transmit Spanish messages up to 5-10 kilometers across mountain valleys.",
+  "verdict": "overstated",
+  "corrected_claim": "Whistled speech on La Gomera in the Canary Islands, home of the Spanish-based whistled language Silbo, has been verified to carry up to 10 km.",
+  "quote": "More specifically, whistle speech can reach a loudness of 130 dB, and the transmission range can reach up to 10 km (as verified in La Gomera, Canary Island).",
+  "source_url": "https://en.wikipedia.org/wiki/Whistled_language",
+  "note": "Page gives up to 10 km verified in La Gomera; the 5 km figure is a general mountain figure, not Silbo-specific; 'across mountain valleys' not stated."
+ },
+ {
+  "claim": "The Monday Effect anomaly showed that stock returns were historically negative on Mondays and positive on Fridays — though this pattern has largely disappeared since its discovery.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Weekend_effect",
+  "note": "Source page is about the healthcare 'weekend effect' (hospital mortality), not stock returns."
+ },
+ {
+  "claim": "Sarracenia flava pitcher plants lace their nectar with coniine, a toxic alkaloid also found in hemlock, to intoxicate prey and increase trapping efficiency.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In at least one species, Sarracenia flava, the nectar bribe is laced with coniine, a toxic alkaloid also found in hemlock, which probably increases the efficiency of the traps by intoxicating prey.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Dolphins may remember other dolphins' signature whistles after decades apart - they use these personal whistles to call out to one another.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Dolphins use their signature whistles to call out to one another ... may be able to remember other dolphins' whistles after decades apart.",
+  "source_url": "https://www.mentalfloss.com/animals/facts-about-dolphins",
+  "note": ""
+ },
+ {
+  "claim": "Coffin flies (Phoridae) can burrow to a depth of 50 cm over 4 days, making them important for investigating buried bodies.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some species can burrow to a depth of 50 cm over 4 days.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Earendel is the most distant individual star ever detected, located approximately 12.9 billion light-years from Earth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q111434212",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The Flame malware (2012) exploited MD5 weaknesses to forge a Microsoft digital signature, making malware appear to be legitimate Windows updates.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2012 the Flame malware exploited weaknesses in MD5 to fake a Microsoft digital signature.",
+  "quote": "In 2012, the Flame malware exploited the weaknesses in MD5 to fake a Microsoft digital signature.",
+  "source_url": "https://en.wikipedia.org/wiki/MD5",
+  "note": "Disguising itself as legitimate Windows updates is not stated on the page."
+ },
+ {
+  "claim": "Viable bacterial spores 40 million years old have been found on Earth — they're hardened against radiation and time itself.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There are viable bacterial spores that have been found that are 40 million years old on Earth ... we know they're very hardened to radiation.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": ""
+ },
+ {
+  "claim": "Researchers found that Toxoplasma gondii cysts contain multiple parasite subtypes, not just one sleeping form.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The world's largest bee, Wallace's giant bee (Megachile pluto), can reach 39 mm in length—about the size of a human thumb.",
+  "verdict": "overstated",
+  "corrected_claim": "The world's largest known living bee, Wallace's giant bee (Megachile pluto), has females reaching 38 mm long with a 63.5 mm wingspan, about as long as an adult's thumb.",
+  "quote": "females may reach a length of 38 mm (1.5 in), with a wingspan of 63.5 mm (2.5 in), ... it is the largest known living bee species. ... as long as an adult's thumb",
+  "source_url": "https://en.wikipedia.org/wiki/Megachile_pluto",
+  "note": "Page gives 38 mm for females, not 39 mm."
+ },
+ {
+  "claim": "Cats cannot taste sweetness, and several other carnivores including hyenas, dolphins, and sea lions have lost the ability to sense up to four of the five basic tastes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "cats cannot taste sweetness ... have lost the ability to sense up to four of their ancestral five basic tastes",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Page names hyenas, dolphins and sea lions among such carnivores."
+ },
+ {
+  "claim": "The Lena River in Siberia is 4,294 km long and remains frozen for 7-8 months of the year.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q46841",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "An ancient Canadian archaeological site (GhGk-63) was discovered during the construction of a dump.",
+  "verdict": "overstated",
+  "corrected_claim": "The ancient Canadian archaeological site GhGk-63 was discovered in 1986, before the construction of a landfill.",
+  "quote": "It was discovered in 1986, prior to the construction of a landfill.",
+  "source_url": "https://en.wikipedia.org/wiki/GhGk-63",
+  "note": "Found before construction (on a proposed access road), not during."
+ },
+ {
+  "claim": "Many people who recover from tuberculosis lose more than half of their lung capacity.",
+  "verdict": "overstated",
+  "corrected_claim": "Around 10 percent of people who recover from tuberculosis have lost more than half of their lung function.",
+  "quote": "Around 10 percent have lost more than half of their lung function.",
+  "source_url": "https://en.wikipedia.org/wiki/Post-tuberculosis_lung_disease",
+  "note": "'Many' overstates ~10%."
+ },
+ {
+  "claim": "Over 80 languages have documented whistled forms, typically developing in mountainous or forested terrain where normal speech doesn't carry.",
+  "verdict": "overstated",
+  "corrected_claim": "Speakers of more than 80 languages have been found to practice some degree of whistled speech, mostly in rugged, mountainous terrain or dense forests.",
+  "quote": "Speakers of more than 80 languages have been found to practice various degrees of whistled speech ... most of them in rugged topography or dense forests.",
+  "source_url": "https://en.wikipedia.org/wiki/Whistled_language",
+  "note": "Causal claim 'where normal speech doesn't carry' not stated in quoted passage."
+ },
+ {
+  "claim": "Anchoring bias in economics shows that arbitrary numbers influence decisions — in experiments, showing a higher random number before asking people to bid on items significantly increases their bids.",
+  "verdict": "overstated",
+  "corrected_claim": "In a Dan Ariely study, people who wrote down higher last-two-digits of their Social Security number before bidding on items submitted bids 60% to 120% higher than those with lower numbers.",
+  "quote": "in a study by Dan Ariely, an audience is first asked to write the last two digits of their social security number ... the audience members with higher two-digit numbers would submit bids that were between 60 percent and 120 percent higher than those with the lower social security numbers",
+  "source_url": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)",
+  "note": "Anchor was SSN digits, not a random number; page notes studies with truly random anchors failed to replicate"
+ },
+ {
+  "claim": "The sundew Drosera burmanii can bend its tentacles 180 degrees in about one minute to trap prey, using rapid acid growth rather than turgor changes.",
+  "verdict": "overstated",
+  "corrected_claim": "The tentacles of the sundew Drosera burmanii can bend 180 degrees in a minute or so.",
+  "quote": "The tentacles of D. burmanii can bend 180° in a minute or so.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Page does not link D. burmanii's movement to acid growth"
+ },
+ {
+  "claim": "Dolphins segregate themselves into friend groups rather than spending equal time with all nearby dolphins - scientists discovered this after tracking 200 bottlenose dolphins for six years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After spending over six years tracking 200 bottlenose dolphins in Florida's Indian River Lagoon, ... Instead of spending equal time with the dolphins around them, the animals actually segregate themselves into friend groups.",
+  "source_url": "https://www.mentalfloss.com/animals/facts-about-dolphins",
+  "note": ""
+ },
+ {
+  "claim": "Entomotoxicology, a branch of forensic entomology, analyzes drugs present in insects feeding on corpses, as certain substances can alter maggot development and potentially skew time-of-death estimates.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the presence of drugs within the cadaver specifically affects the growth and morphology of the insects ... the presence of drugs can potentially lead to an erroneous PMI.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "NML Cygni is a red hypergiant star with a radius 1,642 times that of the Sun - if placed at the Sun's position, it would engulf Jupiter's orbit.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q4957",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Ronald Rivest designed MD5 in 1991 specifically to replace MD4 after weaknesses were found — yet MD5 itself was broken just 13 years later in 2004.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When analytic work indicated that MD5's predecessor MD4 was likely to be insecure, Rivest designed MD5 in 1991 as a secure replacement. ... MD5CRK ended shortly after 17 August 2004, when collisions for the full MD5 were announced by Xiaoyun Wang, Dengguo Feng, Xuejia Lai, and Hongbo Yu.",
+  "source_url": "https://en.wikipedia.org/wiki/MD5",
+  "note": "Page also notes earlier compression-function collisions (1993, 1996)."
+ },
+ {
+  "claim": "Bacteria have been found living half a mile below Antarctic ice and in the Mariana Trench at crushing pressures of 1,100 bar.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "living half a mile below the ice of Antarctica ... 1,100 bar",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": ""
+ },
+ {
+  "claim": "Using advanced MRI scans and data from nearly 26,000 people, researchers identified two surprising fat patterns tied to faster brain aging, ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "The smallest bees are stingless bee workers less than 2 mm long—small enough to fit through the eye of a needle.",
+  "verdict": "overstated",
+  "corrected_claim": "Some stingless bees are tiny: Plebeia minima reaches no more than 2.5 mm, and the lambe-olhos (Leurotrigona muelleri) is even smaller at no more than 1.5 mm.",
+  "quote": "with one of them (Plebeia minima) reaching no more than 2.5 mm (3⁄32 in) in length ... being even smaller, at no more than 1.5 mm (1⁄16 in)",
+  "source_url": "https://en.wikipedia.org/wiki/Stingless_bee",
+  "note": "Page doesn't call them the smallest bees or mention the eye of a needle."
+ },
+ {
+  "claim": "Sweetness helps identify energy-rich foods, while bitterness serves as a warning system for potential poisons.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Sweetness helps to identify energy-rich foods, while bitterness warns people of poisons.",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": ""
+ },
+ {
+  "claim": "The Yenisei River at 3,487 km is the largest river system flowing into the Arctic Ocean.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q78707",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "In 1825, the Suquamish leader Kitsap led an alliance of tribes stretching from the Columbia River to Puget Sound to stop the Cowichan slave raids wreaking havoc on the Sound.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was the orchestrator of a region-wide coalition that sought to end the constant slave raids perpetrated by the Cowichan ... envisioned a coalition stretching from the Columbia River to Puget Sound ... The first attack came around 1825, according to the account of William Fraser Tolmie, with Kitsap and the Suquamish leading the coalition.",
+  "source_url": "https://en.wikipedia.org/wiki/Kitsap_(Suquamish_leader)",
+  "note": "A footnote cites a source naming Seattle as head chief."
+ },
+ {
+  "claim": "Chronic pain syndromes affect approximately 20 percent of people and account for 15 to 20 percent of doctor visits.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Chronic pain affects approximately 20% of people worldwide and accounts for 15–20% of visits to a physician.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_chronic_pain_syndromes",
+  "note": ""
+ },
+ {
+  "claim": "Whistled speech can reach 130 decibels — as loud as a rock concert — allowing communication over distances impossible for normal speech.",
+  "verdict": "overstated",
+  "corrected_claim": "Whistled speech can reach a loudness of 130 dB, and its range has been verified at up to 10 km on La Gomera in the Canary Islands.",
+  "quote": "More specifically, whistle speech can reach a loudness of 130 dB, and the transmission range can reach up to 10 km (as verified in La Gomera, Canary Island).",
+  "source_url": "https://en.wikipedia.org/wiki/Whistled_language",
+  "note": "Rock concert comparison not on page."
+ },
+ {
+  "claim": "The Revenue Equivalence Theorem proves that under certain conditions, all standard auction formats (English, Dutch, first-price, second-price) yield the same expected revenue for the seller.",
+  "verdict": "overstated",
+  "corrected_claim": "The Revenue Equivalence Theorem shows that when bidders are symmetric, first-price, second-price and all-pay auctions all yield the same expected revenue for the seller.",
+  "quote": "are all revenue equivalent when the bidders are symmetric ... any mechanism that results in the same outcomes also has the same expected revenue.",
+  "source_url": "https://en.wikipedia.org/wiki/Revenue_equivalence",
+  "note": "Page doesn't cover Dutch auctions; 'all standard formats' too broad."
+ },
+ {
+  "claim": "Some pygmy sundews are so dependent on insect nitrogen that they lack nitrate reductase enzymes, making them unable to use nitrogen from soil.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Pygmy sundews are unable to use nitrate from soil because they lack the necessary enzymes",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Female dolphins produce burst-pulse sounds to reprimand their offspring for bad behavior - similar to how human parents scold children.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some female dolphins also produce a burst-pulse to reprimand their offspring, called calves, for bad behavior.",
+  "source_url": "https://www.mentalfloss.com/animals/facts-about-dolphins",
+  "note": ""
+ },
+ {
+  "claim": "Hide beetles (Dermestidae) are the only beetles with enzymes capable of breaking down keratin, making them crucial for processing the final stages of decomposition including hair and nails.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Hide beetles are the only beetle with the enzymes necessary for breaking down keratin.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Rho Cassiopeiae is a yellow hypergiant star 40 times the mass of our Sun that pulses irregularly, changing brightness dramatically.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q13604",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "Claude Shannon's 1948 paper 'A Mathematical Theory of Communication' is considered the most important development of 1948, rated by historian James Gleick as 'even more profound than the transistor.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "even more profound and more fundamental",
+  "source_url": "https://en.wikipedia.org/wiki/Information_theory",
+  "note": "Page: Gleick rated it the most important development of 1948, 'even more profound and more fundamental' than the transistor."
+ },
+ {
+  "claim": "Picrophilus oshimae thrives at pH 0.06 — essentially growing in battery acid, near the theoretical limit for life.",
+  "verdict": "overstated",
+  "corrected_claim": "Picrophilus oshimae lives in extremely acidic waters, with a tolerance listed as pH 0.06 to 1.0.",
+  "quote": "pH 0.06 to 1.0",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page gives a pH 0.06-1.0 range; 'battery acid' and 'theoretical limit for life' are not stated."
+ },
+ {
+  "claim": "Researchers showed that internal “mumbling,” combined with short-term memory, helps AI adapt to new tasks, switch goals, and handle ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Bee stings are barbed and remain in the victim—when the bee flies away, the sting apparatus tears from its body, killing the bee but continuing to pump venom.",
+  "verdict": "overstated",
+  "corrected_claim": "A honey bee's barbed stinger stays in mammal skin, tearing loose from the bee's abdomen and killing it within minutes — and the stinging mechanism keeps working even after it detaches. Honey bees are the only bees to die after stinging.",
+  "quote": "tearing loose from the bee's abdomen and leading to its death in minutes ... even continues after the stinger and its mechanism is detached ... Honey bees are the only bees to die after stinging.",
+  "source_url": "https://en.wikipedia.org/wiki/Bee_sting",
+  "note": "Applies to honey bees only, not bee stings in general"
+ },
+ {
+  "claim": "The sour taste receptor OTOP1 (otopetrin 1) was only identified in 2018, after decades of research.",
+  "verdict": "overstated",
+  "corrected_claim": "The sour taste channel otopetrin 1 (OTOP1) was only identified in 2018.",
+  "quote": "This channel was identified in 2018 as otopetrin 1 (OTOP1).",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "'After decades of research' is not stated."
+ },
+ {
+  "claim": "The Ob River in Russia is 3,650 km long and its basin contains some of the world's largest wetlands.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q973",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The Niederdollendorf stone, the Grésin plaque, and the Landelinus buckle are each controversially conjectured to depict a pagan-inspired Jesus Christ.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Niederdollendorf_stone",
+  "note": "Page never mentions the Grésin plaque or Landelinus buckle."
+ },
+ {
+  "claim": "Tudor Arghezi, 'perhaps the strongest personality in all of 20th-century Romanian literature', claimed that he could identify people with cancer by their smell.",
+  "verdict": "overstated",
+  "corrected_claim": "Tudor Arghezi, widely considered one of Romania's greatest poets after Mihai Eminescu, claimed he could detect cancer by its 'smell'.",
+  "quote": "widely considered one of his country's greatest poets (second only to Mihai Eminescu) ... The experience put Arghezi in direct contact with so many patients that he claimed he could detect cancer by its \"smell\".",
+  "source_url": "https://en.wikipedia.org/wiki/Tudor_Arghezi",
+  "note": "The quoted 'strongest personality' phrase is not on the page; he claimed to smell cancer, not identify people."
+ },
+ {
+  "claim": "The Great Vowel Shift (1400s-1600s) completely transformed English pronunciation — which is why English spelling is so notoriously inconsistent with its sounds.",
+  "verdict": "overstated",
+  "corrected_claim": "The Great Vowel Shift, mostly between 1400 and 1700, is the major reason English spellings often deviate considerably from how they are pronounced.",
+  "quote": "took place primarily between 1400 and 1700 ... the Great Vowel Shift is the major reason English spellings now often deviate considerably from how they",
+  "source_url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
+  "note": "'Completely transformed' overstates; page dates it 1400-1700."
+ },
+ {
+  "claim": "The Median Voter Theorem predicts that in a two-party system, both parties will converge to positions favored by the median voter — explaining why major party platforms often seem similar.",
+  "verdict": "overstated",
+  "corrected_claim": "In a two-party system, the Downsian model predicts both parties are incentivized to move toward the median voter's position, though this only happens in voting systems that satisfy the median voter property.",
+  "quote": "In case of the Duverger's law with a two-party system the Downsian model predicts the two parties are incentivized to move towards the median voter. ... However, this strategic convergence only occurs in voting systems that actually satisfy the median voter property",
+  "source_url": "https://en.wikipedia.org/wiki/Median_voter_theorem",
+  "note": "Page does not say it explains why platforms seem similar; convergence is conditional."
+ },
+ {
+  "claim": "Charles Darwin spent 16 years studying carnivorous plants and published 'Insectivorous Plants' in 1875, recognizing it as convergent evolution.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Charles Darwin spent 16 years growing carnivorous plants ... In 1875, Charles Darwin published Insectivorous Plants ... concluded that carnivory in plants was convergent",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "A cow was documented using tools to scratch herself in 2024 - the first scientific recording of tool use in bovines.",
+  "verdict": "overstated",
+  "corrected_claim": "A cow named Veronika, who spent years scratching herself with sticks, rakes and deck brushes, is the first cow scientists have documented using a tool (reported January 2026).",
+  "quote": "Now that scientists have discovered her, she has the distinction of the first cow known to use tools. ... has spent years perfecting the art of scratching herself with sticks, rakes, and deck brushes",
+  "source_url": "https://www.nationalgeographic.com/animals/article/cow-using-tools",
+  "note": "Article published Jan 2026; scientists noticed her the previous year, not 2024."
+ },
+ {
+  "claim": "The vitreous humour (eye fluid) is often used for toxicology testing in highly decomposed bodies because the fibrous eyeball layer and eye socket protect the sample from trauma and contamination.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the fibrous layer of the eyeball and the eye socket of the skull protects the sample from trauma and adulteration.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": ""
+ },
+ {
+  "claim": "AG Carinae is a luminous blue variable star 55 times the mass of our Sun and one of the most luminous stars in the Milky Way.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1193097",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "The one-time pad is the only mathematically proven unbreakable encryption — yet the Soviet Union's Venona project was cracked because they reused key material.",
+  "verdict": "overstated",
+  "corrected_claim": "Information-theoretically secure methods like the one-time pad are not vulnerable to brute-force attacks — yet the Venona project cracked the Soviet Union's one-time pads due to their improper reuse of key material.",
+  "quote": "the Venona project was able to crack the one-time pads of the Soviet Union due to their improper reuse of key material",
+  "source_url": "https://en.wikipedia.org/wiki/Information_theory",
+  "note": "Page doesn't call the one-time pad 'the only mathematically proven unbreakable' cipher."
+ },
+ {
+  "claim": "Microorganisms have been found thriving 1.2 km below the seafloor in 120°C sediment — the deepest life discovered.",
+  "verdict": "overstated",
+  "corrected_claim": "Microorganisms have been found living in 120 °C sediment 1.2 km below the seafloor in the Nankai Trough subduction zone.",
+  "quote": "found microorganisms in 120 °C (248 °F) sediment that is 1.2 km (0.75 mi) below seafloor",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not call this the deepest life discovered."
+ },
+ {
+  "claim": "The ancient strain doesn’t fit neatly into modern categories, ...",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Worker honey bees killed defending their hive demonstrate extreme altruism—they willingly sacrifice their lives because their sisters share 75% of their genes.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Bee",
+  "note": "Page gives no 75% figure; says multiply-mated queens produce half sisters sharing only about a quarter of their genes, and does not describe workers dying to defend the hive"
+ },
+ {
+  "claim": "Children show a greater enjoyment of sour flavors than adults, which is why sour candy is popular among young people.",
+  "verdict": "overstated",
+  "corrected_claim": "Children show a greater enjoyment of sour flavors than adults, and sour candy containing citric or malic acid is common.",
+  "quote": "Children show a greater enjoyment of sour flavors than adults ... sour candy containing citric acid or malic acid is common",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Page does not say children's preference is why sour candy is popular."
+ },
+ {
+  "claim": "The Niger River flows 4,180 km through West Africa and uniquely curves away from the sea before turning back toward it.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q3542",
+  "note": "Wikidata page failed to load (fetch error on repeated attempts)."
+ },
+ {
+  "claim": "A small golden bell found at the site of the Mount Gerizim Temple is believed to have been part of the ephod of a high priest, as described in Exodus 28.",
+  "verdict": "overstated",
+  "corrected_claim": "A small gold bell with a silver clapper found at the Mount Gerizim Temple site was proposed by archaeologist Magen to have been part of the high priest's ephod, as described in Exodus 28.",
+  "quote": "Among the findings at the site is a small gold bell with a silver clapper. Magen proposed that it was part of the high priest's ephod, as mentioned in the Book of Exodus (28:33–35).",
+  "source_url": "https://en.wikipedia.org/wiki/Mount_Gerizim_Temple",
+  "note": "Page attributes it to Magen's proposal rather than general belief."
+ },
+ {
+  "claim": "Many women with polycystic ovary syndrome grow hair in a 'male' pattern, including facial hair.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This growth pattern, called hirsutism, is present in about 60% of women with PCOS.",
+  "source_url": "https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome",
+  "note": "Includes chin and upper lip."
+ },
+ {
+  "claim": "Before the Great Vowel Shift, English 'bite' was pronounced like modern 'beet', and 'meet' sounded like 'mate'.",
+  "verdict": "overstated",
+  "corrected_claim": "Before the Great Vowel Shift, Middle English 'mite' sounded similar to Modern English 'meet', while 'meet' had a long /eː/ vowel.",
+  "quote": "Long i in mite was pronounced as /iː/, so Middle English mite sounded similar to Modern English meet.",
+  "source_url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
+  "note": "Page says Middle English meet sounded like a long 'met', not 'mate'."
+ },
+ {
+  "claim": "OPEC operates as a real-world cartel attempting to solve a Prisoner's Dilemma — each member benefits from cheating on quotas, but if all cheat, oil prices collapse and everyone loses.",
+  "verdict": "overstated",
+  "corrected_claim": "Economists call OPEC a textbook cartel caught in a prisoner's dilemma: each member is tempted to discount and exceed its quota, and widespread cheating erodes OPEC's ability to influence oil prices.",
+  "quote": "Economists have characterized OPEC as a textbook example of a cartel ... widespread cheating within OPEC often erodes its ability to influence global oil prices through collective action",
+  "source_url": "https://en.wikipedia.org/wiki/OPEC",
+  "note": "Page does not say prices collapse if all cheat."
+ },
+ {
+  "claim": "Darlingtonia californica (cobra plant) confuses trapped insects with false exits—transparent windows in its hood that appear as escape routes but aren't.",
+  "verdict": "overstated",
+  "corrected_claim": "Darlingtonia californica (cobra plant) has chlorophyll-free patches in its hood that let light through, acting as false exits that insects tire themselves trying to escape through before falling into the tube.",
+  "quote": "chlorophyll-free patches through which light can penetrate ... tire themselves trying to escape from these false exits",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Page describes chlorophyll-free patches (areolae), not transparent windows"
+ },
+ {
+  "claim": "A common sleeping pill may reduce the buildup of Alzheimer's proteins in the brain, according to a 2026 study.",
+  "verdict": "overstated",
+  "corrected_claim": "A common sleeping pill, suvorexant, may reduce the buildup of Alzheimer's proteins - in a 2023 study, people who took it for two nights saw a slight drop in amyloid-beta and tau.",
+  "quote": "experienced a slight drop in amyloid-beta and tau",
+  "source_url": "https://www.sciencealert.com/a-common-sleeping-pill-may-reduce-buildup-of-alzheimers-proteins-study-reveals",
+  "note": "Study was published in 2023 (article from 2026)."
+ },
+ {
+  "claim": "Hair analysis can provide a timeline of drug use because head hair grows approximately 1-1.5 cm per month, and chemicals from the bloodstream are stored in the follicle.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Head hair grows at rate of approximately 1 to 1.5 cm a month. ... Chemicals in the bloodstream may be transferred to the growing hair and stored in the follicle",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": ""
+ },
+ {
+  "claim": "The comet C/1975 T2 (Suzuki–Saigusa–Mori) was independently discovered by five observers within the span of half an hour.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The comet was discovered independently on 5 October 1975 by five Japanese observers, all within 30 minutes.",
+  "source_url": "https://en.wikipedia.org/wiki/C/1975_T2_(Suzuki%E2%80%93Saigusa%E2%80%93Mori)",
+  "note": ""
+ },
+ {
+  "claim": "A fair coin flip provides exactly 1 bit of information — this is the fundamental unit of information that Claude Shannon defined in 1948.",
+  "verdict": "overstated",
+  "corrected_claim": "For a fair coin, the probability of heads or tails is 1/2, so learning the outcome of a flip conveys 1 bit of information — the bit being a common unit of information based on the binary logarithm.",
+  "quote": "the probability of either heads or tails is 1/2 ... a new way of seeing the most fundamental unit of information",
+  "source_url": "https://en.wikipedia.org/wiki/Information_theory",
+  "note": "Page doesn't say Shannon defined the bit as the unit via the coin example in 1948."
+ },
+ {
+  "claim": "Endospores from Bacillus bacteria survived heating to 420°C (788°F) — hotter than the surface of Mercury.",
+  "verdict": "overstated",
+  "corrected_claim": "Endospores from a species of Bacillus bacteria were still viable after being heated to 420 °C (788 °F).",
+  "quote": "endospores from a species of Bacillus bacteria were viable after being heated to temperatures of 420 °C (788 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Mercury comparison not on page."
+ },
+ {
+  "claim": "Scientists Use AI to Crack the Code of Nature’s Most Complex Patterns 1,000x Faster Jan.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.sciencedaily.com/news/",
+  "note": "ScienceDaily /news/ is a live index; current page (Oct 2026) no longer shows this Jan 2026 snippet, and the 'claim' is a page fragment."
+ },
+ {
+  "claim": "Heliconius butterflies use their proboscis to feed on pollen—unique among butterflies—allowing them to live several months as adults rather than just weeks.",
+  "verdict": "overstated",
+  "corrected_claim": "Heliconius butterflies get nutrients for egg production by eating pollen as adults, and adult females live much longer than those of other species.",
+  "quote": "They obtain their nutrients for egg production through consumption of pollen in the adult stage rather than the larval stage. ... adult females have a much longer life than other species.",
+  "source_url": "https://en.wikipedia.org/wiki/Heliconius",
+  "note": "Uniqueness, proboscis and 'several months' not on page."
+ }
+]
