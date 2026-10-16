@@ -1,0 +1,802 @@
+[
+ {
+  "claim": "The first self-healing material with microcapsules was demonstrated in 2001, achieving up to 75% recovery of virgin fracture toughness.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2001 Nature paper reported a structural polymer with a microencapsulated healing agent released when cracks form, achieving as much as 75% recovery in toughness.",
+  "quote": "The material incorporates a microencapsulated healing agent that is released upon crack intrusion. ... Our fracture experiments yield as much as 75% recovery in toughness",
+  "source_url": "https://www.nature.com/articles/35057232",
+  "note": "Source does not call it the first such material and says 'recovery in toughness', not 'virgin fracture toughness'."
+ },
+ {
+  "claim": "Gorilla Glass used in smartphones is an alkali-aluminosilicate sheet toughened by ion exchange—it can survive being dropped onto concrete from over a meter.",
+  "verdict": "overstated",
+  "corrected_claim": "Gorilla Glass is an alkali-aluminosilicate sheet toughened by ion exchange; Corning's Gorilla Armor 2 survived lab drops of up to 2.2 meters onto a surface replicating concrete.",
+  "quote": "The alkali-aluminosilicate sheet glass is primarily used as cover glass for portable electronic devices ... During its manufacture, the glass is toughened by ion exchange. ... Armor 2 survived drops of up to 2.2 meters (7.2 ft) onto a surface replicating concrete.",
+  "source_url": "https://en.wikipedia.org/wiki/Gorilla_Glass",
+  "note": "Drop survival onto concrete over a meter applies to specific generations (Armor 2 in lab tests), not Gorilla Glass generally."
+ },
+ {
+  "claim": "Multi-walled carbon nanotubes have been tested with tensile strengths up to 63 GPa, and individual shells can reach strengths of 100 GPa—about 100 times stronger than steel.",
+  "verdict": "overstated",
+  "corrected_claim": "A multi-walled carbon nanotube was tested in 2000 at a tensile strength of 63 GPa, and individual CNT shells can reach about 100 GPa; their specific strength far exceeds high-carbon steel's.",
+  "quote": "In 2000, a multiwalled carbon nanotube was tested to have a tensile strength of 63 GPa (9,100,000 psi). ... individual CNT shells have strengths of up to ≈100 GPa (15,000,000 psi)",
+  "source_url": "https://en.wikipedia.org/wiki/Carbon_nanotube",
+  "note": "'About 100 times stronger than steel' is not stated; page compares specific strength (48,000 vs 154 kN·m/kg)."
+ },
+ {
+  "claim": "There are numerous plants and animals for which the mortality rate has been observed to actually decrease with age, for all or part of the life cycle.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There are numerous plants and animals for which the mortality rate has been observed to actually decrease with age",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "Source states it directly."
+ },
+ {
+  "claim": "Long-duration gamma-ray bursts (1993–2003): Long-duration bursts are associated with the deaths of massive stars in a specific kind of supernova-like event commonly referred to as a collapsar.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Long-duration gamma-ray bursts (1993–2003) ... Long-duration bursts are associated with the deaths of massive stars in a specific kind of supernova-like event",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "Listed as a recently solved problem; page also notes some long GRBs lack an associated supernova."
+ },
+ {
+  "claim": "Adult form of Planctosphaera pelagica, a hemichordate known, as of 2023, only by its tornaria larvae.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Adult form of Planctosphaera pelagica, a hemichordate known, as of 2023, only by its tornaria larvae.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Verbatim match."
+ },
+ {
+  "claim": "MXenes, discovered in 2011, are 2D materials derived from MAX phases that show promise for batteries, supercapacitors, and electromagnetic shielding.",
+  "verdict": "overstated",
+  "corrected_claim": "MXenes, first reported in 2011 at Drexel University, are 2D materials made by selectively etching the A element out of MAX phases, and show potential for energy storage such as batteries and supercapacitors.",
+  "quote": "The first MXene was reported in 2011 at Drexel University's College of Engineering ... They are produced by selectively etching out the A element from a MAX phase or other layered precursor ... MXenes show potential for energy storage applications",
+  "source_url": "https://en.wikipedia.org/wiki/MXene",
+  "note": "Electromagnetic shielding not described as an application in the article body (only a reference title)."
+ },
+ {
+  "claim": "The first electrical recording was made in 1920 at Westminster Abbey's Unknown Warrior funeral service, using telephone microphones wired to recording equipment outside.",
+  "verdict": "overstated",
+  "corrected_claim": "The first electrical recording issued to the public captured the 1920 funeral of the Unknown Warrior in Westminster Abbey, using telephone-type microphones wired to recording equipment in a vehicle outside.",
+  "quote": "The first electrical recording issued to the public, with little fanfare ... The recording engineers used microphones of the type used in contemporary telephones. Four were discreetly set up in the abbey and wired to recording equipment in a vehicle outside.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "Source says first electrical recording issued to the public, not the first electrical recording made."
+ },
+ {
+  "claim": "Spider dragline silk has a tensile strength comparable to high-grade steel (1.3 GPa) but at one-sixth the density, making it weight-for-weight five times stronger than steel.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Spider dragline silk has a tensile strength of roughly 1.3 GPa. ... A dragline silk's tensile strength is comparable to that of high-grade alloy steel (450−2000 MPa) ... silks are about a sixth of the density of steel ... a given weight of spider silk is five times as strong as the same weight of steel.",
+  "source_url": "https://en.wikipedia.org/wiki/Spider_silk",
+  "note": "All elements stated (1.3 GPa is silk's strength)."
+ },
+ {
+  "claim": "The lute, dominant in European music for centuries, was replaced by the guitar around 1750 as tastes changed.",
+  "verdict": "overstated",
+  "corrected_claim": "After a period when lutes dominated popular music, beginning around 1750 the lute disappeared from musical compositions in favor of the rising popularity of the guitar.",
+  "quote": "various lutes dominated popular music ... Beginning in around 1750, however, the lute disappeared from musical compositions in favor of the rising popularity of the guitar.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "'Dominant for centuries' not stated; page says lutes dominated popular music in that period."
+ },
+ {
+  "claim": "The FOXP2 gene, defects in which cause speech disorders in humans, becomes highly expressed in birds' song-learning brain areas during periods of vocal learning.",
+  "verdict": "overstated",
+  "corrected_claim": "FOXP2, whose defects affect both speech production and language comprehension in humans, becomes highly expressed in the songbird brain region Area X during periods of vocal plasticity in juvenile zebra finches and adult canaries.",
+  "quote": "The gene FOXP2, defects of which affect both speech production and comprehension of language in humans, becomes highly expressed in Area X during periods of vocal plasticity in both juvenile zebra finches and adult canaries.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Source says Area X during vocal plasticity in specific species, not generally birds' song-learning areas; 'speech disorders' wording loosened."
+ },
+ {
+  "claim": "The Nordoff-Robbins music therapy approach, based on the belief that everyone can benefit from musical experience, uses improvisation between therapist and client.",
+  "verdict": "overstated",
+  "corrected_claim": "The Nordoff-Robbins music therapy approach, based on the belief that everyone can find meaning in and benefit from musical experience, focuses on therapist and client creating music together.",
+  "quote": "based on the belief that everyone is capable of finding meaning in and benefiting from musical experience ... This approach focuses on treatment through the creation of music by both therapist and client together.",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "Nordoff-Robbins section does not mention improvisation."
+ },
+ {
+  "claim": "~90% of neutralizing antibody activity against SARS-CoV-2 targets the spike receptor-binding domain — a tiny region controls immune recognition.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Serological analyses of almost 650 individuals infected with SARS-CoV-2 indicated that ~90% of the plasma or serum neutralizing antibody activity targets the spike receptor-binding domain (RBD).",
+  "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+  "note": "Directly stated."
+ },
+ {
+  "claim": "Antibiotic resistance costs the EU €1.5 billion annually in extra healthcare costs and lost productivity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "extra healthcare costs and productivity losses of at least EUR 1.5 billion each year",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "Source says 'at least' EUR 1.5 billion per year in the EU."
+ },
+ {
+  "claim": "Coagulase-negative staphylococci (CoNS) are now one of the major nosocomial pathogens — previously dismissed as harmless skin bacteria.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4187637/",
+  "note": "Page returned a reCAPTCHA browser-check instead of the article."
+ },
+ {
+  "claim": "Sublethal antibiotic concentrations in the environment accelerate resistance evolution through stress responses.",
+  "verdict": "overstated",
+  "corrected_claim": "Scientists are still asking whether sublethal concentrations of antibiotics in the environment, and the resulting multidrug mixtures, accelerate the evolution of antimicrobial resistance.",
+  "quote": "What are the consequences of the presence of sublethal concentration antibiotics in the environment ... Does the resulting multidrug combination in the environment accelerate the evolution toward antimicrobial resistance",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "Source poses this as an open question, not an established finding; stress-response mechanism not asserted."
+ },
+ {
+  "claim": "Sulfa drugs (sulfonamides) are the oldest synthetic antibiotics — discovered in 1935 and still used today.",
+  "verdict": "overstated",
+  "corrected_claim": "Sulfonamides are the oldest class of synthetic antibiotics, and continuously modified derivatives are still a viable therapy option today.",
+  "quote": "many continuously modified derivatives of this oldest class of synthetic antibiotics are still a viable option for therapy",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "1935 discovery date not in article body (only a 1935 reference citation)."
+ },
+ {
+  "claim": "Tropheryma whipplei, which causes Whipple's disease, has a tiny genome of only 926 kb and G+C content of just 46% — unusually small for bacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "Tropheryma whipplei, which causes Whipple's disease, has a condensed genome of only 925,938 bp with a G+C content of just 46%, whereas other actinomycetes have much larger genomes.",
+  "quote": "It has a condensed genome of only 925,938 bp, with a G+C content of only 46% ... whereas other actinomycete genomes have much larger genomes (up to 10 MBp) and higher G+C contents.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711186/",
+  "note": "Source compares it to other actinomycetes, not to bacteria in general."
+ },
+ {
+  "claim": "Mutations in 33+ genes can cause primary ciliary dyskinesia — the disease can result from broken motors, spokes, or dozens of other ciliary parts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Currently, mutations in 33 genes have been associated with PCD ... Mutations have also been identified in genes that encode for radial spoke components",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5378048/",
+  "note": "33 genes; dynein arm, radial spoke and central pair defects described."
+ },
+ {
+  "claim": "SARS-CoV-2 variants of concern like B.1.1.7 and B.1.351 emerged independently with similar mutations — convergent evolution under immune pressure.",
+  "verdict": "overstated",
+  "corrected_claim": "SARS-CoV-2 variants of concern are defined by multiple convergent mutations, hypothesized to have arisen in chronic infections or in previously infected individuals.",
+  "quote": "They are defined by multiple convergent mutations ... hypothesized to have arisen either in the context of chronic infections or in previously infected individuals.",
+  "source_url": "https://www.nature.com/articles/s41579-021-00573-0",
+  "note": "B.1.1.7 and B.1.351 are not named in the article body."
+ },
+ {
+  "claim": "Jean-Pierre Perraudin, a carpenter and chamois hunter, was the first to propose in 1815 that glaciers once extended much farther, inspiring the ice age theory.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1815 the carpenter and chamois hunter Jean-Pierre Perraudin explained erratic boulders by glaciers that once extended further, and tried to convert geologist Jean de Charpentier to the idea.",
+  "quote": "In 1815 the carpenter and chamois hunter Jean-Pierre Perraudin (1767–1858) explained erratic boulders ... glaciers previously extending further",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Not the first: page cites Val de Bagnes locals (1742, Martel) and James Hutton (1795) earlier."
+ },
+ {
+  "claim": "Passiflora passion vines have structures resembling butterfly eggs on their leaves, discouraging butterflies from laying real eggs there.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "some species of neotropical vines of the genus Passiflora (passion flowers) make use of Gilbertian mimicry: they possess physical structures resembling the yellow eggs of Heliconius butterflies on their leaves",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "Page states females avoid plants already bearing eggs."
+ },
+ {
+  "claim": "Baobab trees store large amounts of water in their soft wood trunks, causing their girth to vary by about 2.5% between wet and dry seasons.",
+  "verdict": "overstated",
+  "corrected_claim": "Baobab trees store large amounts of water in the very soft wood of their trunks, so their girth varies over the year by up to about 2.5%, peaking at the end of the rainy season.",
+  "quote": "Baobabs (genus Adansonia) store large amounts of water in the very soft wood in their trunks. This leads to marked variation in their girth over the year (though not more than about 2.5%)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Source gives 2.5% as a maximum ('not more than'), not a typical variation."
+ },
+ {
+  "claim": "In 1749, Admiral Chambers reported seeing a ball of blue fire appear 3 miles from HMS Montague, approach the ship, and explode 'as great as if a hundred cannons had been discharged.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Admiral Chambers on board the HMS Montague, 4 November 1749, was taking an observation just before noon ... he observed a large ball of blue fire about three miles [5 km] distant from them ... it went off with an explosion, as great as if a hundred cannons had been discharged at the same time",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "All details stated."
+ },
+ {
+  "claim": "Tropical cyclones can be between 100 and 2,000 km in diameter—Typhoon Tip in 1979 spanned about 2,200 km, nearly half the width of the continental United States.",
+  "verdict": "overstated",
+  "corrected_claim": "Tropical cyclones are typically 100 to 2,000 km in diameter; Typhoon Tip, the largest on record, had tropical storm-force winds spanning 2,170 km.",
+  "quote": "Tropical cyclones are typically between 100 and 2,000 km (62 and 1,243 mi) in diameter. ... Typhoon Tip is the largest cyclone on record, with tropical storm-force winds 2,170 km (1,350 mi) in diameter.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": "Page gives 2,170 km and no US-width comparison."
+ },
+ {
+  "claim": "Plants infected with aphids only express salicylic acid pathways when connected to uninfested plants via mycorrhizal networks, showing coordinated defense.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "Similarly, aphid-free plants were shown to only be able to express the SA pathways when a mycorrhizal network connected them to infested plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Reversed: source says aphid-FREE plants express SA pathways only when networked to INFESTED plants."
+ },
+ {
+  "claim": "Heliamphora tatei is the only species in its genus that produces digestive enzymes—most Heliamphora rely solely on bacterial digestion.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most Heliamphora rely on bacterial digestion alone with the exception of a single species, Heliamphora tatei, which does produce digestive enzymes.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Snow fell as far south as Tampico, Mexico (22°N latitude) in February 1895 during the Great Freeze—the lowest latitude sea-level snow in North American history.",
+  "verdict": "overstated",
+  "corrected_claim": "Snow fell as far south as Tampico, Mexico, in February 1895 during the Great Freeze — the lowest latitude at which snow has been recorded at sea level in North America.",
+  "quote": "Lowest latitude that snow has been recorded at sea level in North America: Snow fell as far south as the city of Tampico, Mexico, in February 1895 during the Great Freeze.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page does not give the 22°N latitude figure."
+ },
+ {
+  "claim": "Century plants (Agave americana) don't actually take 100 years to bloom—typically 10-30 years—but die after flowering once.",
+  "verdict": "overstated",
+  "corrected_claim": "Despite the name, century plants (Agave americana) typically live only 10 to 30 years — they flower just once at the end of their life, then die, though new shoots sprout from the base.",
+  "quote": "Although it is called the century plant, it typically lives only 10 to 30 years. ... After flowering, the plant dies but produces adventitious shoots from the base, allowing its growth to continue.",
+  "source_url": "https://en.wikipedia.org/wiki/Agave_americana",
+  "note": "Page gives 10-30 years as lifespan, not a stated bloom age; also notes it regrows via basal shoots."
+ },
+ {
+  "claim": "NASA's Spirit rover became unresponsive on Mars in 2004 because too many files accumulated in flash memory — it was restored by remotely deleting unnecessary files.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "NASA's Spirit rover became unresponsive on January 21, 2004, a few weeks after landing on Mars. Engineers found that too many files had accumulated in the rover's flash memory. It was restored to working condition after deleting unnecessary files.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "Information theory was crucial to the Voyager missions to deep space — error correction codes derived from Shannon's work allowed images to be transmitted across billions of miles.",
+  "verdict": "overstated",
+  "corrected_claim": "Information theory's impact was crucial to the success of the Voyager missions to deep space, as well as to the invention of the compact disc and the feasibility of mobile phones.",
+  "quote": "Its impact has been crucial to the success of the Voyager missions to deep space, the invention of the compact disc, the feasibility of mobile phones and the development of the Internet and artificial intelligence.",
+  "source_url": "https://en.wikipedia.org/wiki/Information_theory",
+  "note": "Page does not say Shannon-derived error-correcting codes carried Voyager images across billions of miles."
+ },
+ {
+  "claim": "Quicksort's average O(n log n) performance is often faster in practice than other O(n log n) algorithms due to its cache-friendly memory access patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "Efficient quicksort implementations, with an average time complexity of O(n log n) and low overhead, are among the fastest sorting algorithms in practice.",
+  "quote": "Efficient implementations of quicksort (with in-place partitioning) are typically unstable sorts and somewhat complex but are among the fastest sorting algorithms in practice. ... This yields an average time complexity of O(n log n), with low overhead, and thus this is a popular algorithm.",
+  "source_url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+  "note": "Page does not attribute quicksort's speed to cache-friendly memory access."
+ },
+ {
+  "claim": "A universal Turing machine can simulate any other Turing machine — it's the theoretical foundation for the modern concept of a programmable computer.",
+  "verdict": "overstated",
+  "corrected_claim": "A universal Turing machine can simulate any other Turing machine — and some consider Turing's universal machine the fundamental theoretical breakthrough that led to the notion of the stored-program computer.",
+  "quote": "A Turing machine that is able to simulate any other Turing machine is called a universal Turing machine (UTM, or simply a universal machine). ... The model of computation that Turing called his \"universal machine\"—\"U\" for short—is considered by some to have been the fundamental theoretical breakthrough that led to the notion of the stored-program computer.",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_machine",
+  "note": "Page hedges ('considered by some'); claim states it as settled fact."
+ },
+ {
+  "claim": "The term 'Y2K' was coined by programmer David Eddy on June 12, 1995 — he later said 'Y2K just came off my fingertips' after rejecting alternatives like CDC and FADL.",
+  "verdict": "overstated",
+  "corrected_claim": "The acronym 'Y2K' has been attributed to programmer David Eddy, in an email sent on June 12, 1995 — he later said 'Y2K just came off my fingertips,' after others had been calling it CDC and FADL.",
+  "quote": "The acronym Y2K has been attributed to Massachusetts programmer David Eddy in an e-mail sent on 12 June 1995. ... People were calling it CDC (Century Date Change), FADL (Faulty Date Logic). There were other contenders. Y2K just came off my fingertips.",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": "Page says 'attributed to', not definitively coined; CDC/FADL were names people were using, not ones he 'rejected'."
+ },
+ {
+  "claim": "Walter Pitts and Warren McCulloch described artificial neurons in 1943 — the first paper to apply Turing's computational ideas to brain function.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1943 Walter Pitts and Warren McCulloch analyzed networks of idealized artificial neurons — influenced by Turing's 'On Computable Numbers,' they were the first to apply such two-state neurons to neuronal function.",
+  "quote": "Walter Pitts and Warren McCulloch analyzed networks of idealized artificial neurons ... They were the first to describe what later researchers would call a neural network.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note": "Page credits them as first to apply the idea to neuronal function, not 'first paper to apply Turing's computational ideas to brain function' broadly; quote assembled from WebFetch fragments."
+ },
+ {
+  "claim": "Linux powers over 96.4% of the top one million web servers, SpaceX rockets, Tesla cars, and the Mars Ingenuity helicopter.",
+  "verdict": "overstated",
+  "corrected_claim": "Over 96.4% of the top one million web servers run Linux, and it also runs in Tesla cars, SpaceX's Falcon 9 rocket and Dragon capsule, and the Ingenuity Mars helicopter.",
+  "quote": "over 96.4% of the top one million web servers' operating systems are Linux ... automobiles (Tesla, Audi, Mercedes-Benz, Hyundai, and Toyota) ... Falcon 9 rocket, Dragon crew capsule, and the Ingenuity Mars helicopter",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": "Page names Falcon 9/Dragon but not SpaceX itself; quote assembled from fragments."
+ },
+ {
+  "claim": "Breaking Enigma shortened World War II by an estimated two years — the breakthrough was kept secret for 50 years because revealing it 'would give the defeated enemy the chance to say they were not well and fairly beaten.'",
+  "verdict": "overstated",
+  "corrected_claim": "Reading Nazi Germany's ciphers shortened World War II, in some evaluations by as much as two years — and British officials were told they could never reveal the Enigma break, lest the defeated enemy claim they 'were not well and fairly beaten.' It stayed secret under an official 50-year secrecy period.",
+  "quote": "Allies reading of Nazi Germany's ciphers shortened World War II, in some evaluations by as much as two years. ... Britain's highest level civilian and military officials were told that they could never reveal that the German Enigma cipher had been broken ... were not well and fairly beaten.",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_cryptography",
+  "note": "Two years is an upper estimate from 'some evaluations', not a general estimate; quote assembled from fragments."
+ },
+ {
+  "claim": "Cake flour is chlorinated to weaken gluten and has lower protein (7-9%), producing tender, fine-crumbed cakes.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention cake flour, chlorination, or gluten."
+ },
+ {
+  "claim": "Trans fats occur naturally in small amounts in meat and dairy, but artificial trans fats from partial hydrogenation are now banned in most countries.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention trans fats or partial hydrogenation."
+ },
+ {
+  "claim": "A2 milk comes from cows producing only A2 beta-casein protein, which some claim is easier to digest, though evidence is limited.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page does not mention A2 milk or beta-casein."
+ },
+ {
+  "claim": "The ancient Egyptians knew that feeding liver (rich in vitamin A) could cure night blindness, though they didn't know why.",
+  "verdict": "overstated",
+  "corrected_claim": "The ancient Egyptians knew that feeding liver to a person may help with night blindness — an illness now known to be caused by vitamin A deficiency.",
+  "quote": "The ancient Egyptians knew that feeding liver to a person may help with night blindness, an illness now known to be caused by a vitamin A deficiency.",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Page says 'may help', not 'cure'; doesn't state they didn't know why."
+ },
+ {
+  "claim": "Fiber can't be digested by human enzymes, but gut bacteria ferment it into short-chain fatty acids that benefit health.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "some types of gut flora have enzymes that human cells lack for breaking down certain polysaccharides ... Some human gut microorganisms benefit the host by fermenting dietary fiber into short-chain fatty acids (SCFAs)",
+  "source_url": "https://en.wikipedia.org/wiki/Gut_microbiota",
+  "note": ""
+ },
+ {
+  "claim": "The ancient Spartans and other Greeks rubbed olive oil on their bodies while exercising nude in gymnasia—a practice that lasted nearly 1,000 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Spartans and other Greeks used oil to rub themselves while exercising in the gymnasia. From its beginnings early in the 7th century BC, the cosmetic use of olive oil quickly spread to all of the Hellenic city-states, together with athletes training in the nude, and lasted close to a thousand years despite its great expense.",
+  "source_url": "https://en.wikipedia.org/wiki/Olive_oil",
+  "note": ""
+ },
+ {
+  "claim": "The spice trade was a major driver of European exploration—spices were so valuable in medieval Europe that they were worth their weight in gold.",
+  "verdict": "overstated",
+  "corrected_claim": "Europe's demand for spices helped drive the age of exploration — in the Middle Ages they were among the most expensive products in Europe; in 15th-century Oxford a whole pig cost about the same as a pound of pepper.",
+  "quote": "Europe's demand for spices was among the economic and cultural factors that encouraged exploration ... Spices were among the most demanded and expensive products available in Europe in the Middle Ages ... in 15th-century Oxford, a whole pig cost about the same as a pound of the cheapest spice, pepper.",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Page never says spices were 'worth their weight in gold'."
+ },
+ {
+  "claim": "Babies born deaf babble with their hands if exposed to sign language — showing babbling is about language, not just speech.",
+  "verdict": "overstated",
+  "corrected_claim": "Just as hearing infants babble with their mouths, infants who grow up with a sign language babble with their hands — and manual babbling develops in a structurally identical way to vocal babbling.",
+  "quote": "Just as hearing or speaking infants babble with their mouths, infants who grow up with a sign language babble with their hands. ... Manual babbling is structurally identical to vocal babbling in its development.",
+  "source_url": "https://en.wikipedia.org/wiki/Babbling",
+  "note": "Page refers to infants raised with sign language (not specifically deaf-born) and doesn't state the 'about language, not speech' conclusion."
+ },
+ {
+  "claim": "The word 'cleave' means both 'to stick together' and 'to split apart' — one of English's famous contronyms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Cleave can mean \"to cling\" or \"to split apart\".",
+  "source_url": "https://en.wikipedia.org/wiki/Auto-antonym",
+  "note": ""
+ },
+ {
+  "claim": "In some languages, the future is spoken of as being 'behind' and the past 'in front' — reversing English spatial metaphors for time.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Page discusses horizontal/vertical time metaphors but no language placing the future behind."
+ },
+ {
+  "claim": "The Sprachbund (language area) of the Balkans shares features across unrelated languages — including a lack of infinitives.",
+  "verdict": "overstated",
+  "corrected_claim": "The Balkan sprachbund shares features across languages from separate branches — Slavic, Greek, Romance and Albanian, plus non-Indo-European Turkish — including loss of the infinitive, which is complete in Bulgarian, Macedonian and Tosk Albanian.",
+  "quote": "share their similarities despite belonging to various separate language family (genetic) branches ... In Bulgarian, Macedonian, and Tosk Albanian, the loss of the infinitive is complete.",
+  "source_url": "https://en.wikipedia.org/wiki/Balkan_sprachbund",
+  "note": "Most are related (Indo-European branches), not 'unrelated'; quote assembled from fragments."
+ },
+ {
+  "claim": "There are over 200 documented sign languages worldwide, and many more that haven't been studied or recorded.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The number of sign languages worldwide is not precisely known. ... lists over 200 ... notes that there are more that have not yet been documented.",
+  "source_url": "https://en.wikipedia.org/wiki/Sign_language",
+  "note": "Quote assembled from WebFetch fragments."
+ },
+ {
+  "claim": "Statistical learning lets babies extract word boundaries from continuous speech — they track which sounds tend to occur together.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "infants learn which syllables are always paired together and which ones only occur together relatively rarely ... 8-month-old infants were able to extract these statistical regularities from a continuous speech stream.",
+  "source_url": "https://en.wikipedia.org/wiki/Statistical_learning_in_language_acquisition",
+  "note": ""
+ },
+ {
+  "claim": "All fireflies glow as larvae—the bioluminescence originally evolved as a warning signal to predators before being co-opted for adult mating displays.",
+  "verdict": "overstated",
+  "corrected_claim": "All fireflies nominally glow as larvae, where the light warns predators they taste bad—light production is thought to have originated as this warning signal and was later co-opted as a mating signal.",
+  "quote": "All fireflies glow as larvae, where bioluminescence is an aposematic warning signal to predators. ... Light production in the Lampyridae is thought to have originated as a warning signal that the larvae were distasteful. This ability to create light was then co-opted as a mating signal",
+  "source_url": "https://en.wikipedia.org/wiki/Firefly",
+  "note": "Source hedges the evolutionary origin ('is thought to have'); claim states it as fact."
+ },
+ {
+  "claim": "The smallest beetle and smallest free-living insect is Scydosella musawasensis, measuring just 325 micrometers—barely visible to the naked eye.",
+  "verdict": "overstated",
+  "corrected_claim": "Scydosella musawasensis is regarded as the smallest free-living insect and the smallest beetle—the tiniest measured individual is only 0.325 mm long, and the average is 0.338 mm.",
+  "quote": "The species is regarded as the smallest free-living insect, as well as the smallest beetle. ... the smallest individual is only 0.325 mm long. ... The largest individual is 0.352 mm long, and the average length of all the specimens is 0.338 mm.",
+  "source_url": "https://en.wikipedia.org/wiki/Scydosella_musawasensis",
+  "note": "325 µm is the smallest individual, not the species' size (average 0.338 mm); 'barely visible to the naked eye' not in source."
+ },
+ {
+  "claim": "Of nearly 3,000 termite species, only about 180 species cause structural damage—the vast majority are ecologically beneficial decomposers.",
+  "verdict": "overstated",
+  "corrected_claim": "Of about 2,997 described termite species, the vast majority are innocuous—termites are important decomposers of decaying plant matter, even though they're most famous as structural pests.",
+  "quote": "About 2,997 extant species are currently described, 2,125 of which are members of the family Termitidae. ... Termites are perhaps most famous for being structural pests which infest structural timbers; however, the vast majority of termite species are innocuous,",
+  "source_url": "https://en.wikipedia.org/wiki/Termite",
+  "note": "Source gives no '180 species' figure for structural damage."
+ },
+ {
+  "claim": "Sweat bees get their name because they're attracted to human sweat—they land on people to drink perspiration for its salt content.",
+  "verdict": "overstated",
+  "corrected_claim": "Sweat bees are so named because they're often attracted to perspiration—they'll try to get a lick of your sweat, seeking its dissolved electrolytes.",
+  "quote": "They are commonly called sweat bees (especially the smaller species), as they are often attracted to perspiration. ... trying to get a lick of one's sweat, seeking the dissolved electrolytes.",
+  "source_url": "https://en.wikipedia.org/wiki/Halictidae",
+  "note": "Source says 'often attracted' and 'dissolved electrolytes', not salt specifically."
+ },
+ {
+  "claim": "Houseflies can only ingest liquids—they vomit digestive enzymes onto solid food to liquefy it before sucking it up.",
+  "verdict": "overstated",
+  "corrected_claim": "Houseflies' mouthparts are specially adapted for a liquid diet—solid foods are softened with saliva before being sucked up.",
+  "quote": "The mouthparts are specially adapted for a liquid diet ... Solid foods are softened with saliva before being sucked up.",
+  "source_url": "https://en.wikipedia.org/wiki/Housefly",
+  "note": "Source says saliva softens food; it does not say they vomit digestive enzymes or 'only' ingest liquids."
+ },
+ {
+  "claim": "Giant wētā of New Zealand can weigh up to 70 grams—heavier than a sparrow and among the heaviest insects in the world.",
+  "verdict": "overstated",
+  "corrected_claim": "A giant wētā usually weighs no more than 35 g, but one gravid captive female reached about 70 g—heavier than a sparrow and one of the heaviest insects in the world.",
+  "quote": "with body mass usually no more than 35 g (1.2 oz). ... One gravid captive female reached a mass of about 70 g (2.47 oz), making it one of the heaviest insects in the world and heavier than a sparrow.",
+  "source_url": "https://en.wikipedia.org/wiki/Giant_weta",
+  "note": "70 g was a single gravid captive female; typical max is 35 g."
+ },
+ {
+  "claim": "Lund noted that the common plural nouns for animals were \"flock\" for birds and \"herd\" for cows, conceding that for certain animals in small groups, there was currency in usage such as a \"pod\" of whales or \"gaggle\" of geese.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lund noted that the common plural nouns for animals were \"flock\" for birds and \"herd\" for cows, conceding that for certain animals in small groups, there was currency in usage such as a \"pod\" of whales or \"gaggle\" of geese.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animal_names",
+  "note": "Matches source verbatim."
+ },
+ {
+  "claim": "Leaf insects (Phylliidae) are so convincing as plant mimics that even their eggs look like plant seeds and their nymphs' legs look like leaves with bite marks.",
+  "verdict": "overstated",
+  "corrected_claim": "Leaf insects mimic leaves so accurately that predators often can't tell them apart—some species' eggs resemble plant seeds, and the edge of some species' bodies looks like it has bite marks.",
+  "quote": "They do this so accurately that predators often are not able to distinguish them from real leaves. ... In some cases, they resemble plant seeds ... In some species, the edge of the leaf insect's body has the appearance of bite marks.",
+  "source_url": "https://en.wikipedia.org/wiki/Phylliidae",
+  "note": "Bite marks are on the body edge in some species, not nymphs' legs; seed-like eggs only 'in some cases'."
+ },
+ {
+  "claim": "Gerrymandering manipulates district boundaries to predetermine election outcomes — sophisticated algorithms can now draw districts that guarantee party dominance despite preferences.",
+  "verdict": "overstated",
+  "corrected_claim": "Gerrymandering is the political manipulation of district boundaries to advantage a party—modern computers and voter databases let mapmakers predict each district's voting with astonishing precision.",
+  "quote": "is the political manipulation of electoral district boundaries to advantage a party, group, or socioeconomic class ... The introduction of modern computers alongside the development of elaborate voter databases ... made gerrymandering a far more precise science.",
+  "source_url": "https://en.wikipedia.org/wiki/Gerrymandering",
+  "note": "Source says computers make it precise and leave 'little chance' of competitive districts, not that algorithms 'guarantee' outcomes."
+ },
+ {
+  "claim": "The Condorcet winner criterion says a candidate who beats all others head-to-head should win — plurality and Borda count can both fail this basic requirement.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Voting systems where a Condorcet winner will always win the election are said to satisfy the Condorcet winner criterion. ... Plurality fails the Condorcet criterion because of vote-splitting effects. ... The Borda count does not comply with the Condorcet criterion in the following case.",
+  "source_url": "https://en.wikipedia.org/wiki/Condorcet_winner_criterion",
+  "note": ""
+ },
+ {
+  "claim": "Reputation models show how concern for future dealings enforces honest behavior — online ratings and review systems formalize this mechanism for strangers.",
+  "verdict": "overstated",
+  "corrected_claim": "The threat of reputational information promotes honest behaviour—platforms like eBay implement customer feedback systems to publicly rate users, and Amazon uses reviews to assess seller credibility.",
+  "quote": "Further promoting honest behaviour is the threat of reputational information ... Platforms such as eBay implement customer feedback systems to publicly rate users ... Amazon.com employs a similar review system to assess seller credibility",
+  "source_url": "https://en.wikipedia.org/wiki/Reputation",
+  "note": "Source does not discuss 'reputation models' or concern for future dealings enforcing honesty."
+ },
+ {
+  "claim": "Resolvability requires that tie-breaking mechanisms exist and are well-defined — essential for practical implementation of any voting system.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Voting_system",
+  "note": "Voting system page does not mention resolvability or tie-breaking."
+ },
+ {
+  "claim": "A/B testing applies experimental methods to business decisions — tech companies run thousands of simultaneous experiments on user interfaces to optimize engagement.",
+  "verdict": "overstated",
+  "corrected_claim": "A/B tests are randomized experiments comparing variants—major software companies such as Microsoft and Google each conduct over 10,000 A/B tests annually.",
+  "quote": "A/B tests consist of a randomized experiment that usually involves two variants (A and B) ... Today, major software companies such as Microsoft and Google each conduct over 10,000 A/B tests annually.",
+  "source_url": "https://en.wikipedia.org/wiki/A/B_testing",
+  "note": "Source gives tests per year, not 'thousands of simultaneous experiments' to optimize engagement."
+ },
+ {
+  "claim": "1902: Walter Sutton and Theodor Boveri independently proposed that the hereditary information is carried in the chromosomes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1902: Walter Sutton and Theodor Boveri independently proposed that the hereditary information is carried in the chromosomes.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Vector calculus was invented independently by the American, Josiah Willard Gibbs (1839–1903), and by the Englishman, Oliver Heaviside (1850–1925).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Vector calculus was invented independently by the American, Josiah Willard Gibbs(1839–1903), and by the Englishman, Oliver Heaviside(1850–1925).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Real understanding of the nature of jet streams is often credited to experience in World War II military flights.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Real understanding of the nature of jet streams is often credited to experience in World War II military flights.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Leon Trotsky frequented a Jewish dairy restaurant in the Bronx but refused to tip, and the waiters retaliated by spilling hot soup on him.",
+  "verdict": "overstated",
+  "corrected_claim": "According to one story, Leon Trotsky loved Triangle Dairy in the Bronx but refused to tip on principle—and once had hot soup intentionally spilled on him by the waiters.",
+  "quote": "According to one story, Leon Trotsky was particularly fond of Triangle Dairy in the Bronx, whose waiters were Russian émigrés. There, he refused to tip as a matter of principle ... In response, Trotsky received verbal abuse, poor service, and on one occasion had hot soup intentionally spilled on him by the waiters.",
+  "source_url": "https://en.wikipedia.org/wiki/Jewish_dairy_restaurant",
+  "note": "Source presents it as 'one story', not established fact."
+ },
+ {
+  "claim": "A Cretan man found a 1st-century statue of Aphrodite (Aphrodite Rhithymnia) while trying to drill a well, and then reburied it.",
+  "verdict": "overstated",
+  "corrected_claim": "According to a local resident, the landowner first found the 1st-century Aphrodite Rhithymnia statue in western Crete when he tried to build a well—then reburied it.",
+  "quote": "According to him, the owner of the land had discovered it previously when he attempted to build a well, but re-buried it again and covered it with soil. ... The statue was created around the second half of the first century AD.",
+  "source_url": "https://en.wikipedia.org/wiki/Aphrodite_Rhithymnia",
+  "note": "Source says 'build' a well, and the account is attributed to a resident ('according to him')."
+ },
+ {
+  "claim": "The Italian Campaign of 1796–1797 demonstrated that Napoleon was a 'great strategist'.",
+  "verdict": "overstated",
+  "corrected_claim": "The Italian Campaign of 1796–1797 demonstrated Napoleon's abilities as a leader of the French Army—it was his first command of a full army.",
+  "quote": "The campaign demonstrated Napoleon's abilities as a leader of the French Army.",
+  "source_url": "https://en.wikipedia.org/wiki/Italian_Campaign_of_1796%E2%80%931797",
+  "note": "Phrase 'great strategist' does not appear in the source."
+ },
+ {
+  "claim": "Ivan the Terrible (film) has been named as both one of the worst films and one of the greatest films of all time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It was also included among Harry Medved's 1978 The Fifty Worst Films of All Time. ... The film has been named twice in British film magazine Sight and Sound's decennial polls as among the greatest films of all time",
+  "source_url": "https://en.wikipedia.org/wiki/Ivan_the_Terrible_(1945_film)",
+  "note": ""
+ },
+ {
+  "claim": "The closest encounter to the Sun so far predicted is the low-mass orange dwarf star Gliese 710 / HIP 89825 with roughly 60% the mass of the Sun.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The closest encounter to the Sun so far predicted is the low-mass orange dwarf star Gliese 710 / HIP 89825 with roughly 60% the mass of the Sun.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "Studying the Arches Cluster, which is currently the densest known cluster of stars in our galaxy, astronomers have confirmed that no stars in that cluster exceed about 150 M☉.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Studying the Arches Cluster, which is currently the densest known cluster of stars in our galaxy, astronomers have confirmed that no stars in that cluster exceed about 150 M☉.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Only 22 are bright enough to be visible without a telescope, for which the star's visible light needs to reach or exceed the dimmest brightness visible to the naked eye from Earth, which is typically around 6.5 apparent magnitude.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Only 22 are bright enough to be visible without a telescope, for which the star's visible light needs to reach or exceed the dimmest brightness visible to the naked eye from Earth, which is typically around 6.5 apparent magnitude.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": ""
+ },
+ {
+  "claim": "Additionally, astronomers have found 6 white dwarfs (stars that have exhausted all fusible hydrogen), 21 brown dwarfs, as well as 1 sub-brown dwarf, WISE 0855−0714 (possibly a rogue planet).",
+  "verdict": "overstated",
+  "corrected_claim": "Additionally, astronomers have found 6 white dwarfs (stars that have exhausted all fusible hydrogen), 20 brown dwarfs, as well as 4 sub-brown dwarfs.",
+  "quote": "Additionally, astronomers have found 6 white dwarfs (stars that have exhausted all fusible hydrogen), 20 brown dwarfs, as well as 4 sub-brown dwarfs.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_nearest_stars",
+  "note": "Page now says 20 brown dwarfs and 4 sub-brown dwarfs (claim: 21 and 1); WISE 0855 not named in the intro."
+ },
+ {
+  "claim": "A number of the \"stars\" listed below may actually be two or more companions orbiting too closely for our telescopes to distinguish, each star possibly being massive in itself but not necessarily \"supermassive\" to either be on this list, or near the top of it.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A number of the \"stars\" listed below may actually be two or more companions orbiting too closely for our telescopes to distinguish, each star possibly being massive in itself but not necessarily \"supermassive\" to either be on this list, or near the top of it.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The first list gives stars that are estimated to be 60 M☉ or larger; the majority of which are shown.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first list gives stars that are estimated to be 60 M☉ or larger; the majority of which are shown.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Kalam SAT is one of the smallest Femto satellite ever made?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Portal%3APhysics/Did_you_know",
+  "note": "Source portal page failed to load (URL_NOT_FOUND)."
+ },
+ {
+  "claim": "In this sense, the disease was co-discovered by Kraepelin and Alzheimer, who worked in Kraepelin's laboratory.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Portal%3AMedicine/Did_you_know",
+  "note": "Source portal page failed to load (URL_NOT_FOUND)."
+ },
+ {
+  "claim": "Earth's atmosphere on the early morning of January 2, 2014, less than a day after it was discovered?",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Portal%3AAstronomy/Did_you_know",
+  "note": "Source portal page failed to load (URL_NOT_FOUND); claim is also a sentence fragment."
+ },
+ {
+  "claim": "They generally arise from conventional wisdom (such as old wives' tales), stereotypes, superstitions, fallacies, a misunderstanding of science, or the popularization of pseudoscience and pseudohistory.",
+  "verdict": "overstated",
+  "corrected_claim": "Common misconceptions often arise from conventional wisdom (such as old wives' tales), stereotypes, superstitions, logical fallacies, misunderstandings of science, or the popularization of pseudoscience and pseudohistory.",
+  "quote": "They often arise from conventional wisdom (such as old wives' tales), stereotypes, superstitions, logical fallacies, misunderstandings of science, or the popularization of pseudoscience and pseudohistory.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_common_misconceptions",
+  "note": "Source says 'often', not 'generally'; claim also lacks a subject."
+ },
+ {
+  "claim": "The first list shows number of neurons in their entire nervous system.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first list shows number of neurons in their entire nervous system.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+  "note": ""
+ },
+ {
+  "claim": "A study of people who reported experiences of alien abduction found that many exhibited characteristics consistent with fantasy-prone personality.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A 1991 study of 152 individuals who reported alien abductions ... found that 132 of them exhibited characteristics consistent with fantasy-prone personality.",
+  "source_url": "https://en.wikipedia.org/wiki/Psychological_perspectives_on_UFO_belief",
+  "note": ""
+ },
+ {
+  "claim": "Finally, some numbers are the result of estimations based on correlations observed between number of cortical neurons and brain mass within closely related taxa.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Finally, some numbers are the result of estimations based on correlations observed between number of cortical neurons and brain mass within closely related taxa.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons",
+  "note": ""
+ },
+ {
+  "claim": "Due to the near-miss effect, gamblers may mistake a game of luck for a game of skill.",
+  "verdict": "overstated",
+  "corrected_claim": "Near misses stimulate the 'win' response, and this conditional reinforcement may lead a gambler to temporarily mistake a game of luck for a game of skill.",
+  "quote": "By stimulating the \"win\" response, conditional reinforcement, which is only useful in games of skill, may lead a gambler to temporarily mistake a game of luck for a game of skill.",
+  "source_url": "https://en.wikipedia.org/wiki/Near-miss_effect",
+  "note": "Source says the mistake is temporary."
+ },
+ {
+  "claim": "No large eruptions of flood basalts have occurred in human history, the most recent having occurred over 10 million years ago.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "No large eruptions of flood basalts have occurred in human history, the most recent having occurred over 10 million years ago.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_largest_volcanic_eruptions",
+  "note": ""
+ },
+ {
+  "claim": "The Siderian is currently the earliest internationally recognized geological period.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As of December 2024, the Siderian retains its 1989 definition, and is the earliest internationally recognized period on Earth's geologic time scale.",
+  "source_url": "https://en.wikipedia.org/wiki/Siderian",
+  "note": ""
+ },
+ {
+  "claim": "Geologist Gilbert Wilson was the fifth Wilson at school, so he was known as 'Quintus'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Wilson first went to school in Windermere, where he was the youngest of five boys called 'Wilson', so was known as Wilson 'Quintus'.",
+  "source_url": "https://en.wikipedia.org/wiki/Gilbert_Wilson_(geologist)",
+  "note": ""
+ },
+ {
+  "claim": "Giorgina Reid patented a technique for holding up banks (erosion prevention on coastal banks).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Reid patented the system in 1965, and wrote a guide book on shoreline protection entitled How To Hold Up a Bank.",
+  "source_url": "https://en.wikipedia.org/wiki/Giorgina_Reid",
+  "note": ""
+ },
+ {
+  "claim": "In 1939 Gerhard Domagk, a German, was not allowed by his government to accept the prize.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1939 Gerhard Domagk, a German, was not allowed by his government to accept the prize.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physiology_or_Medicine",
+  "note": ""
+ },
+ {
+  "claim": "The Nobel Prize in Physiology or Medicine (Swedish: Nobelpriset i fysiologi eller medicin) is awarded annually by the Swedish Karolinska Institute to scientists in the various fields of physiology or medicine.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Nobel Prize in Physiology or Medicine (Swedish: Nobelpriset i fysiologi eller medicin) is awarded annually by the Swedish Karolinska Institute to scientists in the various fields of physiology or medicine.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physiology_or_Medicine",
+  "note": ""
+ },
+ {
+  "claim": "The death rate from adrenal crises can reach as high as 6 percent.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The mortality rate linked to adrenal crises is up to 6%.",
+  "source_url": "https://en.wikipedia.org/wiki/Adrenal_crisis",
+  "note": ""
+ },
+ {
+  "claim": "Public health measures and advances in medical science in modern human history helped raise global life expectancy from about 31 years in 1900 to over 66 years in 2000.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Human_history",
+  "note": "Fetched page text (truncated at early modern period) does not mention life expectancy, 1900 or 2000."
+ },
+ {
+  "claim": "Tjeerd van Andel was surprised to find heaps of giant clam shells around hot springs on his first dive to the Pacific ocean floor.",
+  "verdict": "overstated",
+  "corrected_claim": "On the first crewed Alvin dive to the Pacific sea floor in 1977, Tjeerd van Andel and his companions found giant white clam shells, up to 60 cm long, heaped around seafloor hot springs.",
+  "quote": "As they descended to 2,500 m (8,200 ft) water depth, they began to see giant white clam shells, up to 60 cm (2 ft) long, in heaps on the seafloor, clustered around hot springs.",
+  "source_url": "https://en.wikipedia.org/wiki/Tjeerd_van_Andel",
+  "note": "Not his first dive (he led Alvin dives in 1974); it was Alvin's first crewed Pacific dive. 'Surprised' not stated (page calls fauna 'completely unexpected')."
+ },
+ {
+  "claim": "Despite having no university training, Agnes Crane described a new species of brachiopod in 1886.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "She had no formal university training, ... Crane examined and described the samples, and published the first technical description of this new species in a paper in April 1886.",
+  "source_url": "https://en.wikipedia.org/wiki/Agnes_Crane",
+  "note": ""
+ },
+ {
+  "claim": "A Stegosaurus fossil (Apex) sold for $44.6 million.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After 15 minutes, the specimen was sold to an anonymous buyer for $44.6 million, or 11 times its lower pre-sale estimate.",
+  "source_url": "https://en.wikipedia.org/wiki/Apex_(dinosaur)",
+  "note": ""
+ },
+ {
+  "claim": "The total biomass of ants on Earth is estimated at 12 megatons of dry carbon—about 20% of human biomass, but greater than all wild birds and mammals combined.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "More careful estimates made in 2022 which take into account regional variations puts the global ant contribution at 12 megatons of dry carbon, which is about 20% of the total human contribution, but greater than that of the wild birds and mammals combined.",
+  "source_url": "https://en.wikipedia.org/wiki/Ant",
+  "note": ""
+ },
+ {
+  "claim": "Trap-jaw ants (Odontomachus) can snap their jaws shut at speeds up to 230 km/h (143 mph), closing within 130 microseconds—the fastest predatory strike in the animal kingdom.",
+  "verdict": "overstated",
+  "corrected_claim": "Trap-jaw ants (Odontomachus bauri) have been recorded snapping their jaws at up to 230 km/h (143 mph), closing within about 130 microseconds—the second-fastest predatory appendages in the animal kingdom after the dracula ant.",
+  "quote": "One study of Odontomachus bauri recorded peak speeds between 126 and 230 km/h (78 and 143 mph), with the jaws closing within just 130 microseconds on average. ... Trap-jaw ants of this genus have the second-fastest moving predatory appendages within the animal kingdom, after the dracula ant.",
+  "source_url": "https://en.wikipedia.org/wiki/Odontomachus",
+  "note": "Source says second-fastest, after the dracula ant, not the fastest."
+ },
+ {
+  "claim": "Some ants use their trap-jaws as a catapult—snapping them against the ground to launch themselves backward through the air to escape threats.",
+  "verdict": "overstated",
+  "corrected_claim": "Trap-jaw ants have been observed using their jaws as a catapult to eject intruders or to fling themselves backwards to escape a threat.",
+  "quote": "The ants were also observed to use their jaws as a catapult to eject intruders or fling themselves backwards to escape a threat.",
+  "source_url": "https://en.wikipedia.org/wiki/Odontomachus",
+  "note": "Snapping against the ground / launching through the air not stated on the page."
+ },
+ {
+  "claim": "The vine Boquila trifoliata can mimic the shape of leaves of plants it climbs on, even mimicking artificial plastic leaves, suggesting plants may have a form of vision.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Studies on the vine Boquila trifoliata has raised questions on the mode by which they are able to perceive and mimic the shape of the leaves of the plant upon which they climb. Experiments have shown that they even mimic the shape of plastic leaves when trained on them. ... Suggestions have even been made that plants might have a form of vision.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Plants produce neurotransmitter-like molecules including glutamate, GABA, acetylcholine, melatonin, and serotonin, usually associated with animal nervous systems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Plants produce several signal molecules usually associated with animal nervous systems, such as glutamate, GABA, acetylcholine, melatonin, and serotonin.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ }
+]

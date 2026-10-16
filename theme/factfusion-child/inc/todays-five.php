@@ -56,6 +56,15 @@ function ffc_today_skip_lists_sql() {
 	return $wpdb->prepare( ' AND f.id NOT IN (SELECT l2.fact_id FROM %i l2 INNER JOIN %i s ON s.id = l2.source_id WHERE ' . implode( ' OR ', $likes ) . ')', FactFusion_DB::table( 'fact_sources' ), FactFusion_DB::table( 'sources' ) ); // phpcs:ignore WordPress.DB.PreparedSQL
 }
 
+/**
+ * SQL that keeps only facts already checked against their source (inc/verify-results.php).
+ * Empty until the first checked batch is applied, so Today's 5 works as before until then.
+ */
+function ffc_today_ready_sql() {
+	$ids = function_exists( 'ffc_verify_ready_ids' ) ? ffc_verify_ready_ids() : array();
+	return $ids ? ' AND f.id IN (' . implode( ',', array_map( 'intval', $ids ) ) . ')' : '';
+}
+
 /** Facts published through Today's 5 today (site time). */
 function ffc_today_published_today() {
 	return (int) get_option( 'ffc_today_published_' . wp_date( 'Ymd' ), 0 );
@@ -89,7 +98,7 @@ function ffc_today_pick_ids() {
 	global $wpdb;
 	$table = FactFusion_DB::table( 'facts' );
 	$links = FactFusion_DB::table( 'fact_sources' );
-	$skip  = ffc_today_skip_lists_sql();
+	$skip  = ffc_today_skip_lists_sql() . ffc_today_ready_sql();
 	// phpcs:disable WordPress.DB.DirectDatabaseQuery, WordPress.DB.PreparedSQL
 	$cats = $wpdb->get_col( $wpdb->prepare( 'SELECT DISTINCT f.category_id FROM %i f INNER JOIN %i l ON l.fact_id = f.id WHERE f.status = %s AND f.confidence_score >= %d AND f.category_id > 0' . $skip . ' ORDER BY f.category_id', $table, $links, 'pending', 60 ) );
 	if ( ! $cats ) {
@@ -276,6 +285,9 @@ add_action(
 			$state['notes']  = array();
 			$state['errors'] = array();
 			$state['queue'] = array_map( static fn( $id ) => array( 'type' => 'prepare', 'id' => $id ), $state['ids'] );
+			if ( ! $state['ids'] && ffc_today_ready_sql() ) {
+				$state['notes'][] = 'Every source-checked fact has been used. Apply the next checked batch in Tools → Apply Fact Checks.';
+			}
 		} elseif ( 'publish' === $do ) {
 			// Only facts the editor ticked as checked, each with the confidence they picked.
 			$checked = array_map( 'absint', (array) ( $_POST['checked'] ?? array() ) );
@@ -400,6 +412,10 @@ function ffc_today_page() {
 							Source: <a href="<?php echo esc_url( $source->url ); ?>" target="_blank" rel="noopener"><?php echo esc_html( $source->source_name ); ?></a> (Tier <?php echo esc_html( $source->tier ); ?>)&nbsp;
 						<?php endforeach; ?>
 					</p>
+					<?php $ffc_check = ffc_verify_ready()[ (int) $fact->id ] ?? null; ?>
+					<?php if ( $ffc_check && '' !== $ffc_check['quote'] ) : ?>
+						<p style="border-left:3px solid #00a32a;padding:2px 10px;color:#3c434a">Pre-checked. The source says: <em>&ldquo;<?php echo esc_html( $ffc_check['quote'] ); ?>&rdquo;</em></p>
+					<?php endif; ?>
 					<?php if ( ! empty( $state['errors'][ (int) $fact->id ] ) || '' === trim( (string) $fact->short_answer ) ) : ?>
 						<div class="notice notice-error inline"><p>AI could not write this one<?php echo empty( $state['errors'][ (int) $fact->id ] ) ? '' : ': ' . esc_html( $state['errors'][ (int) $fact->id ] ); ?></p></div>
 					<?php endif; ?>
