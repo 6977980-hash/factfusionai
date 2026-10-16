@@ -1,6 +1,7 @@
 <?php
 /**
- * Review queue: imported pending facts, best sourced first, with a weekly publishing target.
+ * Review queue: imported pending facts that were checked against their source
+ * (Tools → Apply Fact Checks), best sourced first, with a weekly publishing target.
  *
  * FactFusion AI → Review queue. Each row opens the normal fact editor, where the editor
  * drafts the explanation with AI, checks the source, sets Verified and publishes.
@@ -66,8 +67,8 @@ function ffc_review_page() {
 	$week_start = gmdate( 'Y-m-d 00:00:00', strtotime( 'monday this week' ) );
 	// phpcs:disable WordPress.DB.DirectDatabaseQuery
 	$this_week = (int) $wpdb->get_var( $wpdb->prepare( 'SELECT COUNT(*) FROM %i WHERE status = %s AND date_verified >= %s', $table, 'published', $week_start ) );
-	$waiting   = $wpdb->get_results( $wpdb->prepare( 'SELECT category_id, confidence_score, COUNT(*) AS n FROM %i WHERE status = %s GROUP BY category_id, confidence_score', $table, 'pending' ) );
-	$where     = $category ? $wpdb->prepare( ' AND category_id = %d', $category ) : '';
+	$waiting   = $wpdb->get_results( $wpdb->prepare( 'SELECT category_id, confidence_score, COUNT(*) AS n FROM %i WHERE status = %s' . ffc_verify_ready_sql( 'id' ) . ' GROUP BY category_id, confidence_score', $table, 'pending' ) ); // phpcs:ignore WordPress.DB.PreparedSQL.NotPrepared
+	$where     = ( $category ? $wpdb->prepare( ' AND category_id = %d', $category ) : '' ) . ffc_verify_ready_sql( 'id' );
 	$total     = (int) $wpdb->get_var( $wpdb->prepare( "SELECT COUNT(*) FROM %i WHERE status = %s{$where}", $table, 'pending' ) ); // phpcs:ignore WordPress.DB.PreparedSQL.InterpolatedNotPrepared
 	$items     = $wpdb->get_results( $wpdb->prepare( "SELECT id, title, claim, category_id, confidence_score, is_ai_assisted FROM %i WHERE status = %s{$where} ORDER BY confidence_score DESC, fact_number ASC LIMIT %d OFFSET %d", $table, 'pending', $per_page, ( $paged - 1 ) * $per_page ) ); // phpcs:ignore WordPress.DB.PreparedSQL.InterpolatedNotPrepared
 	// phpcs:enable
@@ -98,6 +99,7 @@ function ffc_review_page() {
 	<div class="wrap">
 		<h1>Review queue</h1>
 		<p style="font-size:15px">This week: <strong><?php echo (int) $this_week; ?> / <?php echo (int) FFC_WEEKLY_TARGET; ?></strong> facts published. Waiting: <?php echo (int) array_sum( array_column( $by_cat, 'total' ) ); ?>.</p>
+		<p>Only facts already checked against their source are listed. Sourced facts still waiting for a check come in with the next batch in Tools → Apply Fact Checks.</p>
 		<p>For each fact: open it, click <em>Draft explanation with AI</em>, write the short answer, open the source and check it says the same thing, add one line of your own, then set <em>Verified</em> and <em>Published</em>. If the source does not support it, set it to <em>Archived</em>.</p>
 
 		<p>
@@ -119,7 +121,7 @@ function ffc_review_page() {
 				</tr>
 			<?php endforeach; ?>
 			<?php if ( ! $items ) : ?>
-				<tr><td colspan="4">Nothing waiting. Run Tools → Import 10k Facts first.</td></tr>
+				<tr><td colspan="4">Nothing waiting. Apply the next checked batch in Tools → Apply Fact Checks.</td></tr>
 			<?php endif; ?>
 			</tbody>
 		</table>

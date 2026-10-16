@@ -58,11 +58,10 @@ function ffc_today_skip_lists_sql() {
 
 /**
  * SQL that keeps only facts already checked against their source (inc/verify-results.php).
- * Empty until the first checked batch is applied, so Today's 5 works as before until then.
+ * Before the first checked batch is applied, nothing is picked.
  */
 function ffc_today_ready_sql() {
-	$ids = function_exists( 'ffc_verify_ready_ids' ) ? ffc_verify_ready_ids() : array();
-	return $ids ? ' AND f.id IN (' . implode( ',', array_map( 'intval', $ids ) ) . ')' : '';
+	return function_exists( 'ffc_verify_ready_sql' ) ? ffc_verify_ready_sql( 'f.id' ) : ' AND 0';
 }
 
 /** Facts published through Today's 5 today (site time). */
@@ -285,7 +284,7 @@ add_action(
 			$state['notes']  = array();
 			$state['errors'] = array();
 			$state['queue'] = array_map( static fn( $id ) => array( 'type' => 'prepare', 'id' => $id ), $state['ids'] );
-			if ( ! $state['ids'] && ffc_today_ready_sql() ) {
+			if ( ! $state['ids'] ) {
 				$state['notes'][] = 'Every source-checked fact has been used. Apply the next checked batch in Tools → Apply Fact Checks.';
 			}
 		} elseif ( 'publish' === $do ) {
