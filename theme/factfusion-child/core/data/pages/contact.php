@@ -8,7 +8,7 @@
 defined( 'ABSPATH' ) || exit;
 ?>
 <!-- wp:paragraph -->
-<p>Questions, suggestions and feedback are welcome. Use the form below and your message will go to the editor.</p>
+<p>Questions, suggestions and feedback are welcome. Use the form below and your message will go to the editor, or email us at <a href="mailto:contact@factfusionai.com">contact@factfusionai.com</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -88,7 +88,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Every fact page has a "Report a problem with this fact" form. Reports go to the editor. If a report is right, the fact is corrected and its verification date is updated. If you would rather write to us directly, use the <a href="{{contact_url}}">contact page</a>.</p>
+<p>Every fact page has a "Report a problem with this fact" form. Reports go to the editor. If a report is right, the fact is corrected and its verification date is updated. If you would rather write to us directly, use the <a href="{{contact_url}}">contact page</a> or email us at <a href="mailto:contact@factfusionai.com">contact@factfusionai.com</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

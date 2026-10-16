@@ -16,7 +16,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The site is owned and run by Ali Ahmad Chaudhry, an individual based in Pakistan. It is hosted on servers in Germany. You can reach us through the <a href="{{contact_url}}">contact page</a>.</p>
+<p>The site is owned and run by Ali Ahmad Chaudhry, an individual based in Pakistan. It is hosted on servers in Germany. You can reach us through the <a href="{{contact_url}}">contact page</a> or email us at <a href="mailto:contact@factfusionai.com">contact@factfusionai.com</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -106,7 +106,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Depending on where you live, including under the GDPR in the EU and the UK and under California law, you may have the right to ask for a copy of the information we hold about you, to have it corrected or deleted, and to object to how it is used. To do any of these, use the <a href="{{contact_url}}">contact page</a>. If you are in the EU, you may also complain to your local data protection authority.</p>
+<p>Depending on where you live, including under the GDPR in the EU and the UK and under California law, you may have the right to ask for a copy of the information we hold about you, to have it corrected or deleted, and to object to how it is used. To do any of these, use the <a href="{{contact_url}}">contact page</a> or email us at <a href="mailto:contact@factfusionai.com">contact@factfusionai.com</a>. If you are in the EU, you may also complain to your local data protection authority.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
