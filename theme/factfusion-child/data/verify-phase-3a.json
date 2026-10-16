@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "A pangram is a sentence using every letter of the alphabet — 'The quick brown fox jumps over the lazy dog' is the most famous.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A pangram, or holoalphabetic sentence, phrase, or word, uses every letter of a given alphabet at least once. ... The best-known English pangram is \"The quick brown fox jumps over the lazy dog\".",
+  "source_url": "https://en.wikipedia.org/wiki/Pangram",
+  "note": ""
+ },
+ {
+  "claim": "Third-party punishment in experiments shows people will pay to punish those who acted unfairly toward others — revealing altruistic punishment as a human universal.",
+  "verdict": "overstated",
+  "corrected_claim": "In third-party dictator games, roughly 60% of observers chose to punish dictators who gave away less than half their endowment — and altruistic punishment has been found across many populations, though its strength varies greatly.",
+  "quote": "However, roughly 60% of the third party observers chose to punish dictators who donated less than half their endowment. ... It has been shown that altruistic punishment exists across many examined populations, but that there is also a large variance between them.",
+  "source_url": "https://en.wikipedia.org/wiki/Altruistic_punishment",
+  "note": "'human universal' too strong; page notes large variance and flags the universality claim"
+ },
+ {
+  "claim": "Dinizia excelsa trees in the Amazon reach 88.5 meters—the tallest trees in South America.",
+  "verdict": "overstated",
+  "corrected_claim": "Dinizia excelsa trees near the boundary of Amapá and Pará in Brazil have been measured at 88.5 meters (290 feet) tall.",
+  "quote": "Dinizia excelsa | 88.5 | 290 | Brazil | Near the boundary of Amapá and Pará",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Page does not call it the tallest in South America"
+ },
+ {
+  "claim": "DNA evidence in civil cases uncovered that two babies were switched at birth decades earlier when a woman's ancestry test unexpectedly showed Ashkenazi Jewish heritage inconsistent with her Irish family.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2012, a case of babies being switched, many decades earlier, was discovered by accident. ... she concluded that her father had been switched (possibly accidentally) with another baby soon after birth.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Ashkenazi results vs. family belief of Irish descent"
+ },
+ {
+  "claim": "The Turing machine was invented in 1936 by Alan Turing — he called it an 'a-machine' (automatic machine), and it became the foundation for all of computer science.",
+  "verdict": "overstated",
+  "corrected_claim": "The Turing machine was invented in 1936 by Alan Turing, who called it an 'a-machine' (automatic machine); studying it has yielded many insights into computer science.",
+  "quote": "The Turing machine was invented in 1936 by Alan Turing, who called it an \"a-machine\" (automatic machine).",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_machine",
+  "note": "'Foundation for all of computer science' not stated."
+ },
+ {
+  "claim": "Clostridium botulinum produces botulinum toxin — the most acutely lethal substance known, yet used cosmetically as Botox.",
+  "verdict": "overstated",
+  "corrected_claim": "Clostridium botulinum makes botulinum toxin, the most potent toxin known in scientific literature, yet it is also the basis of Botox, used to selectively paralyze muscles.",
+  "quote": "The botulinum toxin is the most potent toxin known in scientific literature, natural or synthetic. ... used to selectively paralyze muscles to temporarily relieve muscle function",
+  "source_url": "https://en.wikipedia.org/wiki/Clostridium_botulinum",
+  "note": "Page does not mention cosmetic use"
+ },
+ {
+  "claim": "Mealworms (beetle larvae) contain more protein per gram than beef and require far less land, water, and food to raise.",
+  "verdict": "overstated",
+  "corrected_claim": "Mealworm larvae contain 14 to 25 grams of protein per 100 grams, plus potassium, copper, iron, zinc and other minerals at levels rivaling beef.",
+  "quote": "Every 100 grams of raw mealworm larvae contains 206 kilocalories and anywhere from 14 to 25 grams of protein. ... Mealworm larvae contain levels of potassium, copper, sodium, selenium, iron and zinc that rival those of beef.",
+  "source_url": "https://en.wikipedia.org/wiki/Mealworm",
+  "note": "Page compares minerals/vitamins to beef, not protein; no land/water/feed comparison"
+ },
+ {
+  "claim": "Chocolate 'bloom'—the white coating that appears on old chocolate—is caused by fat or sugar crystals rising to the surface. It's safe to eat.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "chocolate can absorb enough moisture to cause a whitish discoloration, the result of fat or sugar crystals rising to the surface. ... Although visually unappealing, chocolate suffering from bloom is safe for consumption and taste is unaffected.",
+  "source_url": "https://en.wikipedia.org/wiki/Chocolate",
+  "note": ""
+ },
+ {
+  "claim": "The shortest pangram in English is 'Cwm fjord bank glyphs vext quiz' (26 letters) — but it uses obscure words.",
+  "verdict": "overstated",
+  "corrected_claim": "'Cwm fjord-bank glyphs vext quiz' is a perfect pangram — using every letter of the alphabet only once — but its words are so obscure that the phrase is hard to understand.",
+  "quote": "A perfect pangram contains every letter of the alphabet only once; as such, it is an anagram of the alphabet. ... so obscure that the phrase is challenging to understand, such as \"Cwm fjord-bank glyphs vext quiz\"",
+  "source_url": "https://en.wikipedia.org/wiki/Pangram",
+  "note": "Page does not call it 'the shortest' pangram"
+ },
+ {
+  "claim": "Reserve prices in auctions set minimum acceptable bids — optimal reserve prices trade off the risk of no sale against higher expected revenue from qualified bidders.",
+  "verdict": "overstated",
+  "corrected_claim": "A reserve price is the lowest price a seller will accept; the optimal reserve balances deterring bidders from understating their value against scaring off bidders with truly low valuations.",
+  "quote": "On the supply side, it is the lowest price a seller is willing to accept for a good or service. ... According to traditional economic theory, the optimal reservation price results from balancing two opposing effects.",
+  "source_url": "https://en.wikipedia.org/wiki/Reserve_price",
+  "note": "Page frames the trade-off differently than risk of no sale vs revenue."
+ },
+ {
+  "claim": "The Monkira Monster coolibah tree in Australia has a crown spread over 200 meters (656 feet) in circumference despite growing in arid conditions.",
+  "verdict": "overstated",
+  "corrected_claim": "The Monkira Monster coolibah tree in Australia was remeasured in 2008 and found to have a crown more than 200 meters (656 feet) in circumference.",
+  "quote": "remeasured in 2008 and found to be \"more than 200 meters\" (more than 656 feet) in circumference",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Arid growing conditions not mentioned"
+ },
+ {
+  "claim": "The PIDS (Plant International DNA-fingerprinting System) manages microsatellite DNA fingerprint data for plant identification, used in forensics, breeding, and variety rights protection.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It manages huge amount of microsatellite DNA fingerprint data. ... a valuable tool for plant breeders, forensic science, and human fingerprint recognition ... the preservation of variety rights",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "A Turing machine with a single tape and a handful of states can compute anything any computer can compute — it's the theoretical minimum for universal computation.",
+  "verdict": "overstated",
+  "corrected_claim": "Despite its simplicity, a Turing machine can implement any computer algorithm: anything a real computer can compute, a Turing machine can also compute.",
+  "quote": "Despite the model's simplicity, it is capable of implementing any computer algorithm. Anything a real computer can compute, a Turing machine can also compute.",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_machine",
+  "note": "'Handful of states' and 'theoretical minimum' not stated."
+ },
+ {
+  "claim": "Anthrax spores can remain viable in soil for 70+ years — ancient graves can still harbor deadly bacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "Anthrax spores can survive in soil for decades or even centuries — disturbed grave sites of infected animals have caused infection after 70 years.",
+  "quote": "The spores of anthrax are able to survive in harsh conditions for decades or even centuries. Disturbed grave sites of infected animals have been known to cause infection after 70 years.",
+  "source_url": "https://en.wikipedia.org/wiki/Anthrax",
+  "note": "Source cites animal grave sites after 70 years, not 'ancient graves'"
+ },
+ {
+  "claim": "Researchers estimate there are 1.4 billion insects for every human on Earth—roughly 10 quintillion insects total at any given time.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Insect",
+  "note": "page gives no count of individual insects alive or per human"
+ },
+ {
+  "claim": "The conching process, where chocolate is continuously mixed and aerated, was invented by Rodolphe Lindt in 1879 and creates smooth texture.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Chocolate",
+  "note": "Page describes conching but names no inventor or date (Lindt/1879 not found)"
+ },
+ {
+  "claim": "An isogram is a word with no repeating letters — 'uncopyrightable' (15 letters) is one of the longest.",
+  "verdict": "overstated",
+  "corrected_claim": "An isogram (or heterogram) is a word in which no letter occurs more than once; 'uncopyrightable' appears among the page's example words.",
+  "quote": "in which no letter of the alphabet occurs more than once ... The terms isogram and nonpattern word have also been used to mean the same thing.",
+  "source_url": "https://en.wikipedia.org/wiki/Isogram",
+  "note": "Page does not state letter count or call it one of the longest"
+ },
+ {
+  "claim": "Gift exchange experiments show workers respond to higher wages with higher effort — contradicting pure incentive theory but supporting efficiency wage models.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Gift_exchange_game",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "The Pechanga Great Oak in California has a crown spread of 53.6 meters (176 feet) and is estimated at over 1,000 years old.",
+  "verdict": "overstated",
+  "corrected_claim": "The Pechanga Great Oak, a coast live oak in California, has a crown spread of 53.6 meters (176 feet).",
+  "quote": "Pechanga Great Oak (coast live oak) ... 53.6 m (176 ft)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Page gives no age for the tree"
+ },
+ {
+  "claim": "Insects can help determine if a body was moved after death because certain species are unique to specific geographical areas and will not be present if remains were transported.",
+  "verdict": "overstated",
+  "corrected_claim": "Insect assemblages can help approximate a body's primary location, because some insects are unique to specific areas—which can show whether a body has been moved from its place of death.",
+  "quote": "Insect assemblages can help approximate a body's primary location, as some insects are unique to specific areas. ... whether a body has been moved from its original place of death.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Page does not say such species 'will not be present' after transport"
+ },
+ {
+  "claim": "The term 'Turing machine' was coined by Alonzo Church, Turing's doctoral advisor, in a paper review — Turing himself never used this term.",
+  "verdict": "overstated",
+  "corrected_claim": "The term 'Turing machine' was coined by Alonzo Church, Turing's doctoral advisor, in a review; Turing called his model an 'a-machine'.",
+  "quote": "It was Turing's doctoral advisor, Alonzo Church, who later coined the term \"Turing machine\" in a review.",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_machine",
+  "note": "'Turing never used the term' not stated."
+ },
+ {
+  "claim": "Vibrio cholerae doesn't cause disease until it colonizes the gut and produces cholera toxin — triggered by environmental signals.",
+  "verdict": "overstated",
+  "corrected_claim": "Vibrio cholerae colonizes the small intestine using its toxin coregulated pilus and secretes cholera toxin, which causes profuse, watery diarrhea; its gene expression shifts in response to the gut's osmolarity and pH.",
+  "quote": "V. cholerae in the intestinal lumen utilizes the TCP to attach to the intestinal mucosa, not invading the mucosa. ... During infection, V. cholerae secretes cholera toxin (CT), a protein that causes profuse, watery diarrhea ... In V. cholerae the TCS EnvZ/OmpR alters gene expression via the sRNA coaR in response to changes in osmolarity and pH.",
+  "source_url": "https://en.wikipedia.org/wiki/Vibrio_cholerae",
+  "note": "Page does not state disease occurs only once toxin is triggered by environmental signals; it describes regulation more narrowly."
+ },
+ {
+  "claim": "Insect populations have declined by 75% in some regions over the past 50 years—a phenomenon some scientists call the 'insect apocalypse.'",
+  "verdict": "overstated",
+  "corrected_claim": "A 2020 meta-study of 166 long-term surveys suggested land insects are declining rapidly, by about 9% per decade, blamed on artificial light, land use change, pesticides and invasive species.",
+  "quote": "A larger 2020 meta-study, analyzing data from 166 long-term surveys, suggested that populations of terrestrial insects are indeed decreasing rapidly, by about 9% per decade.",
+  "source_url": "https://en.wikipedia.org/wiki/Insect",
+  "note": "page has no 75% figure and no 'insect apocalypse' term"
+ },
+ {
+  "claim": "Cocoa beans must be fermented for 2-8 days after harvest to develop chocolate flavor—unfermented beans taste bitter and astringent.",
+  "verdict": "overstated",
+  "corrected_claim": "After harvest, cocoa beans go through a fermentation process that takes up to seven days.",
+  "quote": "The fermentation process, which takes up to seven days,",
+  "source_url": "https://en.wikipedia.org/wiki/Chocolate",
+  "note": "Page says up to seven days (not 2-8); taste of unfermented beans not on page"
+ },
+ {
+  "claim": "A lipogram is a text deliberately avoiding a specific letter — the novel 'Gadsby' avoids the letter 'E' for 50,000 words.",
+  "verdict": "overstated",
+  "corrected_claim": "A lipogram is a text that deliberately avoids a particular letter — Ernest Vincent Wright's 1939 novel 'Gadsby' has over 50,000 words but not a single letter E.",
+  "quote": "Ernest Vincent Wright's novel Gadsby (1939), which has over 50,000 words but not a single letter E.",
+  "source_url": "https://en.wikipedia.org/wiki/Lipogram",
+  "note": "Page says 'over 50,000 words'"
+ },
+ {
+  "claim": "Combinatorial auctions sell multiple items simultaneously, allowing bidders to express synergies — the FCC uses them for spectrum because coverage areas are worth more together.",
+  "verdict": "overstated",
+  "corrected_claim": "Combinatorial auctions let bidders bid on packages of items they value more (or less) together than separately — and have been used to allocate radio spectrum for wireless communications.",
+  "quote": "Combinatorial auctions are applicable when bidders have non-additive valuations on bundles of items ... in the allocation of radio spectrum for wireless communications.",
+  "source_url": "https://en.wikipedia.org/wiki/Combinatorial_auction",
+  "note": "FCC not mentioned"
+ },
+ {
+  "claim": "Yew tree measurements historically varied wildly—the Tisbury Yew's girth was recorded as anywhere from 9.0 to 11.28 meters over 125 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "11.28 m (1834 Loudon), 9.3 m (1892 Lowe), 10.67 m (1903 Elwes and Henry), 9.0 m (1924 E. Swanton), 9.45 m (1959 Mitchell).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "Bodies found in water have different insect colonization patterns—flies will not cross large bodies of water unless there is a substantially influential attractant.",
+  "verdict": "overstated",
+  "corrected_claim": "Flies will not attempt to trek across large bodies of water unless there is a substantially influential attractant, and standing water next to a body can also affect insect activity.",
+  "quote": "He also noted that flies will not attempt to trek across large bodies of water unless there is a substantially influential attractant. The existence of standing water next to a body can also affect the activity of insects.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Page does not state bodies found in water have different colonization patterns"
+ },
+ {
+  "claim": "ANSI C is technically not Turing complete because pointer sizes are accessible — meaning memory is always finite, while true Turing machines require unbounded tape.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "ANSI C is not Turing complete, as all instantiations of ANSI C imply a finite-space memory. This is because the size of memory reference data types, called pointers, is accessible inside the language.",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_machine",
+  "note": ""
+ },
+ {
+  "claim": "Yersinia pestis (plague) can kill a human in 24-36 hours in its septicemic form — one of history's deadliest pathogens.",
+  "verdict": "overstated",
+  "corrected_claim": "Yersinia pestis causes plague, which takes pneumonic, septicemic and bubonic forms and was behind two of the deadliest pandemics in recorded history, the Plague of Justinian and the Black Death.",
+  "quote": "Plague takes three main forms: pneumonic, septicemic, and bubonic. ... two of the deadliest pandemics in recorded history",
+  "source_url": "https://en.wikipedia.org/wiki/Yersinia_pestis",
+  "note": "24-36 hour time-to-death not on page."
+ },
+ {
+  "claim": "Light pollution threatens firefly populations worldwide—artificial light disrupts their mating signals, preventing successful reproduction.",
+  "verdict": "overstated",
+  "corrected_claim": "Light pollution is an especially concerning threat to fireflies: artificial light at night can disrupt their courtship signals and even interfere with larval dispersal.",
+  "quote": "Light pollution is an especially concerning threat to fireflies. ... light pollution can disrupt fireflies' courtship signals and even interfere with larval dispersal",
+  "source_url": "https://en.wikipedia.org/wiki/Firefly",
+  "note": "Page says 'can disrupt' courtship signals; 'worldwide' and 'preventing reproduction' not stated"
+ },
+ {
+  "claim": "Eating raw cookie dough is risky not just because of raw eggs, but because raw flour can harbor E. coli and other pathogens.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Food safety page does not mention this"
+ },
+ {
+  "claim": "The French novel 'La Disparition' by Georges Perec avoids the letter E entirely — then was translated into English still avoiding E.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "written wholly without using the letter e, following Oulipo constraints. ... All translators have asked that the text follow the lipogrammatic constraint of the original work",
+  "source_url": "https://en.wikipedia.org/wiki/A_Void",
+  "note": "Gilbert Adair's English translation A Void keeps the constraint"
+ },
+ {
+  "claim": "Lab experiments on markets consistently find prices converge to equilibrium predictions — even with only a few traders and limited rounds, markets achieve surprising efficiency.",
+  "verdict": "overstated",
+  "corrected_claim": "Vernon Smith found that in some forms of centralized trading, prices and quantities converge on the values predicted by perfect competition — despite conditions not meeting many of its assumptions.",
+  "quote": "Smith found that in some forms of centralized trading, prices and quantities traded in such markets converge ... on the values that would be predicted by the economic theory of perfect competition",
+  "source_url": "https://en.wikipedia.org/wiki/Experimental_economics",
+  "note": "Page says 'some forms', not consistently; few traders/limited rounds not stated"
+ },
+ {
+  "claim": "Over 50 tree species are known to exceed 4.45 meters diameter (14 meters circumference)—true giants of the plant kingdom.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There are known more than 50 species of trees exceeding the diameter of 4.45 m or circumference of 14 m.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "Accumulated Degree Hour (ADH) models calculate total heat energy generated by a body since death, helping estimate postmortem interval based on insect development temperature.",
+  "verdict": "overstated",
+  "corrected_claim": "Thermal summation models such as accumulated degree hours (ADH) calculate the total heat energy an insect needs to reach a developmental milestone, helping forensic entomologists estimate time since death.",
+  "quote": "These methods calculate the total amount of heat energy required for an insect to reach a specific developmental milestone. ... While ADH provides a more granular hourly breakdown,",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Heat energy is what the insect needs to develop, not heat generated by the body"
+ },
+ {
+  "claim": "The 3-state Busy Beaver Turing machine writes 6 ones before halting — finding the maximum for 5 states is an open problem worth more computational effort than the entire history of computing.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_machine",
+  "note": "Page uses 3-state busy beaver only as an example; no count of ones or 5-state claim."
+ },
+ {
+  "claim": "Legionella pneumophila lives inside amoebae in water — human infection is accidental, from contaminated cooling towers.",
+  "verdict": "overstated",
+  "corrected_claim": "In nature, Legionella bacteria live inside amoebae, and many are accidental pathogens of humans; most outbreaks come from poorly maintained cooling towers.",
+  "quote": "In nature, Legionella bacteria live inside tiny organisms, like amoebae ... however many Legionella are accidental pathogens of humans ... Most outbreaks result from poorly maintained cooling towers.",
+  "source_url": "https://en.wikipedia.org/wiki/Legionella",
+  "note": "Page describes the genus generally; cooling towers are the main but not only source"
+ },
+ {
+  "claim": "The Namib desert beetle harvests water from fog by tilting its body into the wind—water condenses on hydrophilic bumps and rolls down into its mouth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Facing into the breeze, with its body angled at 45°, the beetle catches fog droplets on its hardened wings, ... there the droplets stick to hydrophilic bumps, which are surrounded by waxy, hydrophobic troughs. ... at that point it will roll down the beetle's back to its mouthparts.",
+  "source_url": "https://en.wikipedia.org/wiki/Stenocara_gracilipes",
+  "note": ""
+ },
+ {
+  "claim": "The five-second rule is a myth—bacteria can transfer to dropped food in milliseconds, though amount depends on the surface.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Food safety page does not mention this"
+ },
+ {
+  "claim": "The original name for Twitter's character limit was based on SMS text messages, which were limited by technical constraints to 160 characters.",
+  "verdict": "overstated",
+  "corrected_claim": "SMS text messages were limited by technical constraints to 160 characters; message length was first limited to 128 bytes, later improved to 160 seven-bit characters.",
+  "quote": "it was necessary to limit the length of the messages to 128 bytes (later improved to 160 seven-bit characters)",
+  "source_url": "https://en.wikipedia.org/wiki/SMS",
+  "note": "Page does not mention Twitter."
+ },
+ {
+  "claim": "Penny auctions charge for each bid placed, making the auction house profit regardless of who wins — exploiting sunk cost fallacy and competition to extract revenue far exceeding item value.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "all participants must pay a non-refundable fee to place each small incremental bid ... The auctioneer profits from both the fees charged to place bids and the payment for the winning bid ... these combined revenues frequently total more than the value of the item being sold ... This has been credited to the sunk cost fallacy.",
+  "source_url": "https://en.wikipedia.org/wiki/Bidding_fee_auction",
+  "note": ""
+ },
+ {
+  "claim": "Plants have photoreceptor proteins (phototropins, cryptochromes, and phytochromes) that react very specifically to certain wavelengths of light.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "each of which reacts very specifically to certain wavelengths of light.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Potassium permanganate staining is a faster, lower-cost alternative to scanning electron microscopy for identifying fly egg species in forensic entomology.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When scanning electron microscopy is not available, a faster, lower cost technique is potassium permanganate staining.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Bitcoin was invented in 2008 by the pseudonymous Satoshi Nakamoto — who mined about 1 million bitcoins before disappearing in 2010, never to be heard from again.",
+  "verdict": "overstated",
+  "corrected_claim": "Bitcoin was invented in 2008 by the pseudonymous Satoshi Nakamoto, who is estimated to have mined about one million bitcoins before disappearing in 2010 — and whose identity remains unknown.",
+  "quote": "bitcoin was invented in 2008 when an unknown person published a white paper under the pseudonym of Satoshi Nakamoto ... Nakamoto had mined about one million bitcoins ... disappeared in 2010",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Page doesn't say 'never heard from again'; one million is an analysts' estimate"
+ },
+ {
+  "claim": "Helicobacter pylori infects half of all humans and causes most stomach ulcers — a discovery that won the 2005 Nobel Prize.",
+  "verdict": "overstated",
+  "corrected_claim": "About half the world's population is infected with Helicobacter pylori, roughly 10–20% of those infected eventually develop gastric and duodenal ulcers, and its discoverers won the 2005 Nobel Prize.",
+  "quote": "About half the world's population is infected with H. pylori, but only a few strains are pathogenic. ... about 10–20% of those infected will ultimately develop gastric and duodenal ulcers ... In 2005, the pair was awarded the Nobel Prize in Physiology or Medicine for their discovery.",
+  "source_url": "https://en.wikipedia.org/wiki/Helicobacter_pylori",
+  "note": "'Causes most stomach ulcers' not stated"
+ },
+ {
+  "claim": "Bed bugs were nearly eradicated in developed countries by the 1950s but have resurged dramatically since the 1990s due to pesticide resistance and increased travel.",
+  "verdict": "overstated",
+  "corrected_claim": "Bed bugs were nearly eradicated in developed countries after World War II, but infestations have increased since the 1990s, linked to pesticide resistance and increased international travel.",
+  "quote": "Despite being nearly eradicated in developed countries after World War II ... infestations have increased since the 1990s",
+  "source_url": "https://en.wikipedia.org/wiki/Bed_bug",
+  "note": "Page says 'after World War II', not 'by the 1950s'; 'dramatically' not stated"
+ },
+ {
+  "claim": "Refrigerators should be set below 4°C (40°F) to keep food out of the 'danger zone' where bacteria multiply rapidly.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The refrigerator should be at 40 °F (4.4 °C) or below",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Danger zone given as 5-60 °C"
+ },
+ {
+  "claim": "The International Phonetic Alphabet uses 107 letters to represent all sounds in all human languages.",
+  "verdict": "overstated",
+  "corrected_claim": "The International Phonetic Alphabet has 107 segmental letters, plus 31 diacritics and 17 suprasegmental signs, used to transcribe any oral language.",
+  "quote": "the IPA alphabet consists of 107 segmental letters ... 31 diacritics are used to modify these ... 17 additional signs indicate suprasegmental qualities",
+  "source_url": "https://en.wikipedia.org/wiki/International_Phonetic_Alphabet",
+  "note": "107 letters are supplemented by diacritics; 'all sounds in all languages' too absolute"
+ },
+ {
+  "claim": "Beauty contest experiments where players pick numbers closest to 2/3 of the average show most people reason only 1-2 levels deep — not the infinite recursion Nash equilibrium requires.",
+  "verdict": "overstated",
+  "corrected_claim": "In 'guess 2/3 of the average' games, most people play at k-levels 0 to 3, while reaching the Nash equilibrium of 0 would take about 21 k-levels.",
+  "quote": "Evidence suggests that most people play at k-levels 0 to 3 ... It would take approximately 21 k-levels to reach 0, the Nash equilibrium of the game.",
+  "source_url": "https://en.wikipedia.org/wiki/Guess_2/3_of_the_average",
+  "note": "Page says levels 0-3, not 1-2"
+ },
+ {
+  "claim": "Some plants grow toward darkness (skototropism) rather than light—the vine Monstera gigantea uses this to find tree trunks to climb.",
+  "verdict": "overstated",
+  "corrected_claim": "Plant roots show skototropism: while shoots generally grow toward light, roots grow away from it.",
+  "quote": "Shoots generally grow towards light, while roots grow away from it.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "Monstera gigantea appears only in a reference title; body defines skototropism as roots growing away from light."
+ },
+ {
+  "claim": "Mitochondrial DNA analysis developed in 2001 can differentiate between Chrysomyinae fly species when specimens lack distinctive physical characteristics at certain life stages.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2001, a method was devised by Jeffrey Wells and Felix Sperling to use mitochondrial DNA ... to differentiate between different species of the subfamily Chrysomyinae. This is particularly useful when working to determine the identity of specimens...",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "The first Bitcoin transaction for goods was 10,000 BTC for two Papa John's pizzas on May 22, 2010 — now celebrated annually as 'Bitcoin Pizza Day.'",
+  "verdict": "overstated",
+  "corrected_claim": "In the first known commercial bitcoin transaction, programmer Laszlo Hanyecz bought two Papa John's pizzas for 10,000 BTC on 22 May 2010 — now celebrated as 'Bitcoin Pizza Day'.",
+  "quote": "bought two Papa John's pizzas for ₿10,000 ... the first known commercial transaction using bitcoin ... Bitcoin Pizza Day",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Page hedges as 'first known'"
+ },
+ {
+  "claim": "Borrelia burgdorferi (Lyme disease) has one of the most complex genomes of any bacterium — with a linear chromosome and over 20 plasmids.",
+  "verdict": "overstated",
+  "corrected_claim": "Borrelia burgdorferi's genome consists of one megabase linear chromosome (910,725 base pairs, 853 genes) plus an unusual variety of circular and linear plasmids.",
+  "quote": "B. burgdorferi's genome consists of one megabase chromosome and an unusual variety of circular and linear plasmids ... Its linear chromosome contains 910,725 base pairs and 853 genes.",
+  "source_url": "https://en.wikipedia.org/wiki/Borrelia_burgdorferi",
+  "note": "Page does not call it one of the most complex bacterial genomes; plasmid count >20 only appears in a reference title"
+ },
+ {
+  "claim": "Bed bugs can survive up to 400 days without feeding and detect human hosts by sensing carbon dioxide, warmth, and certain chemicals.",
+  "verdict": "overstated",
+  "corrected_claim": "Bed bugs can survive up to approximately 300 days without feeding, and are attracted to hosts primarily by carbon dioxide, secondarily by warmth, and also by certain chemicals.",
+  "quote": "bed bugs can survive up to approximately 300 days without feeding ... Bed bugs are attracted to their hosts primarily by carbon dioxide, secondarily by warmth, and also by certain chemicals.",
+  "source_url": "https://en.wikipedia.org/wiki/Bed_bug",
+  "note": "Page says ~300 days, not 400"
+ },
+ {
+  "claim": "Leftovers should be refrigerated within two hours of cooking, or one hour if the ambient temperature is above 32°C (90°F).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Always refrigerate perishable food within 2 hours—1 hour when the temperature is above 90 °F (32.2 °C).",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": ""
+ },
+ {
+  "claim": "Some languages like Ubykh (Caucasus) have only 2 vowels but 84 consonants — the opposite of Hawaiian's 5 vowels and 8 consonants.",
+  "verdict": "overstated",
+  "corrected_claim": "Ubykh has only two or three phonemic vowels but 84 phonemic consonants, a record among languages without clicks.",
+  "quote": "but only two phonemically distinct vowels ... Ubykh has 84 phonemic consonants, a record high amongst languages without",
+  "source_url": "https://en.wikipedia.org/wiki/Ubykh_language",
+  "note": "Page also says 3 vowels; Hawaiian comparison not in source."
+ },
+ {
+  "claim": "Sponsored search auctions used by Google allocate ad positions based on bids and quality scores — generating $200+ billion annually through clever mechanism design.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Sponsored_search",
+  "note": "Page failed to load (not found)."
+ },
+ {
+  "claim": "Plants produce more protective UV-absorbing pigments when exposed to high ultraviolet radiation—sunscreen at the cellular level.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "plants produce more of their protective pigments that act as sunscreens.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Gene expression studies can determine the age of fly eggs to within two hours by measuring expression levels of genes like bicoid, slalom, and chitin synthase.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "bicoid (bcd), slalom (sll), and chitin synthase (cs). ... predict the age of an egg to within two hours with a high confidence level",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Bitcoin's genesis block contains the text 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks' — embedding a newspaper headline as proof of the creation date.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Text embedded in genesis block per page"
+ },
+ {
+  "claim": "Rickettsia can only reproduce inside host cells — they're obligate intracellular parasites, like tiny cellular hijackers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Rickettsial organisms are obligate intracellular parasites ... rickettsias depend on entry, growth, and replication within the cytoplasm of living eukaryotic host cells",
+  "source_url": "https://en.wikipedia.org/wiki/Rickettsia",
+  "note": ""
+ },
+ {
+  "claim": "The gypsy moth caterpillar can defoliate millions of acres of trees—a single outbreak in the northeastern U.S. stripped 13 million acres of leaves in one year.",
+  "verdict": "overstated",
+  "corrected_claim": "Spongy (gypsy) moth caterpillars have caused cumulative defoliation of about 82 million acres of forest in the U.S. from 1970 to 2013.",
+  "quote": "resulting in the cumulative defoliation of 33,000,000 ha (82,000,000 acres) of forest from 1970 to 2013.",
+  "source_url": "https://en.wikipedia.org/wiki/Lymantria_dispar",
+  "note": "13 million acres in one year not on page; page gives a cumulative multi-decade figure"
+ },
+ {
+  "claim": "The 'best by' date on food is about quality, not safety—many foods are safe well after this date if properly stored.",
+  "verdict": "overstated",
+  "corrected_claim": "Dates on food packaging reflect when an item is at peak quality, not when it stops being safe to eat.",
+  "quote": "to reflect when an item is at peak quality, not to inform consumers when food is no longer safe to eat.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "'Many foods safe well after this date' not stated"
+ },
+ {
+  "claim": "Hawaiian has one of the smallest phoneme inventories: only 13 phonemes (8 consonants and 5 vowels).",
+  "verdict": "overstated",
+  "corrected_claim": "Hawaiian is known for having very few consonant phonemes — just eight — along with five pure vowels (short and long).",
+  "quote": "Hawaiian is known for having very few consonant phonemes – eight: /p, k ~ t, ʔ, h, m, n, l, w ~ v/. ... Hawaiian has five short and five long vowels, plus diphthongs.",
+  "source_url": "https://en.wikipedia.org/wiki/Hawaiian_language",
+  "note": "13 total and 'one of the smallest' not stated"
+ },
+ {
+  "claim": "Bubbles and crashes can occur with rational expectations — coordination on self-fulfilling prophecies means everyone can rationally participate in a bubble they know will burst.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "its inability to explain certain phenomena, such as 'irrational' bubbles and crashes in financial markets",
+  "source_url": "https://en.wikipedia.org/wiki/Rational_expectations",
+  "note": "Page cites bubbles and crashes as something rational expectations fails to explain."
+ },
+ {
+  "claim": "Poplar stems can detect both reorientation and inclination, having a sense of equilibrioception similar to animal balance organs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Poplar stems can detect reorientation and inclination (equilibrioception) through gravitropism",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Pigs are most frequently used as forensic decomposition models because they share characteristics with humans including subcutaneous fat, skin thickness, hair covering, and omnivorous diets.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Pigs are the most frequently utilised model in an attempt to gather data regarding forensic experimental analysis. These interrelated components include: subcutaneous fat stores, skin thickness, ... range of adult body mass, hair covering, and omnivorous diets.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "About 20% of all bitcoins are estimated to be permanently lost — including a user who discarded a hard drive containing 7,500 BTC, worth over $7.5 million at the time.",
+  "verdict": "overstated",
+  "corrected_claim": "Around 20% of all bitcoins are estimated to be lost — in 2013 one user lost 7,500 BTC, valued at US$7.5 million, by accidentally discarding a hard drive holding the private key.",
+  "quote": "It is estimated that around 20% of all bitcoins are lost. ... a user lost ₿7,500, valued at US$7.5 million",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Value was $7.5 million, not 'over'; 'permanently' not stated"
+ },
+ {
+  "claim": "Cyanobacteria were the first organisms to produce oxygen through photosynthesis — changing Earth's atmosphere forever.",
+  "verdict": "overstated",
+  "corrected_claim": "Cyanobacteria are the first organisms known to have produced oxygen — and are thought to have turned Earth's early atmosphere into an oxygen-rich one, causing the Great Oxidation Event.",
+  "quote": "Cyanobacteria are the first organisms known to have produced oxygen. ... resulting in the Great Oxidation Event",
+  "source_url": "https://en.wikipedia.org/wiki/Cyanobacteria",
+  "note": "Page says 'first known' and 'thought to have'"
+ },
+ {
+  "claim": "The Colorado potato beetle has evolved resistance to 52 different insecticides—more than any other insect species.",
+  "verdict": "overstated",
+  "corrected_claim": "The Colorado potato beetle has evolved resistance to 56 different chemical insecticides.",
+  "quote": "The species as a whole has evolved resistance to 56 different chemical insecticides.",
+  "source_url": "https://en.wikipedia.org/wiki/Colorado_potato_beetle",
+  "note": "Page says 56, not 52; no comparison with other insects"
+ },
+ {
+  "claim": "Cooking meat to the proper internal temperature (e.g., 74°C/165°F for poultry) kills most foodborne pathogens.",
+  "verdict": "overstated",
+  "corrected_claim": "Cooking foods for the appropriate length of time and at the appropriate temperature kills pathogens.",
+  "quote": "Cook foods for the appropriate length of time and at the appropriate temperature to kill pathogens.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Specific poultry temperature (74°C/165°F) not on page"
+ },
+ {
+  "claim": "The Sentinelese of North Sentinel Island speak a language that has never been documented — they attack all outsiders.",
+  "verdict": "overstated",
+  "corrected_claim": "Very little is known about the language of the Sentinelese, which is unclassified; they are usually hostile to outsiders and have killed people who landed on the island.",
+  "quote": "Because of their complete isolation, very little is known about the Sentinelese language, which is therefore unclassified. ... They are hostile to outsiders and have killed people who approached or landed on the island.",
+  "source_url": "https://en.wikipedia.org/wiki/Sentinelese",
+  "note": "Not 'all' outsiders: friendly contact reported in early 1990s."
+ },
+ {
+  "claim": "The kidney exchange algorithm matches incompatible donor-patient pairs through cycles — if A can't donate to their loved one B but can to C, while C's donor can give to B, both pairs benefit.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "KPD overcomes donor–recipient incompatibility by swapping kidneys between multiple donor–recipient pairs. ... the donor donates a kidney only if their patient receives a kidney in the swap.",
+  "source_url": "https://en.wikipedia.org/wiki/Kidney_paired_donation",
+  "note": ""
+ },
+ {
+  "claim": "Climbing plants like tomatoes exhibit thigmotropism—they curl around objects in response to touch, allowing them to climb.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Climbing plants, such as tomatoes, exhibit thigmotropism, allowing them to curl around objects.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Stable isotope analysis of insect tissues can reveal the geographic origin of insects found on a body and aspects of their diet, including whether they consumed human remains.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the stable isotopic composition of elements found in insect tissues ... The environment in which the insect developed, including its diet and place of origin, is reflected in these isotopes. ... features of the insect's diet, such as whether it consumed organic matter or human remains",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Bitcoin mining represented 0.5% of global electricity consumption as of 2025 — comparable to Slovakia's total emissions, with about half powered by fossil fuels.",
+  "verdict": "overstated",
+  "corrected_claim": "A non-peer-reviewed Cambridge study estimated that, as of 2025, bitcoin mining used 0.5% of global electricity, with emissions comparable to Slovakia's and about half of its power from fossil fuels.",
+  "quote": "represented 0.5% of global electricity consumption ... comparable to Slovakia's emissions ... About half of the electricity used is generated through fossil fuels.",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Estimate is from a single non-peer-reviewed study"
+ },
+ {
+  "claim": "Giant viruses (Mimivirus, Pandoravirus) are larger than some bacteria — blurring the line between virus and cell.",
+  "verdict": "overstated",
+  "corrected_claim": "Some giant viruses are larger than typical bacteria, and their genomes contain genes once thought to be a hallmark of cellular organisms.",
+  "quote": "some of which are larger than typical bacteria ... a characteristic that had previously been believed to be indicative of cellular organisms.",
+  "source_url": "https://en.wikipedia.org/wiki/Giant_virus",
+  "note": "Page does not compare Pandoravirus to bacteria; 'blurring' is framed via gene content"
+ },
+ {
+  "claim": "Monarch butterfly populations have declined by 90% since the 1990s due to loss of milkweed habitat and climate change.",
+  "verdict": "overstated",
+  "corrected_claim": "Overwintering monarch numbers east of the Rockies declined by more than 90% since 1995, with a 2016 study blaming primarily the loss of breeding habitat and milkweed.",
+  "quote": "the overwintering numbers east of the Rockies have declined by more than 90% since 1995. ... primarily to the loss of breeding habitat and milkweed.",
+  "source_url": "https://en.wikipedia.org/wiki/Monarch_butterfly",
+  "note": "90% figure applies to eastern overwintering population since 1995"
+ },
+ {
+  "claim": "Cross-contamination is a leading cause of foodborne illness—always use separate cutting boards for raw meat and produce.",
+  "verdict": "overstated",
+  "corrected_claim": "A key food-safety rule is to separate raw and cooked foods to prevent contaminating the cooked foods.",
+  "quote": "Separate raw and cooked foods to prevent contaminating the cooked foods.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "'Leading cause' and cutting boards not on page"
+ },
+ {
+  "claim": "Ubykh, once spoken in Turkey, became extinct in 1992 when its last fluent speaker died — it had the most consonants of any recorded language without clicks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Ubykh language died out on 7 October 1992, when its last fluent speaker, Tevfik Esenç, died. ... Ubykh has 84 phonemic consonants, a record high amongst languages without click consonants.",
+  "source_url": "https://en.wikipedia.org/wiki/Ubykh_language",
+  "note": "Speakers settled in Turkey after 1864 expulsion from the Black Sea coast."
+ },
+ {
+  "claim": "Sunspot equilibria show that irrelevant random variables can coordinate behavior — if everyone believes sunspots affect the economy and acts accordingly, they do affect the economy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a random influence that matters only because people think it matters. ... such a nonfundamental variable might have an effect on equilibrium outcomes if it influences expectations.",
+  "source_url": "https://en.wikipedia.org/wiki/Sunspot_(economics)",
+  "note": ""
+ },
+ {
+  "claim": "Plants use ATP, nitric oxide, and reactive oxygen species for signaling in ways similar to how animals use these molecules.",
+  "verdict": "overstated",
+  "corrected_claim": "Plants may also use ATP, nitric oxide and reactive oxygen species for signaling in similar ways as animals do.",
+  "quote": "They may also use ATP, NO, and ROS for signaling in similar ways as animals do.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "Page hedges with 'may'."
+ },
+ {
+  "claim": "Urban forensic entomology can evaluate pest control efficiency, determine infestation size, and identify responsible parties in rental property infestations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For instance, urban forensic entomology can be used to evaluate the efficiency of pest control techniques such as pesticide treatments, ... identifying the responsible party in situations involving infestations in rental homes.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Infestation-size part confirmed only via summarizer paraphrase"
+ },
+ {
+  "claim": "Bitcoin reached a $1 trillion market cap for the first time in February 2021, and $100,000 per bitcoin in December 2024.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "bitcoin's market capitalization reached $1 trillion for the first time ... bitcoin price reached $100,000 for the first time",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Feb 2021 and Dec 2024 per page"
+ },
+ {
+  "claim": "Pandoravirus has 2,500 genes — more than some parasitic bacteria and eukaryotes.",
+  "verdict": "overstated",
+  "corrected_claim": "Pandoraviruses have a large genome of about 2,500 genes, compared with only 10 genes on average in other viruses.",
+  "quote": "Pandoraviruses have a large genome made up of 2,500 genes, compared to only 10 genes on average in other viruses.",
+  "source_url": "https://en.wikipedia.org/wiki/Pandoravirus",
+  "note": "Comparison with parasitic bacteria/eukaryotes not stated (only genome size in a reference title)"
+ },
+ {
+  "claim": "The rosy maple moth looks like it was designed by a candy shop—adults have bright pink and yellow coloring but don't eat, living only long enough to mate.",
+  "verdict": "overstated",
+  "corrected_claim": "The rosy maple moth looks like candy—adults are bright pink and yellow—and, like all other Saturniid moths, the adults do not eat.",
+  "quote": "Adult rosy maple moths are distinguishable by their bright pink and yellow color ... However, like all other Saturniid moths, the adult moths do not eat.",
+  "source_url": "https://en.wikipedia.org/wiki/Dryocampa_rubicunda",
+  "note": "Page doesn't say they live only long enough to mate."
+ },
+ {
+  "claim": "Freezing doesn't kill bacteria or parasites—it only puts them in a dormant state until thawing.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Food safety page does not mention this"
+ },
+ {
+  "claim": "The last speaker of Ubykh, Tevfik Esenç, worked with linguists to record his language before dying — preserving it for future study.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "known for being the last speaker of the Ubykh language ... he was able to do a great deal of work with the French linguist Georges Dumézil ... to help record his language",
+  "source_url": "https://en.wikipedia.org/wiki/Tevfik_Esen%C3%A7",
+  "note": ""
+ },
+ {
+  "claim": "School choice mechanisms must balance efficiency, strategy-proofness, and stability — Boston's old algorithm was manipulable, leading to adoption of the Gale-Shapley deferred acceptance.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/School_choice",
+  "note": "Page does not mention Boston mechanism, strategy-proofness or deferred acceptance."
+ },
+ {
+  "claim": "Plant root tips can use sound to locate water—they grow toward the sound of flowing water before actually reaching it.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "Root/sound/water claim appears only in a reference title, not in the article text."
+ },
+ {
+  "claim": "Mummification rather than decomposition occurs in dry environments, discouraging insect activity—but dermestid beetles can still colonize bodies in arid conditions.",
+  "verdict": "overstated",
+  "corrected_claim": "In arid settings a body may mummify rather than break down, which may discourage insects that need damp conditions—but dermestid beetles can survive in dry environments and still be found on a body.",
+  "quote": "Mummification rather that breakdown may result from the body losing moisture more quickly in arid settings. Given that many insects need damp atmosphere to survive, this may discourage their activity. Nonetheless, some insects, like dermestid beetles, can survive in dry environments and can still be found on a body.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Source hedges with 'may'"
+ },
+ {
+  "claim": "The smallest bitcoin unit, a satoshi (sat), is 1/100,000,000 of a bitcoin — named after the mysterious creator Satoshi Nakamoto.",
+  "verdict": "overstated",
+  "corrected_claim": "The smallest unit of bitcoin, the satoshi (sat), is one hundred millionth of a bitcoin.",
+  "quote": "representing 1⁄100000000 (one hundred millionth) bitcoin, the smallest amount possible",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Page doesn't state the unit is named after Nakamoto"
+ },
+ {
+  "claim": "Viruses that infect viruses (virophages) exist — parasites have their own parasites.",
+  "verdict": "overstated",
+  "corrected_claim": "Virophages are small DNA viruses that can only replicate when a giant virus co-infects the same host, hijacking the giant virus's replication factory.",
+  "quote": "Virophages are small, double-stranded DNA viruses that require the co-infection of another virus. ... Virophages rely on the viral replication factory of the co-infecting giant virus for their own replication.",
+  "source_url": "https://en.wikipedia.org/wiki/Virophage",
+  "note": "Page describes dependence on a co-infecting giant virus rather than directly 'infecting viruses'."
+ },
+ {
+  "claim": "The flannel moth caterpillar ('puss caterpillar') has venomous hairs that cause intense, radiating pain—it's considered North America's most dangerous caterpillar.",
+  "verdict": "overstated",
+  "corrected_claim": "The puss caterpillar's 'fur' hides venomous spines that cause extremely painful reactions, including severe radiating pain — it is regarded as a dangerous insect.",
+  "quote": "The \"fur\" of the larva contains venomous spines that cause extremely painful reactions in human skin upon contact. ... The caterpillar is regarded as a dangerous insect because of its venomous spines.",
+  "source_url": "https://en.wikipedia.org/wiki/Megalopyge_opercularis",
+  "note": "Page does not call it North America's most dangerous caterpillar"
+ },
+ {
+  "claim": "Handwashing with soap for 20 seconds reduces foodborne illness rates more than any other single intervention.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Food safety page does not mention this"
+ },
+ {
+  "claim": "Navajo was used as an unbreakable code in WWII — its complexity and lack of written records made it impossible for enemies to decode.",
+  "verdict": "overstated",
+  "corrected_claim": "The Navajo code used in WWII was never broken — Navajo was still an unwritten language with numerous dialects, unintelligible to anyone without extensive exposure and training.",
+  "quote": "Their code was never broken. ... It was still an unwritten language with numerous dialects at the time.",
+  "source_url": "https://en.wikipedia.org/wiki/Code_talker",
+  "note": "'Impossible to decode' is stronger than the page's 'never broken'"
+ },
+ {
+  "claim": "The Lucas Critique showed that policy changes alter the relationships econometric models are based on — you can't assume behaviors will stay the same when incentives change.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "any change in policy will systematically alter the structure of econometric models.",
+  "source_url": "https://en.wikipedia.org/wiki/Lucas_critique",
+  "note": ""
+ },
+ {
+  "claim": "Jasmonate levels increase rapidly in plants during mechanical stimulation like tendril coiling—a rapid chemical response to touch.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Jasmonate levels also increase rapidly in response to mechanical perturbations such as tendril coiling.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "DNA analysis of insect gut contents can determine what the insect recently ate, helping establish connections between insects and victims in forensic investigations.",
+  "verdict": "overstated",
+  "corrected_claim": "Identifying insect stomach contents is one of the main uses of DNA analysis in forensic entomology—sequencing gut DNA reveals the insect's most recent meal.",
+  "quote": "The identification of insect stomach contents is one of the main uses of DNA analysis in forensic entomology. Investigators can ascertain the insect's most recent meal by sequencing the DNA contained in the gut",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Source ties this to PMI/contamination sources, not insect-victim connections"
+ },
+ {
+  "claim": "Tim Berners-Lee invented the World Wide Web at CERN in 1989 — originally conceived as a way to share documents between physicists at different universities.",
+  "verdict": "overstated",
+  "corrected_claim": "Tim Berners-Lee invented the World Wide Web at CERN in 1989, motivated by the problem of storing, updating and finding documents and data files and sharing them with outside collaborators.",
+  "quote": "The Web was invented by English computer scientist Tim Berners-Lee while at CERN in 1989 and opened to the public in 1993. ... He was motivated by the problem of storing, updating, and finding documents and data files",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": "Page does not say physicists at different universities."
+ },
+ {
+  "claim": "Retroviruses like HIV insert their DNA into host chromosomes — becoming a permanent part of the infected cell's genome.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "inserts a DNA copy of its RNA genome into the DNA of a host cell ... This DNA can be incorporated into host genome as a provirus that can be passed on to progeny cells.",
+  "source_url": "https://en.wikipedia.org/wiki/Retrovirus",
+  "note": ""
+ },
+ {
+  "claim": "Africanized 'killer' bees are hybrids that escaped from a Brazilian breeding program in 1957—they've since spread throughout the Americas.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "26 swarms with their queens escaped from their experimental apiary in 1957. ... The descendants of these colonies have since spread throughout the Americas",
+  "source_url": "https://en.wikipedia.org/wiki/Africanized_bee",
+  "note": "hybrid from Warwick Kerr's Brazilian program"
+ },
+ {
+  "claim": "Wooden cutting boards may actually be more sanitary than plastic—bacteria get trapped in knife grooves in plastic and can multiply.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Food safety page does not mention this"
+ },
+ {
+  "claim": "Navajo code talkers had to invent new words for military terms — 'dive bomber' became 'chicken hawk' and 'submarine' became 'iron fish'.",
+  "verdict": "overstated",
+  "corrected_claim": "Navajo code talkers had to coin terms for military equipment — Navajo had no word for submarine, so it became 'iron fish', while the word for buzzard was used for bomber.",
+  "quote": "The Navajo did not have a word for submarine, so they translated it as iron fish.",
+  "source_url": "https://en.wikipedia.org/wiki/Code_talker",
+  "note": "'Chicken hawk' for dive bomber not on the page"
+ },
+ {
+  "claim": "Two-sided matching markets like residency matching require careful mechanism design — the National Resident Matching Program processes 40,000+ doctors annually using stable matching algorithms.",
+  "verdict": "overstated",
+  "corrected_claim": "The National Resident Matching Program's 2021 Main Residency Match encompassed more than 48,000 applicants and 38,000 positions, using an applicant-proposing stable matching algorithm.",
+  "quote": "In addition to the annual Main Residency Match that in 2021 encompassed more than 48,000 applicants and 38,000 positions ... A new applicant-proposing algorithm was adopted in May 1997",
+  "source_url": "https://en.wikipedia.org/wiki/National_Resident_Matching_Program",
+  "note": "Figures are applicants/positions for 2021, not '40,000+ doctors annually'"
+ },
+ {
+  "claim": "Plants have 'phototropism' toward light and 'gravitropism' responding to gravity—oppositely in shoots (up) versus roots (down).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Shoots generally grow towards light, while roots grow away from it. ... In shoots, growth occurs in the opposite direction, a phenomenon known as negative gravitropism.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Parasitoid wasps (Pteromalidae) lay eggs only in the pupae of specific fly species, and their presence can affect postmortem interval calculations by killing developing flies.",
+  "verdict": "overstated",
+  "corrected_claim": "Pteromalidae parasitoid wasps lay their eggs only on the pupae of muscoid flies, and their larvae feed on the developing fly inside the puparium, eventually killing it.",
+  "quote": "A relevant type of parasitoid are the Pteromalidae, which oviposit only upon the pupae of muscoid flies. The wasp larvae will feed on the fly developing within the puparium, eventually killing it.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Page does not explicitly tie Pteromalidae to PMI miscalculation; host is muscoid flies, not specific species"
+ },
+ {
+  "claim": "The first web server ran on a NeXT computer at CERN — Berners-Lee wrote both the browser (called WorldWideWeb) and server by the end of 1990.",
+  "verdict": "overstated",
+  "corrected_claim": "Berners-Lee had a working Web system implemented by the end of 1990, including a browser called WorldWideWeb; the first web server was nxoc01.cern.ch.",
+  "quote": "He got a working system implemented by the end of 1990, including a browser called WorldWideWeb. ... the first web server was nxoc01.cern.ch",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": "NeXT computer not mentioned on page."
+ },
+ {
+  "claim": "About 8% of the human genome consists of ancient retroviral DNA — genetic fossils of ancient infections.",
+  "verdict": "overstated",
+  "corrected_claim": "Endogenous retroviruses make up roughly 5–8% of the human genome (lower estimates say 3%) — traces of ancient viral infections.",
+  "quote": "comprise up to 5–8% of the human genome (lower estimates of 3%)",
+  "source_url": "https://en.wikipedia.org/wiki/Endogenous_retrovirus",
+  "note": "Page gives 5-8% (lower estimates 3%), not flat 8%"
+ },
+ {
+  "claim": "Robber flies catch prey in mid-air—they have such powerful vision they can identify and intercept specific flying insects from over a meter away.",
+  "verdict": "overstated",
+  "corrected_claim": "Robber flies are excellent flyers that wait in ambush and catch their prey in flight — sight plays an essential role in detecting and capturing prey.",
+  "quote": "as a rule, they wait in ambush and catch their prey in flight. ... This behavior signifies that sight plays an essential role in the detection of prey and their capture.",
+  "source_url": "https://en.wikipedia.org/wiki/Asilidae",
+  "note": "Page gives no detection distance or claim about identifying specific insects"
+ },
+ {
+  "claim": "Salt's lethal dose (LD50) for humans is about 3 grams per kilogram of body weight—vastly more than anyone would typically consume.",
+  "verdict": "overstated",
+  "corrected_claim": "Table salt's median lethal dose (LD50) is about 3 grams per kilogram of body weight — measured orally in rats.",
+  "quote": "LD50 (median dose): 3 g/kg (oral, rats)",
+  "source_url": "https://en.wikipedia.org/wiki/Sodium_chloride",
+  "note": "Source LD50 figure is for rats, not humans; 'vastly more than anyone would consume' not stated"
+ },
+ {
+  "claim": "The Japanese never broke the Navajo code — they even captured a Navajo soldier but he couldn't understand the code talkers' military terms.",
+  "verdict": "overstated",
+  "corrected_claim": "The Navajo code was never broken — it is the only spoken military code never to have been deciphered.",
+  "quote": "Their code was never broken. ... is the only spoken military code never to have been deciphered.",
+  "source_url": "https://en.wikipedia.org/wiki/Code_talker",
+  "note": "Captured Navajo soldier story not on the page"
+ },
+ {
+  "claim": "Goodhart's Law states 'When a measure becomes a target, it ceases to be a good measure' — explaining why metrics-based management often backfires.",
+  "verdict": "overstated",
+  "corrected_claim": "Goodhart's Law states 'When a measure becomes a target, it ceases to be a good measure' — for example, hospitals striving to reduce length of stay may discharge patients prematurely.",
+  "quote": "When a measure becomes a target, it ceases to be a good measure ... hospitals striving to reduce length of stay (LOS) may inadvertently discharge patients prematurely",
+  "source_url": "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+  "note": "'Often backfires' generalization is not stated; page gives examples"
+ },
+ {
+  "claim": "Seeds of many plants require light exposure to germinate, detected through phytochrome signaling—ensuring they're near the soil surface.",
+  "verdict": "overstated",
+  "corrected_claim": "Many seeds only germinate after light exposure, a response carried out by phytochrome signalling.",
+  "quote": "This response is carried out by phytochrome signalling.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "'Ensuring they are near the soil surface' not stated."
+ },
+ {
+  "claim": "Blowfly larvae feeding on wounds indicate that injury occurred before death, as newly hatched maggots cannot break through intact human skin and require pre-existing openings.",
+  "verdict": "overstated",
+  "corrected_claim": "Blowflies are too small and fragile to break through human skin themselves, so females typically lay eggs near pre-existing wounds or natural orifices.",
+  "quote": "Due to their minute size and fragility blowflies are unable to break through human skin themselves to attain this nutrition. Therefore, the female typically oviposits near a pre-existing wound or natural orifices",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Page does not say wound feeding proves pre-death injury; skin statement is [citation needed]"
+ },
+ {
+  "claim": "CERN released the web protocol and code royalty-free on April 30, 1993 — enabling its explosive growth, with thousands of websites appearing within a year.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "CERN made the Web protocol and code available royalty-free on 30 April 1993, enabling its widespread use. ... the Web's popularity grew rapidly as thousands of websites sprang up in less than a year.",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": ""
+ },
+ {
+  "claim": "Influenza A virus reassorts its genome segments in pigs and birds — creating new pandemic strains through genetic mixing.",
+  "verdict": "overstated",
+  "corrected_claim": "Influenza A can swap genome segments between strains from different hosts — pigs are especially important mixing vessels, and the 2009 H1N1 pandemic came from reassortment of human, avian, and swine viruses.",
+  "quote": "Pigs are especially important in antigenic shift of influenza viruses. The most recent 2009 H1N1 outbreak was a result of antigenic shift and reassortment between human, avian, and swine viruses.",
+  "source_url": "https://en.wikipedia.org/wiki/Antigenic_shift",
+  "note": "Source emphasizes pigs as mixing hosts; birds as reassortment site not stated"
+ },
+ {
+  "claim": "Dobsonflies have massive mandibles that look terrifying but are mostly for mating displays—their bite is relatively harmless despite the scary appearance.",
+  "verdict": "overstated",
+  "corrected_claim": "Male dobsonflies' huge mandibles, up to 4 cm long, are used in competition for females and courtship—they are too long to bite with, though females have short mandibles that deliver powerful bites.",
+  "quote": "these can reach up to 4 cm (1.6 in) in length and are used in competition for females. ... Males cannot use these mandibles to bite because they are too long. ... females have short, heavily sclerotized mandibles which enable them to deliver powerful bites when threatened.",
+  "source_url": "https://en.wikipedia.org/wiki/Dobsonfly",
+  "note": "Mandibles used in male combat and courtship, not just displays; female bites are powerful, page doesn't call bites harmless."
+ },
+ {
+  "claim": "The human body requires only about 500 mg of sodium daily to function, but the average American consumes over 3,400 mg.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Sodium_chloride",
+  "note": "Page does not mention daily sodium requirement or US consumption"
+ },
+ {
+  "claim": "Linear A, the script of Minoan Crete (1800-1450 BCE), remains undeciphered despite decades of effort.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Linear A is a writing system that was used by the Minoans of Crete from 1800 BC to 1450 BC. ... Since its modern rediscovery in 1900, no texts in the script have yet been deciphered.",
+  "source_url": "https://en.wikipedia.org/wiki/Linear_A",
+  "note": ""
+ },
+ {
+  "claim": "Random serial dictatorship assigns objects by giving each person in a random order their top remaining choice — surprisingly strategy-proof and Pareto efficient for house allocation.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Random_serial_dictatorship",
+  "note": "Source is a disambiguation page with no details"
+ },
+ {
+  "claim": "Without gravity, plants cannot orient themselves properly—space station experiments show roots and shoots grow randomly.",
+  "verdict": "overstated",
+  "corrected_claim": "Without gravity, proper orientation will not occur and a plant will not grow effectively.",
+  "quote": "Without gravity, proper orientation will not occur and the plant will not effectively grow.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": "Space station experiments and random growth not mentioned."
+ },
+ {
+  "claim": "Chironomid midges (aquatic insects) have been used to estimate postsubmersion interval in drowning cases where traditional forensic entomology methods don't apply.",
+  "verdict": "overstated",
+  "corrected_claim": "Immature chironomid midges—whose larvae are aquatic—have been used as forensic markers in several cases where submerged corpses were found.",
+  "quote": "Immature instars have been used as forensic markers in several cases where submerged corpses were found. While adults are terrestrial and phytophagous, larvae are aquatic and detritivorous.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Page does not mention postsubmersion interval estimation or drowning cases"
+ },
+ {
+  "claim": "Douglas Adams quipped: 'The World Wide Web is the only thing I know of whose shortened form takes three times longer to say than what it's short for.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The World Wide Web is the only thing I know of whose shortened form takes three times longer to say than what it's short for.",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": ""
+ },
+ {
+  "claim": "Rabies virus travels along nerves to the brain at about 20-30mm per day — a slow but relentless journey to death.",
+  "verdict": "overstated",
+  "corrected_claim": "After entering the body, the rabies virus travels along nerve axons by retrograde transport until it reaches the central nervous system.",
+  "quote": "From the point of entry, the virus is neurotropic, traveling along the neural pathways into the central nervous system. ... The virus then travels through the nerve cell axon via retrograde transport.",
+  "source_url": "https://en.wikipedia.org/wiki/Rabies",
+  "note": "Page gives no 20-30 mm/day speed"
+ },
+ {
+  "claim": "Bot fly larvae (warbles) develop under the skin of mammals—when mature, they emerge through the skin hole, leaving a crater that heals on its own.",
+  "verdict": "overstated",
+  "corrected_claim": "Bot fly larvae (warbles) develop under the skin of the host; mature larvae drop from the host and pupate in the soil.",
+  "quote": "by the presence of a warble fly maggot under the skin ... Mature larvae drop from the host and complete the pupal stage in the soil.",
+  "source_url": "https://en.wikipedia.org/wiki/Oestridae",
+  "note": "Emerging through skin hole and healing not on page"
+ },
+ {
+  "claim": "Sea salt and table salt have the same amount of sodium by weight—sea salt's larger crystals just make it seem like you're using less.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Sodium_chloride",
+  "note": "Page has no sea salt vs table salt comparison"
+ },
+ {
+  "claim": "Linear B, a later Cretan script, was deciphered in 1952 by Michael Ventris — revealing it was an early form of Greek.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Linear B was deciphered in 1952 by English architect and self-taught linguist Michael Ventris ... used for writing in Mycenaean Greek, the earliest attested form of the Greek language. ... It is adapted from the earlier Linear A, an undeciphered script.",
+  "source_url": "https://en.wikipedia.org/wiki/Linear_B",
+  "note": ""
+ },
+ {
+  "claim": "The Phillips Curve tradeoff between inflation and unemployment appeared stable until the 1970s stagflation — demonstrating how economic relationships break down when exploited.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 1970s many countries experienced stagflation — high inflation and high unemployment together — which the Phillips curve said should not occur; Friedman and Phelps had argued that exploiting the short-run trade-off would raise inflation expectations.",
+  "quote": "In the 1970s, many countries experienced high levels of both inflation and unemployment, or stagflation. Based on the theory of the curve, this economic phenomenon should not occur. ... exploiting this short-run trade-off will raise inflation expectations, shifting the short-run curve rightward",
+  "source_url": "https://en.wikipedia.org/wiki/Phillips_curve",
+  "note": "Broad lesson that 'economic relationships break down when exploited' is a generalization beyond the page"
+ },
+ {
+  "claim": "The hormone auxin is redistributed through 'polar auxin transport' in response to light and gravity, causing differential growth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "auxin is redistributed through polar auxin transport",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Burying beetles (Silphidae) exhibit communal breeding and parental care, digging under small carcasses to bury them—their presence can indicate a body has been partially buried.",
+  "verdict": "overstated",
+  "corrected_claim": "Burying beetles (Silphidae) dig and bury small carcasses underground, and both parents tend their young and exhibit communal breeding.",
+  "quote": "They are also referred to as burying beetles because they dig and bury small carcasses underground. Both parents tend to their young and exhibit communal breeding.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": "Page does not say their presence indicates a partially buried body"
+ },
+ {
+  "claim": "The WWW beat Gopher partly because the University of Minnesota announced licensing fees for Gopher in February 1993 — just two months before CERN made the Web public domain.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In February 1993, the University of Minnesota announced that it would charge licensing fees ... Users became concerned that fees might also be charged for independent implementations. ... Gopher expansion stagnated, to the advantage of the World Wide Web ... released the WWW into the public domain in April 1993, which CERN maintained.",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": ""
+ },
+ {
+  "claim": "Smallpox was declared eradicated in 1980 — the only human disease completely eliminated by vaccination.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the World Health Organization certified the global eradication of the disease in 1980 ... conducted a global vaccination campaign that eradicated smallpox ... making it the only human disease to be eradicated.",
+  "source_url": "https://en.wikipedia.org/wiki/Smallpox",
+  "note": ""
+ },
+ {
+  "claim": "The aptly named 'horsefly' has blade-like mouthparts that slash the skin open—making their bites among the most painful of any fly.",
+  "verdict": "overstated",
+  "corrected_claim": "Female horse-flies have a stout stabbing organ with sharp cutting blades that slice into the flesh, and their bites can be painful for a day or more.",
+  "quote": "The mouthparts of females are formed into a stout stabbing organ with two pairs of sharp cutting blades ... Bites can be painful for a day or more",
+  "source_url": "https://en.wikipedia.org/wiki/Horse-fly",
+  "note": "page says bites can be painful; no 'among the most painful of any fly' comparison"
+ },
+ {
+  "claim": "Iodized salt, introduced in the 1920s, virtually eliminated iodine deficiency and associated goiter in developed countries.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Sodium_chloride",
+  "note": "Page does not mention iodized salt or goiter"
+ },
+ {
+  "claim": "The Rongorongo script of Easter Island remains undeciphered — and its creators died before they could explain it.",
+  "verdict": "overstated",
+  "corrected_claim": "Rongorongo remains undeciphered; visitors were told literacy belonged to ruling families and priests who were kidnapped in Peruvian slave raids or died in the resulting epidemics.",
+  "quote": "Numerous attempts at decipherment have been made, but none have been successful. ... early visitors were told that literacy was a privilege of the ruling families and priests who were all kidnapped in the Peruvian slaving raids or died soon afterward in the resulting epidemics.",
+  "source_url": "https://en.wikipedia.org/wiki/Rongorongo",
+  "note": "Page reports this as what visitors were told; readers were literate elites, not necessarily its creators."
+ },
+ {
+  "claim": "Top Trading Cycles algorithm lets agents trade positions to achieve Pareto optimal allocations — originally designed for housing markets, now used for school choice.",
+  "verdict": "overstated",
+  "corrected_claim": "With strict preferences the Top Trading Cycles algorithm always finds a Pareto-efficient allocation; developed by David Gale, it is illustrated with house allocation and was adopted for school choice in New Orleans in 2012.",
+  "quote": "When the preferences are strict (there are no indifferences), TTC always finds a strictly Pareto-efficient allocation. ... The New Orleans Recovery School District adopted school choice version of TTC in 2012.",
+  "source_url": "https://en.wikipedia.org/wiki/Top_trading_cycle",
+  "note": "'Originally designed for housing markets' not stated explicitly; Pareto efficiency needs strict preferences."
+ },
+ {
+  "claim": "Green leaf volatiles are chemicals released when plants are wounded that can be detected and responded to by neighboring plants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "which can in turn be perceived by neighboring plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Insects are poikilothermic (cold-blooded), meaning their development rate is substantially dependent on environmental temperature—key to accurate postmortem interval calculations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In general, insects are poikilothermic animals; ... their rate of development is more or less dependent on ambient temperature.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "The www prefix became standard practice by accident — the Web project page was meant to be at www.cern.ch while info.cern.ch was for CERN's home, but DNS records were never switched.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the World Wide Web project page was intended to be published at www.cern.ch ... however the DNS records were never switched",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": "Page says info.cern.ch was intended as CERN home page."
+ },
+ {
+  "claim": "Polio was 99.9% eradicated but persists in a few countries — close but not complete victory.",
+  "verdict": "overstated",
+  "corrected_claim": "Polio has been reduced worldwide by 99 percent, but wild poliovirus is still endemic in Pakistan and Afghanistan.",
+  "quote": "international cooperation led by GPEI has reduced polio worldwide by 99 percent, and the campaign is ongoing. ... only Pakistan and Afghanistan remain endemic for wild poliovirus (WPV).",
+  "source_url": "https://en.wikipedia.org/wiki/Poliomyelitis",
+  "note": "Page says 99%, not 99.9%."
+ },
+ {
+  "claim": "Chrysalis coloration in some butterfly species is determined by the surface they pupate on—smooth surfaces produce green pupae while rough surfaces produce brown.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Pupa",
+  "note": "Page does not mention surface-dependent pupa color"
+ },
+ {
+  "claim": "Pink Himalayan salt gets its color from trace minerals, but contains the same sodium content as regular salt with minimal additional nutrients.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Sodium_chloride",
+  "note": "Page does not mention Himalayan salt"
+ },
+ {
+  "claim": "The Voynich Manuscript (15th century) is written in an unknown script and language — it remains the world's most mysterious book.",
+  "verdict": "overstated",
+  "corrected_claim": "The Voynich Manuscript, whose vellum has been carbon-dated to the early 15th century (1404–1438), is written in an unknown script that has never been demonstrably deciphered.",
+  "quote": "The vellum on which it is written has been carbon-dated to the early 15th century (1404–1438). ... The bulk of the text in the 240-page manuscript is written in an unknown script, running left to right. ... The manuscript has never been demonstrably deciphered",
+  "source_url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+  "note": "'World's most mysterious book' superlative not on page."
+ },
+ {
+  "claim": "Rational inattention theory acknowledges that processing information is costly — explaining why people use simple heuristics even when more information is freely available.",
+  "verdict": "overstated",
+  "corrected_claim": "Rational inattention theory studies how the cost of acquiring information affects decision making.",
+  "quote": "the effects of the cost of information acquisition on decision making",
+  "source_url": "https://en.wikipedia.org/wiki/Rational_inattention",
+  "note": "Page is about acquisition costs; heuristics and free information not mentioned."
+ },
+ {
+  "claim": "Electrochemical gradients are vital to plant cell health—if a cell ever reaches equilibrium with its environment, it is dead.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "if the cell would ever reach equilibrium with its environment, it is dead.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Hanged bodies dry out faster than ground-level bodies due to increased air exposure, leaving less food for maggots and resulting in different insect colonization patterns.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A hanged body is more exposed to air and thus will dry out faster, leaving less food source for the maggots.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_entomology",
+  "note": ""
+ },
+ {
+  "claim": "Netscape's 1995 IPO triggered the dot-com bubble — after the Mosaic browser made the web popular, Marc Andreessen founded Netscape and released Navigator with Java and JavaScript.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Netscape became a public company in 1995, which triggered a frenzy for the Web and started the dot-com bubble. ... Marc Andreessen and Jim Clark founded Netscape the following year ... released the Navigator browser, which introduced Java and JavaScript to the Web.",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": "Co-founded with Jim Clark."
+ },
+ {
+  "claim": "Ebola virus kills up to 90% of infected people in some outbreaks — one of the deadliest pathogens known.",
+  "verdict": "overstated",
+  "corrected_claim": "Ebola outbreaks have killed between 25% and 90% of those infected, averaging about 50%; the highest, 90%, was in the 2002–2003 Republic of the Congo outbreak.",
+  "quote": "Outbreaks of the disease have had a mortality rate of between 25 and 90%, averaging out at approximately 50%. ... The highest risk of death was 90% in the 2002–2003 Republic of the Congo outbreak.",
+  "source_url": "https://en.wikipedia.org/wiki/Ebola",
+  "note": "Page doesn't call it one of the deadliest pathogens known; average is ~50%."
+ },
+ {
+  "claim": "The glasswing butterfly has transparent wings because the scales are pillar-like structures that let light pass through rather than flat reflective plates.",
+  "verdict": "overstated",
+  "corrected_claim": "The glasswing butterfly's wings are transparent because randomly arranged nanopillars on the wing surface create a smooth refractive gradient, letting light pass without reflection.",
+  "quote": "This broadband and omnidirectional antireflection property originates from nanopillars on the wing's surface. ... The nanopillars create a smooth gradient of refraction angles between the wing's membrane and air.",
+  "source_url": "https://en.wikipedia.org/wiki/Greta_oto",
+  "note": "Page attributes it to nanopillars on the wing surface, not scales"
+ },
+ {
+  "claim": "Humans are genetically adapted to crave salt because sodium was rare in the diets of our ancestors—a craving now exploited by processed food manufacturers.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Sodium_chloride",
+  "note": "Page does not mention salt craving or evolution"
+ },
+ {
+  "claim": "The Phaistos Disc from Crete (1700 BCE) contains 242 symbols that have never been deciphered — it may be the oldest 'printed' text.",
+  "verdict": "overstated",
+  "corrected_claim": "The Phaistos Disc from Crete bears 45 distinct signs occurring 242 times in an unknown script, and can be seen as an early example of movable-type printing.",
+  "quote": "There are 45 distinct signs on the disc, occurring a total of 242 times—123 on side A and 119 on side B. ... Thus the disc can be seen as an early example of movable-type printing.",
+  "source_url": "https://en.wikipedia.org/wiki/Phaistos_Disc",
+  "note": "Page dates it variously (c. 1500 BC; 1850–1600 BC) and calls it 'an early example', not the oldest printed text"
+ },
+ {
+  "claim": "The Boston mechanism for school assignment was replaced because it punished honest preference reporting — strategic parents listed safe schools first, disadvantaging naive ones.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Boston_mechanism",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "Actin-based cytoplasmic streaming in plants can be influenced by action potentials—electrical signals affect internal cellular movement.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These action potentials can influence processes such as actin-based cytoplasmic streaming.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Graphene is the strongest material ever measured on a microscopic scale, with a tensile strength of 130 GPa and a Young's modulus of approximately 1 TPa.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On a microscopic scale, graphene is the strongest material ever measured. ... with an intrinsic tensile strength of 130 GPa ... a Young's modulus (stiffness) close to 1 TPa",
+  "source_url": "https://en.wikipedia.org/wiki/Graphene",
+  "note": ""
+ },
+ {
+  "claim": "Internet Explorer dominated browsers for 14 years by being bundled with Windows — Microsoft's response to Netscape sparked the browser wars.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Microsoft responded by developing its own browser, Internet Explorer, starting the browser wars. ... By bundling it with Windows, it became the dominant browser for 14 years.",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": ""
+ },
+ {
+  "claim": "Herpesviruses establish lifelong latent infections — once infected, you carry them forever.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Herpesviruses are known for their ability to establish lifelong infections. ... In this fashion, the virus can persist in the cell (and thus the host) indefinitely.",
+  "source_url": "https://en.wikipedia.org/wiki/Herpesvirus",
+  "note": ""
+ },
+ {
+  "claim": "Some caterpillars have 'countershading' coloring—dark on top and light below—which makes them appear flat and less detectable to predators.",
+  "verdict": "overstated",
+  "corrected_claim": "Some caterpillars that feed upside down, like the Luna moth caterpillar, are countershaded relative to that posture, making them appear flat.",
+  "quote": "both in its habitual upside-down feeding position, where its countershading makes it appear flat",
+  "source_url": "https://en.wikipedia.org/wiki/Countershading",
+  "note": "Caterpillars' countershading is matched to their upside-down posture, not simply dark on top/light below"
+ },
+ {
+  "claim": "Carrots were originally purple or white—orange carrots were selectively bred in the Netherlands in the 17th century, possibly to honor William of Orange.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Vitamin page does not mention carrot color history."
+ },
+ {
+  "claim": "Proto-Elamite, used in ancient Iran around 3000 BCE, is the oldest undeciphered writing system with a substantial corpus of texts.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Proto-Elamite",
+  "note": "Page does not mention the script being undeciphered or oldest undeciphered."
+ },
+ {
+  "claim": "Rational addiction theory explains drug use as forward-looking optimization — addicts rationally trade future utility for present pleasure, making legality and price matter.",
+  "verdict": "overstated",
+  "corrected_claim": "Rational addiction theory treats an addict's consumption as the pattern that maximizes his discounted utility, with today's use altering future utility.",
+  "quote": "the pattern of consumption that maximizes his discounted utility ... altering both his future baseline level of utility",
+  "source_url": "https://en.wikipedia.org/wiki/Rational_addiction",
+  "note": "Price/legality implications not mentioned."
+ },
+ {
+  "claim": "Plant behavior includes active foraging for light and nutrients by changing architecture, branch growth, and direction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Active foraging for light and nutrients. They do this by changing their architecture",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_perception_(physiology)",
+  "note": ""
+ },
+ {
+  "claim": "Graphene was first isolated in 2004 by Andre Geim and Konstantin Novoselov using ordinary adhesive tape to peel layers from graphite, earning them the 2010 Nobel Prize in Physics.",
+  "verdict": "overstated",
+  "corrected_claim": "Graphene was properly isolated and characterized in 2004 by Andre Geim and Konstantin Novoselov, who pulled layers from graphite with common adhesive tape, and they won the 2010 Nobel Prize in Physics.",
+  "quote": "Graphene was properly isolated and characterized in 2004 by ... They pulled graphene layers from graphite with a common adhesive tape ... In 2010, Geim and Novoselov were awarded the Nobel Prize in Physics",
+  "source_url": "https://en.wikipedia.org/wiki/Graphene",
+  "note": "Page says 'properly isolated', not 'first isolated'"
+ },
+ {
+  "claim": "The W3C tried to replace HTML with stricter XHTML, but Mozilla, Opera, and Apple rejected it — they formed WHATWG and developed HTML5, which W3C eventually adopted in 2019.",
+  "verdict": "overstated",
+  "corrected_claim": "The W3C recommended replacing HTML with stricter XHTML, but Mozilla, Opera and Apple rejected it and created the WHATWG, which developed HTML5; the W3C abandoned XHTML in 2009 and ceded control of the HTML specification to the WHATWG in 2019.",
+  "quote": "recommended replacing HTML with stricter XHTML. ... Mozilla, Opera, and Apple rejected XHTML and created the WHATWG which developed HTML5. ... In 2009, the W3C conceded and abandoned XHTML. ... In 2019, it ceded control of the HTML specification to the WHATWG.",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": "In 2019 W3C ceded control of HTML to WHATWG rather than 'adopting HTML5'."
+ },
+ {
+  "claim": "Hepatitis B virus has a partially double-stranded DNA genome — unique among human viruses.",
+  "verdict": "overstated",
+  "corrected_claim": "Hepatitis B virus has an unusual circular DNA genome that is not fully double-stranded, and it is one of a few known pararetroviruses.",
+  "quote": "The genome of HBV is made of circular DNA, but it is unusual because the DNA is not fully double-stranded. ... Hepatitis B is one of a few known pararetroviruses",
+  "source_url": "https://en.wikipedia.org/wiki/Hepatitis_B",
+  "note": "Page says 'unusual', not 'unique among human viruses'"
+ },
+ {
+  "claim": "The morpho butterfly's brilliant blue color contains no blue pigment—the color is created entirely by light interference from microscopic structures on its wing scales.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Morpho",
+  "note": "Page is a disambiguation page with no info on morpho coloration"
+ },
+ {
+  "claim": "Eating too many carrots can turn your skin orange (carotenemia) due to beta-carotene, but the condition is harmless and reversible.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Vitamin page does not mention carotenemia."
+ },
+ {
+  "claim": "The Egyptian hieroglyphs remained undeciphered for over 1,400 years until the Rosetta Stone enabled Jean-François Champollion to crack the code in 1822.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1822, Jean-François Champollion published his first breakthrough in deciphering the hieroglyphs of the trilingual Rosetta Stone, showing Egyptian writing combined phonetic and ideographic signs.",
+  "quote": "In 1822, Champollion published his first breakthrough in the decipherment of the Rosetta hieroglyphs ... showing that the Egyptian writing system was a combination of phonetic and ideographic signs",
+  "source_url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion",
+  "note": "'Over 1,400 years' not stated"
+ },
+ {
+  "claim": "Approval voting lets voters approve of multiple candidates — it's strategy-proof and tends to elect Condorcet winners when they exist, unlike plurality voting.",
+  "verdict": "overstated",
+  "corrected_claim": "Approval voting lets voters approve of any number of candidates — it is strategy-proof only for voters with dichotomous preferences, and in that case is guaranteed to elect a Condorcet winner.",
+  "quote": "For a voter with dichotomous preferences, approval is strategyproof. ... When all voters have dichotomous preferences and vote the sincere, strategy-proof vote, approval is guaranteed to elect a Condorcet winner.",
+  "source_url": "https://en.wikipedia.org/wiki/Approval_voting",
+  "note": "Not strategy-proof in general; Condorcet guarantee only under dichotomous preferences"
+ },
+ {
+  "claim": "Charles Elton's 1958 book 'The Ecology of Invasion by Animals and Plants' created the foundation for modern invasion biology.",
+  "verdict": "overstated",
+  "corrected_claim": "Much of invasion biology has been influenced by Charles Elton's 1958 book 'The Ecology of Invasion by Animals and Plants'.",
+  "quote": "Much of the work has been influenced by Charles Elton's 1958 book The Ecology of Invasion by Animals and Plants",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page says 'influenced', not 'created the foundation'"
+ },
+ {
+  "claim": "A single sheet of graphene is so thin yet so dense that not even helium atoms can pass through it, yet it absorbs only 2.3% of visible light.",
+  "verdict": "overstated",
+  "corrected_claim": "Graphene is impermeable to all gases and liquids, yet it absorbs only about 2.3% of light from visible to infrared wavelengths.",
+  "quote": "impermeable to all gases and liquids (vacuum-tight) ... absorbing approximately πα ≈ 2.3% of light from visible to infrared wavelengths",
+  "source_url": "https://en.wikipedia.org/wiki/Graphene",
+  "note": "Helium and 'dense' not stated specifically"
+ },
+ {
+  "claim": "Hyperlinks on the web can become 'dead' over time (link rot) — the Internet Archive has been archiving websites since 1996 to preserve the ephemeral web.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This makes hyperlinks obsolete, a phenomenon referred to in some circles as link rot ... The Internet Archive, active since 1996, is the best known of such efforts.",
+  "source_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "note": ""
+ },
+ {
+  "claim": "Measles is so contagious that 90% of unvaccinated people exposed to it will become infected.",
+  "verdict": "overstated",
+  "corrected_claim": "Measles is one of the most contagious human pathogens: nine out of ten non-immune people who share living space with an infected person will be infected.",
+  "quote": "nine out of ten people who are not immune and share living space with an infected person will be infected",
+  "source_url": "https://en.wikipedia.org/wiki/Measles",
+  "note": "90% applies to close contacts/shared living space, not any exposure"
+ },
+ {
+  "claim": "Bolas spiders swing a silk thread with a sticky glob that releases moth pheromones—male moths fly toward it and get trapped.",
+  "verdict": "overstated",
+  "corrected_claim": "Bolas spiders lure male moths by producing a scent mimicking moth sex pheromones, then swing a silken thread with sticky drops — a 'bolas' — to snag them.",
+  "quote": "they feed on male moths which they attract by producing a scent that mimics the sex pheromones ... They capture approaching male moths by using a \"bolas\", a silken thread with one or more sticky drops",
+  "source_url": "https://en.wikipedia.org/wiki/Bolas_spider",
+  "note": "Page doesn't say the glob itself releases the pheromones"
+ },
+ {
+  "claim": "Spinach doesn't actually have exceptional iron content—a 1930s decimal error overstated it by 10 times, but the myth persists.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": "Page does not mention spinach."
+ },
+ {
+  "claim": "The Kharosthi script was used along the Silk Road but died out around the 3rd century CE — it was only deciphered in the 1830s.",
+  "verdict": "overstated",
+  "corrected_claim": "The Kharosthi script, used in Gandhara and along the Silk Road, died out in its homeland around the 5th century CE and was deciphered by James Prinsep and others in 1835–1838.",
+  "quote": "It was also in use in Bactria, the Kushan Empire, Sogdia, and along the Silk Road. ... Kharosthi remained in use until it died out in its homeland around the 5th century CE.",
+  "source_url": "https://en.wikipedia.org/wiki/Kharosthi",
+  "note": "Page gives ~5th century CE (possibly 7th in Khotan), not 3rd"
+ },
+ {
+  "claim": "The efficient markets hypothesis has three forms: weak (past prices useless), semi-strong (public information priced in), and strong (all information priced in) — each is progressively harder to believe.",
+  "verdict": "overstated",
+  "corrected_claim": "Fama categorized tests of market efficiency into weak-form (historical prices), semi-strong-form (public information) and strong-form (private information) — and evidence has generally not supported the strong forms.",
+  "quote": "Weak-form tests study the information contained in historical prices. ... Semi-strong form tests study information (beyond historical prices) which is publicly available ... Strong-form tests regard private information.",
+  "source_url": "https://en.wikipedia.org/wiki/Efficient-market_hypothesis",
+  "note": "'Progressively harder to believe' not on page"
+ },
+ {
+  "claim": "Invasive plants can undergo 'lag effect'—remaining at low population levels for years before suddenly exploding in numbers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The population size of invading species may remain small for a number of years",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page calls the later explosion the lag effect"
+ },
+ {
+  "claim": "Graphene has the highest thermal conductivity of any known material at 5300 W·m−1·K−1, more than twice that of diamond.",
+  "verdict": "overstated",
+  "corrected_claim": "Graphene's thermal conductivity was reported at about 5300 W·m−1·K−1, though later studies found 1500–2500 W·m−1·K−1 for suspended single-layer graphene.",
+  "quote": "compared with the thermal conductivity of pyrolytic graphite of approximately 2000",
+  "source_url": "https://en.wikipedia.org/wiki/Graphene",
+  "note": "No diamond comparison; page says the 5300 figure was not reproduced"
+ },
+ {
+  "claim": "The Church-Turing thesis states that Turing machines, lambda calculus, and similar formalisms capture the full notion of 'effective computation' — anything computable can be computed by a Turing machine.",
+  "verdict": "overstated",
+  "corrected_claim": "The Church-Turing thesis holds that Turing machines and similar formalisms capture the informal notion of effective methods in logic and mathematics.",
+  "quote": "capture the informal notion of effective methods in logic and mathematics",
+  "source_url": "https://en.wikipedia.org/wiki/Turing_machine",
+  "note": "Source frames it as a hypothesis/thesis; quote limited to fragment."
+ },
+ {
+  "claim": "HPV causes virtually all cervical cancers — a virus that causes cancer.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nearly all cervical cancer is due to HPV and two strains, HPV16 and HPV18, account for 70% of all cases.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_papillomavirus",
+  "note": "'virtually all' matches 'nearly all'"
+ },
+ {
+  "claim": "Flesh flies are viviparous—they deposit live maggots directly onto decaying matter rather than laying eggs like most other flies.",
+  "verdict": "overstated",
+  "corrected_claim": "Flesh flies are ovoviviparous: unlike most flies, they deposit hatched or hatching maggots instead of eggs on carrion, dung, decaying material or open wounds.",
+  "quote": "They differ from most flies in that they are ovoviviparous, opportunistically depositing hatched or hatching maggots instead of eggs on carrion, dung, decaying material, or open wounds of mammals",
+  "source_url": "https://en.wikipedia.org/wiki/Flesh-fly",
+  "note": "Page says ovoviviparous, not viviparous"
+ },
+ {
+  "claim": "Kale became a 'superfood' sensation in the 2010s, but is nutritionally similar to other leafy greens like collards or mustard greens.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": "Page does not mention kale."
+ },
+ {
+  "claim": "Cuneiform was deciphered in the mid-1800s after Henry Rawlinson climbed dangerous cliffs to copy the Behistun Inscription.",
+  "verdict": "overstated",
+  "corrected_claim": "Henry Rawlinson scaled the cliff at Behistun with the help of a local boy to copy the inscription, sending a full copy to Europe in 1847 — the inscription was important to the decipherment of cuneiform.",
+  "quote": "Despite its relative inaccessibility, Rawlinson was able to scale the cliff with the help of a local boy ... In 1847, he was able to send a full and accurate copy to Europe.",
+  "source_url": "https://en.wikipedia.org/wiki/Behistun_Inscription",
+  "note": "Page doesn't date decipherment to the mid-1800s or directly credit Rawlinson's climb with it"
+ },
+ {
+  "claim": "Range voting scores candidates numerically and sums scores — it satisfies more fairness criteria than most voting systems but is rarely used in practice.",
+  "verdict": "overstated",
+  "corrected_claim": "In score voting, voters give each candidate a numerical score and the highest average wins; it satisfies monotonicity, participation and independence of irrelevant alternatives, and is used in Latvia's parliament and by the Green Party of Utah.",
+  "quote": "Voters give each candidate a numerical score, and the candidate with the highest average score is elected. ... Score voting satisfies independence of irrelevant alternatives, and does not tend to exhibit spoiler effects.",
+  "source_url": "https://en.wikipedia.org/wiki/Score_voting",
+  "note": "Page doesn't compare criteria count; says non-governmental uses are common, not rare."
+ },
+ {
+  "claim": "Island ecosystems are more prone to invasion because native species evolved with few competitors and predators.",
+  "verdict": "overstated",
+  "corrected_claim": "Island ecosystems may be more prone to invasion because their species face few strong competitors and predators.",
+  "quote": "Island ecosystems may be more prone to invasion because their species face few strong competitors and predators",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page hedges with 'may'"
+ },
+ {
+  "claim": "A kilogram of graphene would cover an area of 131.2 hectares (about 324 acres), making it possible to cover a football field with less than 1 gram.",
+  "verdict": "overstated",
+  "corrected_claim": "A kilogram of graphene would have an area of 131.2 hectares.",
+  "quote": "A kilogram of graphene therefore has an area of m2 or 131.2 hectares",
+  "source_url": "https://en.wikipedia.org/wiki/Graphene",
+  "note": "Football field comparison not on page"
+ },
+ {
+  "claim": "Silk Road, the dark web marketplace, transacted 9.9 million BTC ($214 million) exclusively in bitcoin during its 30-month existence starting February 2011.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "During its 30 months of existence, beginning in February 2011, Silk Road exclusively accepted bitcoins as payment ... ₿9.9 million, worth about $214 million",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": ""
+ },
+ {
+  "claim": "Dengue fever can be worse on second infection — antibodies from the first infection enhance the second.",
+  "verdict": "overstated",
+  "corrected_claim": "Dengue can be worse the second time: re-infection with a different serotype increases the risk of severe complications, thought to be due to antibody-dependent enhancement.",
+  "quote": "Subsequent re-infection with a different serotype increases the risk of severe complications",
+  "source_url": "https://en.wikipedia.org/wiki/Dengue_fever",
+  "note": "Caveat: only re-infection with a different serotype"
+ },
+ {
+  "claim": "Crane flies are often called 'mosquito hawks' but don't eat mosquitoes—adults of most species don't eat anything at all.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "though they do not actually prey on adult mosquitos or other insects. ... Most adult crane flies generally do not feed",
+  "source_url": "https://en.wikipedia.org/wiki/Crane_fly",
+  "note": "Page notes some adults feed on nectar"
+ },
+ {
+  "claim": "Avocados are technically berries and were once marketed as 'alligator pears' in the early 1900s United States.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page is a general overview and does not mention this"
+ },
+ {
+  "claim": "The word 'barbarian' comes from Greek 'barbaros' — imitating how foreign languages sounded like 'bar bar bar' to Greeks.",
+  "verdict": "overstated",
+  "corrected_claim": "The word 'barbarian' comes from Greek 'barbaros' — whose alleged root is an onomatopoeic imitation of foreign speech sounding like 'bar..bar..' to Greeks.",
+  "quote": "The term originates from the Ancient Greek: βάρβαρος (barbaros; pl. βάρβαροι barbaroi). ... the alleged root of the word bárbaros, which is an echomimetic or onomatopoeic word",
+  "source_url": "https://en.wikipedia.org/wiki/Barbarian",
+  "note": "Imitative origin described as 'alleged'"
+ },
+ {
+  "claim": "Random utility models explain choice as maximizing utility plus random noise — rationalizing why the same person makes different choices in identical situations.",
+  "verdict": "overstated",
+  "corrected_claim": "Random utility models treat each person as having an unobserved random state and behaving rationally given it — explaining the evidence that people facing the same set of alternatives may make different choices.",
+  "quote": "Ample empirical evidence shows that, when faced with the same set of alternatives, people may make different choices. ... It is assumed that each agent has an unobserved state, which can be considered a random variable. Given that state, the agent behaves rationally.",
+  "source_url": "https://en.wikipedia.org/wiki/Random_utility_theory",
+  "note": "Page does not describe an additive 'utility plus noise' term explicitly"
+ },
+ {
+  "claim": "In New Zealand, the first invasive species were dogs and rats brought by Polynesian settlers around 1300 CE, devastating endemic wildlife.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In New Zealand the first invasive species were the dogs and rats brought by Polynesian settlers around 1300. ... These and other introductions devastated endemic New Zealand species.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": ""
+ },
+ {
+  "claim": "Electrons in graphene behave as massless relativistic particles described by the Dirac equation rather than the Schrödinger equation, with speeds reaching 1/300th the speed of light.",
+  "verdict": "overstated",
+  "corrected_claim": "Electrons moving through graphene's honeycomb lattice effectively lose their mass and behave as Dirac fermions, travelling at a Fermi velocity of about 0.003 times the speed of light.",
+  "quote": "Electrons propagating through the graphene honeycomb lattice effectively lose their mass ... Hence, the electrons and holes are called Dirac fermions. ... Here vF ~ 106 m/s (.003 c) is the Fermi velocity in graphene",
+  "source_url": "https://en.wikipedia.org/wiki/Graphene",
+  "note": "Page gives ~0.003c; Schrödinger contrast not checked as stated"
+ },
+ {
+  "claim": "All individual components of bitcoin existed in earlier academic literature — Satoshi Nakamoto's innovation was their complex interplay creating the first decentralized, Sybil-resistant digital cash.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "all individual components of bitcoin originated in earlier academic literature ... Nakamoto's innovation was their complex interplay ... decentralized, Sybil resistant, Byzantine fault tolerant digital cash system",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Attributed to Arvind Narayanan"
+ },
+ {
+  "claim": "The honey fungus (Armillaria ostoyae) in Oregon's Blue Mountains covers 2,384 acres — the largest known organism.",
+  "verdict": "overstated",
+  "corrected_claim": "A honey fungus (Armillaria ostoyae) colony in Oregon's Malheur National Forest covers about 2,200 acres (3.5 square miles) — possibly the largest living organism on Earth by mass, area, and volume.",
+  "quote": "is possibly the largest living organism on Earth by mass, area, and volume ... it covers 3.5 square miles (2,200 acres; 9.1 km2)",
+  "source_url": "https://en.wikipedia.org/wiki/Armillaria_ostoyae",
+  "note": "Page gives 2,200-2,240 acres, not 2,384; Strawberry Mountains, not Blue Mountains; 'possibly' largest"
+ },
+ {
+  "claim": "Dragonflies existed before dinosaurs—they first appeared about 300 million years ago, predating dinosaurs by around 70 million years.",
+  "verdict": "overstated",
+  "corrected_claim": "Giant dragonfly relatives, the griffinflies, are found in Upper Carboniferous rocks from 325 million years ago, though true dragonflies first appeared in the Early Jurassic.",
+  "quote": "are found from 325 million years ago in Upper Carboniferous rocks ... Anisoptera first appeared during the Toarcian age of the Early Jurassic.",
+  "source_url": "https://en.wikipedia.org/wiki/Dragonfly",
+  "note": "300 Mya refers to ancestral griffinflies, not true dragonflies; page gives no dinosaur comparison."
+ },
+ {
+  "claim": "Bananas are radioactive due to their potassium-40 content, but you'd need to eat 10 million bananas at once to receive a lethal dose.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page is a general overview and does not mention this"
+ },
+ {
+  "claim": "The word 'assassin' comes from 'hashishin' — members of a medieval Muslim sect allegedly used hashish before carrying out killings.",
+  "verdict": "overstated",
+  "corrected_claim": "The word 'assassin' is believed to derive from 'hashshashin', a name for the Nizari Ismaili Order of Assassins — though whether its members really used hashish is debated.",
+  "quote": "Assassin comes from medieval Italian and French Assissini or Assassini, believed to derive from the word hashshashin ... there is debate as to whether these claims have merit.",
+  "source_url": "https://en.wikipedia.org/wiki/Assassin",
+  "note": "Etymology 'believed'; hashish link debated"
+ },
+ {
+  "claim": "Ranked choice voting (instant runoff) eliminates the lowest candidate and redistributes votes — avoiding spoiler effects but possibly not electing the Condorcet winner.",
+  "verdict": "overstated",
+  "corrected_claim": "Instant-runoff voting eliminates the candidate with the fewest first preferences each round and passes those ballots to their next choice — but a competitive third party can still act as a spoiler, and it doesn't guarantee electing the Condorcet winner.",
+  "quote": "In each round, the candidate with the fewest first-preference votes among the remaining candidates is eliminated. ... However, when the third-party candidate is more competitive, they can still act as a spoiler under instant-runoff voting, ... However, it does not ensure the election of a Condorcet winner",
+  "source_url": "https://en.wikipedia.org/wiki/Instant-runoff_voting",
+  "note": "page says IRV can still have spoilers; avoiding spoilers is only a proponents' claim"
+ },
+ {
+  "claim": "Forage loss from invasive weeds on US pastures amounts to nearly $1 billion annually—a major agricultural economic impact.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Forage loss from invasive weeds on pastures amounts to nearly US$1 billion in the U.S.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": ""
+ },
+ {
+  "claim": "Graphene has electron mobility exceeding 15,000 cm²·V⁻¹·s⁻¹ at room temperature, with theoretical limits of 200,000 cm²·V⁻¹·s⁻¹—far higher than silicon semiconductors.",
+  "verdict": "overstated",
+  "corrected_claim": "Graphene's room-temperature electron mobility has been reported in excess of 15,000 cm²·V⁻¹·s⁻¹, and phonon scattering limits freestanding graphene to about 200,000.",
+  "quote": "with values reported in excess of 15000 cm2⋅V−1⋅s−1 ... intrinsically limits room temperature mobility in freestanding graphene to 200000",
+  "source_url": "https://en.wikipedia.org/wiki/Graphene",
+  "note": "Silicon comparison not on page; 200,000 is a phonon-scattering limit"
+ },
+ {
+  "claim": "Nakamoto's Bitcoin paper was not peer-reviewed and was initially ignored by academics who argued it couldn't work — it was published on a cryptography mailing list on October 31, 2008.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was not peer-reviewed and was initially ignored by academics",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "Shared on cryptography mailing list 31 Oct 2008; academics argued it could not work"
+ },
+ {
+  "claim": "Fungi produce powerful antibiotics — penicillin, cephalosporins, and many more came from mold.",
+  "verdict": "overstated",
+  "corrected_claim": "Penicillins were originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens.",
+  "quote": "originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens",
+  "source_url": "https://en.wikipedia.org/wiki/Penicillin",
+  "note": "Page does not say cephalosporins or 'many more' came from mould"
+ },
+ {
+  "claim": "Honeybee colonies make collective decisions through 'quorum sensing'—scout bees perform waggle dances, and the colony follows when enough scouts agree on a location.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Bee_learning_and_communication",
+  "note": "Page does not discuss swarm decision-making or quorum sensing"
+ },
+ {
+  "claim": "Pineapple contains bromelain, an enzyme that breaks down proteins—which is why your mouth might feel tingly after eating it (it's literally digesting you).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page is a general overview and does not mention this"
+ },
+ {
+  "claim": "The word 'salary' comes from Latin 'salarium' meaning 'salt money' — Roman soldiers were sometimes paid in salt.",
+  "verdict": "overstated",
+  "corrected_claim": "The Latin word 'salarium' derives from 'sal' (salt); some claim Roman soldiers asked to be paid in salt, but there is no ancient evidence for this.",
+  "quote": "The Latin word salarium is derived from the word sal (salt). ... However, there is no ancient evidence for either of these hypotheses.",
+  "source_url": "https://en.wikipedia.org/wiki/Salary",
+  "note": "Source says salt-payment story lacks ancient evidence."
+ },
+ {
+  "claim": "Bounded rationality, introduced by Herbert Simon, recognizes that cognitive limitations prevent full optimization — people satisfice, finding solutions good enough rather than best.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bounded rationality was coined by Herbert A. Simon ... boundedly rational agents experience limits in formulating and solving complex problems ... rational individuals will select a decision that is satisfactory rather than optimal",
+  "source_url": "https://en.wikipedia.org/wiki/Bounded_rationality",
+  "note": ""
+ },
+ {
+  "claim": "Invasive plants can provide habitat for endangered species—the southwestern willow flycatcher mainly nests in non-native tamarisk.",
+  "verdict": "overstated",
+  "corrected_claim": "Some invasive species provide habitat for other organisms — the southwestern willow flycatcher mainly nests in non-native tamarisk.",
+  "quote": "Some invasive species can provide a suitable habitat or food source for other organisms. ... the southwestern willow flycatcher (Empidonax traillii) mainly nests in the non-native tamarisk",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page does not call the flycatcher endangered"
+ },
+ {
+  "claim": "In 2015, lithium-coated graphene was shown to exhibit superconductivity, marking the first time this property was observed in graphene.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2015, lithium-coated graphene exhibited superconductivity, a first for graphene.",
+  "source_url": "https://en.wikipedia.org/wiki/Graphene",
+  "note": ""
+ },
+ {
+  "claim": "President Trump signed an executive order in March 2025 to establish a strategic bitcoin reserve for the United States.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "signed an executive order to establish a strategic bitcoin reserve",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "March 2025 per page"
+ },
+ {
+  "claim": "Ophiocordyceps fungi turn ants into 'zombies' — hijacking their nervous systems to spread spores.",
+  "verdict": "overstated",
+  "corrected_claim": "Ophiocordyceps fungi are known for parasitizing ants and altering their behavior; spores released from the ant carcass then fall to the ground.",
+  "quote": "is known for its parasitism on ants, in which it alters the behavior of the ants ... The spores released from the ant carcass fall to the ground",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps",
+  "note": "Page does not say it hijacks the nervous system or uses the 'zombie' label"
+ },
+ {
+  "claim": "The atlas beetle of Southeast Asia has horns that can be as long as its body—males use them to flip rivals off branches during territorial battles.",
+  "verdict": "overstated",
+  "corrected_claim": "The atlas beetle of Southeast Asia has horns on its head and thorax, which males use to fight each other for mating rights with females.",
+  "quote": "Chalcosoma atlas is found in Southeast Asia. ... use to fight with each other, to gain mating rights with females",
+  "source_url": "https://en.wikipedia.org/wiki/Chalcosoma_atlas",
+  "note": "Horn-to-body length, flipping rivals off branches and territorial fights not on page"
+ },
+ {
+  "claim": "Apples float because they're 25% air, while most other fruits sink.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page is a general overview and does not mention this"
+ },
+ {
+  "claim": "The word 'quarantine' comes from Italian 'quarantina' meaning '40 days' — the isolation period for ships suspected of plague.",
+  "verdict": "overstated",
+  "corrected_claim": "The word 'quarantine' comes from the Venetian 'quarantena', meaning 'forty days' — the period ships had to sit isolated before anyone could go ashore during the Black Death.",
+  "quote": "The word quarantine comes from quarantena or quarantaine, meaning \"forty days\" ... all ships were required to be isolated before passengers and crew could go ashore",
+  "source_url": "https://en.wikipedia.org/wiki/Quarantine",
+  "note": "Source attributes the word to Venetian 'quarantena', not Italian 'quarantina'"
+ },
+ {
+  "claim": "Borda count assigns points based on ranking position and sums them — it's a positional voting system that can fail to elect a Condorcet winner and is susceptible to strategic voting.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "gives a candidate a number of points equal to the number of candidates ranked below them ... realized that there was a Condorcet winner who did not win ... Borda counts are unusually vulnerable to tactical voting, even compared to most other voting systems.",
+  "source_url": "https://en.wikipedia.org/wiki/Borda_count",
+  "note": ""
+ },
+ {
+  "claim": "Intensive fenced area management (clearing, mowing) actually makes areas more prone to invasive species by reducing native plant competition.",
+  "verdict": "overstated",
+  "corrected_claim": "Along with island ecosystems, intensively managed fenced areas are more prone to invasion.",
+  "quote": "Along with island ecosystems, intensively managed fenced areas are more prone to invasion.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Clearing/mowing mechanism not stated"
+ },
+ {
+  "claim": "Metamaterials are engineered materials with properties that don't exist in nature, deriving their characteristics from their structure rather than their chemical composition.",
+  "verdict": "overstated",
+  "corrected_claim": "Metamaterials are engineered materials whose properties — often rare or absent in nature — arise not from the chemical composition of their base substances but from their designed structure.",
+  "quote": "whose properties arise not from the chemical composition of its base substances ... These properties are often rare or absent in naturally occurring materials.",
+  "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+  "note": "Page says 'often rare or absent', not that they never exist in nature"
+ },
+ {
+  "claim": "The FBI seized about 30,000 BTC from Silk Road in October 2013 after arresting founder Ross Ulbricht — marking one of the largest government cryptocurrency seizures.",
+  "verdict": "overstated",
+  "corrected_claim": "The FBI seized about 30,000 BTC from Silk Road in October 2013, following the arrest of its founder Ross Ulbricht.",
+  "quote": "The FBI seized about ₿30,000 in October 2013 from Silk Road, following the arrest of its founder Ross Ulbricht.",
+  "source_url": "https://en.wikipedia.org/wiki/Bitcoin",
+  "note": "'One of the largest seizures' not stated"
+ },
+ {
+  "claim": "Cryptococcus neoformans can cause fatal meningitis in immunocompromised patients — thriving in pigeon droppings.",
+  "verdict": "overstated",
+  "corrected_claim": "Cryptococcus neoformans causes disease mainly in immunocompromised people, and cryptococcal meningitis is most often fatal when left untreated — in its yeast state the fungus is often found in bird excrement.",
+  "quote": "Cryptococcus neoformans causes disease primarily in immunocompromised hosts, such as HIV or cancer patients. ... cryptococcal meningitis, which is most often fatal when left untreated ... In its yeast state, it is often found in bird excrement.",
+  "source_url": "https://en.wikipedia.org/wiki/Cryptococcus_neoformans",
+  "note": "Fatal mostly when untreated; page says bird excrement, not specifically pigeons"
+ },
+ {
+  "claim": "Jewel beetles are so brilliantly metallic that they're used in traditional Thai textiles and jewelry—their shells retain their iridescence even after death.",
+  "verdict": "overstated",
+  "corrected_claim": "Jewel beetles get their metallic iridescence from structural coloration rather than pigment, and the wing cases of some species are traditionally used in beetlewing jewellery in countries such as India, Thailand and Japan.",
+  "quote": "The iridescence common to these beetles is not due to pigments in the exoskeleton ... The elytra of some Buprestidae species have been traditionally used in beetlewing jewellery and decoration in certain countries such as India, Thailand, and Japan.",
+  "source_url": "https://en.wikipedia.org/wiki/Buprestidae",
+  "note": "Textiles and color retention after death not on page; Thailand not unique"
+ },
+ {
+  "claim": "Tomatoes were once feared as poisonous in Europe because wealthy people ate them from lead plates, causing lead poisoning.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page is a general overview and does not mention this"
+ },
+ {
+  "claim": "The word 'mortgage' literally means 'death pledge' from Old French — the pledge 'dies' when the debt is paid.",
+  "verdict": "overstated",
+  "corrected_claim": "The word 'mortgage' comes from a medieval Law French term meaning 'death pledge' — the pledge 'dies' when the debt is paid or the property is taken through foreclosure.",
+  "quote": "The word mortgage is derived from a Law French term used in Britain in the Middle Ages meaning \"death pledge\" and refers to the pledge ending (dying) when either the obligation is fulfilled or the property is taken through foreclosure.",
+  "source_url": "https://en.wikipedia.org/wiki/Mortgage",
+  "note": "Law French, not Old French; also dies on foreclosure"
+ },
+ {
+  "claim": "Behavioral game theory modifies standard theory to account for observed behavior — using models like quantal response equilibrium that allow for mistakes.",
+  "verdict": "overstated",
+  "corrected_claim": "Behavioral game theory examines how actual human behavior deviates from standard predictions — and builds new models that incorporate psychological principles.",
+  "quote": "behavioral game theory examines how actual human behavior tends to deviate from standard predictions and models. ... behavioral game theory aims to create new models that incorporate psychological principles.",
+  "source_url": "https://en.wikipedia.org/wiki/Behavioral_game_theory",
+  "note": "Page doesn't mention quantal response equilibrium"
+ },
+ {
+  "claim": "Climate change increases ocean temperatures and shifts species ranges, allowing invasive organisms in ship ballast to survive in new locations.",
+  "verdict": "overstated",
+  "corrected_claim": "Climate change is raising ocean temperatures, and ballast water released in port by transoceanic vessels is a vector for non-native aquatic species.",
+  "quote": "Climate change is causing an increase in ocean temperature. ... Another vector of non-native aquatic species is ballast water taken up at sea and released in port by transoceanic vessels.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "Page does not directly link warming to ballast organisms surviving"
+ },
+ {
+  "claim": "Negative-index metamaterials can bend light in the opposite direction from normal materials, enabling potential 'invisibility cloaks' and superlenses that beat the diffraction limit.",
+  "verdict": "overstated",
+  "corrected_claim": "Metamaterials can make the phase velocity of light run opposite to its energy flow, and enable superlenses that achieve resolution beyond the diffraction limit and forms of 'invisibility'.",
+  "quote": "He showed that the phase velocity could be made anti-parallel to the direction of Poynting vector ... A superlens is a two or three-dimensional device that uses metamaterials ... to achieve resolution beyond the diffraction limit",
+  "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+  "note": "Opposite-direction bending/cloak link not stated verbatim as in claim"
+ },
+ {
+  "claim": "Linux is ported to more platforms than any other operating system — from 8-bit microcontrollers to the world's largest supercomputers.",
+  "verdict": "overstated",
+  "corrected_claim": "Linux has been ported to more platforms than any other operating system, and is available for devices ranging from mobile phones to supercomputers.",
+  "quote": "ported to more platforms than any other operating system ... available for devices ranging from mobile phones to supercomputers",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": "Page does not mention 8-bit microcontrollers"
+ },
+ {
+  "claim": "Aspergillus fumigatus releases millions of spores per day — we breathe hundreds of them daily without harm.",
+  "verdict": "overstated",
+  "corrected_claim": "Aspergillus fumigatus produces thousands of tiny airborne spores — everybody inhales an estimated several hundred each day, and the immune system usually clears them quickly.",
+  "quote": "everybody inhales an estimated several hundred spores each day ... typically, these are quickly eliminated by the immune system in healthy individuals",
+  "source_url": "https://en.wikipedia.org/wiki/Aspergillus_fumigatus",
+  "note": "Page says thousands of conidia per colony, not millions per day"
+ },
+ {
+  "claim": "The titan beetle of South America can reach 16.7 cm long and has mandibles strong enough to snap a pencil in half—or reportedly a human finger.",
+  "verdict": "overstated",
+  "corrected_claim": "The South American titan beetle can exceed 170 mm (6.7 in) in length and defends itself with sharp spines and powerful jaws.",
+  "quote": "The titan beetle is native to tropical rainforests throughout South America ... at over 170 mm (6.7 in) in length ... protect themselves from predators with their sharp spines and powerful jaws",
+  "source_url": "https://en.wikipedia.org/wiki/Titanus_giganteus",
+  "note": "16.7 cm differs; pencil/finger snapping not in source."
+ },
+ {
+  "claim": "Potatoes become sweeter in cold storage because their starches convert to sugars—but this can create more acrylamide when fried.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page is a general overview and does not mention this"
+ },
+ {
+  "claim": "The word 'disaster' comes from Italian 'disastro' meaning 'ill-starred' — from the belief that catastrophes were caused by bad stars.",
+  "verdict": "overstated",
+  "corrected_claim": "The word 'disaster' comes via Middle French 'désastre' from Old Italian 'disastro', built from Greek 'dus-' (bad) and 'aster' (star).",
+  "quote": "The word disaster is derived from Middle French désastre which comes from Old Italian disastro. This in turn comes from the Ancient Greek pejorative prefix δυσ- (dus-) \"bad\" and ἀστήρ (aster), \"star\".",
+  "source_url": "https://en.wikipedia.org/wiki/Disaster",
+  "note": "Page does not mention 'ill-starred' or the belief about bad stars causing catastrophes."
+ },
+ {
+  "claim": "Quadratic voting allows people to express intensity of preference by buying votes at quadratic cost — casting 2 votes costs 4 credits, 3 votes costs 9, balancing passion with fairness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the total votes cast on a given issue will correspond to the intensity of preferences among voters ... to add 3 votes requires allocating the square or quadratic of the number of votes, i.e., 9 credits",
+  "source_url": "https://en.wikipedia.org/wiki/Quadratic_voting",
+  "note": "Table lists 2 votes = 4 credits"
+ },
+ {
+  "claim": "Invasive species cause 400 of 958 endangered species under the US Endangered Species Act to be at risk—the leading human-caused threat.",
+  "verdict": "overstated",
+  "corrected_claim": "Competition from invasive species puts 400 of the 958 endangered species under the US Endangered Species Act at risk.",
+  "quote": "400 of the 958 endangered species under the Endangered Species Act are at risk.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "'Leading human-caused threat' not stated"
+ },
+ {
+  "claim": "Victor Veselago first theoretically described negative-index materials in 1967, but they weren't experimentally demonstrated until 2000 by David R. Smith and colleagues.",
+  "verdict": "overstated",
+  "corrected_claim": "Negative-index materials were first described theoretically by Victor Veselago in 1967; in 2000 David R. Smith and colleagues reported the experimental demonstration of functioning electromagnetic metamaterials.",
+  "quote": "Negative-index materials were first described theoretically by Victor Veselago in 1967. ... reported the experimental demonstration of functioning electromagnetic metamaterials",
+  "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+  "note": "Page does not call 2000 work the first demonstration of negative-index materials"
+ },
+ {
+  "claim": "Combined with Android (which is Linux-based), Linux has the largest installed base of all general-purpose operating systems as of 2022.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Linux, including Android, has the largest installed base of all general-purpose operating systems as of May 2022",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": ""
+ },
+ {
+  "claim": "Candida auris emerged globally in the 2010s with multidrug resistance — a new fungal superbug.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Candida auris was first described in 2009 ... Reportedly, this spread across Asia and Europe, and first appeared in the U.S. in 2013. ... It has attracted widespread attention because of its multiple drug resistance.",
+  "source_url": "https://en.wikipedia.org/wiki/Candida_auris",
+  "note": ""
+ },
+ {
+  "claim": "Termite mounds in Australia can be over 4 meters tall and are oriented along a north-south axis to regulate internal temperature—earning them the name 'magnetic termites.'",
+  "verdict": "overstated",
+  "corrected_claim": "Australia's magnetic (or compass) termites build wedge-shaped mounds up to 4 m tall, aligned north-south so they expose less surface to the midday sun when the nest might overheat.",
+  "quote": "The mounds built by this termite can be up to 4 m (13 ft) tall ... the common names derive from the fact that the wedge-shaped mound is aligned with its main axis running north and south. ... exposing less surface to the sun at midday when the nest might overheat.",
+  "source_url": "https://en.wikipedia.org/wiki/Amitermes_meridionalis",
+  "note": "page says up to 4 m, not over 4 m"
+ },
+ {
+  "claim": "Onions make you cry because cutting them releases syn-propanethial-S-oxide, a sulfur compound that irritates the eyes.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page is a general overview and does not mention this"
+ },
+ {
+  "claim": "The word 'avocado' comes from Nahuatl 'ahuacatl' meaning 'testicle' — referring to the fruit's shape.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Avocado",
+  "note": "Source says the 'testicle' original meaning is a popular myth; original meaning reconstructed as 'avocado', used as euphemism for testicle"
+ },
+ {
+  "claim": "Quantal response equilibrium relaxes Nash equilibrium by allowing probabilistic choice — better responses are more likely but not certain, fitting experimental data better.",
+  "verdict": "overstated",
+  "corrected_claim": "Quantal response equilibrium is a game-theory solution concept with bounded rationality: the probability of choosing a strategy rises with its payoff, so every strategy is played with some probability, unlike in a strict Nash equilibrium.",
+  "quote": "it provides an equilibrium notion with bounded rationality. ... The probability of any particular strategy being chosen is positively related to the payoff from that strategy.",
+  "source_url": "https://en.wikipedia.org/wiki/Quantal_response_equilibrium",
+  "note": "Page does not say it fits experimental data better; it says QRE is not a refinement of Nash"
+ },
+ {
+  "claim": "Invasive chestnut blight and Dutch elm disease are plant pathogens that have devastated North American forests.",
+  "verdict": "overstated",
+  "corrected_claim": "Chestnut blight and Dutch elm disease are plant pathogens with serious impacts on forest ecosystems.",
+  "quote": "Chestnut blight (Cryphonectria parasitica) and Dutch elm disease ... are plant pathogens with serious impacts.",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "'Devastated North American forests' not stated directly"
+ },
+ {
+  "claim": "In 2006, the first imperfect invisibility cloak was demonstrated using gradient-index metamaterials at microwave frequencies.",
+  "verdict": "overstated",
+  "corrected_claim": "At microwave frequencies, the first, imperfect invisibility cloak was realized in 2006.",
+  "quote": "At microwave frequencies, the first, imperfect invisibility cloak was realized in 2006.",
+  "source_url": "https://en.wikipedia.org/wiki/Metamaterial",
+  "note": "Page does not tie the 2006 cloak to gradient-index metamaterials"
+ },
+ {
+  "claim": "AT&T was forbidden from entering the computer business by a 1956 antitrust case — so they gave Unix source code to anyone who asked, spurring its adoption.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As a 1956 antitrust case forbade AT&T from entering the computer business ... AT&T provided the operating system's source code to anyone who asked.",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": ""
+ },
+ {
+  "claim": "Histoplasma capsulatum hides inside macrophages — the immune cells meant to kill it become its home.",
+  "verdict": "overstated",
+  "corrected_claim": "In infected tissue, Histoplasma capsulatum yeast cells are characteristically seen clustered inside phagocytic cells such as macrophages.",
+  "quote": "are characteristically seen forming in clusters within phagocytic cells, including ... histiocytes and other macrophages, as well as monocytes.",
+  "source_url": "https://en.wikipedia.org/wiki/Histoplasma_capsulatum",
+  "note": "Page shows yeasts inside macrophages but does not discuss evading killing"
+ },
+ {
+  "claim": "Termite guts contain protozoa that digest cellulose—without these gut symbionts, termites would starve even with a stomach full of wood.",
+  "verdict": "overstated",
+  "corrected_claim": "Termites rely primarily on a symbiotic gut community of bacteria and flagellate protists that provides the enzymes to digest cellulose.",
+  "quote": "Termites rely primarily upon a symbiotic microbial community that includes bacteria and flagellate protists ... This community provides the enzymes that digests the cellulose, allowing the insects to absorb the end products",
+  "source_url": "https://en.wikipedia.org/wiki/Termite",
+  "note": "Page does not say termites would starve without symbionts; higher termites have no protozoa."
+ },
+ {
+  "claim": "Garlic's characteristic smell comes from allicin, which only forms when garlic cells are damaged—crushing releases more flavor than slicing.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Food_science",
+  "note": "Food science page is a general overview and does not mention this"
+ },
+ {
+  "claim": "The word 'ketchup' likely comes from Chinese 'kê-tsiap' meaning 'fermented fish sauce' — the original was nothing like modern ketchup.",
+  "verdict": "overstated",
+  "corrected_claim": "One theory traces 'ketchup' to a Hokkien word from southern China meaning the brine of pickled fish or shellfish, though the word's etymology is unclear with multiple competing theories.",
+  "quote": "The etymology of the word ketchup is unclear; there are multiple competing theories. ... Another theory is that the word derives from one of two words from Hokkien of the Fujian region of coastal southern China.",
+  "source_url": "https://en.wikipedia.org/wiki/Ketchup",
+  "note": "Page says etymology unclear; Hokkien meaning is pickled-fish brine"
+ },
+ {
+  "claim": "Spoiler effects occur when a losing candidate's presence changes who wins — Ralph Nader in Florida 2000 potentially cost Gore the election, a flaw of plurality voting.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The 2000 U.S. Presidential Election in Florida ... it is plausible (see Magee 2003) that Al Gore (A) would have won without Ralph Nader (B) in the election ... Vote splitting is the most common cause of spoiler effects in FPP.",
+  "source_url": "https://en.wikipedia.org/wiki/Vote_splitting",
+  "note": "Page lists 2000 among elections most consistently cited as spoiled by third-party candidates."
+ }
+]
