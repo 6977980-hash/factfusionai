@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "The term 'plant neurobiology' was so controversial that the Society for Plant Neurobiology renamed itself Society of Plant Signaling and Behavior in 2009.",
+  "verdict": "overstated",
+  "corrected_claim": "The Society of Plant Signaling and Behavior was formerly called the Society for Plant Neurobiology — plant 'intelligence' remains a source of controversy.",
+  "quote": "(formerly Society for Plant Neurobiology) ... The idea of plant cognition or plant \"intelligence\" is a source of controversy",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page gives no 2009 date and does not say the controversy caused the rename"
+ },
+ {
+  "claim": "Earl Washington Jr. had his death sentence commuted just one week before scheduled execution based on DNA evidence in 1994, receiving a full pardon in 2000 after more advanced testing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "had his death sentence commuted to life imprisonment a week before his scheduled execution date ... He received a full pardon in 2000 based on more advanced testing.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "1994 date and DNA basis from same passage"
+ },
+ {
+  "claim": "Some black holes may have cosmological origins, and would then never have been stars.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some black holes may have cosmological origins, and would then never have been stars.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Over 3,000 NP-complete problems are known — if any one of them can be solved in polynomial time, all of them can.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "no one has been able to find a polynomial-time algorithm for any of more than 3,000 important known NP-complete problems ... If any NP-complete problem is in P, then it would follow that P = NP.",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": ""
+ },
+ {
+  "claim": "Filamentous phages don't kill their hosts — they continuously secrete new virus particles while keeping the bacterium alive.",
+  "verdict": "overstated",
+  "corrected_claim": "Filamentous phages make their host cell continually secrete new virus particles instead of bursting it.",
+  "quote": "An altogether different phage type, the filamentous phage, makes the host cell continually secrete new virus particles.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "'Keeping the bacterium alive' implied, not stated"
+ },
+ {
+  "claim": "DYK made its first Main Page appearance on 22 February 2004.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Wikipedia%3ADid_you_know",
+  "note": "Wikipedia:Did you know page failed to load."
+ },
+ {
+  "claim": "Pregnant women are twice as attractive to malaria-carrying mosquitoes—they exhale more CO2 and have higher body temperatures.",
+  "verdict": "overstated",
+  "corrected_claim": "Mosquitoes prefer to feed on people with type O blood, abundant skin bacteria and high body heat—and they also favor pregnant women.",
+  "quote": "Mosquitoes prefer to feed on people with type O blood, an abundance of skin bacteria, and high body heat; they also favor pregnant women.",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": "'Twice as attractive', malaria-specific and CO2 detail not on page."
+ },
+ {
+  "claim": "One standard drink nearly saturates the liver's capacity to metabolize alcohol, which is why drinking faster leads to higher blood alcohol levels.",
+  "verdict": "overstated",
+  "corrected_claim": "One standard drink is enough to almost completely saturate the liver's capacity to metabolize alcohol, and speed of drinking is one of the factors that shapes blood alcohol content over time.",
+  "quote": "One standard drink is sufficient to almost completely saturate the liver's capacity to metabolize alcohol. ... speed of drinking",
+  "source_url": "https://en.wikipedia.org/wiki/Ethanol_metabolism",
+  "note": "Page does not draw the causal 'which is why' link."
+ },
+ {
+  "claim": "1902: Richard Assmann and Léon Teisserenc de Bort independently discovered the stratosphere.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1902: Richard Assmann and Léon Teisserenc de Bort independently discovered the stratosphere.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The Tasmanian Aboriginal languages went extinct because European colonists killed or displaced the entire native population — a case of linguistic genocide.",
+  "verdict": "overstated",
+  "corrected_claim": "The Tasmanian languages died out with the native population of Tasmania, who died from diseases or were killed by European colonists.",
+  "quote": "the native population of Tasmania who died from diseases or were killed by European colonists",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": "Page cites disease as well as killing; does not mention displacement or the term 'linguistic genocide'."
+ },
+ {
+  "claim": "Regret aversion leads investors to avoid actions they might regret — people hold losing positions rather than sell and confirm the loss, even when selling is optimal.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Regret_aversion",
+  "note": "Page failed to load (URL not found)."
+ },
+ {
+  "claim": "36 plant scientists published a 2007 paper titled 'Plant Neurobiology: No Brain, No Gain?' arguing plants lack neurons and true cognition.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2007 Amadeo Alpi and 35 other scientists published an article arguing that the idea of plant neurobiology and cognition is unfounded and adds nothing to understanding plant physiology.",
+  "quote": "Amadeo Alpi and thirty-five other scientists published an article in 2007 ... the idea of plant neurobiology and cognition is unfounded and needs to be redefined",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page does not give the paper's title or say it argued plants lack neurons"
+ },
+ {
+  "claim": "James Hanratty, executed for murder in 1962, was exhumed in 2002 for DNA testing—the results convinced Court of Appeal judges his guilt was 'proven beyond doubt,' despite decades of campaigns claiming his innocence.",
+  "verdict": "overstated",
+  "corrected_claim": "James Hanratty, hanged in 1962 for the 'A6 murder', was exhumed for DNA testing—and the results convinced Court of Appeal judges that his guilt was proved 'beyond doubt'.",
+  "quote": "the body of James Hanratty, hanged in 1962 for the \"A6 murder\", was exhumed and DNA samples from the body and members of his family were analysed. The results convinced Court of Appeal judges that Hanratty's guilt ... was proved \"beyond doubt\".",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "'Decades of campaigns' not confirmed on page"
+ },
+ {
+  "claim": "Stellar black holes are objects with approximately 4–15 M☉ .",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Stellar black holes are objects with approximately 4–15 M☉.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "Integer factorization is believed to be NP-intermediate — neither in P nor NP-complete, which is why RSA encryption works.",
+  "verdict": "overstated",
+  "corrected_claim": "Integer factorization is believed to be NP-intermediate — not known to be in P or NP-complete — and the lack of any known efficient factoring algorithm underpins cryptosystems such as RSA.",
+  "quote": "the integer factorization problem are examples of problems believed to be NP-intermediate ... They are some of the very few NP problems not known to be in P or to be NP-complete. ... No efficient integer factorization algorithm is known",
+  "source_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "note": "RSA relies on no known efficient factoring algorithm, not on NP-intermediate status"
+ },
+ {
+  "claim": "Some bacteriophages actually protect bacteria from antibiotics by helping form biofilms in cystic fibrosis lungs.",
+  "verdict": "overstated",
+  "corrected_claim": "Phages of the Inoviridae family have been shown to complicate biofilms involved in pneumonia and cystic fibrosis, shielding bacteria from the drugs meant to eliminate them.",
+  "quote": "On the other hand, phages of Inoviridae have been shown to complicate biofilms involved in pneumonia and cystic fibrosis",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page refers to Inoviridae in pneumonia and CF biofilms generally, not 'CF lungs' specifically"
+ },
+ {
+  "claim": "Add new items at the first \"Create\" link in the section below.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Portal%3AMathematics/Did_you_know",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The largest mosquitoes (genus Toxorhynchites) grow up to 18 mm long but never bite—their larvae are predators that eat other mosquito larvae.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It includes the largest known species of mosquito, at up to 18 mm (0.71 in) in length and 24 mm (0.94 in) in wingspan. ... It is among the few kinds of mosquito that do not consume blood. ... their larvae prey on the larvae of other mosquitoes.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxorhynchites",
+  "note": ""
+ },
+ {
+  "claim": "Only 5-10% of alcohol is excreted unchanged in breath, urine, and sweat—the rest is metabolized into carbon dioxide and water.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Around 5 to 10% of ethanol that is ingested is excreted unchanged in urine, breath, and sweat. ... 90-98% of ingested ethanol is metabolized into carbon dioxide and water.",
+  "source_url": "https://en.wikipedia.org/wiki/Ethanol_metabolism",
+  "note": ""
+ },
+ {
+  "claim": "1905: The chromosomal XY sex-determination system—that males have XY, and females XX, sex chromosomes—was discovered independently by Nettie Stevens, at Bryn Mawr College, and by Edmund Beecher Wilson at Columbia University.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1905: The chromosomal XY sex-determination system ... was discovered independently by Nettie Stevens, at Bryn Mawr College, and by Edmund Beecher Wilson at Columbia University.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Plains Indian Sign Language was once a lingua franca across the Great Plains — allowing communication between dozens of spoken language groups.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": "Page only lists Plains Indian Sign Language as endangered; nothing about it being a lingua franca."
+ },
+ {
+  "claim": "Screening in economics involves the uninformed party designing contracts that cause informed parties to reveal their type — insurance companies offering high and low deductible plans.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Screening in economics refers to a strategy of combating adverse selection ... create policy contracts for higher deductibles in exchange for lower premiums",
+  "source_url": "https://en.wikipedia.org/wiki/Screening_(economics)",
+  "note": ""
+ },
+ {
+  "claim": "Plants can exhibit associative learning behaviors similar to Pavlovian conditioning, though this remains controversial among scientists.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page has no mention of Pavlovian conditioning in plants; associative learning only discussed philosophically"
+ },
+ {
+  "claim": "In 2005, DNA evidence convicted Gary Leiterman of a 1969 murder, but also matched blood on the victim's hand to a man who was only four years old at the time of the crime—likely due to lab contamination.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2005, DNA from Jane Mixer's pantyhose helped convict Gary Leiterman of her 1969 murder, yet a drop of blood on her hand matched a man who was only four years old in 1969; the defense unsuccessfully argued cross-contamination.",
+  "quote": "In 2005, Gary Leiterman was convicted of the 1969 murder of Jane Mixer ... DNA in a drop of blood on Mixer's hand was matched to John Ruelas ... who was only four years old in 1969 and was never successfully connected to the case ... Leiterman's defense unsuccessfully argued that the unexplained match of the blood spot to Ruelas pointed to cross-contamination",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Page does not say contamination was likely; only that the defense unsuccessfully argued it."
+ },
+ {
+  "claim": "Supermassive black holes are in the range of millions or billions M☉.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Supermassive black holes are in the range of millions or billions M☉.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_most_massive_stars",
+  "note": ""
+ },
+ {
+  "claim": "The British Post Office scandal (2000-2015) saw 736 subpostmasters prosecuted for financial shortfalls actually caused by bugs in the Horizon accounting software — many were falsely imprisoned.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "between 2000 and 2015, 736 subpostmasters were prosecuted by the UK Post Office, with many falsely convicted and sent to prison. ... The subpostmasters were blamed for financial shortfalls which actually were caused by software defects",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "Fatal familial insomnia is a prion disease — patients progressively lose the ability to sleep and die within months.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page only lists fatal insomnia by name; no symptoms or survival time"
+ },
+ {
+  "claim": "Male mosquitoes beat their wings 450-600 times per second, producing a distinctive whine that females use to identify potential mates.",
+  "verdict": "overstated",
+  "corrected_claim": "Male mosquitoes beat their wings between 450 and 600 times per second.",
+  "quote": "Males beat their wings between 450 and 600 times per second",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": "Page does not say females identify mates by the whine (mentions pheromones)."
+ },
+ {
+  "claim": "The Widmark equation, developed in the 1930s, is still used today to estimate blood alcohol concentration from the amount of alcohol consumed.",
+  "verdict": "overstated",
+  "corrected_claim": "Through the 1930s, Erik Widmark formulated the basic principles of ethanol pharmacokinetics for forensic purposes, including the eponymous Widmark equation, which was later updated by others.",
+  "quote": "Through the 1930s, Widmark conducted numerous studies and formulated the basic principles of ethanol pharmacokinetics for forensic purposes. ... including the eponymous Widmark equation.",
+  "source_url": "https://en.wikipedia.org/wiki/Ethanol_metabolism",
+  "note": "Page does not directly say the equation is still used today."
+ },
+ {
+  "claim": "1907: Lutetium discovered independently by French scientist Georges Urbain and by Austrian mineralogist Baron Carl Auer von Welsbach.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1907: Lutetium discovered independently by French scientist Georges Urbain and by Austrian mineralogist Baron Carl Auer von Welsbach.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The U.S. has a special visa (J-1 specialist) for indigenous language experts without academic training — helping preserve endangered languages.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the United States has a J-1 specialist visa, which allows indigenous language experts who do not have academic training to enter the U.S.",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": "Page dates this as of June 2012."
+ },
+ {
+  "claim": "The Dutch tulip 'Semper Augustus' bulb sold for 6,000 florins in 1633 — enough to buy a grand house in Amsterdam, making it possibly the most expensive flower in history.",
+  "verdict": "overstated",
+  "corrected_claim": "The Semper Augustus was the most expensive tulip of the Dutch tulip mania — at its height a bulb sold for ƒ10,000, roughly €130,000 in 2024 money.",
+  "quote": "The Semper Augustus was the most expensive tulip during the mania ... at its height this tulip was even sold for ƒ10,000 (in guilders; equivalent to approx. €130,000 in 2024).",
+  "source_url": "https://en.wikipedia.org/wiki/Semper_augustus",
+  "note": "No 6,000 florins/1633 price or Amsterdam house comparison on page."
+ },
+ {
+  "claim": "Cleve Backster's 1966 experiments claiming plants respond to human emotions were later debunked when controlled studies found no repeatable effect.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Backster's interest in the subject began in February 1966 ... Other controlled experiments that attempted to replicate Backster's findings also produced negative results.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "The 2004 disappearance of Bobby Dunbar was reexamined through DNA testing, proving the boy found in 1912 was not actually Bobby—whose true fate remains unknown over 100 years later.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2004, DNA testing reexamined the 1912 disappearance of Bobby Dunbar, establishing that the boy found in 1912 was not Bobby, whose real fate remains unknown.",
+  "quote": "In 2004, DNA testing shed new light ... DNA tests on Dunbar's son and nephew revealed the two were not related ... establishing that the boy found in 1912 was not Bobby Dunbar, whose real fate remains unknown.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Disappearance was in 1912, not 2004; DNA testing was in 2004."
+ },
+ {
+  "claim": "The DAO hack in 2016 exploited a recursive call vulnerability to steal 3.6 million Ether (~$50 million) — about a third of all funds committed to the project.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On June 17, 2016, the DAO was subjected to an attack exploiting a combination of vulnerabilities, including the one concerning recursive calls, that resulted in the transfer of 3.6 million Ether ... around a third of the 11.5 million Ether that had been committed to The DAO ... valued at the time at around $50M.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "Kuru — a prion disease spread by ritual cannibalism in Papua New Guinea — had incubation periods of up to 50 years.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page mentions kuru transmission research but not cannibalism, Papua New Guinea or 50-year incubation"
+ },
+ {
+  "claim": "Arctic mosquitoes emerge in such enormous numbers during the brief summer that they can drain caribou of 300 ml of blood per day.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Arctic or subarctic mosquitoes ... may be active for only a few weeks annually as melt-water pools form on the permafrost. During that time, though, they emerge in huge numbers in some regions; a swarm may take up to 300 ml of blood per day from each animal in a caribou herd.",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": ""
+ },
+ {
+  "claim": "Linda Buck and Richard Axel won the 2004 Nobel Prize for discovering how odor receptors work—each receptor recognizes specific molecular features.",
+  "verdict": "overstated",
+  "corrected_claim": "Linda Buck and Richard Axel, who cloned the olfactory receptor proteins, were awarded the Nobel Prize in 2004.",
+  "quote": "A modern demonstration of that theory was the cloning of olfactory receptor proteins by Linda B. Buck and Richard Axel ... who were awarded the Nobel Prize in 2004",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "'Each receptor recognizes specific molecular features' not stated in fetched text."
+ },
+ {
+  "claim": "1907: Hilbert space representation theorem, also known as Riesz representation theorem, the mathematical justification of the Bra-ket notation in the theory of quantum mechanics –  independently proved by Frigyes Riesz and Maurice René Fréchet.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1907: Hilbert space representation theorem, also known as Riesz representation theorem ... independently proved by Frigyes Riesz and Maurice René Fréchet.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Welsh, Scottish Gaelic, and Irish were actively suppressed by the British government for centuries — contributing to their endangered status today.",
+  "verdict": "overstated",
+  "corrected_claim": "Welsh, Scottish Gaelic and Irish are examples of languages endangered by cultural, political and economic marginalization that led speakers to switch to a more prestigious language.",
+  "quote": "examples of this kind of endangerment are the cases of Welsh, Scottish Gaelic, and Scots in Great Britain; Irish in Ireland",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": "Page attributes this to marginalization, not active suppression by the British government for centuries."
+ },
+ {
+  "claim": "Zero Intelligence Traders in experiments show that market efficiency can emerge without rational agents — random buying and selling still produces prices close to equilibrium.",
+  "verdict": "overstated",
+  "corrected_claim": "Zero-intelligence trader experiments show simple double auctions achieve high allocative efficiency—individual non-rationality does not necessarily carry over into market outcomes.",
+  "quote": "Simple double auctions tend to achieve high levels of allocative efficiency ... Specifically, any non-rationality of individuals does not necessarily carry over into outcomes of markets.",
+  "source_url": "https://en.wikipedia.org/wiki/Zero-intelligence_trader",
+  "note": "'Prices close to equilibrium' not stated."
+ },
+ {
+  "claim": "Rafflesia arnoldii produces the world's largest individual flower, up to 1.5 meters (5 feet) in diameter and weighing 10-12 kg.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "With a flower growing up to 1.5 m (5 ft) in diameter, 3–4 m (10–13 ft) in perimeter and 10–12 kg (22–26 lb) in weight,",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": ""
+ },
+ {
+  "claim": "Trace evidence includes any material transferred through contact between two surfaces, from fibers and hair to microscopic glass fragments and shoe impressions.",
+  "verdict": "overstated",
+  "corrected_claim": "Trace evidence occurs when objects make contact and material is transferred—from fire debris and gunshot residue to glass fragments and fibres.",
+  "quote": "Trace evidence occurs when objects make contact, and material is transferred. ... some examples including, but not limited, to fire debris, gunshot residue, glass fragments, and fibres.",
+  "source_url": "https://en.wikipedia.org/wiki/Trace_evidence",
+  "note": "Page does not list hair or shoe impressions as trace evidence."
+ },
+ {
+  "claim": "The Debian OpenSSL bug (2006-2008) made random number generation predictable, compromising every key generated over 2 years — including SSL certificates and SSH keys.",
+  "verdict": "overstated",
+  "corrected_claim": "A Debian patch to OpenSSL, uploaded in September 2006 and not reported until April 2008, broke the random number generator - every key generated with it was compromised, threatening SSL/TLS connections, SSH, Tor and S/MIME.",
+  "quote": "In order to fix a warning issued by Valgrind, a maintainer of Debian patched OpenSSL and broke the random number generator in the process. ... Every key generated with the broken version is compromised (as the \"random\" numbers were made easily predictable), as is all data encrypted with it, threatening many applications that rely on encryption such as S/MIME, Tor, SSL or TLS protected connections and SSH.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Period is ~19 months not 2 years; source lists SSL/SSH as threatened applications, not certificates"
+ },
+ {
+  "claim": "Chronic wasting disease in deer and elk is spreading across North America — a prion epidemic in wild ungulates.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page lists affected deer/elk but says nothing about spread across North America"
+ },
+ {
+  "claim": "Malaria parasites manipulate infected people to produce chemicals that make them more attractive to mosquitoes—increasing the parasite's spread.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "People infected by malaria produce relatively large amounts of Plasmodium-induced aldehydes in the skin, ... These compounds are detected by mosquito antennae. Thus, people infected with malaria are more prone to mosquito biting.",
+  "source_url": "https://en.wikipedia.org/wiki/Mosquito",
+  "note": ""
+ },
+ {
+  "claim": "Mammals have about 1,000 genes coding for odor receptors, though only a portion are functional—humans have fewer active receptor genes than other mammals.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Mammals have about a thousand genes that code for odor reception. Of the genes that code for odor receptors, only a portion are functional. Humans have far fewer active odor receptor genes than other primates and other mammals.",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": ""
+ },
+ {
+  "claim": "1908: The Stark–Einstein law (aka photochemical equivalence law, or photoequivalence law) – independently formulated between 1908 and 1913 by Johannes Stark and Albert Einstein.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1908: The Stark–Einstein law ... independently formulated between 1908 and 1913 by Johannes Stark and Albert Einstein.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The Ryukyuan languages of Japan are considered endangered largely due to Japanese government policies promoting standard Japanese.",
+  "verdict": "overstated",
+  "corrected_claim": "The Ryukyuan languages of Japan are endangered through marginalization, as speakers shift to a more prestigious language.",
+  "quote": "the Ryukyuan languages and Ainu in Japan; and Chamorro in Guam",
+  "source_url": "https://en.wikipedia.org/wiki/Endangered_language",
+  "note": "Page lists them as cases of marginalization; does not mention Japanese government policies."
+ },
+ {
+  "claim": "The Impossibility Theorem applies to fair division too — no procedure can guarantee an envy-free, Pareto efficient, and equitable division of resources among three or more people.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fair_division",
+  "note": "Page has no such theorem; its impossibility result is that no finite protocol guarantees an envy-free connected-piece cake division among 3+ players."
+ },
+ {
+  "claim": "Rafflesia has no roots, stems, leaves, or chlorophyll—it's a parasite that only becomes visible when its corpse-scented flowers emerge from host vines.",
+  "verdict": "overstated",
+  "corrected_claim": "Rafflesia has no roots, stems, leaves or chlorophyll—it parasitizes wild grape vines, and the plant only becomes visible when its plump buds emerge through the host's bark; its flowers give off a corpse-like scent.",
+  "quote": "With no roots, stems, leaves or chlorophyll, they are parasitic to many species of wild East Indian grapes (Tetrastigma spp) on the roots and stems of their vine. The very existence of the plant can only become visible when its plump buds emerge from the host through the bark",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": "Page says buds (not flowers) emerge through the host's bark."
+ },
+ {
+  "claim": "No standards and methodologies exist to determine physical fit between two pieces of evidence, leaving analysts' discretion to determine if samples came from the same source.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "No standards and methodologies have been created to determine physical fit between two piece of evidence",
+  "source_url": "https://en.wikipedia.org/wiki/Trace_evidence",
+  "note": "Page adds it is 'up to the analysts discretion'."
+ },
+ {
+  "claim": "Heartbleed (2012-2014) was an OpenSSL vulnerability that removed confidentiality from HTTPS — it forced Canada's tax agency to shut down online filing during tax season.",
+  "verdict": "overstated",
+  "corrected_claim": "Heartbleed, an OpenSSL vulnerability introduced in 2012 and disclosed in April 2014, removed confidentiality from affected services and led the Canada Revenue Agency to shut down public access to its online filing after social insurance numbers were stolen.",
+  "quote": "Heartbleed, an OpenSSL vulnerability introduced in 2012 and disclosed in April 2014, removed confidentiality from affected services, causing among other things the shutdown of the Canada Revenue Agency's public access to the online filing portion of its website following the theft of social insurance numbers.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Source says 'affected services', not HTTPS broadly; 'during tax season' not stated"
+ },
+ {
+  "claim": "Prions create sponge-like holes in brain tissue — the hallmark 'spongiform' damage visible under microscopy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "characterized by \"holes\" in the tissue with resultant spongy architecture",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Periodical cicadas spend 13 or 17 years underground as nymphs—these prime-number cycles may have evolved to avoid synchronizing with predator populations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the new nymphs burrow underground to develop for the next 13 or 17 years. ... It has been hypothesized that the prime-number development times (13 and 17 years) improve avoidance of predators",
+  "source_url": "https://en.wikipedia.org/wiki/Periodical_cicada",
+  "note": ""
+ },
+ {
+  "claim": "The olfactory system is unique among senses—it bypasses the thalamus and connects directly to the forebrain, which is why smells evoke such strong memories.",
+  "verdict": "overstated",
+  "corrected_claim": "Olfaction is the only human sense that bypasses the thalamus and connects directly to the forebrain, and odor information has strong connections to emotional memory.",
+  "quote": "The olfactory system is the only human sense that bypasses the thalamus and connects directly to the forebrain. ... Odor information is stored in long-term memory and has strong connections to emotional memory.",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "Page does not causally link the thalamus bypass to strong memories."
+ },
+ {
+  "claim": "It states that every photon that is absorbed will cause a (primary) chemical or physical reaction.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The oldest known dictionary is from ancient Mesopotamia (c. 2300 BCE) — a Sumerian-Akkadian bilingual word list.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Page does not mention dictionaries or Sumerian-Akkadian word lists."
+ },
+ {
+  "claim": "Greece's 2010 debt crisis revealed it had falsified statistics to join the Euro — Goldman Sachs had helped hide debt through complex currency swaps, leading to €289 billion in bailouts.",
+  "verdict": "overstated",
+  "corrected_claim": "Greece had misreported economic statistics for years, with unreliable data dating back to its 1999 euro application, and Goldman Sachs and other banks arranged derivative deals that hid billions in Greek debt; bailouts of €110 billion and €130 billion followed.",
+  "quote": "the government of Greece for many years simply misreported economic statistics. ... it was discovered that Goldman Sachs and other banks had arranged financial transactions involving the use of derivatives",
+  "source_url": "https://en.wikipedia.org/wiki/Greek_government-debt_crisis",
+  "note": "€289 billion total not found on page"
+ },
+ {
+  "claim": "The pelican flower (Aristolochia grandiflora) produces the world's longest flower with a sepal extending up to 3-4 meters long while only 1 cm wide.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The world's longest flower is the pelican flower (Aristolochia grandiflora) ... with one sepal extending up to 3 m (10 ft) ... or possibly even to 4 m (13 ft) in length ... while being only 1 cm wide.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": ""
+ },
+ {
+  "claim": "Scanning electron microscopy (SEM) can identify sulfur traces on a cracked fuel pipe, indicating a sulfuric acid attack from a car battery—useful in determining causes of vehicular accidents.",
+  "verdict": "overstated",
+  "corrected_claim": "In one car accident caused by a diesel fuel leak, traces of sulfur on the cracked tube indicated an attack by sulfuric acid from the battery.",
+  "quote": "A car accident caused by a diesel fuel leak, for example, showed traces of sulfur on the cracked tube ... an attack by sulfuric acid from the battery.",
+  "source_url": "https://en.wikipedia.org/wiki/Trace_evidence",
+  "note": "Page doesn't explicitly attribute the finding to SEM or generalize to accident investigation."
+ },
+ {
+  "claim": "Apple's 'goto fail' bug was caused by a duplicated line of code that made SSL certificate checks always pass — a single line rendered millions of devices vulnerable.",
+  "verdict": "overstated",
+  "corrected_claim": "Apple's 'goto fail' bug was a single duplicated line of code that caused a public key certificate check to pass a test incorrectly.",
+  "quote": "The Apple \"goto fail\" bug was a duplicated line of code which caused a public key certificate check to pass a test incorrectly.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Source does not mention millions of devices or 'always pass'"
+ },
+ {
+  "claim": "Multiple system atrophy (MSA) was linked to prion-like alpha-synuclein in 2015 — expanding the prion concept beyond PrP protein.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a prion form of alpha-synuclein was linked to multiple system atrophy (MSA)",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Cicadas produce sound using 'tymbals'—drum-like membranes that buckle and unbuckle rapidly up to 400 times per second.",
+  "verdict": "overstated",
+  "corrected_claim": "Male cicadas sing using tymbals—structures buckled by muscle action that unbuckle rapidly when the muscles relax, producing their characteristic sound.",
+  "quote": "The structure is buckled by muscular action ... unbuckles rapidly on muscle relaxation, producing their characteristic sounds.",
+  "source_url": "https://en.wikipedia.org/wiki/Cicada",
+  "note": "'400 times per second' not on page"
+ },
+ {
+  "claim": "Retronasal smell—odors released during chewing that travel to the nose during exhalation—plays the biggest role in flavor perception, not the tongue.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Retronasal smell plays the biggest role in the sensation of flavor.",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": ""
+ },
+ {
+  "claim": "1911: Ejnar Hertzsprung created the Hertzsprung–Russell diagram, abbreviated H–R diagram, HR diagram, or HRD – a scatter plot of stars showing the relationship between the stars' absolute magnitudes or luminosities versus their stellar classifications or effective temperatures – a major step toward an understanding of stellar evolution.",
+  "verdict": "overstated",
+  "corrected_claim": "1911: Ejnar Hertzsprung created the Hertzsprung–Russell diagram, a scatter plot of stars' luminosities versus their classifications or temperatures - and in 1913 Henry Norris Russell independently created it too.",
+  "quote": "1911: Ejnar Hertzsprung created the Hertzsprung–Russell diagram ... a scatter plot of stars showing the relationship between the stars' absolute magnitudes ... a major step toward an understanding of stellar evolution ... In 1913 the Hertzsprung–Russell diagram was independently created by Henry Norris Russell.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Claim omits that Russell independently created it in 1913 (the point of the entry)"
+ },
+ {
+  "claim": "The Rosetta Stone (196 BCE) contained the same text in three scripts: hieroglyphic, demotic Egyptian, and Greek — the key to deciphering hieroglyphs.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Rosetta Stone not mentioned on page."
+ },
+ {
+  "claim": "Effort aversion leads people to overvalue time compared to money — people drive across town to save $5 on a $15 calculator but not on a $125 jacket, though the savings are identical.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+  "note": "Page has no effort-aversion or calculator/jacket example"
+ },
+ {
+  "claim": "Balanophora involucrata has the world's smallest flowers at just 25 micrometers wide, with a single flower head containing up to 10 million tiny florets.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Balanophora involucrata of the Himalayas has a capitate inflorescence with myriads of tiny flowers each measuring only 25 micrometres wide. The capitulum can contain as many as ten million (10,000,000) florets.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": ""
+ },
+ {
+  "claim": "Trace evidence collection methods include handpicking, tape lifts, combing, and removal of entire objects—with different techniques used depending on the evidence type and surface.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "samples may be collected by handpicking, tape lifts, combing, or removal of an entire object.",
+  "source_url": "https://en.wikipedia.org/wiki/Trace_evidence",
+  "note": ""
+ },
+ {
+  "claim": "In 2020, a specific Android wallpaper could brick phones by causing a bootloop — it was caused by how Android converted images from ProPhoto RGB to sRGB colorspace.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On May 31, 2020, the user @UniverseIce on Twitter reported a wallpaper that caused select Android phones to go into a bootloop ... This was caused by an oversight in Android's SystemUI and how it handled converting images used for the wallpaper from ProPhoto RGB to sRGB",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "Alzheimer's, Parkinson's, and ALS may spread via prion-like mechanisms — misfolded proteins corrupting normal ones.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "which have been shown to originate and progress by a prion-like mechanism",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Some cicadas can produce sounds up to 120 decibels—loud enough to cause permanent hearing loss in humans at close range.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "some cicadas produce sounds up to 120 dB (SPL) ... The song is loud enough to cause permanent hearing loss in humans should the cicada be at \"close range\".",
+  "source_url": "https://en.wikipedia.org/wiki/Cicada",
+  "note": ""
+ },
+ {
+  "claim": "While the tongue distinguishes only five taste qualities, the nose can distinguish among hundreds of substances, even in minute quantities.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The human tongue can distinguish only among five distinct qualities of taste, while the nose can distinguish among hundreds of substances, even in minute quantities.",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": ""
+ },
+ {
+  "claim": "1912-1917: Alexander Bogdanov formulated principles such as feedback, dynamic equilibrium, synergy, and the theory of constraints under the transdisciplinary framework of \"tektology\".",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1912-1917: Alexander Bogdanov formulated principles such as feedback, dynamic equilibrium, synergy ... under the transdisciplinary framework of \"tektology\".",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The Indus Valley script (c. 2600-2000 BCE) remains undeciphered — we don't know if it represents a full language or just symbols.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "remains undeciphered, and whether it functioned as true writing is not agreed upon",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Page dates it roughly 2600-2000 BC."
+ },
+ {
+  "claim": "The Myerson-Satterthwaite Theorem proves that no mechanism can achieve efficient bilateral trade when buyer and seller have private information — some mutually beneficial trades will never happen.",
+  "verdict": "overstated",
+  "corrected_claim": "The Myerson–Satterthwaite theorem shows that when buyer and seller have private valuations whose ranges overlap, no trading mechanism can be simultaneously individually rational, budget-balanced, incentive-compatible and ex-post efficient.",
+  "quote": "then, there is no mechanism which satisfies the four properties mentioned above (IR, WBB, NEIC and PE).",
+  "source_url": "https://en.wikipedia.org/wiki/Myerson%E2%80%93Satterthwaite_theorem",
+  "note": "Impossibility holds only jointly with IR, budget balance and incentive compatibility, and only when valuation ranges overlap."
+ },
+ {
+  "claim": "The world's smallest complete flower is Parish's wild buckwheat at only 0.6 mm long, yet containing sepals, petals, stamens, and carpels.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has pink, trimerous flowers with 3 sepals, 3 petals, 3 stamens and a pistil of three carpels, yet it measures only 0.6 mm long.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": ""
+ },
+ {
+  "claim": "The Vinland Map was identified as a 20th-century forgery through chemical trace evidence analysis of its ink composition.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Trace_evidence",
+  "note": "Vinland Map not mentioned on page."
+ },
+ {
+  "claim": "AT&T's long-distance network crashed on January 15, 1990 due to a cascading failure — a bug caused switches to report problems in a way that crashed neighboring switches.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "AT&T long-distance network crash (January 15, 1990), in which the failure of one switching system would cause a message to be sent to nearby switching units to tell them that there was a problem. Unfortunately, the arrival of that message would cause those other systems to fail too – resulting in a cascading failure that rapidly spread across the entire AT&T long-distance network.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "Sterilizing surgical instruments against prions requires 1N sodium hydroxide plus autoclaving at 121°C for 30 minutes — far more extreme than standard sterilization.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Immerse in 1N sodium hydroxide and place in a gravity-displacement autoclave at 121 °C for 30 minutes",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Male cicadas disable their own hearing while calling to prevent damage from their own extremely loud songs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Males disable their own tympana while calling, thereby preventing damage to their hearing",
+  "source_url": "https://en.wikipedia.org/wiki/Cicada",
+  "note": ""
+ },
+ {
+  "claim": "Humans can detect blood relatives by body odor—mothers can identify biological children but not stepchildren by smell.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Humans can detect blood relatives from olfaction. Mothers can identify by body odor their biological children but not their stepchildren.",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": ""
+ },
+ {
+  "claim": "By 1913, vitamin A was independently discovered by Elmer McCollum and Marguerite Davis at the University of Wisconsin–Madison, and by Lafayette Mendel and Thomas Burr Osborne at Yale University, who studied the role of fats in the diet.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "By 1913, vitamin A was independently discovered by Elmer McCollum and Marguerite Davis at the University of Wisconsin–Madison, and by Lafayette Mendel and Thomas Burr Osborne at Yale University",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Quipu, the Incan system of knotted cords, could encode administrative data but remains only partially deciphered — some scholars think it could record narratives.",
+  "verdict": "overstated",
+  "corrected_claim": "Quipu, the 15th-century Inca system of knotted cords, served as a mnemonic device.",
+  "quote": "Quipu (15th century AD), a system of knotted cords used as mnemonic devices by the Inca Empire in South America.",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Decipherment and narratives not discussed."
+ },
+ {
+  "claim": "Bernard Madoff ran the largest Ponzi scheme in history, defrauding investors of $64.8 billion — it collapsed in 2008 when he couldn't meet $7 billion in redemption requests.",
+  "verdict": "overstated",
+  "corrected_claim": "Bernard Madoff admitted to operating the largest known Ponzi scheme in history; prosecutors estimated the fraud at $64.8 billion, and it began to unravel in fall 2008 when investors tried to withdraw $7 billion.",
+  "quote": "admitted to operating the largest known Ponzi scheme in history. ... Prosecutors estimated the size of the fraud to be $64.8 billion based on the amounts in the accounts of Madoff's 4,800 clients as of November 30, 2008 ... investors tried to withdraw $7 billion from the firm.",
+  "source_url": "https://en.wikipedia.org/wiki/Madoff_investment_scandal",
+  "note": "$64.8B is the estimated size based on account balances, not the amount investors were defrauded of."
+ },
+ {
+  "claim": "The talipot palm (Corypha umbraculifera) produces the largest branched inflorescence of any plant, flowers only once in its 60-year lifetime, then dies.",
+  "verdict": "overstated",
+  "corrected_claim": "The talipot palm (Corypha umbraculifera) has the largest branched inflorescence in the plant world; it lives up to 60 years and flowers only once in its lifetime.",
+  "quote": "has the largest branched inflorescence in the plant world. This plant lives up to 60 years and flowers only once in its lifetime.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": "Page does not say it dies after flowering."
+ },
+ {
+  "claim": "Witness marks—impact depressions or tool marks left during a crime—can link a product to the implement that caused damage, such as a hammer or nail.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A typical witness mark could be an impact depression which broke a product. ... It is especially useful if that mark can be linked to the product which made the impact such as a hammer or nail.",
+  "source_url": "https://en.wikipedia.org/wiki/Trace_evidence",
+  "note": ""
+ },
+ {
+  "claim": "In January 2009, Google's search engine marked every website worldwide as potentially malicious — including its own homepage.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Entry text on page is truncated to \"In January 2009,\"; only a citation title (\"Google mistakes entire web for malware\") remains; homepage detail absent"
+ },
+ {
+  "claim": "Prion strains exist with different 'templates' even when made of identical amino acid sequences — misfolding patterns carry information.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "even when composed of PrP molecules of the same amino acid sequence",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "The Malaysian emperor cicada (Megapomponia imperatoria) has a wingspan up to 20 cm—the largest of all cicada species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is the largest species of cicada with a head-body length of about 7 cm (2.8 in) and a wingspan of 18–20 cm (7–8 in).",
+  "source_url": "https://en.wikipedia.org/wiki/Megapomponia_imperatoria",
+  "note": ""
+ },
+ {
+  "claim": "Women can smell some aspects of MHC genes in potential partners and tend to prefer partners with different MHC genes, which produces offspring with stronger immune systems.",
+  "verdict": "overstated",
+  "corrected_claim": "Female humans can smell some aspect of the MHC genes of potential partners and tend to prefer partners with different MHC genes—offspring of parents with differing MHC genes have stronger immune systems—though hormonal contraception may alter this preference.",
+  "quote": "Fish, mice, and female humans are able to smell some aspect of the MHC genes of potential sex partners and prefer partners with MHC genes different from their own. ... However, some research suggests that taking hormonal contraception can alter women's preference",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "Page adds caveat that hormonal contraception can reverse the preference."
+ },
+ {
+  "claim": "1921: The simultaneous discovery of Ramsauer-Townsend effect by Carl Ramsauer and John Sealy Townsend (1921).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1921: The simultaneous discovery of Ramsauer-Townsend effect by Carl Ramsauer and John Sealy Townsend (1921).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Early alphabetic writing started around 1800 BCE in the Sinai Peninsula — most modern alphabets descend from this Proto-Sinaitic script.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "first appeared c. 1800 BC to write a Semitic language spoken in the Sinai Peninsula ... Most of the world's alphabets either descend directly from this Proto-Sinaitic script",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": ""
+ },
+ {
+  "claim": "Narrow framing causes people to evaluate choices in isolation rather than as part of their overall portfolio — leading to excessive insurance purchases and poor investment diversification.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+  "note": "Page does not discuss narrow framing, insurance or diversification"
+ },
+ {
+  "claim": "The titan arum (corpse flower) has the largest unbranched inflorescence in the world and smells like rotting flesh to attract pollinating carrion flies.",
+  "verdict": "overstated",
+  "corrected_claim": "The titan arum has the largest unbranched inflorescence in the world and is described as a carrion flower, also known as the corpse flower.",
+  "quote": "is a flowering plant with the largest unbranched inflorescence in the world. The titan arum is described as a carrion flower, and is also known as the corpse flower or corpse plant",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": "Page does not describe the smell or carrion-fly pollinators."
+ },
+ {
+  "claim": "Forensic toxicology in the US comprises three disciplines: Postmortem toxicology (autopsy analysis), Human Performance toxicology (drug effects on behavior), and Forensic Drug Testing (workplace/sport screening).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the United States, forensic toxicology compromises three distinct disciplines: Postmortem toxicology, Human Performance toxicology, and Forensic Drug Testing (FDT).",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": ""
+ },
+ {
+  "claim": "Japan's Hitomi astronomical satellite was destroyed in 2016 when a thruster fired in the wrong direction, causing it to spin faster instead of stabilizing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Japan's Hitomi astronomical satellite was destroyed on March 26, 2016, when a thruster fired in the wrong direction, causing the spacecraft to spin faster instead of stabilize.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": ""
+ },
+ {
+  "claim": "Platelets are the largest reservoir of prion protein in human blood — raising concerns about transfusion transmission.",
+  "verdict": "overstated",
+  "corrected_claim": "Platelets are the largest reservoir of prion protein in human blood.",
+  "quote": "including several blood components of which platelets constitute the largest reservoir in humans",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not mention transfusion concerns"
+ },
+ {
+  "claim": "Desert cicadas can lower their body temperature by 5°C through evaporative cooling—they suck excess sap and excrete water through their skin like sweating.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "By evaporative cooling, desert cicadas can reduce their bodily temperature by some 5 °C. ... they suck excess sap from the food plants and extrude the excess water through pores",
+  "source_url": "https://en.wikipedia.org/wiki/Cicada",
+  "note": "'Like sweating' is an analogy"
+ },
+ {
+  "claim": "Caramelization produces three groups of brown polymers: caramelans, caramelens, and caramelins, each with different molecular structures.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The brown colors are produced by three groups of polymers: caramelans (C24H36O18), caramelens (C36H50O25), and caramelins (C125H188O80)",
+  "source_url": "https://en.wikipedia.org/wiki/Caramelization",
+  "note": ""
+ },
+ {
+  "claim": "1923: Georgios Papanikolaou is credited with discovering as early as 1923 that cervical cancer cells can be detected microscopically, though his invention of the Pap test went largely ignored by physicians until 1943.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "his invention of the Pap test went largely ignored by physicians until 1943.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Japanese uses three writing systems simultaneously: kanji (Chinese characters), hiragana, and katakana — plus romanization for foreign words.",
+  "verdict": "overstated",
+  "corrected_claim": "Japanese is written with Chinese characters plus two kana syllabaries, with syllabograms for each of its roughly 100 moras.",
+  "quote": "they have historically been used to write the varieties of Chinese, as well as Japanese, Korean, Vietnamese ... the Japanese writing system has two kana syllabaries",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Romanization and 'simultaneously' not stated."
+ },
+ {
+  "claim": "The Shapley Value, from cooperative game theory, provides a unique way to fairly distribute gains from cooperation based on each player's marginal contribution — used to allocate airport runway costs.",
+  "verdict": "overstated",
+  "corrected_claim": "The Shapley value is the only solution satisfying efficiency, symmetry, additivity and the null-player property, dividing gains by each player's average marginal contribution across all possible coalitions.",
+  "quote": "is the only solution that satisfies four fundamental properties: efficiency, symmetry, additivity, and the dummy player ... In essence, it calculates each player's average marginal contribution across all possible coalitions.",
+  "source_url": "https://en.wikipedia.org/wiki/Shapley_value",
+  "note": "Airport runway cost example not on the page."
+ },
+ {
+  "claim": "The world record for heaviest fruit is a pumpkin weighing 1,247 kg (2,749 lbs), grown in California in 2023.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The current world record holder for the heaviest fruit is a pumpkin weighing 1.247 t (196 st 5 lb), which was grown in California in 2023.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": ""
+ },
+ {
+  "claim": "Heroin rapidly metabolizes into morphine in the body, requiring forensic toxicologists to examine injection marks and chemical purity rather than detecting heroin directly.",
+  "verdict": "overstated",
+  "corrected_claim": "Heroin rapidly metabolizes into morphine, so forensic toxicologists must also examine factors like injection marks and chemical purity for an accurate diagnosis.",
+  "quote": "For instance, heroin rapidly undergoes metabolism, ultimately converting to morphine. Consequently, a thorough examination of factors such as injection marks and chemical purity becomes imperative for an accurate diagnosis.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": "Page does not say heroin cannot be detected directly."
+ },
+ {
+  "claim": "Israel's Beresheet lunar lander crashed in 2019 due to a software bug that disabled the main engine — engineers couldn't reboot it in time to slow the descent.",
+  "verdict": "overstated",
+  "corrected_claim": "Israel's Beresheet lunar lander failed in April 2019 due to a software bug in its engine system; engineers tried remotely rebooting the engine, but it could not slow down in time to avoid a crash landing.",
+  "quote": "was rendered unsuccessful on April 11, 2019, due to a software bug with its engine system, which prevented it from slowing down during its final descent on the Moon's surface. Engineers attempted to correct this bug by remotely rebooting the engine, but by the time they regained control of it, Beresheet could not slow down in time to avert a hard, crash landing that disintegrated it.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "Source says bug with its engine system, not that it disabled the main engine"
+ },
+ {
+  "claim": "Stanley Prusiner won the 1997 Nobel Prize for discovering prions — initially ridiculed for proposing a protein-only infectious agent.",
+  "verdict": "overstated",
+  "corrected_claim": "Stanley Prusiner was awarded the 1997 Nobel Prize in Physiology or Medicine for his research into prions.",
+  "quote": "Prusiner was awarded the Nobel Prize in Physiology or Medicine in 1997 for his research into prions.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not say he was ridiculed"
+ },
+ {
+  "claim": "Cicada wings are naturally antibacterial—their surface is covered with nanoscale spikes that physically tear apart bacterial cell membranes on contact.",
+  "verdict": "overstated",
+  "corrected_claim": "Cicada wings were the first-known biomaterial found to kill bacteria—bacterial membranes are torn apart by nanoscale spikes on the wing surface.",
+  "quote": "their membranes are torn apart by the nanoscale-sized spikes ... the first-known biomaterial that can kill bacteria",
+  "source_url": "https://en.wikipedia.org/wiki/Cicada",
+  "note": "'On contact' / 'all cicada wings' wording slightly stronger than page"
+ },
+ {
+  "claim": "Fructose caramelizes at the lowest temperature (105°C), while maltose requires the highest (180°C), explaining why different sugars behave differently when heated.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Specific sugars each have their own point at which the reactions begin to proceed readily. [Table:] Fructose 105 °C (221 °F); Galactose 160 °C (320 °F); Glucose 150 °C (302 °F); Sucrose 170 °C (338 °F); Maltose 180 °C (360 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Caramelization",
+  "note": "Temperatures from the page's table"
+ },
+ {
+  "claim": "Aurel Babeş of Romania independently made similar discoveries in 1927.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Aurel Babeş of Romania independently made similar discoveries in 1927.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The Yi script of China contains 756 different syllabograms — one of the largest syllabaries still in use.",
+  "verdict": "overstated",
+  "corrected_claim": "The Yi script contains 756 different symbols—a much larger inventory than most syllabaries.",
+  "quote": "Some syllabaries have larger inventories: the Yi script contains 756 different symbols.",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "'Largest still in use' not stated."
+ },
+ {
+  "claim": "Black Monday on October 19, 1987 saw the Dow Jones fall 22.6% in a single day — still the largest one-day percentage decline in stock market history, partly caused by portfolio insurance algorithms.",
+  "verdict": "overstated",
+  "corrected_claim": "On Black Monday, October 19, 1987, the Dow fell 508 points (22.6%) — the largest one-day percentage drop in the DJIA's history; portfolio insurance may have accelerated the fall, though its impact is disputed.",
+  "quote": "On that Monday, the DJIA fell 508 points (22.6 percent) ... the largest one-day percentage drop in the history of the DJIA ... The fall may have been accelerated by portfolio insurance",
+  "source_url": "https://en.wikipedia.org/wiki/Black_Monday_(1987)",
+  "note": "Page says portfolio insurance was a possible accelerant, not a cause, and its impact is disputed"
+ },
+ {
+  "claim": "Wolffia produces the world's smallest fruit at just 0.30 mm long weighing about 70 micrograms, yet this tiny fruit takes up a third of the parent plant's length.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The fruit of species in the genus of Wolffia are the smallest and lightest fruit in the world. The fruit of W. angusta is 0.30 mm long ... weighs about 70 micrograms. This means the small ripe fruit of the genus takes up a third or more of the length of the parent plant.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_world_records_held_by_plants",
+  "note": ""
+ },
+ {
+  "claim": "Cocaine effects last only about 30 minutes despite causing a significant surge in dopamine levels, contributing to the cycle of repeated use and addiction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The effects of cocaine are intense but short-lived, typically lasting about 30 minutes. Upon entering the bloodstream, it rapidly reaches the brain within minutes, causing a significant surge in dopamine levels.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": "Page notes users often seek higher doses later."
+ },
+ {
+  "claim": "The Mars Pathfinder mission (1997) nearly failed due to priority inversion — a low-priority task held a resource needed by a high-priority task, causing repeated resets.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1997 the Mars Pathfinder mission was jeopardized by a concurrency bug: computer resets caused by priority inversion, which was identified and corrected from Earth.",
+  "quote": "In 1997, the Mars Pathfinder mission was jeopardized by a bug in concurrent software shortly after the rover landed ... The problem, which was identified and corrected from Earth, was due to computer resets caused by priority inversion.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_software_bugs",
+  "note": "'Nearly failed' and the low-/high-priority task mechanism are not stated on the page"
+ },
+ {
+  "claim": "Thermophilic bacteria thrive above 45°C, while hyperthermophiles require temperatures above 80°C — hotter than any multicellular life can survive.",
+  "verdict": "overstated",
+  "corrected_claim": "Thermophiles grow best at temperatures above 45 °C (113 °F), while hyperthermophiles grow best above 80 °C (176 °F).",
+  "quote": "an organism with optimal growth at temperatures above 45 °C (113 °F). ... an organism with optimal growth at temperatures above 80 °C (176 °F).",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page says nothing about multicellular life limits; definitions are about optimal growth, not requirement."
+ },
+ {
+  "claim": "When cicadas emerge after 17 years underground, they can number over 1.5 million per acre—overwhelming predators through sheer abundance.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "sometimes more than 1.5 million individuals per acre (370 individuals per m2). ... Their mass emergence is, among other things, an adaptation called predator satiation.",
+  "source_url": "https://en.wikipedia.org/wiki/Periodical_cicada",
+  "note": ""
+ },
+ {
+  "claim": "Caramelization is accelerated at both very acidic (pH below 3) and very basic (pH above 9) conditions, but slowest at neutral pH.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The rate of caramelization is generally lowest at near-neutral acidity (pH around 7), and accelerated under both acidic (especially pH below 3) and basic (especially pH above 9) conditions.",
+  "source_url": "https://en.wikipedia.org/wiki/Caramelization",
+  "note": ""
+ },
+ {
+  "claim": "Often given some credit for discovery of jet streams is American pilot Wiley Post, who in the year before his 1935 death noticed that at times his ground speed greatly exceeded his air speed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "in the year before his 1935 death noticed that at times his ground speed greatly exceeded his air speed.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Cherokee has its own syllabary of about 85 characters, invented by Sequoyah around 1821 — one man created literacy for an entire nation.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Cherokee/Sequoyah not mentioned on page."
+ },
+ {
+  "claim": "Self-control problems in economics are modeled as games between current and future selves — explaining why people use commitment devices like putting money in inaccessible accounts.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Intertemporal_choice",
+  "note": "Page does not discuss self-control games or commitment devices"
+ },
+ {
+  "claim": "Ricin from castor beans is one of the most potent plant toxins known, with just 1-2 milligrams potentially lethal to an adult human.",
+  "verdict": "overstated",
+  "corrected_claim": "Ricin, from castor beans, is one of the cytotoxins—natural toxins that range from minor to potentially fatal even at extremely low doses.",
+  "quote": "Ricin, from castor beans",
+  "source_url": "https://en.wikipedia.org/wiki/Toxin",
+  "note": "Page only lists ricin; no potency ranking or 1-2 mg lethal dose."
+ },
+ {
+  "claim": "Urine samples are less prone to viral infections like HIV or Hepatitis B compared to blood samples, making them safer for forensic collection.",
+  "verdict": "overstated",
+  "corrected_claim": "Urine samples are less prone to viral infections such as HIV or Hepatitis B than blood samples.",
+  "quote": "Notably, urine is less prone to viral infections such as HIV or Hepatitis B in comparison to blood samples.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": "'Making them safer for forensic collection' is an added inference."
+ },
+ {
+  "claim": "Hash tables can provide O(1) average-case lookup time — but hash collisions can degrade this to O(n) in worst case, requiring techniques like chaining or open addressing.",
+  "verdict": "overstated",
+  "corrected_claim": "Hash tables allow constant-time access in the average case, but hash collisions can hurt their performance, so techniques like chaining and open addressing are used to handle them.",
+  "quote": "allowing for constant-time access in the average case ... However, hash collisions can occur, which can impact their performance. ... Techniques like chaining and open addressing are employed to handle collisions.",
+  "source_url": "https://en.wikipedia.org/wiki/Data_structure",
+  "note": "Page does not state an O(n) worst case."
+ },
+ {
+  "claim": "Pyrolobus fumarii holds the record for high-temperature growth at 113°C (235°F) — above the normal boiling point of water.",
+  "verdict": "overstated",
+  "corrected_claim": "Pyrolobus fumarii is one of the hydrothermal vent microbes listed at the high-temperature limit of life, 110 °C (230 °F) to 122 °C (252 °F), above the boiling point of water.",
+  "quote": "110 °C (230 °F) to 122 °C (252 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page gives no 113 °C record for Pyrolobus fumarii; it is listed in a hydrothermal-vent row with a 110-122 °C range."
+ },
+ {
+  "claim": "Dung beetles can pull 1,141 times their own body weight—equivalent to a human pulling six double-decker buses full of passengers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "can pull 1,141 times their own body weight, the equivalent of an average person pulling six double-decker buses full of people",
+  "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+  "note": "Quote assembled from fetch tool snippets."
+ },
+ {
+  "claim": "Diacetyl, the chemical that gives caramel its intense butter-like flavor, is released as a volatile compound during caramelization.",
+  "verdict": "overstated",
+  "corrected_claim": "As sugar caramelizes, it releases volatile chemicals such as diacetyl, a compound known for its intense butter-like taste.",
+  "quote": "As the process occurs, volatile chemicals such as diacetyl (known for its intense butter-like taste) are released",
+  "source_url": "https://en.wikipedia.org/wiki/Caramelization",
+  "note": "Page does not say diacetyl is what gives caramel its flavor"
+ },
+ {
+  "claim": "1926: Borůvka's algorithm, an algorithm for finding a minimum spanning tree in a graph, was first published in 1926 by Otakar Borůvka.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1926: Borůvka's algorithm, an algorithm for finding a minimum spanning tree in a graph, was first published in 1926 by Otakar Borůvka.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Egyptian hieroglyphs were used for over 3,000 years — one of the longest-used writing systems in history.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Page gives no duration for Egyptian hieroglyph use."
+ },
+ {
+  "claim": "The Core in cooperative game theory describes allocations that no coalition would want to deviate from — but many games have empty cores, meaning no stable allocation exists.",
+  "verdict": "overstated",
+  "corrected_claim": "In cooperative game theory, an allocation is in the 'core' if no coalition can improve upon it—but the core can be empty, meaning no such stable allocation exists.",
+  "quote": "An allocation is said to be in the core of a game if there is no coalition that can improve upon it. ... The core is always well-defined, but can be empty.",
+  "source_url": "https://en.wikipedia.org/wiki/Core_(game_theory)",
+  "note": "Page says 'can be empty', not 'many games'"
+ },
+ {
+  "claim": "The manchineel tree is so toxic that standing under it during rain can cause skin blisters, and burning its wood produces eye-damaging smoke.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "Page does not mention the manchineel tree"
+ },
+ {
+  "claim": "Testing for drugs in hair may show racial bias because darker and coarser hair retains more drug residue—two people who consumed the same amount of drugs may show different test results based on hair type.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "If two people consumed the same amount of drugs, the person with the darker and coarser hair will have more drug in their hair than the lighter haired person when tested. This raises issues of possible racial bias in substance tests with hair samples.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": ""
+ },
+ {
+  "claim": "B-trees are the standard data structure for database indexing — they keep data sorted and allow searches, insertions, and deletions in logarithmic time.",
+  "verdict": "overstated",
+  "corrected_claim": "Relational databases commonly use B-tree indexes for data retrieval.",
+  "quote": "Relational databases commonly use B-tree indice for data retrieval",
+  "source_url": "https://en.wikipedia.org/wiki/Data_structure",
+  "note": "Page does not say B-trees keep data sorted or give logarithmic-time operations, nor call them 'the standard'."
+ },
+ {
+  "claim": "Psychrophiles grow best at 15°C or below — some can metabolize at -20°C inside ice.",
+  "verdict": "overstated",
+  "corrected_claim": "Psychrophiles grow best at temperatures of 15 °C (59 °F) or lower, and life has been recorded in permafrost at −20 °C to −25 °C.",
+  "quote": "an organism with optimal growth at temperatures of 15 °C (59 °F) or lower. ... −20 °C (−4 °F) to −25 °C (−13 °F)",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page says nothing about metabolism inside ice at −20 °C; the permafrost limit is listed for Rhodotorula glutinis."
+ },
+ {
+  "claim": "Dung beetles navigate at night by the Milky Way—they are the only insects known to orient themselves using the galaxy's band of light.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "making them the only insects known to orient themselves by the Milky Way.",
+  "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+  "note": ""
+ },
+ {
+  "claim": "Despite popular belief, onions require 30 to 45 minutes of cooking to truly caramelize—not the '5 minutes' often claimed in recipes.",
+  "verdict": "overstated",
+  "corrected_claim": "Onions need 30 to 45 minutes of cooking to caramelize.",
+  "quote": "Onions require 30 to 45 minutes of cooking to caramelize.",
+  "source_url": "https://en.wikipedia.org/wiki/Caramelization",
+  "note": "'5 minutes' recipe claim not on page"
+ },
+ {
+  "claim": "The algorithm was rediscovered by Choquet in 1938; again by Florek, Łukasiewicz, Perkal, Steinhaus, and Zubrzycki; and again by Sollin in 1965.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Ogham, the ancient Irish script, was written on the corners of standing stones — read from bottom to top.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "ogham is written from bottom to top, commonly on the corner of a stone.",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": ""
+ },
+ {
+  "claim": "The Currency Crises 'Impossible Trinity' states countries cannot simultaneously have free capital flow, fixed exchange rates, and independent monetary policy — they must sacrifice one.",
+  "verdict": "overstated",
+  "corrected_claim": "The impossible trinity says a central bank can pursue only two of three policies at once: a fixed exchange rate, free capital movement and an independent monetary policy.",
+  "quote": "According to the impossible trinity, a central bank can pursue only two of the above-mentioned three policies simultaneously.",
+  "source_url": "https://en.wikipedia.org/wiki/Impossible_trinity",
+  "note": "'Currency Crises' label not on page"
+ },
+ {
+  "claim": "A stand of genetically identical Huon pine trees in Tasmania is over 10,500 years old, reproducing vegetatively though no single tree is that age.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A stand of trees in excess of 10,500 years old was found in 1955 in western Tasmania on Mount Read. Each of the trees in this stand is a genetically identical male that has reproduced vegetatively. ... Although no single tree in this stand is of that age, the stand itself as a single organism has existed that long.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "Blood samples provide a profile of substances influencing a person at the exact time of collection, making them the sample of choice for blood alcohol content in drunk driving cases.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A blood sample provides the toxicologist with a profile of the substance that the subject was influenced by ... it is the sample of choice for measuring blood alcohol content in drunk driving cases.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": ""
+ },
+ {
+  "claim": "A trie (prefix tree) can find all words starting with a given prefix in O(k) time where k is the prefix length — making it ideal for autocomplete and spell-checking.",
+  "verdict": "overstated",
+  "corrected_claim": "A trie, or prefix tree, allows quick searches based on string prefixes, which makes it especially useful for autocomplete, spell-checking and building dictionaries.",
+  "quote": "A trie, or prefix tree, is a special type of tree used to efficiently retrieve strings. ... Tries allow for quick searches and operations based on string prefixes. ... This structure is especially useful for tasks like autocomplete, spell-checking, and creating dictionaries.",
+  "source_url": "https://en.wikipedia.org/wiki/Data_structure",
+  "note": "Page gives no O(k) complexity."
+ },
+ {
+  "claim": "Halophiles require salt concentrations above 5% to thrive — the Dead Sea and Great Salt Lake are full of them.",
+  "verdict": "overstated",
+  "corrected_claim": "Halophiles grow best at dissolved-salt concentrations of 50 g/L (5%) or above.",
+  "quote": "an organism with optimal growth at a concentration of dissolved salts of 50 g/L (= 5% m/v) or above.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not mention the Dead Sea or Great Salt Lake."
+ },
+ {
+  "claim": "The African dung beetle Scarabaeus zambesianus was the first animal discovered to navigate by polarization patterns in moonlight.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "navigates by polarization patterns in moonlight, the first animal known to do so.",
+  "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+  "note": ""
+ },
+ {
+  "claim": "Brown sugar caramelizes faster than white sugar because impurities like molasses speed up the reactions.",
+  "verdict": "overstated",
+  "corrected_claim": "Impurities in sugar, such as the molasses left in brown sugar, greatly speed up the caramelization reactions.",
+  "quote": "Impurities in the sugar, such as the molasses remaining in brown sugar, greatly speed the reactions.",
+  "source_url": "https://en.wikipedia.org/wiki/Caramelization",
+  "note": "Page makes no direct brown-vs-white sugar comparison"
+ },
+ {
+  "claim": "1927: The discovery of phosphocreatine was reported by Grace Palmer Eggleton and Philip Eggleton of the University of Cambridge and separately by Cyrus H.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment (truncated sentence, not a standalone fact)"
+ },
+ {
+  "claim": "Several Philippine scripts like Hanunuo are traditionally written from bottom to top, moving away from the writer.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "traditionally written with lines moving away from the writer, from bottom to top, but are read left to right",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Page spells it Hanunoo."
+ },
+ {
+  "claim": "House money effect shows people take more risks with recent winnings — casino gamblers who are 'up' bet more aggressively because gains feel like 'the house's money.'",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/House_money_effect",
+  "note": "Page failed to load (not found)"
+ },
+ {
+  "claim": "European Yews may live over 5,000 years, but accurate aging is difficult because ancient specimens become hollow, losing their heartwood.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Many very old trees become hollow as the dead heartwood decays. ... However, ageing yews is very difficult due to the loss of heartwood in very ancient trees,",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "Gas chromatography-mass spectrometry (GC-MS) is preferred for forensic analysis because of its detailed mass spectra and large library of reference spectra.",
+  "verdict": "overstated",
+  "corrected_claim": "In GC-MS forensic analysis, electron ionization (EI) is the preferred ionization method because of its detailed mass spectra and its large library of spectra.",
+  "quote": "Gas chromatography-mass spectrometry (GC-MS) is a widely used analytical technique for the detection of volatile compounds. ... with EI being preferred in forensic analysis due to its detailed mass spectra and its large library of spectra.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": "Source says EI ionization (within GC-MS) is preferred for these reasons, not GC-MS itself"
+ },
+ {
+  "claim": "Linked lists allow O(1) insertion and deletion but require O(n) for random access — the opposite tradeoff of arrays.",
+  "verdict": "overstated",
+  "corrected_claim": "In a linked list, values can always be inserted and removed efficiently without relocating the rest of the list, but random access to an element is slower than on arrays.",
+  "quote": "values can always be efficiently inserted and removed without relocating the rest of the list ... random access to a certain element, are, however, slower on lists than on arrays.",
+  "source_url": "https://en.wikipedia.org/wiki/Data_structure",
+  "note": "Page gives no Big-O figures."
+ },
+ {
+  "claim": "Taq polymerase from Thermus aquaticus enables PCR — the enzyme that revolutionized molecular biology came from hot spring bacteria.",
+  "verdict": "overstated",
+  "corrected_claim": "Enzymes from extremophiles have commercial uses: Taq DNA polymerase and some Bacillus enzymes used in clinical diagnostics and starch liquefaction are produced commercially.",
+  "quote": "Taq DNA polymerase and some Bacillus enzymes used in clinical diagnostics and starch liquefaction are produced commercially.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not mention Thermus aquaticus, PCR or hot springs."
+ },
+ {
+  "claim": "One elephant produces enough dung daily to support 2 million dung beetles—they compete fiercely for this valuable resource.",
+  "verdict": "overstated",
+  "corrected_claim": "The daily dung of one elephant can support 2,000,000 dung beetles.",
+  "quote": "The daily dung of one elephant can support 2,000,000 beetles.",
+  "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+  "note": "Page says nothing about fierce competition here."
+ },
+ {
+  "claim": "In the UK in 2000, Campylobacter jejuni was responsible for 77.3% of bacterial foodborne illness cases, far outpacing Salmonella at 20.9%.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Campylobacter jejuni 77.3%, Salmonella 20.9%",
+  "source_url": "https://en.wikipedia.org/wiki/Food_poisoning",
+  "note": ""
+ },
+ {
+  "claim": "1929: Dmitri Skobeltsyn first observed the positron in 1929.",
+  "verdict": "overstated",
+  "corrected_claim": "1929: Dmitri Skobeltsyn first observed the positron in 1929; Chung-Yao Chao also observed it that year without recognizing it as such.",
+  "quote": "Dmitri Skobeltsyn first observed the positron in 1929.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "Entry notes Chung-Yao Chao also observed it in 1929; 'first' is the page's wording but the entry is about multiple discovery"
+ },
+ {
+  "claim": "Boustrophedon ('ox-turning') was an ancient writing style that alternated direction each line — like a plow going back and forth across a field.",
+  "verdict": "overstated",
+  "corrected_claim": "Boustrophedon writing started in one horizontal direction, then turned at the end of the line and reversed direction.",
+  "quote": "starting in one horizontal direction, then turning at the end of the line and reversing direction.",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Ox-turning etymology and plow image not on page."
+ },
+ {
+  "claim": "The Pirate Game paradox shows the most senior pirate can take almost all the gold through clever use of voting rules — demonstrating how procedure design affects outcomes.",
+  "verdict": "overstated",
+  "corrected_claim": "In the pirate game, with 100 coins and five pirates, the most senior pirate can keep 98 coins by buying just enough votes with one coin each — because a majority vote decides and the proposer breaks ties.",
+  "quote": "A can count on C and E's support for the following allocation, which is the final solution: ... In case of a tie vote, the proposer has the casting vote.",
+  "source_url": "https://en.wikipedia.org/wiki/Pirate_game",
+  "note": "Page shows the 98-coin result but does not frame it as a lesson about procedure design"
+ },
+ {
+  "claim": "The Sunland Baobab in South Africa became famous for having a bar and wine cellar operating inside its massive hollow trunk before it split in 2017.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Renowned because a bar and wine cellar operated inside its hollow trunk, until it split in 2017.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "The Reinsch test can identify metals in biological samples by destroying organic matter and analyzing the remaining inorganic residue.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the destruction of the organic matrix by chemical or thermal oxidation ... This leaves the metal to be identified and quantified in the inorganic residue. ... Reinsch test",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": ""
+ },
+ {
+  "claim": "The stack data structure follows LIFO (Last In, First Out) while queues follow FIFO (First In, First Out) — both can be implemented with arrays or linked lists.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "which follow the Last In, First Out (LIFO) principle. ... which follow the First In, First Out (FIFO) principle. ... are abstract data types that can be implemented using arrays or linked lists.",
+  "source_url": "https://en.wikipedia.org/wiki/Data_structure",
+  "note": ""
+ },
+ {
+  "claim": "Desulforudis audaxviator lives 2.8 km underground in a South African gold mine — completely isolated from all other life for millions of years.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not mention Desulforudis audaxviator or a South African gold mine."
+ },
+ {
+  "claim": "Some dung beetle species can bury dung 250 times their own weight in a single night.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some species of dung beetles can bury dung 250 times their own mass in one night.",
+  "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+  "note": ""
+ },
+ {
+  "claim": "Many foodborne illnesses result from the immune system's response to unfamiliar microbes rather than direct microbial damage—which is why locals often tolerate foods that sicken travelers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "However, many cases result from the immune system's response to unfamiliar microbes rather than from direct microbial damage, explaining why local populations often tolerate food that sickens travelers.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_poisoning",
+  "note": ""
+ },
+ {
+  "claim": "Also Edmund Clifton Stoner and Wilhelm Anderson (1930)\n1931: A theory of protein denaturation is widely attributed to Alfred Mirsky and Linus Pauling, who published their paper in 1936, though it had been independently discovered in 1931 by Hsien Wu, whom some now recognize as the originator of the theory.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment (truncated sentence, not a standalone fact)"
+ },
+ {
+  "claim": "Left-to-right writing dominates partly because most people are right-handed — the hand doesn't smear fresh ink when moving to the right.",
+  "verdict": "overstated",
+  "corrected_claim": "Left-to-right writing has an advantage for right-handers: the hand doesn't interfere with freshly inked text that may not have dried yet.",
+  "quote": "Left-to-right writing has an advantage that, since most people are right-handed, the hand does not interfere with what is being written (which, when inked, may not have dried yet)",
+  "source_url": "https://en.wikipedia.org/wiki/Writing_system",
+  "note": "Page calls it an advantage, not the reason left-to-right dominates."
+ },
+ {
+  "claim": "Argentina defaulted on $93 billion in sovereign debt in 2001 — the largest sovereign default in history at the time, leading to economic chaos and five presidents in two weeks.",
+  "verdict": "overstated",
+  "corrected_claim": "In December 2001 Argentina made what the page calls a record sovereign debt default of $100 billion amid a financial collapse, with De la Rúa fleeing the Casa Rosada by helicopter and a series of interim presidents following.",
+  "quote": "Despite a record sovereign debt default of $100 billion in December 2001 and a financial collapse ... De la Rúa eventually fled the Casa Rosada in a helicopter on 21 December.",
+  "source_url": "https://en.wikipedia.org/wiki/1998%E2%80%932002_Argentine_great_depression",
+  "note": "Page gives $132bn/$100bn/$95bn, not $93bn; 'largest in history' and 'five presidents in two weeks' not stated"
+ },
+ {
+  "claim": "Sacred fig trees grow adventitious roots from branches that become new trunks when reaching the ground—one tree can have hundreds of such trunks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Sacred Fig grows adventitious roots from its branches, which become new trunks when the root reaches the ground and thickens; a single sacred fig tree can have hundreds of such trunks.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "A blood sample of approximately 10 ml is usually sufficient to screen and confirm most common toxic substances.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A blood sample of approximately 10 ml (0.35 imp fl oz; 0.34 US fl oz) is usually sufficient to screen and confirm",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": ""
+ },
+ {
+  "claim": "AVL trees maintain balance by ensuring the heights of left and right subtrees differ by at most 1 — guaranteeing O(log n) operations.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Data_structure",
+  "note": "Page only names AVL trees as a popular tree type; nothing on height balance or O(log n)."
+ },
+ {
+  "claim": "Alkaliphiles live at pH 11 — more basic than household ammonia, in soda lakes where other life dissolves.",
+  "verdict": "overstated",
+  "corrected_claim": "Alkaliphiles grow best at pH 9.0 or above, and soda lakes host life at around pH 11.",
+  "quote": "an organism with optimal growth at low acidity – pH levels of 9.0 or above. ... Soda lakes ... pH ~11",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not compare to household ammonia or say other life dissolves; pH 11 is the soda-lake limit, not the definition."
+ },
+ {
+  "claim": "Dung beetles save the U.S. cattle industry an estimated $380 million annually by burying livestock waste and improving soil quality.",
+  "verdict": "overstated",
+  "corrected_claim": "According to the American Institute of Biological Sciences, dung beetles save the U.S. cattle industry an estimated $380 million a year by burying above-ground livestock dung.",
+  "quote": "save the United States cattle industry an estimated US$380 million annually through burying above-ground livestock dung.",
+  "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+  "note": "Page does not mention improving soil quality as part of the saving."
+ },
+ {
+  "claim": "In low- and middle-income countries in 2010, foodborne diseases caused approximately 600 million illnesses, 420,000 deaths, and $110 billion in economic losses annually.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "foodborne disease were responsible for approximately 600 million illnesses and 420,000 deaths ... an economic loss estimated at US$110 billion annually",
+  "source_url": "https://en.wikipedia.org/wiki/Food_poisoning",
+  "note": ""
+ },
+ {
+  "claim": "Electroluminescence in silicon carbide, now known as the LED, was discovered independently by Oleg Losev in 1927 and by H.J.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment (truncated sentence, not a standalone fact)"
+ },
+ {
+  "claim": "The Kam language of southern China has 15 tones in traditional counting — 9 contrastive tones plus 6 that only occur in checked syllables.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the Kam language has 15 tones, but 6 occur only in syllables closed with the voiceless stop consonants",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": "Page: 9 tones if checked syllables aren't counted, 15 in traditional Chinese counting."
+ },
+ {
+  "claim": "The projection bias causes people to predict their future tastes will match their current ones — shopping while hungry leads to buying too much food.",
+  "verdict": "overstated",
+  "corrected_claim": "Projection bias is the tendency to project current preferences onto the future — people shopping while hungry overestimate how much they will want to eat later, which can result in food waste.",
+  "quote": "Projection bias is the tendency to falsely project current preferences onto a future event. ... forecasters in a state of hunger are likely to overestimate how much they will want to eat later",
+  "source_url": "https://en.wikipedia.org/wiki/Projection_bias",
+  "note": "Page frames the hunger example as overestimating future appetite/food waste, not explicitly 'buying too much'."
+ },
+ {
+  "claim": "Giant sequoias have the thickest limbs of any tree species, with some branches reaching 3.8 meters (12.6 feet) in diameter.",
+  "verdict": "overstated",
+  "corrected_claim": "The thickest known horizontal limb belongs to a giant sequoia - the Big Limb Tree in Sequoia National Park, whose limb measures 3.8 meters (12.6 feet) in diameter.",
+  "quote": "This list is limited to horizontal or nearly horizontal limbs, in which the governing growth factor is phototropism. ... Giant sequoia (Sequoiadendron giganteum) | 3.8 | 12.6 | The Big Limb Tree | Atwell Mill Grove, Sequoia National Park, California",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "List covers only horizontal limbs and one record tree, not the species generally"
+ },
+ {
+  "claim": "Immunoassay drug testing can produce four results: true-positive, false-negative, false-positive, and true-negative—highlighting the importance of confirmation testing.",
+  "verdict": "overstated",
+  "corrected_claim": "An immunoassay drug test can give four kinds of result: a true-positive, a false-negative, a false-positive, or a true-negative.",
+  "quote": "Those results can be a true-positive, a false-negative, a false-positive, and a true-negative.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": "Confirmation-testing conclusion not stated in the fetched passage"
+ },
+ {
+  "claim": "Git uses SHA-1 hashes not for security but for data integrity — Linus Torvalds noted 'you can trust that five years later, you get the exact same data you put in.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "not for security, but to identify revisions and to ensure that the data has not changed due to accidental corruption.",
+  "source_url": "https://en.wikipedia.org/wiki/SHA-1",
+  "note": "Torvalds quote paraphrased on page: 'five years later' ... 'is the exact same data you put in.'"
+ },
+ {
+  "claim": "Xerophiles survive in the Atacama Desert with ~60% relative humidity — the driest places on Earth still have life.",
+  "verdict": "overstated",
+  "corrected_claim": "Xerophiles grow best at water activity below 0.8, and in the Atacama Desert the organism Chroococcidiopsis is listed at a desiccation limit of about 60% relative humidity.",
+  "quote": "an organism with optimal growth at water activity below 0.8. ... ~60% relative humidity",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not call these the driest places on Earth; 60% RH is the table's listed limit for Atacama/Chroococcidiopsis."
+ },
+ {
+  "claim": "Ancient Egyptians revered the scarab dung beetle as a symbol of rebirth—they believed it rolled the sun across the sky like a dung ball.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Egyptian god Khepri was believed to roll the sun across the sky each day at daybreak. ... Ancient Egyptians believed this action was symbolic of the sun's east to west journey across the sky.",
+  "source_url": "https://en.wikipedia.org/wiki/Scarab_(artifact)",
+  "note": "Page: scarab represented 'the idea of rebirth and regeneration'."
+ },
+ {
+  "claim": "A 2022 study found that washing raw chicken actually increases the risk of pathogen transfer through water droplet splashing—not decreases it.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "concluded that the practice of washing uncooked chicken actually increases the risk of pathogen transfer",
+  "source_url": "https://en.wikipedia.org/wiki/Food_poisoning",
+  "note": "Page attributes risk to splashing water droplets."
+ },
+ {
+  "claim": "1932: Zipf's law, described by George Zipf (1932), was previously discovered by Felix Auerbach (1913), Jean-Baptiste Estoup (1916), Godfrey Dewey (1923), Edward U.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment (truncated sentence, not a standalone fact)"
+ },
+ {
+  "claim": "The Wobe language of West Africa may have up to 14 tones — the most complex tonal systems are found in Africa and the Americas, not Asia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Preliminary work on the Wobe language (part of the Wee continuum) of Liberia and Côte d'Ivoire ... The most complex tonal systems are actually found in Africa and the Americas, not East Asia.",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": "Page says some Wobe dialects may distinguish as many as fourteen tones or more."
+ },
+ {
+  "claim": "Backward induction in game theory solves games by working from the end — but humans often don't use it, which is why the Centipede Game plays out differently in practice than in theory.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Experiments have shown that in sequential bargaining games, such as the Centipede game, subjects deviate from theoretical predictions and instead engage in limited backward induction.",
+  "source_url": "https://en.wikipedia.org/wiki/Backward_induction",
+  "note": ""
+ },
+ {
+  "claim": "El Drago Milenario, a Dracaena draco on Tenerife, reportedly has superficial roots extending 200 meters (660 feet) long.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "El Drago Milenario, a tree of species Dracaena draco on Tenerife, Canary Islands, Spain, is reported to have 200-meter-long (660 ft) superficial roots.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "Ethanol is one of the most commonly tested substances in forensic toxicology because alcohol abuse is a leading factor in suicides, car crashes, and various crimes.",
+  "verdict": "overstated",
+  "corrected_claim": "Ethanol is one of the most abused drugs worldwide, and suicides, car crashes and many crimes are often committed under severe alcohol influence.",
+  "quote": "Ethanol specifically is one of the most abused drugs worldwide ... Suicides, car crashes, and a variety of crimes are often performed under severe alcohol influence.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_toxicology",
+  "note": "Page says most abused, not most commonly tested; 'leading factor' overstated"
+ },
+ {
+  "claim": "SHA-0 was withdrawn by the NSA shortly after publication in 1993 due to an undisclosed flaw — SHA-1 differs only by a single bitwise rotation in the compression function.",
+  "verdict": "overstated",
+  "corrected_claim": "SHA-0 was withdrawn by the NSA shortly after publication to fix an unexplained flaw — SHA-1 differs from it only by a single bitwise rotation in the message schedule.",
+  "quote": "was withdrawn by the NSA shortly after publication ... did not provide any further explanation ... differs from SHA-0 only by a single bitwise rotation in the message schedule",
+  "source_url": "https://en.wikipedia.org/wiki/SHA-1",
+  "note": "Rotation is in the message schedule, not the compression function."
+ },
+ {
+  "claim": "Polyextremophiles tolerate multiple extremes simultaneously — like the bacterium Thermococcus barophilus that needs both high heat AND high pressure.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "an omnibus category for organisms which qualify as extremophiles under more than one category. ... such as Thermococcus barophilus",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page cites T. barophilus as thermophilic and piezophilic, living in hot rocks deep below the surface."
+ },
+ {
+  "claim": "Introduction of dung beetles to Australia reduced pestilent bush fly populations by about 90% and dramatically improved cattle pasture quality.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "reduction in the population of pestilent Australian bush flies by around 90% ... improvement of the quality and fertility of Australian cattle pastures.",
+  "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+  "note": "'Dramatically' is framing."
+ },
+ {
+  "claim": "Clostridium perfringens is nicknamed the 'cafeteria germ' because it often causes food poisoning from food kept warm for long periods.",
+  "verdict": "overstated",
+  "corrected_claim": "Clostridium perfringens is nicknamed the 'cafeteria germ'.",
+  "quote": "the 'cafeteria germ'",
+  "source_url": "https://en.wikipedia.org/wiki/Food_poisoning",
+  "note": "Explanation about food kept warm is not on the page."
+ },
+ {
+  "claim": "The law's naming after a later rediscoverer is therefore an example of Stigler's law of eponymy (named by Stephen Stigler after himself in 1980: see below).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Swedish and Norwegian are considered 'pitch accent' languages — they use tone to distinguish words but less systematically than true tonal languages.",
+  "verdict": "overstated",
+  "corrected_claim": "Norwegian and Swedish share tonal features through 'single' and 'double' tones, but the Scandinavian system is more correctly described as pitch accent, since it only appears together with stress.",
+  "quote": "Norwegian and Swedish share tonal language features via the 'Single' and 'Double' tones ... The Scandinavian tone system is more correctly described as a pitch accent system",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": "'Less systematically than true tonal languages' is not what the page says; it ties pitch accent to stress."
+ },
+ {
+  "claim": "The Long-Term Capital Management crisis in 1998 showed how a single hedge fund could threaten global financial stability — $4 billion in capital controlled $125 billion in assets with $1.25 trillion in derivatives exposure.",
+  "verdict": "overstated",
+  "corrected_claim": "At the start of 1998 LTCM had equity of $4.7 billion, had borrowed over $124.5 billion and held off-balance-sheet derivatives with a notional value of about $1.25 trillion—officials feared its collapse would have disastrous effects on the wider financial system.",
+  "quote": "the firm had equity of $4.7 billion and had borrowed over $124.5 billion with assets of around $129 billion ... off-balance sheet derivative positions with a notional value of approximately $1.25 trillion",
+  "source_url": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+  "note": "Equity was $4.7B and assets ~$129B, not $4B and $125B."
+ },
+ {
+  "claim": "The Hundred Horse Chestnut tree in Sicily was measured at 57.9 meters circumference in 1780—actually multiple fused trunks appearing as one.",
+  "verdict": "overstated",
+  "corrected_claim": "The multi-stemmed Hundred Horse Chestnut was measured at a circumference of 57.9 meters (190 ft) in 1780.",
+  "quote": "The multi-stemmed Hundred Horse Chestnut was known to have a circumference of 57.9 m (190 ft) when it was measured in 1780.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Page does not mention Sicily or fused trunks appearing as one"
+ },
+ {
+  "claim": "Forensic geotaphonomy examines how decomposing bodies affect the environment, including soil disturbance, pH changes, and plant growth patterns around burial sites.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Geotaphonomy is the examination of how the decomposition of the body affects the environment. Geotaphonomy examinations can include how the soil was disturbed, pH alteration of the surrounding area, and either the acceleration or deceleration of plant growth around the body.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "All major web browsers stopped accepting SHA-1 SSL certificates in 2017 after the SHAttered collision attack was published.",
+  "verdict": "overstated",
+  "corrected_claim": "All major web browser vendors stopped accepting SHA-1 SSL certificates in 2017 — the same year CWI and Google announced the SHAttered collision attack.",
+  "quote": "All major web browser vendors ceased acceptance of SHA-1 SSL certificates in 2017.",
+  "source_url": "https://en.wikipedia.org/wiki/SHA-1",
+  "note": "Page does not say browsers acted because of SHAttered."
+ },
+ {
+  "claim": "Oligotrophs thrive in nutritionally-limited environments — they've evolved to survive on almost nothing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "an organism with optimal growth in nutritionally limited environments.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "'Almost nothing' is framing."
+ },
+ {
+  "claim": "Some dung beetles are carnivorous—species like Deltochilum valgum prey on millipedes instead of eating dung.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Neotropical Deltochilum valgum ... are carnivores with a strong preference for preying upon millipedes.",
+  "source_url": "https://en.wikipedia.org/wiki/Dung_beetle",
+  "note": ""
+ },
+ {
+  "claim": "Bacteria thrive in the 'danger zone' between 5°C and 60°C (40°F-140°F), where they can multiply to dangerous levels in as little as 20 minutes.",
+  "verdict": "overstated",
+  "corrected_claim": "Food kept between 5°C and 60°C — the 'danger zone' — can become unsafe even after a brief period of about 0–20 minutes.",
+  "quote": "maintains a temperature between 5 °C and 60 °C (danger zone) for even a brief period of time (~0–20 minutes)",
+  "source_url": "https://en.wikipedia.org/wiki/Food_safety",
+  "note": "Page does not state bacteria multiply to dangerous levels in 20 minutes."
+ },
+ {
+  "claim": "1934: Natural deduction, an approach to proof theory in philosophical logic – discovered independently by Gerhard Gentzen and Stanisław Jaśkowski in 1934.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1934: Natural deduction, an approach to proof theory in philosophical logic – discovered independently by Gerhard Gentzen and Stanisław Jaśkowski in 1934.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Shanghainese has only two contrastive tones per word, regardless of how many syllables — the tone spreads across the whole word.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For example, Shanghainese has two contrastive (phonemic) tones no matter how many syllables are in a word.",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": ""
+ },
+ {
+  "claim": "The affect heuristic shows emotions influence risk perception — people rate activities as low-risk and high-benefit when they like them, and high-risk and low-benefit when they don't.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "If their feelings towards an activity are positive, then people are more likely to judge the risks as low and the benefits high ... if their feelings towards an activity are negative, they are more likely to perceive the risks as high and benefits low.",
+  "source_url": "https://en.wikipedia.org/wiki/Affect_heuristic",
+  "note": ""
+ },
+ {
+  "claim": "The phylloxera pest nearly destroyed French vineyards in the 1800s until resistant American Vitis labrusca rootstocks were used for grafting.",
+  "verdict": "overstated",
+  "corrected_claim": "Phylloxera, introduced to France from North America in 1860, destroyed nearly a third of French vineyards in 25 years; Charles Valentine Riley and J. E. Planchon helped save the industry by suggesting grafting onto resistant Vitis labrusca rootstocks.",
+  "quote": "Charles Valentine Riley noted that the American species Vitis labrusca was resistant to Phylloxera. ... in 25 years it destroyed nearly a third (100,000 km2) of French vineyards.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "Page says nearly a third of vineyards destroyed, not 'nearly destroyed French vineyards'"
+ },
+ {
+  "claim": "Grave sites typically have looser, darker, more organic soil than surrounding areas, and increased nutrients from decomposing bodies encourage different plant growth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The loose soil and increasing nutrients from the decomposing body encourages different kinds of plant growth than surrounding areas. ... Typically, grave sites will have looser, darker, more organic soil than areas around it.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "Microsoft discontinued SHA-1 code signing for Windows Update on August 3, 2020 — effectively ending updates for Windows 2000 through Vista.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has discontinued SHA-1 code signing support for Windows Update on August 3, 2020 ... that have not been updated to SHA-2, such as Windows 2000 up to Vista",
+  "source_url": "https://en.wikipedia.org/wiki/SHA-1",
+  "note": ""
+ },
+ {
+  "claim": "Ernest Hanbury Hankin in 1896 discovered something in the Ganges River that killed cholera bacteria — the first hint of bacteriophages, 20 years before they were officially discovered.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1896 Ernest Hanbury Hankin reported that something in the waters of the Ganges and Yamuna rivers had a marked antibacterial action against cholera.",
+  "quote": "In 1896, Ernest Hanbury Hankin reported that something in the waters of the Ganges and Yamuna rivers in India had a marked antibacterial action against cholera",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "'20 years before official discovery' not stated; Yamuna also named"
+ },
+ {
+  "claim": "The world's longest insect is a stick insect (Phryganistria chinensis), reaching 64 cm (25 inches) with legs extended—longer than a human forearm.",
+  "verdict": "overstated",
+  "corrected_claim": "Phryganistria chinensis is the world's longest insect: a captive-bred specimen reached 64 cm (25 in) in total length including extended legs.",
+  "quote": "It is the world's longest stick insect, which also makes it the world's longest insect. ... but it was surpassed by one of its captive-bred young that reached 64 centimetres (25 in) in total length.",
+  "source_url": "https://en.wikipedia.org/wiki/Phryganistria_chinensis",
+  "note": "64 cm record is a captive-bred individual; forearm comparison not in source"
+ },
+ {
+  "claim": "Clostridium botulinum toxin is denatured by cooking, so while improperly canned food can be deadly raw, heating it thoroughly makes it safe.",
+  "verdict": "overstated",
+  "corrected_claim": "Canned food contaminated with Clostridium botulinum can be dangerous, but the bacterium's toxin is denatured by cooking.",
+  "quote": "Its toxin is denatured by cooking, however.",
+  "source_url": "https://en.wikipedia.org/wiki/Food_preservation",
+  "note": "Page does not say thorough heating makes it safe."
+ },
+ {
+  "claim": "1934: The Penrose triangle, also known as the \"tribar\", is an impossible object.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "1934: The Penrose triangle, also known as the \"tribar\", is an impossible object.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "Vietnamese tones include phonation differences — the ngã tone has a glottal catch in the middle, distinguishing it from other rising tones.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the ngã and sắc tones are both high-rising but the former is distinguished by having glottalization in the middle",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": ""
+ },
+ {
+  "claim": "The Revelation Principle simplifies mechanism design by proving any desired outcome can be achieved by asking players to report truthfully — incentive-compatible direct mechanisms suffice.",
+  "verdict": "overstated",
+  "corrected_claim": "The revelation principle says any social choice function implementable with some non-honest mechanism can also be implemented by an incentive-compatible (honesty-promoting) one — narrowing the search and making mechanism design much easier.",
+  "quote": "The revelation principle says that if a social choice function can be implemented with some non-honest mechanism ... By narrowing the area needed to be searched, the problem of finding a mechanism becomes much easier.",
+  "source_url": "https://en.wikipedia.org/wiki/Revelation_principle",
+  "note": "Applies only to outcomes implementable by some mechanism, not 'any desired outcome'."
+ },
+ {
+  "claim": "Some plants can photosynthesize even while their leaves are still red in autumn, using pigments other than chlorophyll.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_defense_against_herbivory",
+  "note": "Page does not mention red leaves photosynthesizing"
+ },
+ {
+  "claim": "The FORDISC computer program calculates the most likely ancestry of skeletal remains using complex mathematical formulas comparing skull measurements to population databases.",
+  "verdict": "overstated",
+  "corrected_claim": "A program called FORDISC calculates the most likely ancestry of skeletal remains using complex mathematical formulas based on skull measurements.",
+  "quote": "A program called FORDISC has been created that will calculate the most likely ancestry using complex mathematical formulas.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": "Population-database comparison not stated."
+ },
+ {
+  "claim": "A chosen-prefix SHA-1 collision attack now costs about $45,000 in cloud computing — cheap enough for criminal organizations and intelligence agencies.",
+  "verdict": "overstated",
+  "corrected_claim": "When published, the 'Shambles' chosen-prefix SHA-1 collision attack was estimated to cost about US$45,000 per collision — well within the budget of criminal organizations and intelligence agencies.",
+  "quote": "cost US$45K per generated collision ... well within the budget of criminal organizations, not to mention national intelligence agencies.",
+  "source_url": "https://en.wikipedia.org/wiki/SHA-1",
+  "note": "Cost estimate was at time of publication, not 'now'."
+ },
+ {
+  "claim": "Félix d'Hérelle named bacteriophages 'bacteria-eaters' from the Greek phagein — and immediately recognized their therapeutic potential in 1917.",
+  "verdict": "overstated",
+  "corrected_claim": "Félix d'Hérelle, who announced his discovery on 3 September 1917, named the virus a bacteriophage — a 'bacterium-eater', from the Greek phagein, 'to devour' — and went on to conduct the first clinical application of a phage.",
+  "quote": "D'Hérelle called the virus a bacteriophage, a bacterium-eater (from the Greek phagein, meaning \"to devour\") ... d'Hérelle conducted the first clinical application of a bacteriophage",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "'Immediately recognized therapeutic potential in 1917' not stated"
+ },
+ {
+  "claim": "Stick insects can regenerate lost limbs—if a leg is lost, it will grow back (though smaller) at the next molt.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+  "note": "Page mentions limb autotomy but nothing about regrowing legs at moults"
+ },
+ {
+  "claim": "India produces 75% of global spices, reflecting its cuisine's heavy use of diverse seasonings.",
+  "verdict": "overstated",
+  "corrected_claim": "India contributes 75% of global spice production.",
+  "quote": "India contributes to 75% of global spice production.",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Link to Indian cuisine's use of seasonings not stated."
+ },
+ {
+  "claim": "It was first created by the Swedish artist Oscar Reutersvärd in 1934.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Burmese combines pitch and phonation so closely that linguists call its distinctions 'registers' rather than pure tones.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In some languages, such as Burmese, pitch and phonation are so closely intertwined ... The distinctions of such systems are termed registers.",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": ""
+ },
+ {
+  "claim": "The Russian financial crisis of 1998 saw the ruble lose 75% of its value and Russia default on domestic debt — it nearly caused LTCM's failure to bring down the global financial system.",
+  "verdict": "overstated",
+  "corrected_claim": "In August 1998 the Russian government devalued the ruble and defaulted on domestic debt; within less than a month the ruble lost two-thirds of its value, and the hedge fund LTCM sank in the crisis's wake.",
+  "quote": "the Russian government devalued the ruble, defaulted on domestic debt ... the exchange rate reached 21 rubles for one US dollar, meaning it lost two-thirds of its value ... Long-Term Capital Management, hedge fund sunk in the wake of the Russian crisis",
+  "source_url": "https://en.wikipedia.org/wiki/1998_Russian_financial_crisis",
+  "note": "Page says two-thirds, not 75%; no claim LTCM nearly brought down global system"
+ },
+ {
+  "claim": "Drosophyllum lusitanicum, the Portuguese dewy pine, is unusual among carnivorous plants for growing in near-desert conditions with minimal water.",
+  "verdict": "overstated",
+  "corrected_claim": "The Portuguese dewy pine (Drosophyllum lusitanicum) grows where there is little water, and it needs even brighter light and less disturbance than most other carnivorous plants.",
+  "quote": "Drosophyllum lusitanicum grows where there is little water, but it is even more extreme in its requirement for bright light and low disturbance than most other carnivores.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "'Near-desert' and 'unusual for dryness' not stated; its unusual trait is light/disturbance needs"
+ },
+ {
+  "claim": "A 2009 study found that FORDISC ancestry classifications have only a 1% confidence level even in favorable circumstances, highlighting limitations in skeletal ancestry determination.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A 2009 study found that even in favourable circumstances, FORDISC 3.0 classifications have only a 1% confidence level.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "In 2008, researchers used a PlayStation 3 cluster to create a rogue CA certificate by exploiting MD5 collisions — allowing them to impersonate any HTTPS website.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2008, researchers used a PS3 cluster to exploit MD5 collisions and turn a normal RapidSSL certificate into a working CA certificate that could issue legitimate-looking certificates.",
+  "quote": "The researchers used a PS3 cluster at the EPFL in Lausanne, Switzerland to change a normal SSL certificate issued by RapidSSL into a working CA certificate for that issuer, which could then be used to create other certificates that would appear to be legitimate and issued by RapidSSL.",
+  "source_url": "https://en.wikipedia.org/wiki/MD5",
+  "note": "'Impersonate any HTTPS website' not stated."
+ },
+ {
+  "claim": "Phages were used to treat Red Army soldiers in World War II — Soviet military medicine relied on viruses to fight bacterial infections.",
+  "verdict": "overstated",
+  "corrected_claim": "Phage therapy saw widespread use in the Soviet Union, including treatment of soldiers in the Red Army.",
+  "quote": "They had widespread use, including treatment of soldiers in the Red Army.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "Page does not tie it to World War II"
+ },
+ {
+  "claim": "Many stick insect species reproduce through parthenogenesis—females lay unfertilized eggs that develop into female clones without any males involved.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Eggs from virgin mothers are entirely female and hatch into nymphs that are exact copies of their mothers.",
+  "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+  "note": ""
+ },
+ {
+  "claim": "Nutmeg, native to the Banda Islands in Indonesia, was introduced to Europe by the 6th century BCE.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "originates from the Banda Islands in Southeast Asia ... was introduced to Europe in the 6th century BCE.",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": ""
+ },
+ {
+  "claim": "1936: In computer science, the concept of the \"universal computing machine\" (now generally called the \"Turing Machine\") was proposed by Alan Turing, but also independently by Emil Post, both in 1936.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the concept of the \"universal computing machine\" (now generally called the \"Turing Machine\") was proposed by Alan Turing, but also independently by Emil Post, both in 1936.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "In Mandarin, a 'neutral tone' has no fixed pitch — its actual pitch depends entirely on the tone of the preceding syllable.",
+  "verdict": "overstated",
+  "corrected_claim": "In Mandarin, the 'neutral tone' used on weak syllables has no specific contour—its pitch depends chiefly on the tone of the preceding syllable.",
+  "quote": "A neutral tone, with no specific contour, used on weak syllables ... its pitch depends chiefly on the tone of the preceding syllable",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": "Page says 'chiefly', not 'entirely'."
+ },
+ {
+  "claim": "Social preferences in economics show people care about fairness, not just money — in experiments, people sacrifice money to punish those who treated others unfairly.",
+  "verdict": "overstated",
+  "corrected_claim": "Social preferences show people care about fairness, not just money: in the ultimatum game, responders tend to reject offers below 20% even though rejecting leaves both with nothing.",
+  "quote": "Types of social preferences include altruism, fairness, reciprocity, and inequity aversion. ... if the second mover rejects the offer, both subjects will have zero payoff. ... responders tend to reject the offer when the split is below 20%.",
+  "source_url": "https://en.wikipedia.org/wiki/Social_preferences",
+  "note": "No third-party punishment experiments on the page."
+ },
+ {
+  "claim": "Nepenthes ampullaria has evolved away from carnivory, catching falling leaves in its pitchers instead of insects for nutrients.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A species of pitcher plant, Nepenthes ampullaria, has evolved away from being a carnivore. Rather than catching animals, it catches falling leaves in its pitchers.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Forensic anthropologists classify sex from skeletons as one of five possibilities: male, maybe male, indeterminate, maybe female, or female—rather than a binary determination.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "anthropologists usually classify sex as one of five possibilities: male, maybe male, indeterminate,",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": "'Usually'."
+ },
+ {
+  "claim": "The US Cyber Command embedded an MD5 hash of their mission statement into their official emblem in 2009 — a deliberately nerdy design choice.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2009, the United States Cyber Command used an MD5 hash value of its mission statement as part of its official emblem.",
+  "quote": "In 2009, the United States Cyber Command used an MD5 hash value of their mission statement as a part of their official emblem.",
+  "source_url": "https://en.wikipedia.org/wiki/MD5",
+  "note": "'Deliberately nerdy' is editorial, not in source."
+ },
+ {
+  "claim": "Coliphages serve as indicators of fecal contamination in water — where you find E. coli phages, you find sewage.",
+  "verdict": "overstated",
+  "corrected_claim": "Coliphages can serve as proxies for viral fecal contamination, and bacteriophages have been used as indicators of fecal contamination in water sources.",
+  "quote": "Due to their shared structural and biological characteristics, coliphages can serve as proxies for viral fecal contamination.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": "'Where you find E. coli phages, you find sewage' is too absolute"
+ },
+ {
+  "claim": "Stick insect eggs often have fatty attachments that attract ants—the ants carry eggs underground where they hatch safely protected from predators.",
+  "verdict": "overstated",
+  "corrected_claim": "Some stick insect eggs carry a knob that resembles a plant seed's elaiosome; it attracts ants, which take the eggs into their underground nests — a form of myrmecochory.",
+  "quote": "This structure attracts ants because of its resemblance to the elaiosome of some plant seeds ... The ants take the egg into their nest underground",
+  "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+  "note": "Page does not say eggs hatch protected from predators"
+ },
+ {
+  "claim": "In medieval Europe, spices were believed to help balance the body's 'humors' based on humorism theory, making them as much medicine as flavoring.",
+  "verdict": "overstated",
+  "corrected_claim": "In medieval Europe, spices and herbs were considered indispensable for balancing the 'humors' in food, in line with humorism, the dominant medical theory of the time.",
+  "quote": "spices and herbs were indispensable to balance \"humors\" in food",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Page does not say spices were 'as much medicine as flavoring'."
+ },
+ {
+  "claim": "Similar approaches, also aiming to cover the concept of universal computing, were introduced by S.C.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": "page fragment (truncated sentence, not a standalone fact)"
+ },
+ {
+  "claim": "Tone sandhi can completely change a word's pronunciation depending on context — Mandarin's third tone becomes second tone before another third tone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "if two dipping tones occur in a row, the first becomes a rising tone",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": "Mandarin third tone = dipping, second = rising."
+ },
+ {
+  "claim": "Cheap talk in game theory refers to costless, non-binding communication — it can be surprisingly effective at improving coordination when players' interests are sufficiently aligned.",
+  "verdict": "overstated",
+  "corrected_claim": "Cheap talk in game theory is costless, non-binding, unverifiable communication; in coordination games it can help players pick among equilibria, and when interests are aligned, information is fully disclosed.",
+  "quote": "costless to transmit and receive ... non-binding (i.e. does not limit strategic choices by either party) ... Because the Battle of the Sexes is a coordination game, this initial round of communication may enable the players to select among multiple equilibria ... When interests are aligned, then information is fully disclosed.",
+  "source_url": "https://en.wikipedia.org/wiki/Cheap_talk",
+  "note": "'Surprisingly effective' not stated; page notes it is not guaranteed to have an effect"
+ },
+ {
+  "claim": "Utricularia macrorhiza bladderworts can adjust the number of bladders they produce based on the expected density of prey in their environment.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Utricularia macrorhiza varies the number of bladders it produces based on the expected density of prey.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Male teeth are slightly larger than female teeth on average, with the greatest difference in canine teeth—potentially useful for sex determination in juvenile remains.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On average, male teeth are slightly larger than female teeth, with the greatest difference observed in the canine teeth. ... However, teeth may assist in estimating sex since both sets of teeth are formed well before puberty.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": ""
+ },
+ {
+  "claim": "The first network to implement packet switching was the NPL network in Britain in early 1969 — months before ARPANET's first message.",
+  "verdict": "overstated",
+  "corrected_claim": "Elements of Britain's NPL network became operational in early 1969, the first implementation of packet switching, months before ARPANET's first link on October 29, 1969.",
+  "quote": "Elements of the network became operational in early 1969 ... the first implementation of packet switching",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+  "note": "Wording on 'first network' is the page's framing of an implementation; minor"
+ },
+ {
+  "claim": "A cyanophage discovered in 1977 uses 2-aminoadenine (Z) instead of adenine (A) in its DNA — an alien genetic alphabet.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "in 1977, Kirnos et al. identified a cyanophage containing 2-aminoadenine (Z) instead of adenine (A).",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteriophage",
+  "note": ""
+ },
+ {
+  "claim": "Baby stick insects often mimic ants rather than sticks—they use rapid, ant-like movements and colors to avoid predation before growing large enough to resemble twigs.",
+  "verdict": "overstated",
+  "corrected_claim": "Some newly hatched stick insect nymphs initially resemble ants, and some young nymphs curl their abdomens to look like ants or scorpions.",
+  "quote": "the young nymph, which initially resembles an ant ... to resemble ants or scorpions in an act of mimicry",
+  "source_url": "https://en.wikipedia.org/wiki/Phasmatodea",
+  "note": "Page says nothing about rapid ant-like movements or colours"
+ },
+ {
+  "claim": "Saffron is the most expensive spice in the world because each saffron crocus flower produces only three stigmas, which must be hand-picked.",
+  "verdict": "overstated",
+  "corrected_claim": "In medieval Europe the most exclusive spice was saffron, prized as much for its vivid yellow-red color as for its flavor.",
+  "quote": "The most exclusive was saffron, used as much for its vivid yellow-red color as for its flavor.",
+  "source_url": "https://en.wikipedia.org/wiki/Spice",
+  "note": "Three stigmas/hand-picking and 'most expensive in the world' not on page."
+ },
+ {
+  "claim": "1938: Benford's law, also known as the Newcomb–Benford law, the law of anomalous numbers, or the first-digit law, was discovered in 1881 by Simon Newcomb and rediscovered in 1938 by Frank Benford.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "discovered in 1881 by Simon Newcomb and rediscovered in 1938 by Frank Benford.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_multiple_discoveries",
+  "note": ""
+ },
+ {
+  "claim": "The word 'tonal' itself has different pronunciations in American vs British English — illustrating how even 'non-tonal' languages use pitch meaningfully.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Tone_(linguistics)",
+  "note": "Page does not mention pronunciation of the word 'tonal'."
+ },
+ {
+  "claim": "The Savings and Loan Crisis of the 1980s resulted in 1,043 thrifts failing — costing taxpayers $132 billion and revealing how deposit insurance creates moral hazard.",
+  "verdict": "overstated",
+  "corrected_claim": "The Savings and Loan Crisis saw 1,043 thrifts with over $519 billion in assets fail, and taxpayers bore combined FSLIC and RTC expenses of $123.8 billion — owners could profit from risky loans while losses fell on taxpayers.",
+  "quote": "1,043 thrifts failed with total assets of over $519 billion. ... taxpayers suffered combined FSLIC and RTC expenses of $123.8 billion",
+  "source_url": "https://en.wikipedia.org/wiki/Savings_and_loan_crisis",
+  "note": "Page gives $123.8 billion, not $132 billion."
+ },
+ {
+  "claim": "Sarracenia pitcher plants produce phyllodes (flat, non-carnivorous leaves) in winter when light levels are too low for carnivory to be worthwhile.",
+  "verdict": "overstated",
+  "corrected_claim": "Sarracenia pitcher plants produce flat, non-carnivorous leaves called phyllodes in winter.",
+  "quote": "Sarracenia spp. produce flat, non-carnivorous leaves (phyllodes) in winter.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Light-level explanation not confirmed verbatim on page"
+ },
+ {
+  "claim": "The TV series 'Bones' is based on the work of forensic anthropologist and author Kathy Reichs, who created the fictional character Dr. Temperance Brennan.",
+  "verdict": "overstated",
+  "corrected_claim": "Forensic anthropologist Kathy Reichs created the fictional character Dr. Temperance Brennan, the inspiration for the TV series 'Bones'.",
+  "quote": "Created the fictional character Dr. Temperance Brennan, and the inspiration for the TV series Bones.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_anthropology",
+  "note": "Page says Brennan inspired the series, not that it is based on Reichs' work."
+ }
+]
