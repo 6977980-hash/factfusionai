@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "Geoduck, a species of saltwater clam native to the Puget Sound, have been known to live more than 160 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Geoduck, a species of saltwater clam native to the Puget Sound, have been known to live more than 160 years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "If correct, it would have been the world's oldest, having been hatched in 1859.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"it\" refers to the eel Åle)"
+ },
+ {
+  "claim": "Orange roughy, also known as deep sea perch, can live up to 149 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Orange roughy, also known as deep sea perch, can live up to 149 years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "George the lobster (an American lobster, Homarus americanus) was estimated to be about 140 years old by PETA in January 2009.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "George the lobster (an American lobster, Homarus americanus) was estimated to be about 140 years old by PETA in January 2009.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Tardigrades, capable of cryptobiosis, have been shown to survive nearly 120 years in a dry state.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tardigrades, capable of cryptobiosis, have been shown to survive nearly 120 years in a dry state.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "An orca of the Southern Resident population identified as J2 or Granny was estimated by some researchers to have been approximately 105 years old at her death in 2017; however, other dating methods estimated her age as 65–80.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...estimated by some researchers to have been approximately 105 years old at her death in 2017; however, other dating methods estimated her age as 65–80.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "A lungfish named Methuselah was determined to be between 92 and 101 years old in 2023, making her the oldest living fish in captivity at the time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was determined to be between 92 and 101 years old in 2023, making her the oldest living fish in captivity at the time.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Jeanne Calment, a French woman, lived to the age of 122 years and 164 days, making her the oldest fully documented human who has ever lived.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "lived to the age of 122 years and 164 days, making her the oldest fully documented human who has ever lived.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "He holds the record for the oldest ever male human.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"He\" = Jiroemon Kimura)"
+ },
+ {
+  "claim": "The oldest known person alive today is Ethel Caterham, a British woman, at age 116 years, 163 days (born 21 August 1909).",
+  "verdict": "overstated",
+  "corrected_claim": "The oldest known person alive today is Ethel Caterham, a British woman born on 21 August 1909, who has passed the age of 117.",
+  "quote": "at age 117 years, 37 days (born 21 August 1909)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "Age outdated: page now gives 117 years, 37 days"
+ },
+ {
+  "claim": "If confirmed, the tortoise would have been the oldest known terrestrial animal to have ever existed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"the tortoise\" refers to Adwaita)"
+ },
+ {
+  "claim": "Jonathan, a Seychelles giant tortoise living on the island of Saint Helena, is reported to be at least 193 years old, hence the oldest currently living terrestrial animal.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is reported to be at least 193 years old, hence the oldest currently living terrestrial animal.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "If Adwaita's claim is not true, Jonathan might be the oldest known terrestrial animal to have ever existed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "If Adwaita's claim is not true, Jonathan might be the oldest known terrestrial animal to have ever existed.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Tu'i Malila, a radiated tortoise, died at the age of 188 in May 1966, at the time the oldest verified vertebrate.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "died at the age of 188 in May 1966, at the time the oldest verified vertebrate.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The oldest known bird in the world was an Australian sulphur-crested cockatoo called Cocky Bennett, who lived to 120.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The oldest known bird in the world was an Australian sulphur-crested cockatoo called Cocky Bennett, who lived to 120.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The tuatara, a lizard-like reptile native to New Zealand, can live well over 100 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "can live well over 100 years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Henry, a tuatara at the Southland Museum in New Zealand, mated for the first time at the estimated age of 111 years in 2009 with an 80-year-old female and fathered 11 baby tuatara.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "mated for the first time at the estimated age of 111 years in 2009 with an 80-year-old female and fathered 11 baby tuatara.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "She is believed to be the oldest elephant in captivity in Asia and was nicknamed Gaja Muthassi (grandmother of elephants).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"She\" = Dakshayani)"
+ },
+ {
+  "claim": "Lin Wang, an Asian elephant, was the oldest elephant in the Taipei Zoo.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lin Wang, an Asian elephant, was the oldest elephant in the Taipei Zoo.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Henry, a Nile crocodile currently living in the Crocworld Conservation Centre of Scottburgh, South Africa is reported to be 123–124 years old, making him the oldest crocodile in captivity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...is reported to be 123–124 years old, making him the oldest crocodile in captivity.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Muja, an American alligator at Belgrade Zoo, is considered the oldest alligator in the world.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...is considered the oldest alligator in the world.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Fatou, a gorilla at the Berlin Zoo is the oldest gorilla ever at the age of 68.",
+  "verdict": "overstated",
+  "corrected_claim": "Fatou, a gorilla at the Berlin Zoo, is the oldest known gorilla at the age of 68.",
+  "quote": "...is the oldest known gorilla at the age of 68.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "Page says 'oldest known', not 'oldest ever'"
+ },
+ {
+  "claim": "As of 2017, she is the oldest known wild bird in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"she\" = Wisdom; page also now says as of 2025)"
+ },
+ {
+  "claim": "The oldest living horse on record, Ol' Billy, was allegedly born in the year 1760 in London, England.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...was allegedly born in the year 1760 in London, England.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Estimated to be 60 prior to his euthanasia, he may have been the oldest known individual of his species.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"he\" = Rod the Egyptian vulture)"
+ },
+ {
+  "claim": "The oldest bear on record was Andreas, a European brown bear, living in the ARCTUROS bear sanctuary in northern Greece.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The oldest bear on record was Andreas, a European brown bear.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "A wild-born black rhino named Elly was the oldest in North America at an estimated 45 years of age, and resided in California's San Francisco Zoo from April 1974 until passing in May 2017.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...was the oldest in North America at an estimated 45 years of age.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The oldest living spider, named Number 16 by researchers, was a 43-year-old female Gaius villosus armored trapdoor spider, at the North Bungulla Reserve, Tammin, Western Australia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...was a 43-year-old female Gaius villosus armored trapdoor spider",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Debby, the polar bear, an inhabitant of the Assiniboine Park Zoo in Winnipeg, Canada, was the oldest polar bear and third-oldest bear species on record when she died in 2008, at the age of 42.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...was the oldest polar bear and third-oldest bear species on record when she died in 2008, at the age of 42.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The oldest recorded bat, a Siberian bat (previously identified as a Brandt's bat), was at least 41 years old at the time of capture.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...was at least 41 years old at the time of capture.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The oldest goat was McGinty who lived to the age of 22 years and 5 months until her death in November 2003 on Hayling Island, UK.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...who lived to the age of 22 years and 5 months until her death in November 2003 on Hayling Island, UK.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "A mouse named Patrick Stewart (in tribute to the actor) has been verified by Guinness World Records as the oldest living mouse in human care as well as the oldest mouse ever, aged 9 years 210 days as of 9 February 2023.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...as the oldest living mouse in human care as well as the oldest mouse ever, aged 9 years 210 days as of 9 February 2023.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The oldest gerbil was a Mongolian gerbil named Sahara, she was born in May 1973 and died on 4 October 1981 aged 8 years and 4 months.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...she was born in May 1973 and died on 4 October 1981 aged 8 years and 4 months.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The latest version of AnAge database with longevity records and ageing information for >4,600 species (June, 2023).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (external link description; AnAge not found in article text)"
+ },
+ {
+  "claim": "Numerous animal species naturally produce chemical toxins which are used to kill or incapacitate prey or as a defense against predators.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Numerous animal species naturally produce chemical toxins",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": ""
+ },
+ {
+  "claim": "Venomous animals actively deliver their toxins (called venom) into their target through a specially designed mechanism, such as a bite or sting, by using a venom apparatus, such as fangs or a stinger, in a processes called envenomation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Venomous animals actively deliver their toxins",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": ""
+ },
+ {
+  "claim": "They are often distinguished from poisonous animals, which instead passively deliver their toxins (called poison) to their victims upon contact such as through inhalation, absorption through the skin, or after being ingested.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The only difference between venomous animals and poisonous animals is how they deliver the toxins.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The only difference between venomous animals and poisonous animals is how they deliver the toxins.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": ""
+ },
+ {
+  "claim": "Their intended effects can range from mild fleeting discomfort to paralysis and death, and they may be highly selective in which species they target, often making them harmless to all but a few specific organisms; what may be fatal to one species may be totally insignificant to another species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Their intended effects can range from mild fleeting discomfort to paralysis and death. ... highly selective in which species they target",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": ""
+ },
+ {
+  "claim": "Because the definition of \"venomous\" can be extremely broad, this list includes only those animals with venom that is known or suspected to be medically significant for humans or domestic animals.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "All species of tarantula (in addition to chelicerae, some also have urticating hairs)\n\n\n===== Scorpions =====\nOf more than a thousand known species of scorpion, only a few dozen have venom that is dangerous to humans, most notably the bark scorpions, including:\n\nCentruroides spp.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Although blind, it is a formidable predator and feeds on the shrimp that share its underground pools.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "All cone snails are venomous, though the danger posed to humans varies widely by species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "All cone snails are venomous, though the danger posed to humans varies widely by species.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": ""
+ },
+ {
+  "claim": "Many species of octopus, squid, and cuttlefish make use of venom when hunting their prey.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Many species of octopus, squid, and cuttlefish make use of venom when hunting their prey.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": ""
+ },
+ {
+  "claim": "Contact with a jellyfish tentacle can trigger millions of nematocysts to pierce the skin and inject venom.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Contact with a jellyfish tentacle can trigger millions of nematocysts to pierce the skin and inject venom.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": ""
+ },
+ {
+  "claim": "Some hydrozoans, including the Portuguese man o' war (Physalia physalis)\nSome sea anemones\nSome corals\n\n\n=== Echinoderms ===\nSeveral species of sea urchins are venomous.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "varius)\n\n\n==== Dinosaurs ====\nSome scientists have proposed that Sinornithosaurus had a venomous bite, but later evidence suggests otherwise.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The definition of \"venomous\" becomes less distinct here, however, and whether some species are truly venomous is still debated.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "paradoxus)\nSlow loris (Nycticebus spp.)\nPygmy slow loris (Xanthonycticebus pygmaeus)\n\n\n== See also ==\nVenomous mammals\nVenomous fish\nVenomous snakes\nToxic birds\n\n\n== Notes ==\n\n\n== References ==\n\n\n== External links ==\n10 Most Poisonous Animals.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_venomous_animals",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The following is a list of poisonous animals, which are animals that passively deliver toxins (called poison) to their victims upon contact such as through inhalation, absorption through the skin, or after being ingested.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The following is a list of poisonous animals, which are animals that passively deliver toxins (called poison) to their victims upon contact such as through inhalation, absorption through the skin, or after being ingested.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_poisonous_animals",
+  "note": ""
+ },
+ {
+  "claim": "They are often distinguished from venomous animals, which actively inject their toxins (called venom) into their victims through a venom apparatus such as fangs or a stinger.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_poisonous_animals",
+  "note": "page fragment (\"They\")"
+ },
+ {
+  "claim": "For these animals, there is documented evidence of homosexual behavior of one or more of the following kinds: sex, courtship, affection, pair bonding, or parenting, as noted in researcher and author Bruce Bagemihl's 1999 book Biological Exuberance: Animal Homosexuality and Natural Diversity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For these animals, there is documented evidence of ... as noted in researcher and author Bruce Bagemihl's 1999 book",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": ""
+ },
+ {
+  "claim": "exhibit, stated \"[M]any researchers have described homosexuality as something altogether different from sex.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": "page fragment"
+ },
+ {
+  "claim": "They must realize that animals can have sex with who they will, when they will and without consideration to a researcher's ethical principles.\" Homosexual behavior is found amongst social birds and mammals, particularly the sea mammals and the primates.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": "page fragment"
+ },
+ {
+  "claim": "In 1986, it was even discovered amongst insects when butterfly scientist W.J.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Sexual behavior takes many different forms, even within the same species and the motivations for and implications of their behaviors have yet to be fully understood.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Sexual behavior takes many different forms, even within the same species ... the motivations for and implications of their behaviors have yet to be fully understood",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": ""
+ },
+ {
+  "claim": "Bagemihl's research shows that homosexual behavior, not necessarily sex, has been documented in about five hundred species as of 1999, ranging from primates to gut worms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has been documented in about five hundred species as of 1999, ranging from primates to gut worms",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": ""
+ },
+ {
+  "claim": "Homosexuality in animals is seen as controversial by social conservatives because it asserts the naturalness of homosexuality in humans, while others counter that it has no implications and is nonsensical to equate natural animal behaviors to morality.",
+  "verdict": "overstated",
+  "corrected_claim": "Homosexuality in animals is seen as controversial by social conservatives.",
+  "quote": "is seen as controversial by social conservatives",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": "Remainder of the sentence (reason and counter-argument) not retrieved verbatim"
+ },
+ {
+  "claim": "The correct usage of the term homosexual is that an animal exhibits homosexual behavior, however this article conforms to the usage by modern research, applying the term homosexuality to all sexual behavior (copulation, genital stimulation, mating games and sexual display behavior) between animals of the same sex.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": "page fragment"
+ },
+ {
+  "claim": "In October 2023, biologists reported studies of mammals (over 1,500 different species) that found same-sex behavior (not necessarily related to human orientation) may help improve social stability by reducing conflict within the groups studied.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In October 2023, biologists reported studies of mammals (over 1,500 different species) that found ... may help improve social stability by reducing conflict within the groups studied",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": ""
+ },
+ {
+  "claim": "While an uptick in research on bird homosexuality – and animal homosexuality in general – has been coming out in recent years, it is common for some authors to labour in articulating the view any root cause or function of bird homosexuality is poorly understood.",
+  "verdict": "overstated",
+  "corrected_claim": "Research on bird homosexuality, and animal homosexuality in general, has seen an uptick in recent years.",
+  "quote": "While an uptick in research on bird homosexuality ... has been coming out in recent years",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": "Remainder of the sentence not retrieved verbatim"
+ },
+ {
+  "claim": "In 1977, The New York Times also reported on a colony of lesbian seagulls \"off [the] coast of California.\"\n\nSelected birds from the full list\n\n\n== Fish ==\n\n\n== Reptiles ==\n\nThe all-female Whiptail lizard species Aspidoscelis neomexicanus (center), which reproduces via parthenogenesis, is shown flanked by two sexual species having males, A.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Research has shown that simulated mating behavior increases fertility for Aspidoscelis neomexicanus.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Research has shown that simulated mating behavior increases fertility for Aspidoscelis neomexicanus.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": ""
+ },
+ {
+  "claim": "A survey of damsel and dragonflies reveals characteristic cloacal pincher mating damage in 20–80 percent of the males, indicating a fairly high occurrence of sexual coupling between males.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "reveals characteristic cloacal pincher mating damage in 20–80 percent of the males",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_animals_displaying_homosexual_behavior",
+  "note": ""
+ },
+ {
+  "claim": "118 chemical elements have been identified and named officially by IUPAC.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "118 chemical elements have been identified and named officially by IUPAC.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_chemical_elements",
+  "note": ""
+ },
+ {
+  "claim": "A chemical element, often simply called an element, is a type of atom which has a specific  number of protons in its atomic nucleus (i.e., a specific atomic number, or Z).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A chemical element, often simply called an element, is a type of atom ... which has a specific number of protons in its atomic nucleus",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_chemical_elements",
+  "note": ""
+ },
+ {
+  "claim": "The definitive visualisation of all 118 elements is the periodic table of the elements, whose history along the principles of the periodic law was one of the founding developments of modern chemistry.",
+  "verdict": "overstated",
+  "corrected_claim": "The definitive visualisation of all 118 chemical elements is the periodic table of the elements.",
+  "quote": "The definitive visualisation of all 118 elements is the periodic table of the elements.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_chemical_elements",
+  "note": "History/founding-development part not retrieved verbatim"
+ },
+ {
+  "claim": "It is a tabular arrangement of the elements by their chemical properties that usually uses abbreviated chemical symbols in place of full element names, but the linear list format presented here is also useful.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_chemical_elements",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Like the periodic table, the list below organizes the elements by the number of protons in their atoms; it can also be organized by other properties, such as atomic weight, density, and electronegativity.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_chemical_elements",
+  "note": "page fragment"
+ },
+ {
+  "claim": "For more detailed information about the origins of element names, see List of chemical element name etymologies.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_chemical_elements",
+  "note": "page fragment"
+ },
+ {
+  "claim": "A number of important questions remain open in the area of physics beyond the Standard Model, such as the strong CP problem, determining the absolute mass of neutrinos, understanding matter–antimatter asymmetry, and identifying the nature of dark matter and dark energy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"A number of important questions remain open in the area of physics beyond the Standard Model, such as the strong CP problem, determining the absolute mass of neutrinos, understanding matter–antimatter asymmetry, and identifying the nature of dark matter and dark energy.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "This incompatibility causes both theories to break down under extreme conditions, such as within known spacetime gravitational singularities like those at the Big Bang and at the centers of black holes beyond their event horizons.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Dimensionless physical constants: At the present time, the values of various dimensionless physical constants cannot be calculated; they can be determined only by physical measurement.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"At the present time, the values of various dimensionless physical constants cannot be calculated; they can be determined only by physical measurement.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Does this radiation contain information about their inner structure, as suggested by gauge–gravity duality, or not, as implied by Hawking's original calculation?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "The cosmic censorship hypothesis and the chronology protection conjecture: Can singularities not hidden behind an event horizon, known as \"naked singularities\", arise from realistic initial conditions, or is it possible to prove some version of the \"cosmic censorship hypothesis\" of Roger Penrose which proposes that this is impossible?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "A well-understood example of holography is the AdS/CFT correspondence in string theory.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"A well-understood example of holography is the AdS/CFT correspondence in string theory.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Similarly, can quantum gravity in a de Sitter space be understood using dS/CFT correspondence?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "In string theory, although originally spacetime was considered just like in general relativity (with the only difference being supersymmetry), recent research building upon the Ryu–Takayanagi conjecture has taught that spacetime in string theory is emergent by using quantum information theoretic concepts such as entanglement entropy in the AdS/CFT correspondence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"recent research building upon the Ryu–Takayanagi conjecture has taught that spacetime in string theory is emergent\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "However, how exactly the familiar classical spacetime emerges within string theory or the AdS/CFT correspondence is still not well understood.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Cosmological inflation is generally accepted as the solution, but are other possible explanations such as a variable speed of light more appropriate?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Size of universe: The diameter of the observable universe is about 93 billion light-years (or equivalently a radius of about 14 Gpc), but what is the size of the whole universe?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Understanding the mechanisms that led to this asymmetry is a major unsolved problem in physics.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Cosmological constant problem: Why does the zero-point energy of the vacuum not cause a large cosmological constant?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "If so, is it a WIMP, axion, the lightest superpartner (LSP), or some other particle?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Despite extensive research, the exact composition of dark matter remains unknown.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Despite extensive research, the exact composition of dark matter remains unknown.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Understanding its properties is crucial for a comprehensive understanding of the universe.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Dark energy: What is the cause of the observed accelerating expansion of the universe (the de Sitter phase)?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Why is the energy density of the dark energy component of the same magnitude as the density of matter at present when the two evolve quite differently over time; could it be simply that we are observing at exactly the right time?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Is dark energy a pure cosmological constant or are models of quintessence such as phantom energy applicable?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Shape of the universe: What is the 3-manifold of comoving space, i.e., of a comoving spatial section of the universe, informally called the \"shape\" of the universe?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Magnetic monopoles: Did particles that carry \"magnetic charge\" exist in some past, higher-energy epoch?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "How thus does low energy /non-pertubative QCD give rise to the formation of complex nuclei and nuclear constituents?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Is there a theory that can explain the masses of particular quarks and leptons in particular generations from first principles (a theory of Yukawa couplings)?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Measured values of this flux appears to be only 94% of the value expected from theory.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Are they a tightly bound system of five elementary particles, or a more weakly-bound pairing of a baryon and a meson?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Mu problem: A problem in supersymmetric theories, concerned with understanding the reasons for parameter values of the theory.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"A problem in supersymmetric theories, concerned with understanding the reasons for parameter values of the theory.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "It is unknown how such a simple value comes about, and why it is the exact arithmetic average of the possible extreme values of ⁠ 1 /3⁠ (equal masses) and 1 (one mass dominates).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Is strange matter stable at 0 pressure (i.e.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "How do other solar-like stars generate their magnetic fields, and what are the similarities and differences between stellar activity cycles and that of the Sun?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "What caused the Maunder Minimum and other grand minima, and how does the solar cycle recover from a minima state?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Astrophysical jet: Why do only certain accretion discs surrounding certain astronomical objects emit relativistic jets along their polar axes?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Why are there sometimes overtones, and why do these appear at different frequency ratios in different objects?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Supermassive black holes: What is the origin of the M–sigma relation between supermassive black hole mass and galaxy velocity dispersion?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Flyby anomaly: Why is the observed energy of satellites flying by planetary bodies sometimes different by a minute amount from the value predicted by theory?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Galaxy rotation problem: Is dark matter responsible for differences in observed and theoretical speed of stars revolving around the centre of galaxies, or is it something else?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Supernovae: What is the exact mechanism by which an implosion of a dying star becomes an explosion?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "p-nuclei: What astrophysical process is responsible for the nucleogenesis of these rare isotopes?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Ultra-high-energy cosmic ray: Why is it that some cosmic rays appear to possess energies that are impossibly high, given that there are no sufficiently energetic cosmic ray sources near the Earth?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Rotation rate of Saturn: Why does the magnetosphere of Saturn exhibit a (slowly changing) periodicity close to that at which the planet's clouds rotate?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "The number count and intensity dipole anisotropy in radio, NRAO VLA Sky Survey (NVSS) catalogue is inconsistent with the local motion as derived from cosmic microwave background and indicate an intrinsic dipole anisotropy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The number count and intensity dipole anisotropy in radio, NRAO VLA Sky Survey (NVSS) catalogue is inconsistent with the local motion as derived from cosmic microwave background and indicate an intrinsic dipole anisotropy.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "The optical polarization from quasars shows polarization alignment over a very large scale of Gpc.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The optical polarization from quasars shows polarization alignment over a very large scale of Gpc.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "The cosmic-microwave-background data shows several features of anisotropy, which are not consistent with the Big Bang model.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The cosmic-microwave-background data shows several features of anisotropy, which are not consistent with the Big Bang model.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "listed by the page as a cosmological anomaly"
+ },
+ {
+  "claim": "Although in the local (primarily thin) disk of the Milky Way there is no evidence of a strong AMR, a sample of 229 nearby \"thick\" disk stars has been used to investigate the existence of an age–metallicity relation in the Galactic thick disk, and indicate that there is an age–metallicity relation present in the thick disk.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"a sample of 229 nearby \"thick\" disk stars has been used to investigate the existence of an age–metallicity relation in the Galactic thick disk, and indicate that there is an age–metallicity relation present in the thick disk.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "The lithium problem: Why is there a discrepancy between the amount of lithium-7 predicted to be produced in Big Bang nucleosynthesis and the amount observed in very old stars?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Ultraluminous X-ray sources (ULXs): What powers X-ray sources that are not associated with active galactic nuclei but exceed the Eddington limit of a neutron star or stellar black hole?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Fast radio bursts (FRBs): What causes these transient radio pulses from distant galaxies, lasting only a few milliseconds each?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Understanding their origin is a significant unsolved problem in astrophysics.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Quark–gluon plasma: Where is the onset of deconfinement: 1) as a function of temperature and chemical potentials?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "2) as a function of relativistic heavy-ion collision energy and system size?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "What is the mechanism of energy and baryon-number stopping leading to creation of quark-gluon plasma in relativistic heavy-ion collisions?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Nuclei and nuclear astrophysics: What is the nature of the nuclear force that binds protons and neutrons into stable nuclei and rare isotopes?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Why do the largest particles end up on the surface of a granular material containing a mixture of variously sized objects when subjected to a vibration/shaking?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Is it possible to make a material that is a superconductor at room temperature and atmospheric pressure?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Amorphous solids: What is the nature of the glass transition between a fluid or regular solid and a glassy phase?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Universality of low-temperature amorphous solids: why is the small dimensionless ratio of the phonon wavelength to its mean free path nearly the same for a very large family of disordered solids?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Cryogenic electron emission: Why does the electron emission in the absence of light increase as the temperature of a photomultiplier is decreased?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Sonoluminescence: What causes the emission of short bursts of light from imploding bubbles in a liquid when excited by sound?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Semiconductor nanocrystals: What is the cause of the nonparabolicity of the energy-size dependence for the lowest optical absorption transition of quantum dots?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Superfluid transition in helium-4: Explain the discrepancy between the experimental and theoretical determinations of the heat capacity critical exponent α.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Scharnhorst effect: Can light signals travel slightly faster than c between two closely spaced conducting plates, exploiting the Casimir effect?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Temperature: Can quantum computing be performed at non-cryogenic temperatures?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "hydrogen) without the type of radioactive waste that fission energy currently produces.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "However, can ionized gases (plasma) be confined long enough and at a high enough temperature to create fusion power?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "The injection problem: Fermi acceleration is thought to be the primary mechanism that accelerates astrophysical particles to high energy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Fermi acceleration is thought to be the primary mechanism that accelerates astrophysical particles to high energy.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Ball lightning: the exact physical nature of this mystery in atmospheric electricity.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Stochasticity and robustness to noise in gene expression: How do genes govern our body, withstanding different external pressures and internal stochasticity?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Certain models exist for genetic processes, but we are far from understanding the whole picture, in particular in development where gene expression must be tightly regulated.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Certain models exist for genetic processes, but we are far from understanding the whole picture, in particular in development where gene expression must be tightly regulated.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Homochirality: What is the origin of the preponderance of specific enantiomers in biochemical systems?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Do the native structures of most naturally occurring proteins coincide with the global minimum of the free energy in conformational space?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Are there non-trivial aspects of biology or biochemistry that can only be explained by the persistence of coherence as a mechanism?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "Another way of stating this question regards the measurement problem: What constitutes a \"measurement\" which apparently causes the wave function to collapse into a definite state?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "What does the existence or absence of non-local phenomena imply about the fundamental structure of spacetime?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment (open question, not a standalone fact)"
+ },
+ {
+  "claim": "These results were confirmed by two studies with statistical significance over 5 standard deviations which were published in December 2015.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Numerical solution for binary black hole (1960s–2005): The numerical solution of the two body problem in general relativity was achieved after four decades of research.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The numerical solution of the two body problem in general relativity was achieved after four decades of research.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Cosmic age problem (1920s–1990s): The estimated age of the universe was around 3 to 8 billion years younger than estimates of the ages of the oldest stars in the Milky Way.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The estimated age of the universe was around 3 to 8 billion years younger than estimates of the ages of the oldest stars in the Milky Way.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Better estimates for the distances to the stars, and the recognition of the accelerating expansion of the universe, reconciled the age estimates.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Better estimates for the distances to the stars, and the recognition of the accelerating expansion of the universe, reconciled the age estimates.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "The two states, named P+c(4380) and P+c(4450), had individual statistical significances of 9 σ and 12 σ, respectively, and a combined significance of 15 σ—enough to claim a formal discovery.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"had individual statistical significances of 9 σ and 12 σ, respectively\" ... \"a combined significance of 15 σ—enough to claim a formal discovery.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Existence of quark-gluon plasma, a new phase of matter was discovered and confirmed in experiments at CERN-SPS (2000), BNL-RHIC (2005) and CERN-LHC (2010).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Existence of quark-gluon plasma\" ... \"a new phase of matter was discovered and confirmed in experiments at CERN - SPS (2000), BNL - RHIC (2005) and CERN - LHC (2010).\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Higgs boson and electroweak symmetry breaking (1963–2012): The mechanism responsible for breaking the electroweak gauge symmetry, giving mass to the W and Z bosons, was solved with the discovery of the Higgs boson of the Standard Model, with the expected couplings to the weak bosons.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The mechanism responsible for breaking the electroweak gauge symmetry, giving mass to the W and Z bosons, was solved with the discovery of the Higgs boson of the Standard Model, with the expected couplings to the weak bosons.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Origin of mass of most elementary particles: Solved with the discovery of the Higgs boson, which implies the existence of the Higgs field giving mass to these particles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Solved with the discovery of the Higgs boson, which implies the existence of the Higgs field giving mass to these particles.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Solar neutrino problem (1968–2001): Solved by a new understanding of neutrino physics, requiring a modification of the Standard Model of particle physics—specifically, neutrino oscillation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Solved by a new understanding of neutrino physics, requiring a modification of the Standard Model of particle physics—specifically, neutrino oscillation.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Photon underproduction crisis (2014–2015): This problem was resolved by Khaire and Srianand.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"This problem was resolved by Khaire and Srianand.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Hipparcos anomaly (1997–2012): The High Precision Parallax Collecting Satellite (Hipparcos) measured the parallax of the Pleiades and determined a distance of 385 light years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The High Precision Parallax Collecting Satellite (Hipparcos) measured the parallax of the Pleiades and determined a distance of 385 light years.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "The anomaly was due to the use of a weighted mean when there is a correlation between distances and distance errors for stars in clusters.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "There is no systematic bias in the Hipparcos data when it comes to star clusters.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"There is no systematic bias in the Hipparcos data when it comes to star clusters.\"",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics",
+  "note": ""
+ },
+ {
+  "claim": "Problems in chemistry are considered unsolved when an expert in the field considers it unsolved or when several experts in the field disagree about a solution to a problem.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Problems in chemistry are considered unsolved when an expert in the field considers it unsolved or when several experts in the field disagree about a solution to a problem.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_chemistry",
+  "note": ""
+ },
+ {
+  "claim": "Do replacement reactions of aryl diazonium salts (dediazotizations) predominantly undergo SN1 or a radical mechanism?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_chemistry",
+  "note": "page fragment (list question, not a factual claim)"
+ },
+ {
+  "claim": "Can an electrochemical cell reliably perform organic redox reactions?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_chemistry",
+  "note": "page fragment (list question, not a factual claim)"
+ },
+ {
+  "claim": "Is there a less labor- or energy-intensive technique for titanium refinement than the Kroll process?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_chemistry",
+  "note": "page fragment (list question, not a factual claim)"
+ },
+ {
+  "claim": "Unsolved Problems in Nanotechnology: Chemical Processing by Self-Assembly - Matthew Tirrell - Departments of Chemical Engineering and Materials, Materials Research Laboratory, California NanoSystems Institute, University of California, Santa Barbara [No doc at link, 20 Aug 2016].",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_chemistry",
+  "note": "page fragment (reference citation, not a factual claim)"
+ },
+ {
+  "claim": "What were the biochemical paths from individual bio-building blocks like amino acids or nucleic acids to functional polymers such as proteins and DNA?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "What were the biochemical paths from individual bio-building blocks like amino acids or nucleic acids to functional polymers",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "The formation of neural tissues in a certain way is necessary for the formation of certain goal-directed behavior for certain species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The formation of neural tissues in a certain way is necessary for the formation of certain goal-directed behavior",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Did one or more random events lead to the first eukaryotic cells, or can the formation of eukaryotic cells be explained by physical and biological principles?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Did one or more random events lead to the first eukaryotic cells",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "Did the mitochondria or the nucleus develop first in eukaryotes?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Did the mitochondria or the nucleus develop first in eukaryotes?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "Two decades since the first eukaryotes were sequenced, the \"biological role\" of around 20% of proteins are still unknown.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Two decades since the first eukaryotes were sequenced, the \"biological role\" of around 20% of proteins are still unknown.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Many of these proteins are conserved across most eukaryotic species and some are conserved in bacteria, indicating a role fundamental for life.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The mechanisms of action of many drugs including lithium, thalidomide and ketamine are not completely understood.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The mechanisms of action of many drugs including lithium, thalidomide, and ketamine are not completely understood.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Inverse protein-folding problem (protein design): Is it possible to design a polypeptide sequence which will adopt a given structure under certain environmental conditions?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Is it possible to design a polypeptide sequence which will adopt a given structure under certain environmental conditions?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "This turned out to be tractable given a good structural prediction method, starting with the success of the small globular protein Top7 from the Rosetta team in 2002.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The success of prediction and design methods still skip over how proteins end up in the final shape (folding mechanism and kinetics; protein dynamics).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The success of prediction and design methods still skip over how proteins end up in the final shape",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Why does it only color a random portion of the cells?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Laughter: While it is generally accepted that laughing evolved as a form of social communication, the exact neurobiological process that leads humans to laugh is not well understood.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the exact neurobiological process that leads humans to laugh is not well understood.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Decline in average human body temperature since the 19th century: Medical data suggests that the average body temperature has declined 0.6 °C since the 19th century.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Medical data suggests that the average body temperature has declined 0.6 °C since the 19th century.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Why did these antigens develop in the first place?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "How ancient are the differences in blood types?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "How ancient are the differences in blood types?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "What accounts for the large number of rare non ABO blood types?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "What accounts for the large number of rare non ABO blood types?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "Extinction of archaic humans: Why did archaic human species such as Neanderthals become extinct, leaving Homo sapiens the only surviving species of humans?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Why did archaic human species such as Neanderthals become extinct, leaving Homo sapiens the only surviving species of humans?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "A theory exists that romantic love evolved by co-opting the systems for mother-infant bonding, but this does not explain when or why (under what selection pressure) romantic love evolved.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A theory exists that romantic love evolved by co-opting the systems for mother-infant bonding",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "What is the cause of the apparent rapid diversification of multicellular animal life around the beginning of the Cambrian, resulting in the emergence of almost all modern animal phyla?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "What is the cause of the apparent rapid diversification of multicellular animal life around the beginning of the Cambrian",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "What is the exact evolutionary history of flowers and what is the cause of the apparently sudden appearance of nearly modern flowers in the fossil record?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "What is the exact evolutionary history of flowers",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "The adult form of this animal has never been encountered in the water, and it remains a mystery what it grows into.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Snowball Earth: what was the effect of Cryogenian glaciations on the origin and evolution of early animals?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Snowball Earth: what was the effect of Cryogenian glaciations on the origin and evolution of early animals?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "Due to differences between larvae of acorn worms and that of Planctosphaera pelagica, Planctosphaera is sometimes given its own class.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Due to differences between larvae of acorn worms and that of Planctosphaera pelagica",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Jennaria pulchra: the taxonomic position of this animal is unknown and more research is needed to establish it.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the taxonomic position of this animal is unknown and more research is needed to establish it.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "What are the origins of morphological similarities between Diurodrilus and micrognathozoan Limnognathia maerski?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "What are the origins of morphological similarities between Diurodrilus and micrognathozoan Limnognathia maerski?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "Are they a sister group to Argulidae or an ancient lineage of Panarthropoda?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Taxonomic position of Tricholepidion gertschi: is it a member of the order Zygentoma (silverfishes) or an independent ancient lineage of insects?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "is it a member of the order Zygentoma (silverfishes) or an independent ancient lineage of insects?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "There is disagreement over which regulatory mechanisms of population are density-dependent, or density-independent.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There is disagreement over which regulatory mechanisms of population are density-dependent, or density-independent.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Persistence paradox: why does the evolution of novel species almost never lead to the extinction of resident species?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Persistence paradox: why does the evolution of novel species almost never lead to the extinction of resident species?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "Why do Pogonomyrmex badius colonies cover the surface of their nests with a circular region of charcoal pieces?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "Why do Pogonomyrmex badius colonies cover the surface of their nests with a circular region of charcoal pieces?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "A satisfactory explanation for the neurobiological mechanisms that allow homing in animals has yet to be found.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A satisfactory explanation for the neurobiological mechanisms that allow homing in animals has yet to be found.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "How flocks of birds and bats coordinate their movements so quickly is not fully understood.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "How flocks of birds and bats coordinate their movements so quickly is not fully understood.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "Nor is the purpose of large flocks like those of starlings which seem to invite predators rather than protect them.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "How do the descendants of monarch butterfly all over Canada and the US eventually, after migrating for several generations, manage to return to a few relatively small overwintering spots?.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "after migrating for several generations, manage to return to a few relatively small overwintering spots?",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "Post-pass: open question, not a standalone fact"
+ },
+ {
+  "claim": "Several adaptation hypotheses have been proposed, but it is largely unknown why this habit evolved and how gall-inducing insects induce gall formation in plants; chemical, mechanical, and viral triggers have been discussed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Only the right ovary in female basking sharks appears to function.",
+  "verdict": "overstated",
+  "corrected_claim": "Only the right ovary in female basking sharks appears to function, and the reason for this is unknown.",
+  "quote": "Only the right ovary in female basking sharks appears to function. The reason is unknown.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "claim omits that it is listed as an unsolved problem (reason unknown); stated as plain fact"
+ },
+ {
+  "claim": "There is a long-standing debate over whether the primary function of the osteoderms/scutes of stegosaurs is protection from predators, sexual display, species recognition, thermoregulation, or other functions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There is a long-standing debate over whether the primary function of the osteoderms/scutes of stegosaurs",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": ""
+ },
+ {
+  "claim": "This species of cnidarian was found to lack mitochondria and, therefore, is incapable of aerobic respiration.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The first prize in physics was awarded in 1901 to Wilhelm Conrad Röntgen, of Germany, who received 150,782 SEK.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first prize in physics was awarded in 1901 to Wilhelm Conrad Röntgen, of Germany, who received 150,782 SEK.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "John Bardeen is the only laureate to win the prize twice—in 1956 and 1972.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "John Bardeen is the only laureate to win the prize twice—in 1956 and 1972.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "William Lawrence Bragg was the youngest Nobel laureate in physics; he won the prize in 1915 at the age of 25.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "William Lawrence Bragg was the youngest Nobel laureate in physics; he won the prize in 1915 at the age of 25.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "He was also the youngest laureate for any Nobel prize until 2014 (when Malala Yousafzai won the Nobel Peace Prize at the age of 17).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The oldest Nobel Prize laureate in physics was Arthur Ashkin who was 96 years old when he was awarded the prize in 2018.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The oldest Nobel Prize laureate in physics was Arthur Ashkin who was 96 years old when he was awarded the prize in 2018.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "Only five women have won the prize: Marie Curie (1903), Maria Goeppert-Mayer (1963), Donna Strickland (2018), Andrea Ghez (2020), and Anne L'Huillier (2023).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Only five women have won the prize.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "Before L'Huillier, each woman only ever received a quarter share of the prize, although Marie Curie did receive an unshared Nobel prize in chemistry in 1911.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "each woman only ever received a quarter share of the prize ... Marie Curie did receive an unshared Nobel prize in chemistry in 1911.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "There were also nine years for which the Nobel Prize in Physics was delayed for one year:\n\nThe 1914 prize awarded to Max von Laue was announced only in November 1915.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There were also nine years for which the Nobel Prize in Physics was delayed for one year. ... The 1914 prize awarded to Max von Laue was announced only in November 1915.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "The Prize was not awarded in 1917, as the Nobel Committee for Physics decided that none of that year's nominations met the necessary criteria, but was awarded to Charles Glover Barkla in 1918 and counted as the 1917 prize.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Prize was not awarded in 1917 ... awarded to Charles Glover Barkla in 1918 and counted as the 1917 prize.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "A 2020 study reported that half of the Nobel Prizes for science awarded between 1995 and 2017 are clustered in few disciplines.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A 2020 study reported that half of the Nobel Prizes for science awarded between 1995 and 2017",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
+  "note": ""
+ },
+ {
+  "claim": "The Nobel Prize in Chemistry (Swedish: Nobelpriset i kemi) is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Chemistry",
+  "note": ""
+ },
+ {
+  "claim": "The first Nobel Prize in Chemistry was awarded in 1901 to Jacobus Henricus van 't Hoff, of the Netherlands.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first Nobel Prize in Chemistry was awarded in 1901 to Jacobus Henricus van 't Hoff, of the Netherlands.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Chemistry",
+  "note": ""
+ },
+ {
+  "claim": "Two Nobel Prize laureates in Chemistry, Germans Richard Kuhn (1938) and Adolf Butenandt (1939), were not allowed by their government to accept the prize.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Two Nobel Prize laureates in Chemistry, Germans Richard Kuhn (1938) and Adolf Butenandt (1939), were not allowed by their government to accept the prize.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Chemistry",
+  "note": ""
+ },
+ {
+  "claim": "As of 2023, the prize has been awarded to 192 individuals, including eight women (Maria Skłodowska-Curie being the first to be awarded in 1911).",
+  "verdict": "overstated",
+  "corrected_claim": "As of 2025, the Nobel Prize in Chemistry has been awarded to 200 individuals, including eight women, with Maria Skłodowska-Curie the first in 1911.",
+  "quote": "As of 2025, the prize has been awarded to 200 individuals, including eight women (Maria Skłodowska-Curie being the first to be awarded in 1911).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Chemistry",
+  "note": "Outdated: page now says 200 individuals as of 2025"
+ },
+ {
+  "claim": "reported that half of the Nobel Prizes for science awarded between 1995 and 2017 were clustered in just a few disciplines within their broader fields.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Chemistry",
+  "note": "page fragment (missing subject: Ioannidis et al. in 2020)"
+ },
+ {
+  "claim": "A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. Albert Einstein's theory of general relativity, which describes gravitation as the curvature of spacetime, predicts that any sufficiently compact mass will form a black hole.",
+  "source_url": "https://en.wikipedia.org/wiki/Black_hole",
+  "note": ""
+ },
+ {
+  "claim": "A neutron star is the gravitationally collapsed core of a massive supergiant star. It results from the supernova explosion of a massive star—combined with gravitational collapse—that compresses the core past white dwarf star density to that of atomic nuclei.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A neutron star is the gravitationally collapsed core of a massive supergiant star. It results from the supernova explosion of a massive star—combined with gravitational collapse—that compresses the core past white dwarf star density to that of atomic nuclei.",
+  "source_url": "https://en.wikipedia.org/wiki/Neutron_star",
+  "note": ""
+ },
+ {
+  "claim": "Quantum mechanics is the fundamental physical theory that describes the behavior of matter and of light; its unusual characteristics typically occur at and below the scale of atoms. It is the foundation of all quantum physics, which includes quantum chemistry, quantum biology, quantum field theory, quantum technology, and quantum information science.",
+  "verdict": "overstated",
+  "corrected_claim": "Quantum mechanics, also known as quantum physics, is the fundamental physical theory that describes the behavior of matter at and below the scale of atoms, and its methods are applied in fields including quantum chemistry, quantum biology, quantum field theory, quantum technology and quantum information science.",
+  "quote": "Quantum mechanics, also known as quantum physics, is the fundamental physical theory that describes the behavior of matter",
+  "source_url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+  "note": "Current lead no longer calls it 'the foundation of all quantum physics'; fields are described as applications"
+ },
+ {
+  "claim": "The theory of relativity comprises two physics theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively. Special relativity applies to all physical phenomena in the absence of gravity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The theory of relativity comprises two physics theories by Albert Einstein. ... Special relativity applies to all physical phenomena in the absence of gravity.",
+  "source_url": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+  "note": ""
+ },
+ {
+  "claim": "In astronomy and cosmology, dark matter is an invisible and hypothetical form of matter that does not interact with light or other electromagnetic radiation. Dark matter is implied by gravitational effects that cannot be explained by general relativity unless more matter is present than can be observed.",
+  "verdict": "overstated",
+  "corrected_claim": "Dark matter does not interact directly with radiation and interacts predominantly via gravity with visible matter; in the standard Lambda-CDM model it makes up 26.8% of the universe's mass-energy.",
+  "quote": "Dark matter can refer to any substance which interacts predominantly via gravity with visible matter (e.g., stars and planets). ... Dark matter does not interact directly with radiation, but it does affect the cosmic microwave background (CMB) ... the mass–energy content of the universe is 5% ordinary matter, 26.8% dark matter",
+  "source_url": "https://en.wikipedia.org/wiki/Dark_matter",
+  "note": "Current page lead no longer contains the claim's wording; parts not stated"
+ },
+ {
+  "claim": "In physical cosmology and astronomy, dark energy is a proposed form of energy that affects the universe on the largest scales. Its primary effect is to drive the accelerating expansion of the universe.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"In physical cosmology and astronomy, dark energy is a proposed form of energy that affects the universe on its largest scales\" ... \"Its primary effect is to drive the accelerating expansion of the universe\"",
+  "source_url": "https://en.wikipedia.org/wiki/Dark_energy",
+  "note": ""
+ },
+ {
+  "claim": "Nuclear fusion is a reaction in which two or more atomic nuclei combine to form a larger nucleus. The difference in mass between the reactants and products is manifested as either the release or the absorption of energy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nuclear fusion is a reaction in which two or more atomic nuclei combine to form a larger nucleus. The difference in mass between the reactants and products is manifested as either the release or the absorption of energy.",
+  "source_url": "https://en.wikipedia.org/wiki/Nuclear_fusion",
+  "note": ""
+ },
+ {
+  "claim": "Nuclear fission is a reaction in which the nucleus of an atom splits into two or more smaller nuclei. The fission process often produces gamma photons, and releases a very large amount of energy even by the energetic standards of radioactive decay.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nuclear fission is a reaction in which the nucleus of an atom splits into two or more smaller nuclei. The fission process often produces neutrons and gamma rays, and releases a very large amount of energy even by the energetic standards of radioactive decay.",
+  "source_url": "https://en.wikipedia.org/wiki/Nuclear_fission",
+  "note": "source says gamma rays (and neutrons)"
+ },
+ {
+  "claim": "Plasma (from Ancient Greek πλάσμα (plásma) 'that which has been formed or moulded or the result of forming or moulding') is a state of matter that results from a gaseous state having undergone some degree of ionization. It thus consists of a significant portion of charged particles (ions and/or electrons).",
+  "verdict": "overstated",
+  "corrected_claim": "Plasma is a state of matter that results from one of the other three classical states (often the gaseous one) having undergone an appreciable degree of ionization, so it consists of a significant portion of charged particles.",
+  "quote": "Plasma is a state of matter that results from one of the other three classical states (often, the gaseous one) having undergone an appreciable degree of ionization. It thus consists of a significant portion of charged particles (ions and/or electrons).",
+  "source_url": "https://en.wikipedia.org/wiki/Plasma_(physics)",
+  "note": "Lead wording changed; Greek etymology not in lead"
+ },
+ {
+  "claim": "In physics, electromagnetic radiation (EMR) or electromagnetic wave (EMW) is a self-propagating wave of the electromagnetic field that carries momentum and radiant energy through space. It encompasses a broad spectrum, classified by frequency (inversely proportional to wavelength), ranging from radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, to gamma rays.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "electromagnetic radiation (EMR) or an electromagnetic wave (EMW) is a self-propagating wave of the electromagnetic field ... It encompasses a broad spectrum, classified by frequency (inversely proportional to wavelength), ranging from",
+  "source_url": "https://en.wikipedia.org/wiki/Electromagnetic_radiation",
+  "note": ""
+ },
+ {
+  "claim": "Radioactive decay (also known as nuclear decay, radioactivity, radioactive disintegration, or nuclear disintegration) is the process by which an unstable atomic nucleus loses energy by radiation. A material containing unstable nuclei is considered radioactive.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Radioactive decay (also known as nuclear decay, radioactivity, radioactive disintegration, or nuclear disintegration) is the process by which an unstable atomic nucleus loses energy by radiation. A material containing unstable nuclei is considered radioactive.",
+  "source_url": "https://en.wikipedia.org/wiki/Radioactive_decay",
+  "note": ""
+ },
+ {
+  "claim": "Half-life (symbol t½) is the time required for a quantity (of substance) to reduce to half of its initial value. The term is commonly used in nuclear physics to describe how quickly unstable atoms undergo radioactive decay or how long stable atoms survive.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Half-life (symbol t½) is the time required for a quantity (of substance) to reduce to half of its initial value. The term is commonly used in nuclear physics to describe how quickly unstable atoms undergo radioactive decay",
+  "source_url": "https://en.wikipedia.org/wiki/Half-life",
+  "note": ""
+ },
+ {
+  "claim": "Entropy is a scientific concept, most commonly associated with states of disorder, randomness, or uncertainty. The term and the concept are used in diverse fields, from classical thermodynamics, where it was first recognized, to the microscopic description of nature in statistical physics, and to the principles of information theory.",
+  "verdict": "overstated",
+  "corrected_claim": "Entropy is often taken to be a measure of 'disorder', and the concept is used in diverse fields, from classical thermodynamics, where it was first recognized, to statistical physics and information theory.",
+  "quote": "often taken to be a measure of \"disorder\" (the higher the entropy, the higher the disorder). ... The term and the concept are used in diverse fields, from classical thermodynamics (where it was first recognized)",
+  "source_url": "https://en.wikipedia.org/wiki/Entropy",
+  "note": "Current lead defines entropy differently; 'most commonly associated with' wording not on page"
+ },
+ {
+  "claim": "The periodic table, also known as the periodic table of the elements, is an ordered arrangement of the chemical elements into rows (\"periods\") and columns (\"groups\"). An icon of chemistry, the periodic table is widely used in physics and other sciences.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The periodic table, also known as the periodic table of the elements, is an ordered arrangement of the chemical elements into rows ('periods') and columns ('groups').\" \"An icon of chemistry, the periodic table is also widely used in physics and other sciences.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Periodic_table",
+  "note": ""
+ },
+ {
+  "claim": "A chemical bond is the association of atoms or ions to form molecules, crystals, and other structures. The bond may result from the electrostatic force between oppositely charged ions as in ionic bonds or through the sharing of electrons as in covalent bonds, or some combination of these effects.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A chemical bond is the association of atoms or ions to form molecules, crystals, and other structures. The bond may result from the electrostatic force between oppositely charged ions, as in ionic bonds;",
+  "source_url": "https://en.wikipedia.org/wiki/Chemical_bond",
+  "note": ""
+ },
+ {
+  "claim": "A covalent bond is a chemical bond that involves the sharing of electrons to form electron pairs between atoms. These electron pairs are known as shared pairs or bonding pairs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A covalent bond is a chemical bond that involves the sharing of electrons to form electron pairs between atoms. These electron pairs are known as shared pairs or bonding pairs.",
+  "source_url": "https://en.wikipedia.org/wiki/Covalent_bond",
+  "note": ""
+ },
+ {
+  "claim": "Ionic bonding is a type of chemical bonding that involves the electrostatic attraction between oppositely charged ions, or between two atoms with sharply different electronegativities, and is the primary interaction occurring in ionic compounds. It is one of the main types of bonding, along with covalent bonding and metallic bonding.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ionic bonding is a type of chemical bonding that involves the electrostatic attraction between oppositely charged ions, or between two atoms with sharply different electronegativities, and is the primary interaction occurring in ionic compounds. It is one of the main types of bonding, along with covalent bonding and metallic bonding.",
+  "source_url": "https://en.wikipedia.org/wiki/Ionic_bonding",
+  "note": ""
+ },
+ {
+  "claim": "An acid is a molecule or ion capable of either donating a proton (i.e. hydrogen cation, H+), known as a Brønsted–Lowry acid, or forming a covalent bond with an electron pair, known as a Lewis acid.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An acid is a molecule or ion capable of either donating a proton (i.e. hydrogen cation, H+), known as a Brønsted–Lowry acid",
+  "source_url": "https://en.wikipedia.org/wiki/Acid",
+  "note": ""
+ },
+ {
+  "claim": "In chemistry, there are three definitions in common use of the word \"base\": Arrhenius bases, Brønsted bases, and Lewis bases. All definitions agree that bases are substances that react with acids, as originally proposed by G.-F.",
+  "verdict": "overstated",
+  "corrected_claim": "In chemistry, there are three definitions in common use of the word \"base\": Arrhenius bases, Brønsted bases, and Lewis bases. All agree that bases are substances that react with acids, as originally proposed by G.-F. Rouelle in the mid-18th century.",
+  "quote": "In chemistry, there are three definitions in common use of the word \"base\": Arrhenius bases, Brønsted bases, and Lewis bases. All definitions agree that bases are substances that react with acids, as originally proposed by G.-F. Rouelle in the mid-18th century.",
+  "source_url": "https://en.wikipedia.org/wiki/Base_(chemistry)",
+  "note": "Claim truncated mid-sentence ('G.-F.')"
+ },
+ {
+  "claim": "In chemistry, pH ( or ; pee-AYCH) is a logarithmic scale used to specify the acidity or basicity of aqueous solutions. Acidic solutions (solutions with higher concentrations of hydrogen (H+) cations) are measured to have lower pH values than basic or alkaline solutions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In chemistry, pH ( ... ) is a logarithmic scale used to specify the acidity or basicity of aqueous solutions. Acidic solutions (...) are measured to have lower pH values than basic or alkaline solutions.",
+  "source_url": "https://en.wikipedia.org/wiki/pH",
+  "note": ""
+ },
+ {
+  "claim": "A polymer () is a substance or material that consists of very large molecules, or macromolecules, that are constituted by many repeating subunits derived from one or more species of monomers. Due to their broad spectrum of properties, both synthetic and natural polymers play essential and ubiquitous roles in everyday life.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "that are constituted by many repeating subunits derived from one or more species of monomers. ... Due to their broad spectrum of properties, both synthetic and natural polymers have essential and ubiquitous roles",
+  "source_url": "https://en.wikipedia.org/wiki/Polymer",
+  "note": ""
+ },
+ {
+  "claim": "A crystal or crystalline solid is a solid material whose constituents (such as atoms, molecules, or ions) are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. In addition, macroscopic single crystals are usually identifiable by their geometrical shape, consisting of flat faces with specific, characteristic orientations.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "\"A crystal or crystalline solid is a solid material whose constituents\" ... \"macroscopic single crystals are usually identifiable by their geometrical shape\"",
+  "source_url": "https://en.wikipedia.org/wiki/Crystal",
+  "note": "Post-pass: only part confirmed verbatim (WebFetch returned only partial verbatim; rest matched in paraphrase)"
+ },
+ {
+  "claim": "In chemistry, a transition metal (or transition element) is a chemical element in the d-block of the periodic table (groups 3 to 12), though the elements of group 12 (and less often group 3) are sometimes excluded. The lanthanide and actinide elements (the f-block) are called inner transition metals and are sometimes considered to be transition metals as well.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a transition metal (or transition element) is a chemical element in the d-block of the periodic table",
+  "source_url": "https://en.wikipedia.org/wiki/Transition_metal",
+  "note": ""
+ },
+ {
+  "claim": "Deoxyribonucleic acid (; DNA) is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. The polymer carries genetic instructions for the development, functioning, growth and reproduction of all known organisms and many viruses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Deoxyribonucleic acid (DNA) is a polymer composed of two polynucleotide chains that coil around each other ... The polymer carries genetic instructions for the development, functioning, growth and reproduction",
+  "source_url": "https://en.wikipedia.org/wiki/DNA",
+  "note": ""
+ },
+ {
+  "claim": "Ribonucleic acid (RNA) is a polymeric molecule that is essential for most biological functions, either by performing the function itself (non-coding RNA) or by forming a template for the production of proteins (messenger RNA). RNA and deoxyribonucleic acid (DNA) are nucleic acids.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ribonucleic acid (RNA) is a polymeric molecule that is essential for most biological functions, either by performing the function itself (non-coding RNA) or by forming a template for the production of proteins (messenger RNA). RNA and deoxyribonucleic acid (DNA) are nucleic acids.",
+  "source_url": "https://en.wikipedia.org/wiki/RNA",
+  "note": ""
+ },
+ {
+  "claim": "Proteins are large biomolecules and macromolecules that comprise one or more long chains of amino acid residues. Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions, DNA replication, responding to stimuli, providing structure to cells and organisms, and transporting molecules from one location to another.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Proteins are large biomolecules and macromolecules that comprise one or more long chains of amino acid residues. Proteins perform a vast array of functions within organisms, including catalysing metabolic reactions,",
+  "source_url": "https://en.wikipedia.org/wiki/Protein",
+  "note": ""
+ },
+ {
+  "claim": "The cell is the basic structural and functional unit of all forms of life or organisms. The term comes from the Latin word cellula meaning 'small room'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The cell is the basic structural and functional unit of all forms of life or organisms. The term comes from the Latin word cellula meaning 'small room'.",
+  "source_url": "https://en.wikipedia.org/wiki/Cell_(biology)",
+  "note": ""
+ },
+ {
+  "claim": "A chloroplast ( KLOR-ə-plast, -⁠plahst) is a type of organelle known as a plastid that conducts photosynthesis mostly in plant and algal cells. Chloroplasts have a high concentration of chlorophyll pigments which capture the energy from sunlight and convert it to chemical energy and release oxygen.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A chloroplast is a type of organelle known as a plastid that conducts photosynthesis mostly in plant and algal cells. Chloroplasts have a high concentration of chlorophyll pigments which capture the energy from sunlight, convert it to",
+  "source_url": "https://en.wikipedia.org/wiki/Chloroplast",
+  "note": ""
+ },
+ {
+  "claim": "Evolution is the change in the heritable characteristics of biological populations over successive generations. It occurs when evolutionary processes such as genetic drift and natural selection act on genetic variation, resulting in certain characteristics becoming more or less common within a population over successive generations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Evolution is the change in the heritable characteristics of biological populations over successive generations. It occurs when evolutionary processes such as genetic drift and natural selection act on genetic variation, resulting in certain characteristics becoming more or less common within a population over successive generations.",
+  "source_url": "https://en.wikipedia.org/wiki/Evolution",
+  "note": ""
+ },
+ {
+  "claim": "Natural selection is the differential survival and reproduction of individuals due to differences in the relative fitness endowed on them by their own particular complement of observable characteristics. It is a key law or mechanism of evolution which changes the heritable traits characteristic of a population or species over generations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Natural selection is the differential survival and reproduction of individuals due to differences in the relative fitness\" ... \"It is a key law or mechanism of evolution which changes the heritable traits\"",
+  "source_url": "https://en.wikipedia.org/wiki/Natural_selection",
+  "note": ""
+ },
+ {
+  "claim": "In biology, the word gene has two meanings. The Mendelian gene is a basic unit of heredity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In biology, the word gene has two meanings. The Mendelian gene is a basic unit of heredity.",
+  "source_url": "https://en.wikipedia.org/wiki/Gene",
+  "note": ""
+ },
+ {
+  "claim": "A chromosome is a package of DNA containing part or all of the genetic material of an organism. In most chromosomes, the very long thin DNA fibers are coated with nucleosome-forming packaging proteins; in eukaryotic cells, the most important of these proteins are the histones.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "A chromosome is a package of DNA containing part of or all of the genetic material of an organism.",
+  "source_url": "https://en.wikipedia.org/wiki/Chromosome",
+  "note": "Post-pass: only part confirmed verbatim (second sentence (histones) confirmed in paraphrase)"
+ },
+ {
+  "claim": "A genome is all the genetic information of an organism or cell. It consists of nucleotide sequences of DNA (or RNA in RNA viruses).",
+  "verdict": "overstated",
+  "corrected_claim": "A genome is all the genetic information of an organism. It consists of nucleotide sequences of DNA (or RNA in RNA viruses).",
+  "quote": "In the fields of molecular biology and genetics, a genome is all the genetic information of an organism. It consists of nucleotide sequences of DNA (or RNA in RNA viruses).",
+  "source_url": "https://en.wikipedia.org/wiki/Genome",
+  "note": "Page says 'of an organism', not 'or cell'"
+ },
+ {
+  "claim": "CRISPR (; acronym of clustered regularly interspaced short palindromic repeats) is a family of DNA sequences found in the genomes of prokaryotic organisms such as bacteria and archaea. Each sequence within an individual prokaryotic CRISPR is derived from a DNA fragment of a bacteriophage that had previously infected the prokaryote or one of its ancestors.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is a family of DNA sequences found in the genomes of prokaryotic organisms such as bacteria and archaea. Each sequence within an individual prokaryotic CRISPR is derived from a DNA fragment of a bacteriophage",
+  "source_url": "https://en.wikipedia.org/wiki/CRISPR",
+  "note": ""
+ },
+ {
+  "claim": "In multicellular organisms, stem cells are undifferentiated or partially differentiated cells that can change into various types of cells and proliferate indefinitely to produce more of the same stem cell. They are the earliest type of cell in a cell lineage.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In multicellular organisms, stem cells are undifferentiated or partially differentiated cells ... They are the earliest type of cell in a cell lineage.",
+  "source_url": "https://en.wikipedia.org/wiki/Stem_cell",
+  "note": ""
+ },
+ {
+  "claim": "In the nervous system, a synapse is a structure that allows a neuron (or nerve cell) to pass an electrical or chemical signal to another neuron or a target effector cell. Synapses can be classified as either chemical or electrical, depending on the mechanism of signal transmission between neurons.",
+  "verdict": "overstated",
+  "corrected_claim": "In the nervous system, a synapse is a structure that allows a neuron to exchange signals with another cell in its immediate vicinity. Synapses can be classified as chemical or electrical, depending on how the signal is transmitted.",
+  "quote": "In the nervous system, a synapse is a structure that allows a neuron to exchange (receive or send) signals with another cell in its immediate vicinity. Synapses can be classified as either chemical or electrical, depending on the mechanism of signal transmission between neurons.",
+  "source_url": "https://en.wikipedia.org/wiki/Synapse",
+  "note": "current page wording differs: 'exchange signals with another cell in its immediate vicinity'"
+ },
+ {
+  "claim": "A hormone (from Ancient Greek ὁρμῶν (hormôn) 'setting in motion') is a class of signaling molecules in multicellular organisms that are sent to distant organs or tissues by complex biological processes to regulate physiology and behavior. Hormones are required for the normal development of animals, plants and fungi.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A hormone (from Ancient Greek ὁρμῶν (hormôn) 'setting in motion') is a class of signaling molecules in multicellular organisms that are sent to distant organs or tissues by complex biological processes to regulate physiology and behavior. Hormones are required for the normal development of animals, plants and fungi.",
+  "source_url": "https://en.wikipedia.org/wiki/Hormone",
+  "note": ""
+ }
+]

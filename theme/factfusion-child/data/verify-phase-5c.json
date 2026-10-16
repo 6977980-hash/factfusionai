@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "Iron has a melting point of 1,538°C and makes up about 32% of Earth's total mass, concentrated in its core.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q677",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Adult hairworms are free-living aquatic organisms that reproduce in water — the parasitic stage is only the larval period inside the insect.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The parasite then leaves its host; the adult worm lives and reproduces in water.",
+  "source_url": "https://en.wikipedia.org/wiki/Spinochordodes_tellinii",
+  "note": ""
+ },
+ {
+  "claim": "Pituamkek National Park Reserve, Canada's newest national park, protects a chain of barrier islands that have been used for fishing and hunting by the Mi'kmaq for 4,000 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Pituamkek National Park Reserve, formally established in 2024, protects a chain of barrier islands off Prince Edward Island that Indigenous peoples used as hunting and fishing grounds, with archaeological sites about 4,000 years old.",
+  "quote": "encompassing a chain of barrier islands along the northern coast of Prince Edward Island. ... used as traditional hunting and fishing grounds by Indigenous peoples",
+  "source_url": "https://en.wikipedia.org/wiki/Pituamkek_National_Park_Reserve",
+  "note": "'Newest' not stated; Mi'kmaq not named in that passage; 4,000 years refers to archaeological sites"
+ },
+ {
+  "claim": "Gold melts at 1,064°C and is so malleable that one ounce can be stretched into a wire 80 km long.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q897",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Hairworm parasites produce proteins from the Wnt signaling family that act on the host's nervous system development — proteins similar to those the insect makes itself.",
+  "verdict": "overstated",
+  "corrected_claim": "The hairworm produces Wnt-family proteins that act directly on the development of the host's central nervous system and resemble proteins known from other insects.",
+  "quote": "produces proteins from the Wnt family that act directly on the development of the central nervous system ... are similar to proteins known from other insects, suggesting an instance of molecular mimicry.",
+  "source_url": "https://en.wikipedia.org/wiki/Spinochordodes_tellinii",
+  "note": "source: similar to other insects' proteins, not the host's own"
+ },
+ {
+  "claim": "Heavy spring rains caused a poor harvest of the Dickinson pumpkin, leading to a canned pumpkin shortage for Christmas in 2015.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2015, heavy spring rains caused a poor harvest leading to a Christmas canned-pumpkin shortage.",
+  "source_url": "https://en.wikipedia.org/wiki/Dickinson_pumpkin",
+  "note": ""
+ },
+ {
+  "claim": "Rhodium is one of the rarest elements with a density of 12.41 g/cm³ and is more valuable than gold or platinum.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1087",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Euhaplorchis sterilizes the horn snails it infects — the parasitized snails cannot reproduce, directing all their energy to supporting the parasite.",
+  "verdict": "overstated",
+  "corrected_claim": "Horn snails become infected by eating bird droppings — and the parasite leaves them sterile.",
+  "quote": "Horn snails consume the droppings and become sterile.",
+  "source_url": "https://en.wikipedia.org/wiki/Euhaplorchis",
+  "note": "Energy-redirection not stated"
+ },
+ {
+  "claim": "The 2022 Andover tornado injured only three people, despite damaging more than 1,000 buildings.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Three people were injured by the tornado; two of these injuries occurred in Sedgwick County. ... An estimated 1,074 buildings were damaged by the tornado to varying degrees; up to 400 of those were destroyed.",
+  "source_url": "https://en.wikipedia.org/wiki/2022_Andover_tornado",
+  "note": ""
+ },
+ {
+  "claim": "Carbon has two wildly different forms: graphite (one of the softest minerals) and diamond (the hardest natural substance).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q623",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Researchers estimate that snail populations in California marshes would be nearly double their current size without Euhaplorchis parasitism.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "nearly double what it is if it weren't for the parasite",
+  "source_url": "https://en.wikipedia.org/wiki/Euhaplorchis",
+  "note": ""
+ },
+ {
+  "claim": "Capote Falls is the highest waterfall in Texas, and the only location where Hinckley's columbine occurs in the wild.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "At up to 175 feet (53 m) tall, it is the highest waterfall in Texas. ... the site is the only location where the columbine species Aquilegia hinckleyana (Hinckley's columbine) is found in the wild.",
+  "source_url": "https://en.wikipedia.org/wiki/Capote_Falls",
+  "note": ""
+ },
+ {
+  "claim": "Boron has one of the highest boiling points at 4,000°C and is harder than most steels.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q618",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Some scientists hypothesize that the abundant diversity of shorebirds along California coasts may be partly thanks to Euhaplorchis making fish easier to catch.",
+  "verdict": "overstated",
+  "corrected_claim": "Scientist Armand Kuris speculated that Euhaplorchis-infected killifish have led to a diverse and abundant assemblage of fish-eating birds along the coasts.",
+  "quote": "led to a diverse and abundant assemblage of piscivorous birds along the coasts",
+  "source_url": "https://en.wikipedia.org/wiki/Euhaplorchis",
+  "note": "Page refers to piscivorous birds, not shorebirds specifically"
+ },
+ {
+  "claim": "A recurrent famine (Kere) has haunted Madagascar's southern regions since the 1930s.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The first major kere event had started by 1930 and lasted until 1934.\" ... \"at least one period of kere has taken place in nearly every decade since then.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Kere_(famine)",
+  "note": ""
+ },
+ {
+  "claim": "Silicon has a boiling point of 2,570°C and makes up 27.7% of Earth's crust by mass, second only to oxygen.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q670",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Host-parasite coevolution can be observed in real-time in organisms with short generation times, making it possible to watch evolution happen in the laboratory.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For organisms with short generation times, host–parasite coevolution can be observed in comparatively small time periods ... Laboratory evolution experiments have provided evidence for many of the basic predictions",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "During the colonial period, the Dutch East Indies was the third-largest exporter of tea after the British Raj and Ceylon.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the early 20th century, the Dutch East Indies was the third largest source of tea exports, after British India and Ceylon",
+  "source_url": "https://en.wikipedia.org/wiki/Tea_production_in_Indonesia",
+  "note": ""
+ },
+ {
+  "claim": "Potassium is so light (0.862 g/cm³) that it floats on water, and so reactive it bursts into violet flames on contact.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q703",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "In negative frequency-dependent selection, rare host genotypes have an advantage because parasites haven't evolved to attack them yet — keeping genetic diversity high.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a rare allelic variant has a selective advantage ... In turn, a rare host genotype may then be favored by selection",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "Specimens of Aquilegia daingolica were collected in 1906 and 1909, but it was first described as a new species in 2013.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The type specimen was collected between 27 and 29 July 1909 by V.V. Sapozhnikov ... a specimen that was later identified as a paratype was collected in 1906 ... The species was first described in 2013",
+  "source_url": "https://en.wikipedia.org/wiki/Aquilegia_daingolica",
+  "note": ""
+ },
+ {
+  "claim": "Gallium melts at just 29.76°C - low enough that it will melt in your hand, yet boils at 2,204°C.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q861",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Geographic mosaic theory predicts that host-parasite coevolution varies across space — creating 'hotspots' where both evolve rapidly and 'coldspots' where only one adapts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "John N. Thompson's geographic mosaic theory of coevolution hypothesizes spatially divergent coevolutionary selection ... Coevolutionary hotspots are communities in which selection on the interaction is truly reciprocal. ... so-called coldspots in which only one or neither species adapts to the antagonist.",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "The limited study of the Afghani plants Aquilegia gracillima, A. maimanica, and A. microcentra has been blamed on political circumstances.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "political circumstances meant that the species were likely relegated to being \"nothing but names for years to come\"",
+  "source_url": "https://en.wikipedia.org/wiki/Aquilegia_gracillima",
+  "note": ""
+ },
+ {
+  "claim": "Oganesson (element 118) is the heaviest known element and exists for only milliseconds before decaying.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1307",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Bacteria evolving resistance to bacteriophages often suffer fitness costs because the receptors the phages use are important for bacterial metabolism.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "have important functions in bacterial metabolism ... would thus decrease fitness (i.e. population growth rate) ... there is a trade-off between the advantages and disadvantages of a mutated receptor",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "In the history of fisheries in the Philippines, the once-dominant local municipal fisheries were supplanted first by commercial fisheries, and then by aquaculture.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Philippines, commercial fishing came to outstrip the once-dominant municipal fisheries, and aquaculture has since grown in prominence.",
+  "quote": "\"commercial production soon began to outstrip the previously dominant municipal fisheries.\" ... \"From 1980 to 2010, capture fisheries were dominant.\" \"Since this time, aquaculture has since increased in relative prominence.\"",
+  "source_url": "https://en.wikipedia.org/wiki/History_of_fisheries_in_the_Philippines",
+  "note": "page says aquaculture grew in prominence, not that it supplanted commercial fisheries"
+ },
+ {
+  "claim": "Scientists theorize elements up to atomic number 184 (unoctquadium) could exist in an 'island of stability' in the periodic table.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q116976565",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The flour beetle Tribolium castaneum and its microsporidian parasite Nosema whitei show a trade-off — high virulence helps the parasite reproduce, but kills the host too fast for optimal transmission.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This parasitoid kills its host for transmission ... In turn, parasite fitness most likely depends on a trade-off between transmission (spore load) and virulence.",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "Among the Orang Asli of Negeri Sembilan, chica (Johannesteijsmannia lanceolata palm) is only collected during kenduri rituals.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Negeri Sembilan community of Ulu Kelaka, the rare chica palm (Johannesteijsmannia lanceolata) is collected only during kenduri celebration feasts.",
+  "quote": "In Negeri Sembilan, in the community of Ulu Kelaka, it is collected rarely, only during kenduri rituals.",
+  "source_url": "https://en.wikipedia.org/wiki/Johannesteijsmannia_lanceolata",
+  "note": "source refers to one community (Ulu Kelaka), not all Orang Asli of the state"
+ },
+ {
+  "claim": "Technetium was the first artificially produced element and has no stable isotopes - all its forms are radioactive.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1054",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Caenorhabditis elegans nematodes coevolving with Bacillus thuringiensis bacteria show increased genetic diversity — supporting predictions about how parasites maintain variation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The nematode Caenorhabditis elegans and the bacterium Bacillus thuringiensis have become established as a model system for studying host–parasite coevolution. Laboratory evolution experiments have provided evidence for many of the basic predictions about these coevolutionary interactions, including reciprocal genetic change, increases in the rate of evolution, and increased genetic diversity.",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "Researchers want Hymenophyllum axsmithii rhizomes so that they can tell whether the filmy fern was up a tree.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the possibility Hymenophyllum axsmithii was an epiphyte or not will depend on more fossils being found and described ... in particular the rhizome and root structure will be key to determining where in the Republic paleoforest it lived.",
+  "source_url": "https://en.wikipedia.org/wiki/Hymenophyllum_axsmithii",
+  "note": ""
+ },
+ {
+  "claim": "Beryllium has an unusually high melting point (1,287°C) for such a light element and is transparent to X-rays.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q569",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Better understanding of host-parasite coevolution could lead to novel treatments for diseases like malaria, AIDS, and influenza — all caused by rapidly evolving parasites.",
+  "verdict": "overstated",
+  "corrected_claim": "Major diseases such as malaria, AIDS and influenza are caused by coevolving parasites, and better understanding of these adaptations may help develop novel medications and vaccines.",
+  "quote": "Major diseases such as malaria, AIDS and influenza are caused by coevolving parasites. Better understanding of coevolutionary adaptations between parasite attack strategies and host immune systems",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page says 'coevolving', not 'rapidly evolving'"
+ },
+ {
+  "claim": "Oxford is the first city in the United Kingdom to adopt a zero emission zone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Oxford zero emission zone is the first zero emission zone (ZEZ) in the United Kingdom.",
+  "source_url": "https://en.wikipedia.org/wiki/Oxford_zero_emission_zone",
+  "note": ""
+ },
+ {
+  "claim": "Arsenic sublimes (turns directly from solid to gas) at 615°C without passing through a liquid phase at normal pressure.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q871",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Lianas (climbing woody vines) in tropical forests can be considered generalist macro-parasites of trees — they steal structural support and resources while reducing host survival.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "lianas have been viewed as hyper-diverse generalist macro-parasites that affect host survival ... by parasitising on the host's structural support for access to canopy light",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "The 'Dragon Cartel', a cooperation of Chinese triads and Mexican cartels, poach fish maw in the Gulf of California and smuggle it to China.",
+  "verdict": "overstated",
+  "corrected_claim": "A crime ring dubbed 'the Dragon Cartel', a cooperation between Chinese organized crime and Mexican cartels, backed the poaching of totoaba for its maw in the Gulf of California.",
+  "quote": "\"Poaching operations were backed by a transnational organized crime ring known by the moniker 'the Dragon Cartel'\" ... \"a cooperation between Chinese organized crime and Mexican cartels, particularly the Sinaloa cartel\"",
+  "source_url": "https://en.wikipedia.org/wiki/Fish_maw",
+  "note": "page says Chinese organized crime, not triads; smuggling to China not stated in that passage"
+ },
+ {
+  "claim": "Selenium has photoconductor properties - its electrical resistance decreases when light shines on it.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q876",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Guinea worm disease will be the first parasitic disease eradicated through behavioral change alone — without vaccines or medicines, just education and water filters.",
+  "verdict": "overstated",
+  "corrected_claim": "Guinea worm disease is on target to be the second human infectious disease eradicated, through water filters and education about using them.",
+  "quote": "Guinea worm disease is on target to be the second infectious disease of humans to be eradicated. ... widespread distribution of net filters and pipe filters for drinking water, and education about the importance of using them.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "'First parasitic disease eradicated by behavior change alone' not on page"
+ },
+ {
+  "claim": "Cyclone Hudhud caused a 60-percent decrease in the population of birds in Visakhapatnam.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Higher temperatures in the city in the months following the cyclone caused a 60 percent decrease in its bird population as they moved elsewhere or died.",
+  "source_url": "https://en.wikipedia.org/wiki/Cyclone_Hudhud",
+  "note": ""
+ },
+ {
+  "claim": "Antimony expands when it freezes (unlike most materials), a property it shares with water, gallium, and bismuth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1099",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "More than 100 million Guinea worm cases have been prevented since the eradication program began — reducing cases from millions to just 15 per year.",
+  "verdict": "overstated",
+  "corrected_claim": "More than 100 million Guinea worm cases have been prevented, with only 14 provisional human cases reported worldwide in 2024.",
+  "quote": "more than 100 million cases have been prevented ... with 14 provisional human cases reported worldwide in 2024.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "Page gives 14 provisional cases in 2024, not a steady 15 per year"
+ },
+ {
+  "claim": "Environmental destruction can be a means of genocide (genocide-ecocide nexus).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ecocide can be a means of genocide, ... environmental destruction results in conditions of life that fundamentally threaten",
+  "source_url": "https://en.wikipedia.org/wiki/Genocide–ecocide_nexus",
+  "note": ""
+ },
+ {
+  "claim": "Tellurium is one of the rarest stable elements in Earth's crust, about three times rarer than gold.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1100",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Guinea worm larvae can survive in copepods (water fleas) and develop to an infectious stage within just 14 days.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the D. medinensis larvae develop to an infective L3 stage within 14 days.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": ""
+ },
+ {
+  "claim": "Harry S. Truman declined a mayor's suggestion to fire a nuclear bomb at a hurricane.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Miami Beach, Florida mayor Herbert A. Frink wrote to U.S. president Harry Truman ... requesting that he fire a nuclear bomb at the next Florida-bound hurricane, disintegrating it. ... Truman declined",
+  "source_url": "https://en.wikipedia.org/wiki/Nuclear_strikes_on_hurricanes",
+  "note": ""
+ },
+ {
+  "claim": "Indium is so soft you can bite it, and it squeaks when bent - a property called 'tin cry'.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1094",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The scientific name 'Dracunculus medinensis' means 'little dragon from Medina' — referring to the worm's serpent-like appearance as it emerges from the skin.",
+  "verdict": "overstated",
+  "corrected_claim": "The scientific name Dracunculus medinensis means 'little dragon from Medina'.",
+  "quote": "Dracunculus medinensis (\"little dragon from Medina\")",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "Page does not explain the name as referring to the emerging worm's appearance"
+ },
+ {
+  "claim": "Male and female specimens of Skimmia japonica were once thought to belong to different species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The male and female individuals of S. japonica were originally thought to represent different species\"",
+  "source_url": "https://en.wikipedia.org/wiki/Skimmia_japonica",
+  "note": ""
+ },
+ {
+  "claim": "Astatine is the rarest naturally occurring element - at any given time, less than 30 grams exist on Earth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q999",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Guinea worm infections peak during drought or dry season in humid climates — when water sources shrink and become concentrated with infected copepods.",
+  "verdict": "overstated",
+  "corrected_claim": "Guinea worm infections occur most during drought or the dry season in humid climates, but during or just after the rainy season in semiarid climates.",
+  "quote": "The infection occurs most during times of drought or the 'dry-season' in humid climates. ... during or just after the rain season in the 'semiarid, wet-and-dry-climates'.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "Explanation about shrinking water sources not stated; omits semiarid pattern"
+ },
+ {
+  "claim": "The leaves of Premna microphylla are used to make a green jelly called Guanyin tofu.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This green gel is called 神仙豆腐 (shénxiān dòufu, immortal/divine tofu) or 觀音豆腐 (Guānyīn dòufu, Guanyin tofu).",
+  "source_url": "https://en.wikipedia.org/wiki/Premna_microphylla",
+  "note": ""
+ },
+ {
+  "claim": "Praseodymium gets its name from the Greek for 'green twin' due to its green salts, and is used in special aircraft metals.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1386",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "If a Guinea worm dies or breaks before fully emerging, it can cause severe secondary infections, permanent joint damage, or paralysis if it reaches the nervous system.",
+  "verdict": "overstated",
+  "corrected_claim": "Worms that rupture before emerging can cause abscesses and cystic swelling, and a worm that fails to reach the skin can cause arthritis or even paraplegia if it reaches the central nervous tissue.",
+  "quote": "Aseptic abscesses and cystic swelling can also occur when worms rupture before emerging. ... Arthritis or paraplegia can result from a worm that fails to reach the skin. ... finds its way into the central nervous tissue",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "Page links paralysis to worms failing to reach the skin, not to breaking"
+ },
+ {
+  "claim": "On top of being used as a culinary herb, Tulbaghia acutiloba has traditionally been used in treating infectious diseases and hypertension.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the provinces of Eastern Cape and KwaZulu-Natal, it is used as a culinary herb. ... Traditionally, T. acutiloba was used to treat various illnesses, including infectious diseases and hypertension.",
+  "source_url": "https://en.wikipedia.org/wiki/Tulbaghia_acutiloba",
+  "note": ""
+ },
+ {
+  "claim": "Holmium has the highest magnetic moment of any element, making it useful in powerful magnets.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1846",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Snails infected by Leucochloridium can survive for at least a year and continue seeing through their infected tentacles — they're not blinded by the giant pulsating broodsacs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Infected snails may survive for at least a year and continue to be able to use the eyes on the ends of their tentacles.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "Islands are home to an estimated 41 percent of land vertebrates at risk of extinction.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2017 review found islands were home to 1,189 highly threatened vertebrate species, 41 percent of the global total.",
+  "quote": "they were home to 1,189 highly-threatened vertebrate species, which was 41 percent of the global figure.",
+  "source_url": "https://en.wikipedia.org/wiki/Island",
+  "note": "page says vertebrates (highly threatened), not specifically land vertebrates"
+ },
+ {
+  "claim": "Zirconium has excellent corrosion resistance and is used in nuclear reactors because it doesn't absorb neutrons well.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1038",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Snails can be infected by multiple Leucochloridium species simultaneously — they may carry different colored broodsacs from different parasite species at once.",
+  "verdict": "overstated",
+  "corrected_claim": "A single snail may be infected by more than one species of Leucochloridium at the same time.",
+  "quote": "A snail may be simultaneously infected by more than one species of Leucochloridium.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": "Different-coloured broodsacs at once not stated"
+ },
+ {
+  "claim": "Panamanian earth scientist Erika Podest uses remote sensing to see how climate change has affected global soil moisture.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Erika Podest Cardoze is a Panamanian earth scientist who works at NASA's Jet Propulsion Laboratory (JPL).\" ... \"she has been monitoring soil moisture with the satellite\" ... \"see the impact of climate change globally\"",
+  "source_url": "https://en.wikipedia.org/wiki/Erika_Podest",
+  "note": ""
+ },
+ {
+  "claim": "Yttrium was discovered in 1794 and is named after Ytterby, a Swedish village that gave its name to four elements.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q941",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Leucochloridium broodsacs can burst spontaneously from snail tentacles and continue pulsating for up to an hour — attracting birds even without the snail.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "spontaneously burst from the tentacle ... surviving for an hour whilst they continue to pulsate",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "Storm Ulysses in 1903 was so named because its effects were described in James Joyce's novel Ulysses.",
+  "verdict": "overstated",
+  "corrected_claim": "Storm Ulysses got its name from its appearance in James Joyce's 1922 novel Ulysses, where a character mentions trees 'blown down by that cyclone last year'.",
+  "quote": "The storm later received its name from its appearance in James Joyce's 1922 novel Ulysses, which is set in Dublin in 1904.",
+  "source_url": "https://en.wikipedia.org/wiki/Storm_Ulysses",
+  "note": "source says named for its appearance (a mention) in the novel; 1903 only implied"
+ },
+ {
+  "claim": "Scandium is lighter than titanium but has a higher melting point and is used in aerospace alloys.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q713",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Leucochloridium uses a truncated life cycle — the snail acts as both first and second intermediate host, unlike typical trematodes that require separate hosts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a truncated life cycle ... the snail acts as both the first and second intermediate host",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "The borders of the Yellow River Delta National Nature Reserve were drawn to minimize impact on the Shengli Oil Field.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The borders that were created sought to minimize overlap with facilities used to exploit the Shengli Oil Field",
+  "source_url": "https://en.wikipedia.org/wiki/Yellow_River_Delta_National_Nature_Reserve",
+  "note": ""
+ },
+ {
+  "claim": "Vanadium is named after Vanadis (Freyja), Norse goddess of beauty, due to the colorful compounds it forms.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q722",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Adult Leucochloridium flukes live in the cloaca of birds and can start producing eggs as early as 13 days after the bird eats an infected broodsac.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The adult parasite lives in the bird's cloaca. ... eggs first appeared in the faeces 13 days after infection.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "Chromium's name comes from Greek 'chroma' (color) because it forms compounds in almost every color of the rainbow.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q725",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Leucochloridium exemplifies 'aggressive mimicry' — the parasite mimics the food (caterpillars) of its intended host (birds) to gain entry into the host's body.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The appearance and behaviour of the sporocysts is a case of aggressive mimicry. These broodsacs visually imitate caterpillars, a prey of birds.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "Manganese is essential for photosynthesis - without it, plants cannot split water molecules to release oxygen.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q731",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Infections with Leucochloridium often reduce or destroy the snail's reproductive organs — parasitic castration that redirects host resources to the parasite.",
+  "verdict": "overstated",
+  "corrected_claim": "Snails infected by L. paradoxum often show a reduction of their sexual organs.",
+  "quote": "snails infected by L. paradoxum often show a reduction of the sexual organs",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": "Page says 'reduction', not destruction; resource-redirect not stated"
+ },
+ {
+  "claim": "Cobalt gives the distinctive blue color to cobalt blue pigment, used in art for over 5,000 years.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q740",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Leucochloridium metacercariae (the infectious stage for birds) are only about 1.2 × 0.8 mm but accumulate in groups of 100-250 inside each pulsating broodsac.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The mature metacercariae are oval in shape, 1.2 × 0.8 mm. ... Typically 100–250 such metacercariae accumulate in a broodsac.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "Nickel is magnetic at room temperature - one of only four elements (with iron, cobalt, and gadolinium) with this property.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q744",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The broodsac colors of different Leucochloridium species are distinctive — L. paradoxum has green bands with dark spots and a reddish-brown tip.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "green bands with dark brown and black spots ... a dark-brown or reddish-brown tip",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "Copper has been used by humans for over 10,000 years and remains essential in electrical wiring due to its conductivity.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q753",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Russian researchers found that Leucochloridium sporocysts produce infectious metacercariae starting in spring but die by late summer — showing seasonal dynamics in parasite reproduction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In a study in Russia, snails became infected in spring and summer. The resultant sporocysts were producing infective metacercariae in the following spring but then died in late summer.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "Zinc prevents iron from rusting through galvanization and is the fourth most common metal in use today.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q758",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The relationship between ciclosporin (an immunosuppressant drug used in organ transplants) and parasitic fungi began with Tolypocladium inflatum — a species related to zombie-ant fungi.",
+  "verdict": "overstated",
+  "corrected_claim": "Research on Tolypocladium inflatum, a fungus related to the zombie-ant fungus, yielded the immunosuppressant drug ciclosporin.",
+  "quote": "Research on the related species Tolypocladium inflatum yielded the drug ciclosporin",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Reframed; source simply says research on the relative yielded ciclosporin"
+ },
+ {
+  "claim": "Lead has been used for 6,000 years and was once added to gasoline, paint, and even food as a sweetener.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q708",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Parasitoid wasps can undergo polyembryony — a single egg splitting to produce hundreds or thousands of genetically identical larvae inside one host.",
+  "verdict": "overstated",
+  "corrected_claim": "Through polyembryony, a single parasitoid wasp egg can hatch into two or more larvae.",
+  "quote": "the parasitoid egg hatches into a larva or two or more larvae",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "'hundreds or thousands' not in source"
+ },
+ {
+  "claim": "Tin has been alloyed with copper to make bronze since 3000 BCE, revolutionizing human civilization.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1096",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Some parasitic wasps can detect hosts hidden deep inside plant stems by 'hearing' the vibrations of the larvae eating through their antennae.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "page does not mention detecting hosts by sound/vibration via antennae"
+ },
+ {
+  "claim": "Silver has the highest electrical and thermal conductivity of any element, making it ideal for electronics.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1090",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The smallest insects in the world are parasitoid wasps — fairyflies in the family Mymaridae can be just 0.13mm long, smaller than some single-celled organisms.",
+  "verdict": "overstated",
+  "corrected_claim": "Parasitoid wasps range from some of the smallest insect species on Earth to wasps about an inch long.",
+  "quote": "Parasitoid wasps range from some of the smallest species of insects to wasps about an inch long.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "fairyflies, 0.13 mm and single-celled comparison not in source"
+ },
+ {
+  "claim": "Cadmium is extremely toxic yet was used in yellow and red pigments by artists including Monet and Van Gogh.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1091",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Haemozoin, the waste product malaria parasites produce when digesting hemoglobin, forms dark crystals that give infected organs a characteristic dark color.",
+  "verdict": "overstated",
+  "corrected_claim": "Haemozoin, the malarial pigment, is deposited in organs such as the spleen and liver, causing their enlargement and discolouration.",
+  "quote": "deposited in body organs such as the spleen and liver ... to cause their enlargement and discolouration ... Because of this, haemozoin is also known as malarial pigment.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page says discolouration, not specifically dark crystals/dark color"
+ },
+ {
+  "claim": "Iodine sublimes at room temperature, producing beautiful purple vapors that were first observed in 1811.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1103",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Over 70 species of Anopheles mosquitoes can transmit Plasmodium falciparum malaria, out of approximately 460 Anopheles species total.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Out of about 460 species of Anopheles mosquito, more than 70 species transmit falciparum malaria.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "Barium's compounds produce green flames in fireworks and were used in early television screens.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1112",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Malaria sporozoites use a unique gliding motility powered by actin and myosin motors beneath their membrane — they don't swim or crawl like other microorganisms.",
+  "verdict": "overstated",
+  "corrected_claim": "Malaria sporozoites move by gliding, driven by a motor made of the proteins actin and myosin beneath their plasma membrane.",
+  "quote": "The sporozoites move in the bloodstream by gliding, which is driven by a motor made up of the proteins actin and myosin beneath their plasma membrane.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Comparison with swimming/crawling microbes not stated"
+ },
+ {
+  "claim": "Calcium makes up 3.6% of Earth's crust and is essential for bones, teeth, and muscle contraction.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q706",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "A typical infectious mosquito bite delivers only 20-200 malaria sporozoites — yet this is often enough to establish infection.",
+  "verdict": "overstated",
+  "corrected_claim": "Typically, each infected mosquito bite contains 20-200 malaria sporozoites.",
+  "quote": "Typically, each infected bite contains 20–200 sporozoites.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "'Often enough to establish infection' not stated"
+ },
+ {
+  "claim": "Magnesium burns with an intensely bright white flame that cannot be extinguished by water.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q660",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Malaria parasites exhibit extreme genetic diversity in their surface proteins, with 59 var genes, 149 rif genes, and 28 stevor genes creating constantly changing antigenic profiles.",
+  "verdict": "overstated",
+  "corrected_claim": "The P. falciparum genome contains 59 var, 149 rif, and 28 stevor genes, families involved in antigenic variation.",
+  "quote": "Within the genome, there exist 59 var, 149 rif, and 28 stevor genes, along with multiple pseudogenes and truncations.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "'Extreme diversity' and 'constantly changing' framing not stated in this sentence"
+ },
+ {
+  "claim": "Sodium explodes on contact with water and must be stored under oil to prevent contact with air.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q658",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The Plasmodium falciparum genome was fully sequenced in 2002 — revealing a remarkably AT-rich genome (about 80%) organized into 14 chromosomes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the entire genome was reported on 3 October 2002. ... The roughly 24- megabase genome is extremely AT-rich (about 80%) and is organised into 14 chromosomes.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "Aluminum was once more valuable than gold - Napoleon III served honored guests with aluminum cutlery while others used gold.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q663",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "About 10% of malaria parasite proteins are targeted to the apicoplast, the remnant chloroplast from an ancient algal ancestor that is now essential for parasite survival.",
+  "verdict": "overstated",
+  "corrected_claim": "About 551, or roughly 10%, of the malaria parasite's predicted nuclear-encoded proteins are targeted to the apicoplast, an organelle it probably acquired by engulfing an alga.",
+  "quote": "551, or roughly 10%, of the predicted nuclear-encoded proteins are targeted to the apicoplast",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Essential-for-survival not stated; page says nuclear-encoded proteins"
+ },
+ {
+  "claim": "Titanium has an exceptional strength-to-weight ratio and is used in aircraft, spacecraft, and medical implants.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q716",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Cerebral malaria occurs when parasitized red blood cells stick to blood vessels in the brain — dramatically increasing the victim's likelihood of death.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Sequestration in the brain causes cerebral malaria, a very severe form of the disease, which increases the victim's likelihood of death.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "Argon makes up nearly 1% of Earth's atmosphere - the third most abundant gas after nitrogen and oxygen.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q696",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Inside mosquito midguts, male malaria gametocytes undergo 'exflagellation' — rapidly dividing to produce 8 flagellated microgametes within just 15 minutes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "by a process called exflagellation. ... undergoes a rapid nuclear division within 15 minutes, producing eight flagellated microgametes",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "Nihonium (element 113) was the first element discovered in Asia, synthesized in Japan in 2004.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1301",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "A single Plasmodium oocyst on the mosquito gut wall can produce over 3,000 sporozoites ready to infect new human hosts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "produce over 3,000 haploid daughter cells called sporozoites",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "Gravitational waves travel at exactly the speed of light (299,792,458 m/s), as predicted by Einstein in 1916.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q190035",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Mosquito saliva contains anti-clotting and anti-inflammatory compounds that help malaria parasites establish infection by disrupting the host's initial immune response.",
+  "verdict": "overstated",
+  "corrected_claim": "Mosquito saliva contains antihemostatic and anti-inflammatory enzymes that disrupt blood clotting and inflammation when malaria parasites are injected.",
+  "quote": "contains antihemostatic and anti-inflammatory enzymes that disrupt blood clotting",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page does not say these help parasites establish infection"
+ },
+ {
+  "claim": "Tachyons are hypothetical particles that would always travel faster than light - they cannot slow down to light speed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q41995",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Only 15-20% of injected malaria sporozoites enter the lymphatic system, where they're mostly destroyed by CD8+ T cells — the majority die in the skin.",
+  "verdict": "overstated",
+  "corrected_claim": "About 15-20% of injected malaria sporozoites enter the lymphatic system, where they activate dendritic cells that send them for destruction by CD8+ T cells.",
+  "quote": "About 15–20% of the sporozoites enter the lymphatic system, where they activate dendritic cells",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "'Majority die in the skin' not stated"
+ },
+ {
+  "claim": "The graviton is the hypothetical particle that mediates gravity - if it exists, it must be massless.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q103585",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Mast cells in human skin detect malaria sporozoites and release warning signals that activate neutrophils and macrophages — the body's first line of defense.",
+  "verdict": "overstated",
+  "corrected_claim": "Mast cells in the skin respond to malaria sporozoites by producing signaling molecules that activate phagocytes such as neutrophils and macrophages.",
+  "quote": "which activate cell eaters (professional phagocytes) such as neutrophils and macrophages",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "'First line of defense' not stated"
+ },
+ {
+  "claim": "1,10-decanediol could potentially hamper the production of nitrite in soil.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Furthermore, these diols exhibit a significant inhibitory effect on nitrite-forming microorganisms",
+  "source_url": "https://en.wikipedia.org/wiki/1,10-Decanediol",
+  "note": ""
+ },
+ {
+  "claim": "Tapeworm proglottids (body segments) grow from the neck region — the oldest segments at the tail end are packed with eggs ready to be shed.",
+  "verdict": "overstated",
+  "corrected_claim": "Pork tapeworm body growth starts from the neck region, so the oldest segments (proglottids) are at the tail end.",
+  "quote": "Body growth starts from the neck region, so the oldest proglottids are at the posterior end.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Egg-packed detail not in the quoted sentence"
+ },
+ {
+  "claim": "According to the author of 'Stuff Matters', holding a sample of an aerogel is 'like holding a piece of sky'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This effect, combined with the aerogel's light weight, leads Miodownik to say that holding a sample is like holding a piece of sky",
+  "source_url": "https://en.wikipedia.org/wiki/Stuff_Matters",
+  "note": ""
+ },
+ {
+  "claim": "Tapeworms are acoelomates — they have no body cavity between their gut and body wall, and no circulatory or respiratory systems.",
+  "verdict": "overstated",
+  "corrected_claim": "The adult pork tapeworm is a triploblastic acoelomate, meaning it has no body cavity.",
+  "quote": "Adult T. solium is a triploblastic acoelomate, having no body cavity.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "No mention of lacking circulatory/respiratory systems"
+ },
+ {
+  "claim": "In 1967, two mathematicians published PhD dissertations independently disproving the same thirteen-year-old conjecture (the common fixed point problem).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1967, William M. Boyce and John P. Huneke independently ... First posed in 1954, the problem remained unsolved for more than a decade",
+  "source_url": "https://en.wikipedia.org/wiki/Common_fixed_point_problem",
+  "note": ""
+ },
+ {
+  "claim": "Tapeworm oncospheres (embryos) have six hooks that help them burrow through the intestinal wall to reach muscles or the brain.",
+  "verdict": "overstated",
+  "corrected_claim": "The pork tapeworm embryo, called an oncosphere, has six hooks that it uses to attach to the intestinal wall.",
+  "quote": "The morula transforms into a six-hooked embryo known as an oncosphere. ... Then the free oncospheres attach on the intestinal wall using their hooks.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Source says hooks used to attach, not to burrow to muscles/brain"
+ },
+ {
+  "claim": "International adult figure skating champion Naz Arıcı learned to skate at the age of 29.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After taking up the sport aged 29, she began competing professionally in 2015 ... She became champion with 34.67 points among 35 competitors from 15 countries.",
+  "source_url": "https://en.wikipedia.org/wiki/Naz_Ar%C4%B1c%C4%B1",
+  "note": ""
+ },
+ {
+  "claim": "Cysticercosis from pork tapeworm can cause epilepsy, dementia, and increased intracranial pressure — symptoms depend on where cysts form in the brain.",
+  "verdict": "overstated",
+  "corrected_claim": "Cysticercosis in the brain can lead to epilepsy, seizures, brain lesions and blindness, and severe cases can bring on dementia.",
+  "quote": "In more severe cases, dementia or hypertension can occur due to perturbation of the normal circulation ... cysticercosis in the brain can lead to epilepsy, seizures, lesions in the brain, blindness",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "'Symptoms depend on location' and intracranial-pressure framing not stated as such"
+ },
+ {
+  "claim": "Kent Brushes have supplied their products to every British monarch since George IV.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The company has supplied brushes to nine successive British monarchs since George IV in 1820\"",
+  "source_url": "https://en.wikipedia.org/wiki/Kent_Brushes",
+  "note": "nine successive monarchs since George IV = every monarch"
+ },
+ {
+  "claim": "Treatment of neurocysticercosis must be carefully managed because dying parasites trigger inflammation that can cause more damage than the living cysts.",
+  "verdict": "overstated",
+  "corrected_claim": "Treatment of cysticercosis must be carefully monitored for inflammatory reactions to the dying worms.",
+  "quote": "Treatment of cysticercosis must be carefully monitored for inflammatory reactions to the dying worms",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "'More damage than living cysts' not in source"
+ },
+ {
+  "claim": "Ryusei Nishioka broke the world record difficulty score in trampoline gymnastics by performing seven triple somersaults.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "During the 2021 World Championships in Baku, Nishioka successfully competed a routine with seven triple somersaults. His difficulty score was 18.900, which broke the world record difficulty score for trampoline gymnastics.",
+  "source_url": "https://en.wikipedia.org/wiki/Ryusei_Nishioka",
+  "note": ""
+ },
+ {
+  "claim": "Tapeworm cysts can remain viable in pig muscle for several years, waiting to be consumed by a human host.",
+  "verdict": "overstated",
+  "corrected_claim": "Pork tapeworm cysts (cysticerci) can survive for several years inside the infected animal.",
+  "quote": "The cysticerci can survive for several years in the animal.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Source doesn't specify pig muscle or 'waiting for a human'"
+ },
+ {
+  "claim": "The backflip ban in figure skating was lifted in 2024 alongside other 'somersault type jumps'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The ban against backflips was lifted later in 2024 when it and other \"somersault type jumps\" were removed from ISU's list of restricted moves and elements.",
+  "source_url": "https://en.wikipedia.org/wiki/Backflip_(figure_skating)",
+  "note": ""
+ },
+ {
+  "claim": "Pork tapeworm infections are most common where humans live in close contact with free-roaming pigs and eat undercooked pork.",
+  "verdict": "overstated",
+  "corrected_claim": "Pork tapeworm hits developing countries hardest, especially rural areas where pigs roam free, and is most common where pork is eaten.",
+  "quote": "T. solium deeply affects developing countries, especially in rural settings where pigs roam free ... It is found throughout the world and is most common in countries where pork is eaten.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "'Undercooked pork' not in matched text"
+ },
+ {
+  "claim": "The center squeeze voting phenomenon has been blamed for costing Gary Johnson the 2016 US presidential election.",
+  "verdict": "overstated",
+  "corrected_claim": "The 2016 US presidential election is a possible center-squeeze example: polls found Bernie Sanders and Gary Johnson beating both Trump and Clinton under majority or rated voting, yet they were squeezed out by RCV and primary rules.",
+  "quote": "Another possible example is the 2016 United States presidential election, where polls found several alternatives including Bernie Sanders and Gary Johnson defeating both Donald Trump and Hillary Clinton under a majority- or rated-voting rules but being squeezed out by both RCV and the primary election rules.",
+  "source_url": "https://en.wikipedia.org/wiki/Center_squeeze",
+  "note": "Page calls it a 'possible example', not that it cost Johnson the election"
+ },
+ {
+  "claim": "Dirty hands are the primary cause of human cysticercosis — especially common among food handlers who carry and spread tapeworm eggs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For human cysticercosis, dirty hands are attributed to be the primary cause, and especially common among food handlers.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": ""
+ },
+ {
+  "claim": "Blue Mountain Pottery wares had a distinctive drip glaze, particularly blue-green and black, so that each piece was unique.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Blue Mountain Pottery were known for their combinations of glazes that gave each item a unique finish. ... The initial glaze used was a deep blue-green, combined with a darker glaze. ... a blue-green glaze, with an additional dark grey or black glaze.",
+  "source_url": "https://en.wikipedia.org/wiki/Blue_Mountain_Pottery",
+  "note": ""
+ },
+ {
+  "claim": "Ocular cysticercosis (eye cysts) is more common in children than adults, and can cause blindness if untreated.",
+  "verdict": "overstated",
+  "corrected_claim": "In children with cysticercosis, cysts are more common in the eye than in other parts of the body.",
+  "quote": "In children, ocular cysts are more common than in other parts of the body.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Source compares body sites in children, not children vs adults; blindness not tied to ocular cysts"
+ },
+ {
+  "claim": "Eugene Parker described the mathematics behind his theory of solar wind as just 'four lines of algebra'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The math needed to discover the solar wind was, per Parker just \"four lines of algebra\".",
+  "source_url": "https://en.wikipedia.org/wiki/Eugene_Parker",
+  "note": ""
+ },
+ {
+  "claim": "The tapeworm uterus has a characteristic branching pattern with 7-13 branches per side — used to identify species under microscopy.",
+  "verdict": "overstated",
+  "corrected_claim": "The pork tapeworm's uterus is branched, with a characteristic 7 to 13 branches per side.",
+  "quote": "The uterus is branched with a characteristic 7 to 13 branches per side.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Use for microscopy identification not stated"
+ },
+ {
+  "claim": "The Chandigarh chair gained recognition in the West after European dealers displayed discarded chairs bought from the local government 'for peanuts'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "European dealers arrived in Chandigarh and started buying them in bulk ... sold for peanuts ... These chairs were taken to the West, restored, exhibited, gained a cult following, and were sold at auctions for significant sums.",
+  "source_url": "https://en.wikipedia.org/wiki/Chandigarh_chair",
+  "note": ""
+ },
+ {
+  "claim": "Ascaris worms can migrate to unusual locations if disturbed — sometimes emerging from the nose, mouth, or even through the skin.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "Page does not mention worms emerging from nose, mouth or skin"
+ },
+ {
+  "claim": "Eratosthenes, the librarian of the Great Library of Alexandria, was nicknamed 'Beta' ('Second') because he wasn't considered the best at anything.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Eratosthenes eventually became the chief librarian at the Library of Alexandria. ... referred to as Beta (Second, or Number 2), because he was not seen as the leading expert in any given field",
+  "source_url": "https://en.wikipedia.org/wiki/Eratosthenes",
+  "note": ""
+ },
+ {
+  "claim": "Heavy Ascaris infections can cause intestinal obstruction, with tangles of worms blocking the gut — especially dangerous in children.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "Page does not mention intestinal obstruction"
+ },
+ {
+  "claim": "Shortly after it was completed, the Tokamak de Fontenay-aux-Roses burned a hole through itself in a plasma disruption.",
+  "verdict": "overstated",
+  "corrected_claim": "Just three months after it began operating in 1973, a hole burned through the inner wall of the Tokamak de Fontenay-aux-Roses' vacuum chamber.",
+  "quote": "\"The system quickly ramped up its power until three months later when a hole burned through the inner wall of the vacuum chamber.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Tokamak_de_Fontenay-aux-Roses",
+  "note": "page attributes it to a beam of fast (runaway) electrons, only later linked to disruptions"
+ },
+ {
+  "claim": "Ascariasis remains endemic in the southeastern United States due to warm, humid conditions favorable for egg development in soil.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "ascariasis is still endemic in the southeastern United States due to the temperature and humid climate.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "An airplane crash survivor used stroboscopic photography techniques pioneered by Doc Edgerton to take high-speed photographs of bullets, insects, and liquid drops.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Doc_Edgerton",
+  "note": "page credits Edgerton himself; no airplane crash survivor mentioned"
+ },
+ {
+  "claim": "Ascaris eggs require temperatures of 15-35°C and moist conditions for 18 days to several weeks to become infectious.",
+  "verdict": "overstated",
+  "corrected_claim": "Fertilized Ascaris eggs embryonate and become infectious after 18 days to several weeks in soil.",
+  "quote": "Fertilized eggs embryonate and become infectious after 18 days to several weeks in soil.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "15-35°C range not in source"
+ },
+ {
+  "claim": "Doc Edgerton created a stroboscope that he used to take high-speed photographs of bullets being shot, insects flying, and drops of liquid.",
+  "verdict": "overstated",
+  "corrected_claim": "Doc Edgerton turned the stroboscope from an obscure lab instrument into a common device and used flash photography to capture bullets striking apples and milk drop coronets.",
+  "quote": "He is largely credited with transforming the stroboscope from an obscure laboratory instrument into a common device.",
+  "source_url": "https://en.wikipedia.org/wiki/Doc_Edgerton",
+  "note": "he did not create the stroboscope; insects not directly supported"
+ },
+ {
+  "claim": "Ascaris anatomically exhibits sexual dimorphism — males have a curved tail end while females have a straight posterior.",
+  "verdict": "overstated",
+  "corrected_claim": "Male Ascaris roundworms have a posterior end that is curved ventrally with a bluntly pointed tail.",
+  "quote": "The male's posterior end is curved ventrally and has a bluntly pointed tail.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "Female straight tail not stated"
+ },
+ {
+  "claim": "Lionel Haward applied an early example of offender profiling to help identify high-ranking Nazis disguised as ordinary troops.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "drew up a list of characteristics that high-ranking Nazi war criminals might display ... identify SS officials and camp guards who had disguised themselves as ordinary soldiers or airmen ... this strategy was an early example of offender profiling.",
+  "source_url": "https://en.wikipedia.org/wiki/Lionel_Haward",
+  "note": ""
+ },
+ {
+  "claim": "Unfertilized Ascaris eggs are longer and thinner than fertilized ones and are never infectious — they're diagnostic indicators of female-only infections.",
+  "verdict": "overstated",
+  "corrected_claim": "Unfertilized Ascaris eggs are often seen in fecal samples but never become infective.",
+  "quote": "Unfertilized eggs are often observed in fecal samples but never become infective.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "Shape and female-only-infection detail not in source"
+ },
+ {
+  "claim": "The Piano Quintet by Dmitri Shostakovich has been called 'the most expensive piece of chamber music ever composed'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the most expensive piece of chamber music ever composed",
+  "source_url": "https://en.wikipedia.org/wiki/Piano_Quintet_(Shostakovich)",
+  "note": "said by the Pittsburgh Sun Telegraph"
+ },
+ {
+  "claim": "Hot composting at over 50°C for 24 hours can kill Ascaris eggs — one of the few reliable methods to destroy them.",
+  "verdict": "overstated",
+  "corrected_claim": "Completely killing Ascaris eggs may require unusually hot composting, for example over 50°C for 24 hours.",
+  "quote": "\"unusually\" hot composting (for example, over 50 °C (122 °F) for 24 hours)",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "'One of the few reliable methods' not stated"
+ },
+ {
+  "claim": "A Genshin Impact character (Wanderer) was inspired by the Queen song 'Bohemian Rhapsody'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "his concept takes inspiration from the Japanese deity Takeminakata as well as the Queen song \"Bohemian Rhapsody\"",
+  "source_url": "https://en.wikipedia.org/wiki/Wanderer_(Genshin_Impact)",
+  "note": ""
+ },
+ {
+  "claim": "Control of roundworm infections relies on treatment, improved sanitation, and health education — treatment typically takes about three days.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Control of roundworm infections is based on treatment with medication, improved sanitation and health education. ... This usually takes around three days.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "The Littlehampton libels saw Edith Swan fool three juries and two judges, have another woman sent to prison twice, and be declared not guilty before finally being convicted.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Littlehampton libels, Edith Swan 'completely took in three juries and two judges' and saw another woman sent to prison twice before she was finally convicted herself.",
+  "quote": "completely took in three juries and two judges ... the jury found her guilty and she was sentenced to fourteen days' imprisonment in Portsmouth ... Gooding was sentenced to twelve months in prison with hard labour. ... but the jury found her guilty. She was sentenced to twelve months in prison.",
+  "source_url": "https://en.wikipedia.org/wiki/Littlehampton_libels",
+  "note": "Page says Swan's 1921 case collapsed, not that she was declared not guilty"
+ },
+ {
+  "claim": "The 'old friends hypothesis' proposes that our immune systems evolved expecting certain parasites and microbes that are now absent in modern sanitized environments.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'old friends hypothesis' notes that helminths have coexisted with humans throughout our evolutionary history, while people in industrialized nations are now exposed to lower levels of them.",
+  "quote": "have coexisted universally with human beings throughout our evolutionary history ... In industrialized nations, humans are exposed to somewhat lower levels of these organisms",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "Page does not frame it as immune systems 'expecting' absent organisms"
+ },
+ {
+  "claim": "The style of Hermann Weyl's Gruppentheorie und Quantenmechanik has been likened to 'a smiling figure on horseback, cutting a clean way through ... with a swift bright sword'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "His style is that of ...a smiling figure on horseback, cutting a clean way through, on a beautiful path, with a swift bright sword.",
+  "source_url": "https://en.wikipedia.org/wiki/Gruppentheorie_und_Quantenmechanik",
+  "note": "Said by John Archibald Wheeler"
+ },
+ {
+  "claim": "Helminthic therapy may work by promoting regulatory T cells that suppress excessive inflammatory responses characteristic of autoimmune diseases.",
+  "verdict": "overstated",
+  "corrected_claim": "Helminths secrete immunoregulatory molecules that promote the induction of regulatory T cells, which may help explain helminthic therapy's proposed effect on autoimmune disease.",
+  "quote": "Helminths secrete immunoregulatory molecules that promote the induction of regulatory T cells.",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "Page hedges mechanism and links reduced inflammation to a TH1-to-TH2 shift"
+ },
+ {
+  "claim": "Alexander McQueen's collection Voss included dresses made from razor clams, microscope slides, and an antique Japanese folding screen.",
+  "verdict": "overstated",
+  "corrected_claim": "Alexander McQueen's Voss collection included dresses made from about 1,200 razor clam shells, 2,000 red-painted microscope slides, and a Japanese screen bought at a Paris flea market.",
+  "quote": "The razor clam dress worn in Look 33 was created from approximately 1,200 razor clam shells. ... Two thousand microscope slides, hand-painted red, were sewn onto the bodice of the dress. ... Look 65 is a dress made from the Japanese screen, embroidered with flowers and birds",
+  "source_url": "https://en.wikipedia.org/wiki/Voss_(Alexander_McQueen_collection)",
+  "note": "'antique' not stated in fetched text"
+ },
+ {
+  "claim": "Multiple sclerosis patients naturally infected with intestinal parasites showed fewer relapses and brain lesions than uninfected patients in clinical studies.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "lower the number of symptom exacerbations, reduce the number of symptom relapses",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "Page describes deliberate dosing in MS, not naturally infected vs uninfected patients; evidence mostly animal models"
+ },
+ {
+  "claim": "This is a list of the longest-living biological organisms: the individuals or clones of a species with the longest natural maximum life spans.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Helminthic therapy is relatively inexpensive and seemingly highly effective compared to conventional autoimmune treatments, but remains experimental.",
+  "verdict": "overstated",
+  "corrected_claim": "Proponents see helminthic therapy as a viable option due to its lowered cost and seemingly high effectiveness, though the research is still rudimentary and the treatment remains controversial.",
+  "quote": "helminthic therapy is a viable option as of current due to its lowered cost and seemingly high effectiveness",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "Page adds research is rudimentary and therapy is controversial; 'compared to conventional treatments' not stated"
+ },
+ {
+  "claim": "For a given species, such a designation may include:\n\nThe oldest known individual(s) that are currently alive, with verified ages.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The 'microbiome depletion hypothesis' proposes that missing organisms from our internal ecosystem — including helminths — destabilize our immune systems.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'microbiome depletion' idea holds that the absence of an entire class of organisms from our inner ecology matters, with helminths seen as keystone organisms central to correcting immune dysregulation.",
+  "quote": "the absence of an entire class of organisms from the human inner ecology is a profound ... As keystone organisms, helminths are central to correcting immune dysregulation",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "'Destabilize' wording not on page; page frames helminths as keystone organisms"
+ },
+ {
+  "claim": "The lifespan may be long or short, though the species technically does not \"age\" in the biological sense.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (refers to \"the species\" without context)"
+ },
+ {
+  "claim": "Hookworms for helminthic therapy are administered through the skin — larvae penetrate and migrate to the intestines where they establish a controlled infection.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Necator americanus larvae are administered percutaneously and migrate through the vasculature and lungs to the small intestine.",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": ""
+ },
+ {
+  "claim": "Individuals of other species have been observed to regress to a larval state and regrow into adults multiple times.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Individuals of other species have been observed to regress to a larval state and regrow into adults multiple times.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Heavy hookworm infections can cause anemia because the worms feed on blood from the intestinal mucosa.",
+  "verdict": "overstated",
+  "corrected_claim": "Hookworms feed on blood from the intestinal mucosa, and high therapeutic doses can cause anemia.",
+  "quote": "They feed on the blood from the mucosa. ... High doses can also cause anemia.",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "Page refers to high therapeutic doses, and does not state the causal link"
+ },
+ {
+  "claim": "The hydrozoan species Turritopsis dohrnii (formerly Turritopsis nutricula) is capable of cycling from a mature adult stage to an immature polyp stage and back again.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is capable of cycling from a mature adult stage to an immature polyp stage and back again",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "An ideal therapeutic helminth should be non-pathogenic, unable to multiply in the host, and easily eradicated with anti-worm medication if needed.",
+  "verdict": "overstated",
+  "corrected_claim": "An ideal therapeutic helminth has little or no pathogenic potential, does not multiply in the host, and can be eradicated with an anti-helminthic drug.",
+  "quote": "Little or no pathogenic potential ... Does not multiply in the host ... Can be eradicated with an anti-helminthic drug",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "Page says 'little or no pathogenic potential', not non-pathogenic; 'easily' not stated"
+ },
+ {
+  "claim": "Similarly, the larvae of skin beetles undergo a degree of \"reversed development\" when starved, and later grow back to the previously attained level of maturity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the larvae of skin beetles undergo a degree of \"reversed development\" when starved",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The prevalence of autoimmune diseases like multiple sclerosis is lower in countries where helminth infections are common — supporting the hygiene hypothesis.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "Page gives correlational data on helminth prevalence by region but does not state lower MS prevalence where helminths are common"
+ },
+ {
+  "claim": "Various claims have been made about reviving bacterial spores to active metabolism after millions of years of dormancy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Various claims have been made about reviving bacterial spores to active metabolism after millions of years of dormancy.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Parasitic worms may have coevolved with humans for millions of years, helping to calibrate our immune systems in ways modern medicine is only beginning to understand.",
+  "verdict": "overstated",
+  "corrected_claim": "Parasitic worms have coexisted with human beings throughout our evolutionary history.",
+  "quote": "have coexisted universally with human beings throughout our evolutionary history",
+  "source_url": "https://en.wikipedia.org/wiki/Helminthic_therapy",
+  "note": "'Millions of years' and immune calibration not stated on page"
+ },
+ {
+  "claim": "Spores preserved in amber have been revived after 40 million years, and spores from salt deposits in the Salado Formation of New Mexico have been revived after 250 million years, making these bacteria by far the longest-living organisms ever recorded.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacterial spores preserved in amber have been claimed to be revived after 40 million years of dormancy.",
+  "quote": "Spores preserved in amber have claimed to be revived after 40 million years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "Page says amber revival is only claimed; Salado Formation/250 million years and 'by far longest-living ever recorded' not on page"
+ },
+ {
+  "claim": "The zombie-ant fungus produces sphingosine and guanidinobutyric acid — compounds associated with neurological disorders — to manipulate ant brains.",
+  "verdict": "overstated",
+  "corrected_claim": "Sphingosine and guanidinobutyric acid, both involved in various neurological disorders, are two candidate compounds the zombie-ant fungus may use to manipulate its host's brain.",
+  "quote": "Two candidate compounds, sphingosine and guanidinobutyric acid (GBA) ... Both compounds are known to be involved in various neurological disorders.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Source calls them candidate compounds, not established mechanism"
+ },
+ {
+  "claim": "Similarly, in May 2022 prokaryotic and eukaryotic microorganisms were found in crystals of halite; these could be over 800 million years old but it remains uncertain if they are alive or if they could be revived.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "these could be over 800 million years old but it remains uncertain if they are alive",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Ophiocordyceps secretes hypoxanthine, which has damaging effects on neural tissues — a possible mechanism for controlling ant motor neurons.",
+  "verdict": "overstated",
+  "corrected_claim": "Ophiocordyceps secretes hypoxanthine, a compound with deleterious effects on neural tissues of the cerebral cortex.",
+  "quote": "Hypoxanthine has deleterious effects on neural tissues of the cerebral cortex",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Motor-neuron control mechanism not stated"
+ },
+ {
+  "claim": "In a related find, a scientist was able to coax 34,000-year-old salt-captured bacteria to reproduce.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In a related find, a scientist was able to coax 34,000-year-old salt-captured bacteria to reproduce.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The death grip of zombie ants is caused by muscle atrophy — the fungus destroys sarcomere connections and reduces mitochondria in mandible muscles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "atrophy quickly sets in, destroying the sarcomere connections in the muscle fibers ... the mitochondria and sarcoplasmic reticular",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "In July 2018, scientists from four Russian institutions collaborating with Princeton University reported that they had analyzed about 300 prehistoric nematode worms recovered from permafrost above the Arctic Circle in the Sakha Republic, and that after being thawed, two of the nematodes revived and began moving and eating.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In July 2018, scientists from four Russian institutions collaborating with Princeton University reported ... analyzed about 300 prehistoric nematode worms recovered from permafrost above the Arctic Circle ... two of the nematodes revived and began moving and eating",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Zombie-ant fungal cells form interconnected networks through anastomosing tubules — possibly coordinating to control the ant's muscles cooperatively.",
+  "verdict": "overstated",
+  "corrected_claim": "Zombie-ant fungal cell populations inside the ant have been found to be interconnected through anastomosing tubules.",
+  "quote": "These fungal cell populations have been found to be interconnected through anastomosing tubules.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Coordination of muscle control not in quoted text"
+ },
+ {
+  "claim": "These nematodes were believed to be the oldest living non-clonal multicellular organisms on Earth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"These nematodes\")"
+ },
+ {
+  "claim": "Leucine deficiency caused by the zombie-ant fungus prevents muscle regeneration because the amino acid is essential for muscle protein synthesis.",
+  "verdict": "overstated",
+  "corrected_claim": "A deficit in leucine, which the zombie-ant fungus can cause, prevents muscle regeneration.",
+  "quote": "A deficit in leucine results in the prevention of muscle regeneration",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Protein-synthesis explanation not in source"
+ },
+ {
+  "claim": "A seed from the previously extinct Judean date palm was revived and managed to sprout after nearly 2,000 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A seed from the previously extinct Judean date palm was revived and managed to sprout after nearly 2,000 years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The zombie-ant fungus secretes different metabolites depending on which host tissue it encounters — a sophisticated context-dependent chemical arsenal.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "secreting different metabolites according to the host tissue it encounters",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "Similarly, the flowering plant Silene stenophylla was grown from frozen fruit found in an ancient squirrel's cache.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Similarly, the flowering plant Silene stenophylla was grown from frozen fruit found in an ancient squirrel's cache.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "After an ant dies, the fungus secretes antimicrobial compounds to ward off competition from other fungi and bacteria trying to decompose the corpse.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "while secreting antimicrobials to ward off competition",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "In 2024, a never-before-seen species of Commiphora was grown from a successfully germinated seed that is estimated to be 1,000 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2024, a never-before-seen species of Commiphora was grown from a successfully germinated seed that is estimated to be 1,000 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "When zombie ants are experimentally moved to different locations, the fungus fails to produce normal reproductive structures — proving the precision of host positioning.",
+  "verdict": "overstated",
+  "corrected_claim": "When dead zombie ants are moved to other places and positions, the fungus fails to sporulate or produces undersized, abnormal reproductive structures.",
+  "quote": "When the dead ants are moved to other places and positions",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "'Proving the precision' is editorial; outcome is failure or abnormal structures"
+ },
+ {
+  "claim": "During the 1990s, Raul Cano, a microbiologist at California Polytechnic State University, San Luis Obispo, US, reported reviving yeast trapped in amber for 25 million years, although doubts were raised as to its antiquity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...reported reviving yeast trapped in amber for 25 million years...",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Ant species not normally infected in nature can be killed by Ophiocordyceps but show no manipulated behavior — the fungus has evolved species-specific control mechanisms.",
+  "verdict": "overstated",
+  "corrected_claim": "Ant species not normally infected by Ophiocordyceps can be killed by it, but their behavior is not altered.",
+  "quote": "whereas the species which are not typically infected are killed by the infection, but their behavior is not altered.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "'Evolved species-specific mechanisms' is inference"
+ },
+ {
+  "claim": "Cano founded a brewery and crafted an \"amber ale\" with a 45-million-year-old variant of Saccharomyces cerevisiae.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Cano founded a brewery ... crafted an \"amber ale\" with a 45-million-year-old variant of Saccharomyces cerevisiae.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "In temperate forests, zombie ants attach to twigs rather than leaves — the same death-grip behavior adapted to different environmental conditions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In temperate forests, the typical behavior of zombie ants is to attach themselves to the lower side of twigs, not leaves.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "In August 2013, researchers reported evidence of endoliths in the ocean floor, perhaps millions of years old, with a generation time of 10,000 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In August 2013, researchers reported evidence of endoliths in the ocean floor... with a generation time of 10,000 years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The zombie-ant fungus uses enzymes like chitinase, lipase, and protease combined with mechanical pressure to penetrate the ant's exoskeleton.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "chitinase, lipase and protease, combined with mechanical pressure",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "Some Actinomycetota found in Siberia are estimated to be half a million years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some Actinomycetota found in Siberia are estimated to be half a million years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Dense graveyard areas of zombie ants can have fungal infection rates that devastate entire ant colonies without the hyperparasite keeping them in check.",
+  "verdict": "overstated",
+  "corrected_claim": "Zombie-ant 'graveyards' contain high densities of dead ants, yet hyperparasites mean only about 6.5% of the fungus's fruiting bodies are viable spore producers.",
+  "quote": "which contain high densities of dead ants previously infected by the same fungus. ... Though O. unilateralis is very virulent, only about 6.5% of all fruiting bodies are viable spore producers.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Colony devastation not stated"
+ },
+ {
+  "claim": "A huge colony of the sea grass Posidonia oceanica in the Mediterranean Sea near Ibiza, Spain, is estimated to be between 12,000 and 200,000 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...is estimated to be between 12,000 and 200,000 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The death-grip bite leaves distinctive dumbbell-shaped marks on leaves — these marks identified on a 48-million-year-old fossil proved the behavior's antiquity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A 48-million-year-old fossil of a leaf stem exhibiting dumbbell-shaped marks",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "The maximum age is theoretical, as the region it now occupies was dry land at some point between 10,000 and 80,000 years ago.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"The maximum age\" refers to a preceding entry)"
+ },
+ {
+  "claim": "Red naphthoquinone pigments from the zombie-ant fungus are stable, non-cytotoxic, and change color with pH — making them candidates for food and cosmetic dyes.",
+  "verdict": "overstated",
+  "corrected_claim": "Red naphthoquinone pigments from the zombie-ant fungus, stable and non-cytotoxic, turn red in acid and purple in base and have been studied as a dye.",
+  "quote": "These pigments are stable against acid/ alkaline conditions and light and are not cytotoxic.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "Source says studied as a dye; food/cosmetic use not stated"
+ },
+ {
+  "claim": "A Huon pine colony on Mount Read, Tasmania, is estimated at 10,000 years old, with individual specimens living over 3,000 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...is estimated at 10,000 years old, with individual specimens living over 3,000 years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Polyketides from Ophiocordyceps have shown antitumor, antioxidant, and antiaging activities in preliminary studies.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "polyketides have other therapeutic effects such as antitumor, antioxidant and antiaging activities",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": ""
+ },
+ {
+  "claim": "Discovered by Professor Leif Kullman of Umeå University, Old Tjikko is small, only 5 m (16 ft) in height.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Discovered by Professor Leif Kullman of Umeå University, Old Tjikko is small, only 5 m (16 ft) in height.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The period from fungal infection to ant death takes 4-10 days, after which the fruiting body erupts from the ant's head over several more days.",
+  "verdict": "overstated",
+  "corrected_claim": "The process from infection to the zombie ant's death takes 4–10 days, after which fruiting bodies grow from the ant's head to release spores.",
+  "quote": "The process, leading up to mortality, takes 4–10 days.",
+  "source_url": "https://en.wikipedia.org/wiki/Ophiocordyceps_unilateralis",
+  "note": "'Several more days' for fruiting body not stated"
+ },
+ {
+  "claim": "\"Humongous Fungus\", an individual of the clonal subterranean fungal species Armillaria solidipes in Oregon's Malheur National Forest, is thought to be between 2,000 and 8,500 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...is thought to be between 2,000 and 8,500 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The genus Rafflesia was named after Stamford Raffles, the founder of British Singapore, who led the expedition where the flower was first scientifically described.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "later named after Stamford Raffles, the leader of the expedition and the founder of the British colony of Singapore",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": ""
+ },
+ {
+  "claim": "Apart from its extreme age, it is also thought to be the world's largest organism by area, at 2,384 acres (965 hectares).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"it\" refers to the Humongous Fungus entry)"
+ },
+ {
+  "claim": "What appear to be Rafflesia's petals are actually modified sepals (petaloid tepals) — the true petals form a dome-like structure called the diaphragm.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the petals are now described as sepals (or more correctly as \"petaloid tepals\") ... the diaphragm is made up of adnate petals to form a dome",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": ""
+ },
+ {
+  "claim": "A huge colony of the sea grass Posidonia australis in the Australian coast over Shark Bay is estimated to be over 4,500 years old and also the world's largest known plant.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "...is estimated to be over 4,500 years old and also the world's largest known plant.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Most Rafflesia species are dioecious (separate male and female plants), but R. baletei and R. verrucosa have hermaphroditic flowers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most species are dioecious, having separate male and female flowers ... a few (R. baletei and R. verrucosa) have hermaphroditic flowers",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": ""
+ },
+ {
+  "claim": "It is therefore the oldest known living individual non-clonal tree in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"It\" = Methuselah bristlecone pine)"
+ },
+ {
+  "claim": "Rafflesia shows remarkable homoplasy — species in different geographic regions independently evolved similar appearances, making classification difficult.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Homoplasy – repeatedly gaining or losing traits – seems to be the rule within Rafflesia. ... the clear monophyly of the four geographical clades does not correspond to any clear difference in appearance.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": ""
+ },
+ {
+  "claim": "A specimen of Fitzroya cupressoides in Chile was measured by ring count as 3,654 years old, meaning this species has the second-oldest verified age of any non-clonal tree species.",
+  "verdict": "overstated",
+  "corrected_claim": "A specimen of Fitzroya cupressoides in Chile was measured by ring count as 3,655 years old, giving the species the second-oldest verified age of any non-clonal tree species.",
+  "quote": "3,655 years old, meaning this species has the second-oldest verified age",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "Page gives 3,655 years, not 3,654"
+ },
+ {
+  "claim": "Rafflesia forms four distinct geographic clades: Philippines, Peninsular Malaysia, Borneo, and Sumatra+Java — each representing separate evolutionary lineages.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2010 study found that Rafflesia species fall into four clear-cut geographically defined groups.",
+  "quote": "found that they fell into four clear-cut geographically defined groups",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "Page does not name the four regions"
+ },
+ {
+  "claim": "The Cypress of Abarkuh, a Mediterranean cypress (Cupressus sempervirens) in Iran, is estimated to be between 4,000 and 5,000 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is estimated to be between 4,000 and 5,000 years old",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The Indonesian name 'padma raksasa' for Rafflesia arnoldii means 'giant lotus' — connecting it etymologically to the Sanskrit word for lotus.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The species R. arnoldii is known as padma raksasa (\"giant padma\"). ... The words padma, pakma or patma originate etymologically from the word पद्म (padma), Sanskrit for ' lotus'.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": ""
+ },
+ {
+  "claim": "The Llangernyw Yew, an ancient yew (Taxus baccata) in the churchyard of the village of Llangernyw in North Wales, is believed to be between 4,000 and 5,000 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is believed to be between 4,000 and 5,000 years old",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Coevolution experiments show that hosts evolving with parasites have higher recombination rates — genetic shuffling that increases diversity as a defense.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Further experiments demonstrated a higher recombination rate in the host during coevolutionary interactions.",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "The President, located in Sequoia National Park, California, is the oldest known living giant sequoia (Sequoiadendron giganteum) at approximately 3,200 years of age.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is the oldest known living giant sequoia ... at approximately 3,200 years of age",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The plant Plantago lanceolata and its powdery mildew parasite in Finland's Åland islands demonstrate geographic mosaic coevolution in real time.",
+  "verdict": "overstated",
+  "corrected_claim": "The plant Plantago lanceolata and its powdery mildew parasite in Finland's Åland islands show spatially divergent coevolutionary dynamics, as predicted by the geographic mosaic theory.",
+  "quote": "a plant, Plantago lanceolata, and its parasite the powdery mildew Podosphaera plantaginis in Åland ... spatially divergent coevolutionary dynamics across two metapopulations as predicted by the mosaic theory",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "'In real time' not supported"
+ },
+ {
+  "claim": "A Panke baobab (Adansonia digitata) in Zimbabwe was some 2,450 years old when it died in 2011, making it the oldest angiosperm ever documented, and two other trees of the same species – Dorslandboom in Namibia and Glencoe in South Africa – were estimated to be approximately 2,000 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "some 2,450 years old when it died in 2011, making it the oldest angiosperm ever documented ... were estimated to be approximately 2,000 years old",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Coevolution with bacteriophages can increase bacterial mutation rates — the evolutionary pressure forces faster adaptation at a genetic level.",
+  "verdict": "overstated",
+  "corrected_claim": "Coevolution with bacteriophages may affect bacterial genetics itself, for example by favouring increased mutation rates in the host.",
+  "quote": "may also affect the underlying genetics ... favouring increased mutation rates in the host",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page hedges with 'may'; 'forces faster adaptation' not stated"
+ },
+ {
+  "claim": "It is the oldest known living human-planted tree in the world.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"It\" = Jaya Sri Maha Bodhi)"
+ },
+ {
+  "claim": "Pseudomonas bacteria coevolving with their phages tend to become generalists — both parasite and host evolve to attack/resist a broader range of opponents.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "coevolution may proceed via recurrent selective sweeps, favouring generalists for both partners",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "A specimen of Lagarostrobos franklinii in Tasmania is thought to be about 2,000 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A specimen of Lagarostrobos franklinii in Tasmania is thought to be about 2,000 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Host-parasite coevolution may promote allopatric diversity — populations in different locations evolving different host-parasite relationships that could eventually lead to speciation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "coevolution with phages may promote allopatric diversity, potentially enhancing biodiversity and possibly speciation.",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "The Fortingall Yew, an ancient yew (Taxus baccata) in the churchyard of the village of Fortingall in Perthshire, Scotland, is one of the oldest known individual trees in Europe.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is one of the oldest known individual trees in Europe",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Parasites adapt to the most common host genotype in a population, creating selection pressure that favors rare genotypes — maintaining genetic diversity.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the parasite should adapt to the most common host genotype ... In turn, a rare host genotype may then be favored by selection",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "Various estimates have put its age between 2,000 and 5,000 years, although it is now believed to be at the lower end of this range.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"its age\" refers to the Fortingall Yew entry)"
+ },
+ {
+  "claim": "Directional selection in host-parasite evolution can produce evolutionary 'arms races' — repeated fixation of new attack and defense traits.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "may produce an 'arms race,' ... consisting of the repeated origin and fixation of new virulence traits in the parasite and new defence traits in the host.",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": ""
+ },
+ {
+  "claim": "Stara Maslina (Old Olive Tree) near Stari Bar in Montenegro, is estimated to be over 2,200 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is estimated to be over 2,200 years old",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Unicellular hosts like bacteria evolve against parasites primarily through selective sweeps — advantageous mutations spreading rapidly through populations.",
+  "verdict": "overstated",
+  "corrected_claim": "Selective sweeps — where advantageous alleles rapidly become fixed — are likely to occur in interactions between unicellular organisms and viruses.",
+  "quote": "a form of directional selection ... is likely to occur in interactions between unicellular organisms and viruses",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page says 'likely to occur', not 'primarily'"
+ },
+ {
+  "claim": "Tāne Mahuta, a kauri tree (Agathis australis) in New Zealand, is believed to be between 1,250 and 2,500 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is believed to be between 1,250 and 2,500 years old",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Multihost parasites face evolutionary trade-offs — adaptations that improve infection in one host may reduce success in others.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page does not discuss multihost parasites"
+ },
+ {
+  "claim": "It is the oldest and largest standing kauri tree at present.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"It\" refers to Tane Mahuta)"
+ },
+ {
+  "claim": "More than a third of the world's human population is infected by Toxoplasma gondii, a brain-invading parasite that creates cysts in the brain, heart, and muscle where it can reside for a lifetime.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "more than a third of the world's human population is infected by T. gondii ... creates cysts within the tissues of the human brain, heart, and muscle, where it can then reside for a lifetime",
+  "source_url": "https://www.sciencealert.com/a-parasite-lurking-in-the-brains-of-millions-is-far-more-active-than-we-thought",
+  "note": ""
+ },
+ {
+  "claim": "Old Tjikko, the world's oldest known Norway spruce in Sweden, continues via vegetative cloning.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "continues via vegetative cloning",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "T. gondii cysts in the brain are not dormant as previously thought - they contain up to five distinct subtypes of the parasite that develop and grow at different rates, with some approaching stages associated with renewed activity.",
+  "verdict": "overstated",
+  "corrected_claim": "Studies in mice suggest T. gondii brain cysts are not just quiet hiding places: the parasite clusters in up to five distinct forms that grow at different rates, some approaching stages associated with renewed activity.",
+  "quote": "We found the cyst is not just a quiet hiding place ... the parasite seems to cluster in up to five distinct forms ... develop and grow in different ways and at different rates ... some subtypes can even approach stages associated with renewed activity",
+  "source_url": "https://www.sciencealert.com/a-parasite-lurking-in-the-brains-of-millions-is-far-more-active-than-we-thought",
+  "note": "Findings come from mouse studies"
+ },
+ {
+  "claim": "Although its trunk may be only a few centuries old, its root system is estimated to be 9,568 years old.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"its trunk\" refers to Old Tjikko)"
+ },
+ {
+  "claim": "The Lost City ecosystem doesn't depend on sunlight or magma heat - hydrocarbons produced by chemical reactions between the mantle and seawater feed microbial communities without oxygen.",
+  "verdict": "overstated",
+  "corrected_claim": "The Lost City's ecosystem doesn't depend on sunlight or magma heat: hydrocarbons formed by chemical reactions on the deep seafloor feed novel microbial communities even without oxygen.",
+  "quote": "Lost City's ecosystem doesn't depend on the heat of magma ... were not formed from atmospheric carbon dioxide or sunlight, but by chemical reactions on the deep seafloor ... hydrocarbons feed novel microbial communities even without the presence of oxygen",
+  "source_url": "https://www.sciencealert.com/lost-city-deep-beneath-the-ocean-is-unlike-anything-seen-before-on-earth",
+  "note": "Mantle-seawater reaction wording not confirmed"
+ },
+ {
+  "claim": "Although this may be an overestimate, this is likely the longest lived animal on Earth.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": "page fragment (\"this\" refers to glass sponges)"
+ },
+ {
+  "claim": "The bacterium Ethanoligenens harbinense can produce hydrogen.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"hydrogen-producing, fermenting bacterium\"",
+  "source_url": "https://en.wikipedia.org/wiki/Ethanoligenens_harbinense",
+  "note": ""
+ },
+ {
+  "claim": "Specimens of the black coral genus Leiopathes, such as Leiopathes glaberrima, are among the oldest continuously living organisms on the planet: around 4,265 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "are among the oldest continuously living organisms on the planet: around 4,265 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Maria Muntañola Cvetković became one of Yugoslavia's first experts on microfungi after fleeing to Argentina as a Spanish Civil War refugee.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After fleeing to Argentina due to the Spanish Civil War ... She became one of Yugoslavia's first microfungi experts",
+  "source_url": "https://en.wikipedia.org/wiki/Maria_Munta%C3%B1ola_Cvetkovi%C4%87",
+  "note": ""
+ },
+ {
+  "claim": "The giant barrel sponge Xestospongia muta is one of the longest-lived animals, with the largest specimens in the Caribbean estimated to be more than 2,300 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The giant barrel sponge Xestospongia muta is one of the longest-lived animals, with the largest specimens in the Caribbean estimated to be more than 2,300 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Canadian microbiologist Patricia Taylor helped American diplomats hide in her house in Tehran during the Iran hostage crisis.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "an Australian-born Canadian microbiologist and virologist ... hid the diplomats in their home for over two months",
+  "source_url": "https://en.wikipedia.org/wiki/Patricia_Taylor",
+  "note": ""
+ },
+ {
+  "claim": "The Antarctic sponge Cinachyra antarctica has an extremely slow growth rate in the low temperatures of the Southern Ocean.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Antarctic sponge Cinachyra antarctica has an extremely slow growth rate in the low temperatures of the Southern Ocean.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "A specimen, \"Ming\" of the Icelandic cyprine Arctica islandica (also known as an ocean quahog), a mollusk, was found to have lived 507 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A specimen, \"Ming\" of the Icelandic cyprine Arctica islandica (also known as an ocean quahog), a mollusk, was found to have lived 507 years.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "The tubeworm Escarpia laminata that lives in deep sea cold seeps regularly reaches the age of between 100 and 200 years, with some individuals determined to be more than 300 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "regularly reaches the age of between 100 and 200 years ... some individuals determined to be more than 300 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Some confirmed sources estimate bowhead whales to have lived at least 211 years of age, making them the oldest mammals.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some confirmed sources estimate bowhead whales to have lived at least 211 years of age, making them the oldest mammals.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ },
+ {
+  "claim": "Specimens of the Red Sea urchin Strongylocentrotus franciscanus have been found to be over 200 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Specimens of the Red Sea urchin Strongylocentrotus franciscanus have been found to be over 200 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_longest-living_organisms",
+  "note": ""
+ }
+]
