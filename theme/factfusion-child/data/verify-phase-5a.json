@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "The British Army's Submarine Mining Service defended ports and harbours with naval mines and torpedoes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Submarine Mining Service was a branch of the British Army's Corps of Royal Engineers between 1871 and 1906. They were responsible for defending ports and rivers by naval mines and torpedoes.",
+  "source_url": "https://en.wikipedia.org/wiki/Submarine_Mining_Service",
+  "note": ""
+ },
+ {
+  "claim": "Plasmodium falciparum is classified as a 'probable carcinogen' (Group 2A) by IARC because infection is associated with the development of Burkitt's lymphoma, a blood cancer.",
+  "verdict": "overstated",
+  "corrected_claim": "The IARC has classified malaria due to Plasmodium falciparum as a Group 2A carcinogen, and its association with Burkitt's lymphoma, a cancer of blood cells (lymphocytes), is established.",
+  "quote": "has classified malaria due to P. falciparum as a Group 2A carcinogen ... Its association with a blood cell (lymphocyte) cancer called Burkitt's lymphoma is established.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page does not label it 'probable' or state the classification is because of Burkitt's lymphoma"
+ },
+ {
+  "claim": "The Atlantic Multidecadal Oscillation has a period of 55-70 years and affects hurricane frequency and intensity, rainfall, and droughts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A pattern of variability in the North Atlantic of about 55 to 70 years, with effects on rainfall, droughts and hurricane frequency and intensity.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "Homing pigeons may navigate using naturally generated infrasound from sources like turbulent airflow over mountain ranges.",
+  "verdict": "overstated",
+  "corrected_claim": "Research suggests homing pigeons use low-frequency infrasound to navigate, and migrating birds may use naturally generated infrasound from sources like turbulent airflow over mountain ranges.",
+  "quote": "\"Research in 2013 by Jon Hagstrum of the US Geological Survey suggests that homing pigeons use low-frequency infrasound to navigate.\" \"It has also been suggested that migrating birds use naturally generated infrasound, from sources such as turbulent airflow over mountain ranges, as a navigational aid.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "mountain airflow source is said of migrating birds, not homing pigeons"
+ },
+ {
+  "claim": "Electriquette was an electric wicker vehicle that could be rented at the 1915 Panama–California Exposition.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Electriquette was an electric vehicle with a two-person bench seat and exterior made of rattan (wicker). ... The chairs were numbered and could be rented at a cost of $1.00 per hour",
+  "source_url": "https://en.wikipedia.org/wiki/Electriquette",
+  "note": ""
+ },
+ {
+  "claim": "The malaria parasite's erythrocytic cycle takes exactly 48 hours, causing the characteristic 'tertian fever' that spikes every third day when red blood cells burst in synchrony.",
+  "verdict": "overstated",
+  "corrected_claim": "Each erythrocytic cycle of the malaria parasite takes approximately 48 hours, which is why the fever classically appears every third day, corresponding to the synchronous rupture of infected red blood cells.",
+  "quote": "Since each erythrocytic schizogony takes a cycle of 48 hours, i.e., two days, the febrile symptom appears every third day. ... corresponding to the synchronous rupture of the infected erythrocytes. ... The duration of one complete erythrocytic schizogony is approximately 48 hours.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page says approximately 48 hours, not exactly"
+ },
+ {
+  "claim": "Dansgaard-Oeschger cycles are rapid warming events occurring roughly every 1,500 years during ice ages, with temperature changes of up to 10°C within decades.",
+  "verdict": "overstated",
+  "corrected_claim": "Dansgaard–Oeschger events are abrupt climate swings that occurred on roughly 1,500-year cycles during the last ice age.",
+  "quote": "occurring on roughly 1,500-year cycles during the Last Glacial Maximum",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "Page gives no 10°C-within-decades figure"
+ },
+ {
+  "claim": "In the 17th century, a single organ's pitch could vary over time due to the tuning process of tapping pipe ends to curve them inward (raising pitch) or outward (lowering it).",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "Organ pipe tapping not mentioned on page"
+ },
+ {
+  "claim": "– electronic digital computer\nMarcel Audiffren, France – refrigeration, patent\nAlexander Anim-Mensah, Ghanaian/American – Chemical engineer, inventor\n\n\n=== B ===\nBoris Babayan (born 1933), Armenia/USSR/Russia – Soviet computers, Superscalar processor\nCharles Babbage (1791–1871), UK – Analytical engine (semi-automatic)\nTabitha Babbit (1779–1853), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "A single infected liver cell can release up to 90,000 malaria merozoites into the bloodstream in parasite-filled vesicles called merosomes.",
+  "verdict": "overstated",
+  "corrected_claim": "The liver stage of malaria can produce up to 90,000 merozoites, which are released into the bloodstream in parasite-filled vesicles called merosomes.",
+  "quote": "The liver stage can produce up to 90,000 merozoites, which are eventually released into the bloodstream in parasite-filled vesicles called merosomes.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page attributes the figure to the liver stage, not explicitly a single liver cell"
+ },
+ {
+  "claim": "The 1815 eruption of Mount Tambora caused the 'Year Without a Summer' in 1816, leading to crop failures, famines, and disease outbreaks worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1815 eruption of Mount Tambora caused the 'Year Without a Summer' in 1816.",
+  "quote": "the 1815 eruption of Mount Tambora causing the Year Without a Summer",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "Crop failures, famines and disease not mentioned on page"
+ },
+ {
+  "claim": "The first commercially released movie with a stereo soundtrack was Disney's Fantasia in 1940, using the Fantasound system with a separate film just for sound.",
+  "verdict": "overstated",
+  "corrected_claim": "The first commercially released movie with a stereo soundtrack was Walt Disney's Fantasia (1940); its Fantasound system used a separate film just for the sound, synchronized with the picture.",
+  "quote": "The first commercially released movie with a stereo soundtrack was Walt Disney's Fantasia, released in 1940. The 1941 release of Fantasia used the Fantasound sound system. This system used a separate film for the sound, synchronized with the film carrying the picture.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "source ties Fantasound to the 1941 release"
+ },
+ {
+  "claim": "– Saw mill circular saw\nVictor Babeș (1854–1926), Romania – Babesia, the founder of serum therapy\nLeo Baekeland (1863–1944), Belgian–American – Velox photographic paper and Bakelite\nRalph H.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Plasmodium falciparum produces over 2,000 different cell membrane proteins to evade the human immune system — constantly switching which proteins are displayed.",
+  "verdict": "overstated",
+  "corrected_claim": "Plasmodium falciparum evades human immunity by producing over 2,000 cell membrane antigens.",
+  "quote": "it evades immunity by producing over 2,000 cell membrane antigens.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "'Constantly switching' displayed proteins not stated in the cited sentence"
+ },
+ {
+  "claim": "The 1991 eruption of Mount Pinatubo lowered global temperatures by about 0.5°C for up to three years due to sulfuric acid aerosols in the stratosphere.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1991 eruption of Mount Pinatubo lowered global temperatures by about 0.5°C for up to three years.",
+  "quote": "the 1991 eruption of Mount Pinatubo which lowered global temperatures by about 0.5 °C (0.9 °F) for up to three years",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "Sulfuric acid haze is mentioned only for volcanic eruptions in general, not tied to Pinatubo"
+ },
+ {
+  "claim": "Stradivarius instruments found to contain trace amounts of aluminum, copper, calcium, borax, and fluorides—possibly from wood preservatives or varnishes.",
+  "verdict": "overstated",
+  "corrected_claim": "Researchers have found trace amounts of aluminum, copper and calcium in Stradivari wood, and shavings containing borax, fluorides, chromium and iron salts—possibly from preservatives that loggers applied to the wood.",
+  "quote": "\"trace amounts of aluminum, copper, and calcium\" ... \"contained borax, fluorides, chromium and iron salts.\" ... \"chemical preservatives applied by loggers to the wood they sold.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": "claim merges separate studies; Al/Cu/Ca and borax/fluorides come from different analyses"
+ },
+ {
+  "claim": "– co-inventor of the transistor, with Brattain and Schockley\nVladimir Barmin (1909–1993), Russia – first rocket launch complex (spaceport)\nAnthony R.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The malaria parasite contains an apicoplast — a remnant chloroplast from an ancient algae it absorbed — which is now essential for parasite survival and is a target for antimalarial drugs.",
+  "verdict": "overstated",
+  "corrected_claim": "The malaria parasite contains an apicoplast, which it probably acquired by engulfing a eukaryotic alga; it makes lipids and other compounds and is an attractive drug target.",
+  "quote": "which they probably acquired by engulfing (or being invaded by) a eukaryotic alga ... The apicoplast is involved in the synthesis of lipids and several other compounds and provides an attractive drug target.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page says 'probably' acquired; essential-for-survival not stated"
+ },
+ {
+  "claim": "The Chicxulub asteroid impact 66 million years ago caused global temperatures to drop by up to 26°C and produced sub-freezing temperatures for 3-16 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "decreasing global temperatures by up to 26 °C and producing sub-freezing temperatures for a period of 3–16 years",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "Female birds in tropical regions sing as much as males, unlike temperate regions where mostly males sing, possibly because aseasonal breeding requires both sexes to stay in breeding condition.",
+  "verdict": "overstated",
+  "corrected_claim": "In the tropics, and even more in the desert belts of Australia and Africa, females typically sing as much as males, possibly because aseasonal irregular breeding requires both sexes to be in breeding condition.",
+  "quote": "in the tropics and to a greater extent the desert belts of Australia and Africa it is more typical for females to sing as much as males. ... With aseasonal irregular breeding, both sexes must be brought into breeding condition.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Page says 'more typical', not universal"
+ },
+ {
+  "claim": "– telephone\nNikolay Benardos (1842–1905), Russian Empire – arc welding (specifically carbon arc welding, the first arc welding method)\nRuth R.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Malaria parasites synchronize their internal clocks with the human host's circadian rhythm, coordinating their reproduction cycles with the host's sleep-wake patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "The precise timing of the malaria parasite's blood-stage cycle depends on the human host's own circadian rhythm.",
+  "quote": "This precise clocking mechanism is dependent on the human host's own circadian rhythm.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Sleep-wake coordination not stated"
+ },
+ {
+  "claim": "Three to four billion years ago, the Sun emitted only 75% as much power as today, yet liquid water existed on Earth—this is called the 'faint young Sun paradox.'",
+  "verdict": "overstated",
+  "corrected_claim": "Three to four billion years ago the Sun emitted only 75% as much power as today — with today's atmosphere, liquid water should not have existed on Earth's surface.",
+  "quote": "Three to four billion years ago, the Sun emitted only 75% as much power as it does today. If the atmospheric composition had been the same as today, liquid water should not have existed on the Earth's surface.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "Term 'faint young Sun paradox' not confirmed in fetched text"
+ },
+ {
+  "claim": "Mirror neurons in songbirds fire both when they sing a specific song type and when they hear it played back, suggesting a neurological basis for vocal learning similar to human speech.",
+  "verdict": "overstated",
+  "corrected_claim": "In swamp sparrows, certain HVC neurons fire in similar patterns both when the bird sings a song and when it hears a playback of that song.",
+  "quote": "These neurons also fire in similar patterns when the bird is singing that same song. ... highly responsive when the bird is hearing a playback of his own song.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Page describes swamp sparrow HVCX neurons, not songbirds generally; speech link not stated"
+ },
+ {
+  "claim": "– Gong and signal chair (adopted by House of Representatives and precursor to flight attendant signal system)\nWilliam R.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Infected red blood cells become 'sticky' and adhere to blood vessel walls in the brain, heart, and other organs — this sequestration causes cerebral malaria and other severe complications.",
+  "verdict": "overstated",
+  "corrected_claim": "Infected red blood cells cluster and stick to blood vessel walls in a process called sequestration; sequestration in the brain causes cerebral malaria, a very severe form of the disease.",
+  "quote": "P. falciparum works via sequestration, a process by which group of infected RBCs are clustered, ... causing them to stick to blood vessel walls (cytoadherence). ... Sequestration in the brain causes cerebral malaria, a very severe form of the disease,",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Heart and other organs not mentioned"
+ },
+ {
+  "claim": "Glaciation 2.3 billion years ago was triggered by the evolution of oxygenic photosynthesis, which depleted CO2 and introduced free oxygen to the atmosphere.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "triggered by the evolution of oxygenic photosynthesis, which depleted the atmosphere of the greenhouse gas carbon dioxide and introduced free oxygen",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "The Dyatlov Pass incident, where nine Soviet hikers died mysteriously in 1959, has infrasound hypothesized as one possible cause of death.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"Infrasound is one hypothesized cause of death for the nine Soviet hikers who were found dead at Dyatlov Pass in 1959.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": ""
+ },
+ {
+  "claim": "– improved ironing board design\nCharlie Booth (1903–2008), Australia – Starting blocks\nBob Born (1924–2023), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The Romans named malaria from 'mala aria' meaning 'bad air' — believing the disease was spread by contaminated air from swamps, not mosquitoes.",
+  "verdict": "overstated",
+  "corrected_claim": "The Romans named the disease 'malaria', from mala for bad and aria for air, because they believed it was spread by contaminated air.",
+  "quote": "It was the Romans who named the disease \"malaria\"—mala for bad, and aria for air, as they believed that the disease was spread by contaminated air",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Swamps not mentioned"
+ },
+ {
+  "claim": "Global cooling over the past 40 million years has been driven partly by the expansion of grass-grazer ecosystems.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "global cooling over the past 40 million years driven by the expansion of grass-grazer ecosystems",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "In 2009, a violin made with fungus-treated wood by Swiss researcher Francis Schwarze received 90 of 180 votes for best tone, beating a $2 million Stradivarius which got 39 votes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"received 90 of the 180 votes for the best tone.\" ... \"came second with 39 votes.\" ... \"said to be worth two million U.S. dollars.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": ""
+ },
+ {
+  "claim": "– created first Genetically modified organism\nWillard Boyle (1924–2011) together with George E.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The Guinea worm (Dracunculus medinensis) was likely the 'fiery serpent' described in the Bible afflicting the Israelites, known since at least the 15th century BCE in Egypt.",
+  "verdict": "overstated",
+  "corrected_claim": "The Guinea worm (Dracunculus medinensis) was described in Egypt as early as the 15th century BCE and possibly was the 'fiery serpent' afflicting the Israelites in the Bible.",
+  "quote": "Dracunculus medinensis (\"little dragon from Medina\") was described in Egypt as early as the 15th century BCE ... possibly was the 'fiery serpent' afflicting the Israelites described in the Bible",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "Page says 'possibly', not 'likely'"
+ },
+ {
+  "claim": "US Geological Survey estimates that volcanic emissions of CO2 are 100-300 times less than human emissions annually.",
+  "verdict": "overstated",
+  "corrected_claim": "Human activities generate 100–300 times as much carbon dioxide as volcanoes do.",
+  "quote": "volcanic emissions are at a much lower level than the effects of current human activities, which generate 100–300 times the amount of carbon dioxide emitted by volcanoes",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "USGS attribution not confirmed in fetched text"
+ },
+ {
+  "claim": "Speakers of European languages unconsciously use absolute pitch when speaking, with emotional speech showing bias toward certain consistent pitches.",
+  "verdict": "overstated",
+  "corrected_claim": "Speakers of European languages make subconscious use of an absolute pitch memory when speaking, with a bias toward C-major tones on emphasized syllables.",
+  "quote": "Speakers of European languages make subconscious use of an absolute pitch memory when speaking.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "Emotional-speech detail not in source"
+ },
+ {
+  "claim": "– first self-propelled street sweeping truck\nRachel Fuller Brown (1898–1980), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Female Guinea worms can grow up to 100 cm (39 inches) long — among the longest nematodes infecting humans — while males are a maximum of only 4 cm.",
+  "verdict": "overstated",
+  "corrected_claim": "Female Guinea worms reach 60–100 cm (24–39 in) or longer — among the longest nematodes infecting humans — while the longest recorded male is only 4 cm.",
+  "quote": "length 60–100 cm or 24–39 in or longer ... is among the longest nematodes infecting humans ... the longest recorded male Guinea worm is only 4 cm (1+1⁄2 in)",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "Page gives 60–100 cm 'or longer', so 100 cm is not a maximum"
+ },
+ {
+  "claim": "The highest temperature north of the Arctic Circle was 38.0°C (100.4°F) recorded at Verkhoyansk, Russia, on June 20, 2020.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Russia | 38.0 °C (100.4 °F) | Verkhoyansk, Sakha Republic | 20 June 2020",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The Comprehensive Nuclear-Test-Ban Treaty Organization uses a network of 53 infrasound stations worldwide to detect nuclear detonations and other large explosions.",
+  "verdict": "overstated",
+  "corrected_claim": "A network of 53 infrasound stations forms part of the International Monitoring System that monitors compliance with the Comprehensive Nuclear-Test-Ban Treaty.",
+  "quote": "\"A network of 53 infrasound stations, in addition to seismic and hydroacoustic stations, comprise the International Monitoring System (IMS) that is tasked with monitoring compliance with the Comprehensive Nuclear-Test-Ban Treaty (CTBT).\"",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "\"other large explosions\" purpose not stated"
+ },
+ {
+  "claim": "– Nystatin, the world's first antifungal antibiotic\nWilliam C.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Guinea worm disease is on track to be only the second infectious disease eradicated after smallpox — cases dropped from 3.5 million in 1986 to just 15 in 2024.",
+  "verdict": "overstated",
+  "corrected_claim": "Guinea worm disease is on target to be the second infectious disease of humans eradicated — from an estimated 3.5 million cases in 1986 to 14 provisional human cases in 2024.",
+  "quote": "Guinea worm disease is on target to be the second infectious disease of humans to be eradicated. ... with 14 provisional human cases reported worldwide in 2024.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "Page text gives 14 provisional cases in 2024 (table says 15); inconsistent"
+ },
+ {
+  "claim": "Lytton, British Columbia, reached 49.6°C (121.3°F) on June 29, 2021—the highest temperature ever recorded north of 50°N latitude.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Canada | 49.6 °C (121.3 °F) | Lytton, British Columbia | 29 June 2021",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The 2022 Hunga Tonga eruption produced the loudest infrasound ever recorded by the global monitoring system, detected by all 53 stations worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "Infrasound from the 2022 Hunga Tonga–Hunga Haʻapai eruption was detected by all 53 stations of the test-ban monitoring network, dwarfing even the 2013 Chelyabinsk meteor.",
+  "quote": "\"The commission reports the scale of the infrasound was \"dwarfed\" by the 2022 Hunga Tonga–Hunga Haʻapai eruption, detected by all 53 stations.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Infrasound",
+  "note": "page names the 2013 Chelyabinsk meteor as the loudest recorded; \"loudest ever\" not stated for Tonga"
+ },
+ {
+  "claim": "– Horseshoe machine, first usable iron railroad spike\n\n\n=== C ===\nTim Cook-the CEO of Apple\nVe Elizabeth Cadie (1893–1956), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "When a Guinea worm emerges from the skin, it causes such excruciating burning pain that victims plunge the affected limb into water — which triggers the worm to release thousands of larvae.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This causes extreme pain and irritation to the host. ... in an attempt to alleviate the excruciating burning pain ... submerges the affected body part in water, the female releases thousands of larvae into the water.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": ""
+ },
+ {
+  "claim": "The fastest temperature drop in 2 minutes was 15°C (27°F) at Sydney Airport, Australia, on January 23, 2010, falling from 41°C to 26°C.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Greatest 2 minute temperature drop: 15.0 °C (27.0 °F) at Sydney Airport, Australia, on 23 January 2010, from 41.0 °C (105.8 °F) at 3:11PM to 26.0 °C (78.8 °F) at 3:13PM.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Whaling Captain William H. Kelly was the first person known to recognize whale singing for what it was, while on the brig Eliza in the Sea of Japan in 1881.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Whaling Captain Wm. H. Kelly was the first person known to recognize whale singing for what it was,",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "– Internet Protocol (IP)\nClaude Shannon (1916–2016), founder of information theory and modern cryptography, invented Minivac 601, and co-invented the first wearable computer (with Edward O.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The ancient method of slowly winding emerging Guinea worms around a stick over several days may have inspired the Rod of Asclepius, the symbol of medicine.",
+  "verdict": "overstated",
+  "corrected_claim": "Emerging Guinea worms are slowly wrapped around a small stick during daily extraction — a method speculated to be the source of the Rod of Asclepius, though the claim is poorly sourced.",
+  "quote": "the exposed portion of the worm is wrapped around a piece of rolled-up gauze or small stick ... is speculated to be the source for the Rod of Asclepius.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "Page flags the Rod of Asclepius link as speculative and from an unreliable source"
+ },
+ {
+  "claim": "The coldest summer temperature ever recorded was -33°C (-27.4°F) at Summit Camp, Greenland, on July 4, 2017.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Coldest summer (month of July in the Northern Hemisphere): −33 °C (−27.4 °F); Summit Camp, Greenland on 4 July 2017.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The Marconi-Stille tape recorders used in the 1930s were so dangerous—using razor-blade steel tape—that technicians operated them from another room for safety.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The tape used in Blattnerphones and Marconi-Stille recorders was the same material used to make razor blades ... technicians had to operate them from another room for safety.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "– Coulter principle\nJacques Cousteau (1910–1997), France – co-inventor of the aqualung and the Nikonos underwater camera\nJohn \"Jack\" Higson Cover Jr.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Guinea worm eradication is complicated by infected domestic dogs — in 2020, over 1,500 infected dogs were found in Chad alone, creating a reservoir for the parasite.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2020, Guinea worm was found in 1,507 domestic dogs in Chad, 15 in Ethiopia, and eight in Mali.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": ""
+ },
+ {
+  "claim": "The coldest temperature ever recorded in the tropics was -25.2°C (-13.4°F) at Mazocruz, Peru, on June 30, 1966.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Coldest temperature in the tropics: −25.2 °C (−13.4 °F); Mazocruz, Peru on 30 June 1966.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The first British stereo recordings were made by EMI in 1931, developed by Alan Blumlein who invented the technique to make sound follow actors across a movie screen.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1931 Alan Blumlein, a British electronics engineer at EMI, designed a way to make the sound of an actor in a film follow his movement across the screen.",
+  "quote": "In 1931, Alan Blumlein, a British electronics engineer working for EMI, designed a way to make the sound of an actor in a film follow his movement across the screen.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "source does not call these the first British stereo recordings"
+ },
+ {
+  "claim": "– ENIAC – the first general purpose programmable digital computer\nThomas Alva Edison (1847–1931), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The Carter Center has led the Guinea worm eradication effort since 1986, making it the first disease targeted for eradication without a vaccine or medicine — using education and water filters.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1986 the WHO started the Guinea worm eradication program with the Carter Center leading the effort, relying on net and pipe filters for drinking water and education about using them.",
+  "quote": "That year, WHO started the eradication program with the Carter Center leading the effort. ... widespread distribution of net filters and pipe filters for drinking water, and education about the importance of using them.",
+  "source_url": "https://en.wikipedia.org/wiki/Dracunculus_medinensis",
+  "note": "'First disease targeted without vaccine or medicine' not on page"
+ },
+ {
+  "claim": "Imperial, California, experienced the highest temperature ever recorded during rain: 48.3°C (118.9°F) on July 24, 2018.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "USA ( California) | 48.3 °C (118.9 °F) | Imperial, California | 24 July 2018",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The Sony Walkman, introduced in 1979, was the first portable personal music player and gave a major boost to sales of prerecorded cassettes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Walkman was the first personal music player and it gave a major boost to sales of prerecorded cassettes.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "– phonograph, commercially practical incandescent light bulb, etc.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Leucochloridium paradoxum, the green-banded broodsac, turns snail eye stalks into pulsating, caterpillar-mimicking tubes that attract bird predators — completing the parasite's life cycle.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The pulsating, green broodsacs fill the eye stalks of the snail, thereby attracting predation by birds. ... These broodsacs visually imitate caterpillars, a prey of birds.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "The highest temperature at 100% relative humidity was 34°C (93°F) at Jask, Iran, on July 21, 2012.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A temperature of 34 °C (93 °F) with 100% relative humidity in Jask, Iran, on 21 July 2012.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Dolby A noise reduction, introduced in 1966, suppressed tape hiss and was one of the most important advances in recording fidelity before digital recording.",
+  "verdict": "overstated",
+  "corrected_claim": "The Dolby A noise reduction system, invented by Ray Dolby and introduced into professional studios in 1966, suppressed tape hiss.",
+  "quote": "The Dolby A noise reduction system, invented by Ray Dolby and introduced into professional recording studios in 1966,",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "'most important advance before digital' not in source"
+ },
+ {
+  "claim": "– the pointed lightning rod conductor, bifocal glasses, the Franklin stove, the glass harmonica\nHerman Frasch (1851–1914), Germany / U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Infected snails with Leucochloridium broodsacs are twice as likely to stay in well-lit, exposed areas compared to uninfected snails — behavior that makes them more visible to predatory birds.",
+  "verdict": "overstated",
+  "corrected_claim": "Infected snails stay longer in well-lit places; in one study 53% of infected snails remained fully exposed for a whole 45-minute observation — behavior that makes them more visible to birds.",
+  "quote": "Whereas 53% of infected snails remained fully exposed for the 45 minutes of the observation period.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": "No 'twice as likely' ratio on page"
+ },
+ {
+  "claim": "Cyclone Hyacinthe dumped 6,433 mm (253.3 inches) of rain on Réunion Island in January 1980—the most precipitation from a single tropical cyclone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most from a single tropical cyclone: 6,433 mm (253.3 in); Commerson, Réunion, during Cyclone Hyacinthe in January 1980.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Quadraphonic sound, introduced in the 1970s, was a commercial failure partly because of competing incompatible four-channel systems from CBS, JVC, and others.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Quadraphonic sound was not a commercial success, partly because of competing and somewhat incompatible four-channel sound systems",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "source names CBS, JVC and Dynaco among competing systems"
+ },
+ {
+  "claim": "– Gilhoolie\nRobert Fulton (1765–1815), United States – first commercially successful steamboat, first practical submarine\nIvan Fyodorov (c.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The broodsacs of Leucochloridium parasites pulsate 40-75 times per minute and only display this behavior in light — stopping completely in darkness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The pulsations of the broodsacs typically vary from 40 to 75 times a minute ... they cease in the dark.",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "Port Martin, Antarctica, experienced the fastest daily average wind speed: 174 km/h (108 mph) on March 21-22, 1951.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Fastest daily average: 174 km/h (108 mph) ... Port Martin (Adélie Land), Antarctica, 24-hour period from 21 March 1951 to 22 March 1951.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The compact disc was introduced in 1982, effectively relegating vinyl records to a niche market by the mid-1990s.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "later the compact disc (CD) in 1982 brought significant improvements in the quality and durability of recordings ... with vinyl records effectively relegated to a small niche market by the mid-1990s.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "– continuous-wave-operating diode lasers (together with Zhores Alferov), high-power diode lasers\nElmer R.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "A mature Leucochloridium sporocyst can make up more than one-fifth of the infected snail's total body weight.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "may make up a fifth or more of the snail's weight",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": ""
+ },
+ {
+  "claim": "The 1974 Super Outbreak produced 7 F5 tornadoes in a single outbreak—the most F5 tornadoes in recorded history.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1974 Super Outbreak, listed as the most severe tornado outbreak, produced 7 F5, 23 F4, 34 F3 and 34 F2 tornadoes on April 3–4, 1974.",
+  "quote": "Most severe: The 1974 Super Outbreak produced 7 F5, 23 F4, 34 F3, and 34 F2 tornadoes on April 3–4, 1974.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Page lists it as 'most severe' outbreak, not as having the most F5 tornadoes in history"
+ },
+ {
+  "claim": "Many birds have mirror neurons that fire both when singing and when hearing the same song, potentially explaining how they learn songs by imitation.",
+  "verdict": "overstated",
+  "corrected_claim": "In swamp sparrows, certain song-system neurons respond both when the bird hears playback of its song and when it sings that same song.",
+  "quote": "These neurons also fire in similar patterns when the bird is singing that same song. ... highly responsive when the bird is hearing a playback of his own song.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Page describes one species, not 'many birds'"
+ },
+ {
+  "claim": "– wheat drill, first successful machine gun\nGeorgy Gause (1910–1986), Russia – gramicidin S, neomycin, lincomycin and other antibiotics\nE.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Snails can survive having their infected eye stalks torn off by feeding birds — and may be repeatedly reinfected, essentially becoming renewable caterpillar-factories for the parasite.",
+  "verdict": "overstated",
+  "corrected_claim": "Birds tear the broodsacs out of the snail's eye stalks rather than eating the whole snail, so the snail may survive the attack.",
+  "quote": "so the snail may survive this",
+  "source_url": "https://en.wikipedia.org/wiki/Leucochloridium_paradoxum",
+  "note": "Repeated reinfection / 'renewable factory' not stated"
+ },
+ {
+  "claim": "A supercell near Nueva Rosita, Mexico, on May 24, 2016, reached 68,000 feet (21 km)—the tallest non-tropical thunderstorm ever confirmed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The official confirmed tallest thunderstorm was a supercell that occurred on May 24, 2016 near Nueva Rosita ... cloud top height of 68,000 ft (21 km; 12.9 mi).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Juvenile birds go through a 'subsong' phase similar to human babbling before learning to sing properly, gradually crystallizing their song over 2-3 months.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "song production begins with highly variable sub-vocalizations called \"sub-song\", which is akin to babbling in human infants. ... After two or three months of song learning and rehearsal (depending on species), the juvenile produces a crystallized song.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "First African-American woman to receive a United States patent.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Cymothoa exigua, the tongue-eating louse, is the only known parasite that functionally replaces an entire host organ — it severs the fish's tongue and takes its place.",
+  "verdict": "overstated",
+  "corrected_claim": "Cymothoa exigua is the only Cymothoa species known to completely consume and take over a fish's tongue.",
+  "quote": "Out of all the Cymothoa species, C. exigua is the only species to completely consume and take over a fish's tongue.",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": "source limits uniqueness to Cymothoa species; organ replacement is known across Cymothoidae"
+ },
+ {
+  "claim": "The Labor Day Hurricane of 1935 made landfall in Florida with the lowest pressure ever recorded on US land: 892 hPa (26.35 inHg).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most intense ever recorded on land: 892 hPa (26.35 inHg); Craig Key, Florida, United States, eye of the Labor Day Hurricane, 2 September 1935.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Canaries can develop new songs even as adults ('open-ended learners'), while zebra finches can only learn songs in their first year ('close-ended learners').",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "learning of song is limited to the first year. ... Other species such as the canaries can develop new songs even as sexually mature adults.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "– Holter monitor\nRobert Hooke (1635–1703), UK – balance wheel, iris diaphragm, acoustic telephone\nErna Schneider Hoover (born 1926), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "After destroying a fish's tongue, Cymothoa exigua attaches to the tongue stub and functions as a prosthetic tongue — the fish can otherwise live normally with its parasitic replacement.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "C. exigua then replaces the host tongue by attaching its body to the tissue of the tongue stub. ... The host is also able to use C. exigua like a prosthetic organ.",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": ""
+ },
+ {
+  "claim": "Death Valley holds the record for most consecutive days above 48.9°C (120°F): 40 days from July 9 to August 17, 1917.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "USA ( California) | 48.9 °C (120.0 °F) | Death Valley | 9 July 1917 to 17 August 1917 (40 days)",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The male zebra finch's song-learning brain regions are 3-6 times larger than females', one of the most extreme sexual dimorphisms in any vertebrate brain.",
+  "verdict": "overstated",
+  "corrected_claim": "In zebra finches, the song-control brain regions HVC and RA are approximately three to six times larger in males than in females.",
+  "quote": "the size of the HVC and RA are approximately three to six times larger in males than in females.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "'Most extreme dimorphism in any vertebrate' not stated"
+ },
+ {
+  "claim": "– first Printing telegraph\nCoenraad Johannes van Houten (1801–1887), Netherlands – cocoa powder, cacao butter, chocolate milk\nElias Howe (1819–1867), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Cymothoa exigua all begin life as males, but can transform into females if no female is present and they grow larger than 10 mm — a form of sequential hermaphroditism.",
+  "verdict": "overstated",
+  "corrected_claim": "Cymothoa exigua are all born male; if another male infests the same fish, the first can switch to female after growing to 10 mm.",
+  "quote": "C. exigua are hermaphrodites, and are all born as a male before switching to female later in life. If another male C. exigua infests the same host, the first male develops into a female.",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": "trigger is presence of another male, not absence of a female"
+ },
+ {
+  "claim": "Death Valley holds the highest average monthly temperature record: 42.5°C (108.5°F) in July 2024.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "USA ( California) | 42.5 °C (108.5 °F) | Death Valley | July 2024 | Highest average monthly temperature",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "In tropical and Australian desert birds, where climates are less seasonal, females sing almost as much as males—unlike temperate zone birds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "in the tropics and to a greater extent the desert belts of Australia and Africa it is more typical for females to sing as much as males.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "– 3D printer\nTroy Hurtubise (1963–2018), Canada – Trojan Ballistics Suit of Armor, Ursus suit, Firepaste, Angel Light\nMiller Reese Hutchison (1876–1944), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "A lawsuit was filed in Puerto Rico against a supermarket chain after a customer claimed to be poisoned by eating a tongue-eating louse cooked inside a snapper — the case was dismissed since isopods aren't toxic.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The customer in the lawsuit claimed to have been poisoned by eating an isopod cooked inside a snapper. The case, however, was dropped on the grounds that isopods are not poisonous to humans",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": ""
+ },
+ {
+  "claim": "Cherrapunji, India, received 2,493 mm (98.1 inches) of rain in just 48 hours on June 15-16, 1995.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most in 48 hours (2 days): 2,493 mm (98.1 in); Cherrapunji, Meghalaya, India, 15–16 June 1995.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The hearing range of birds extends from below 50 Hz to around 12 kHz, with maximum sensitivity between 1-5 kHz, narrower than human hearing.",
+  "verdict": "overstated",
+  "corrected_claim": "The hearing range of birds is from below 50 Hz to around 12 kHz, with maximum sensitivity between 1 and 5 kHz.",
+  "quote": "The hearing range of birds is from below 50 Hz (infrasound) to around 12 kHz, with maximum sensitivity between 1 and 5 kHz.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Comparison with humans not stated"
+ },
+ {
+  "claim": "– first Genetically modified mouse\nAlcinous Burton Jamison (1851–1938), American physician, inventor of medical devices\nKarl Guthe Jansky (1905–1950), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The parasitic barnacle Sacculina castrates its crab host and takes over its reproductive behavior — the crab nurtures the parasite's eggs as if they were its own.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Parasitic Sacculina destroy a crab's genitalia, rendering the crab permanently infertile. ... the crab develops a nurturing behavior typical of a normal female crab",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": ""
+ },
+ {
+  "claim": "Cyclone Gamede dropped 3,929 mm (154.7 inches) of rain on Réunion Island in 72 hours in February 2007.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most in 72 hours (3 days): 3,929 mm (154.7 in); Commerson, Réunion, 24–26 February 2007, during Cyclone Gamede.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Male birds stop singing as soon as their female partners leave the nest box in the morning, suggesting the dawn chorus functions partly to communicate with absent mates.",
+  "verdict": "overstated",
+  "corrected_claim": "In one study, male birds stopped singing as soon as their females left the nest box, and a 2023 study found a correlation between the dawn chorus and the absence of females.",
+  "quote": "stopped singing as soon as the females left the nest box to join them. ... A 2023 study found a correlation between the dawn chorus of male birds and the absence of females.",
+  "source_url": "https://en.wikipedia.org/wiki/Bird_vocalization",
+  "note": "Source reports a correlation from a study, not an established function"
+ },
+ {
+  "claim": "– electrical engineer, known for several contributions and over seventy patents related to telecommunications switching systems\nCarl Edvard Johansson (1864–1943), Sweden – Gauge blocks\nJohan Petter Johansson (1853–1943), Sweden – Pipe wrench and adjustable spanner\nReynold B.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Sacculina feminizes male crabs by disrupting their hormones — infected males develop female characteristics including wider abdomens and even perform female mating dances.",
+  "verdict": "overstated",
+  "corrected_claim": "Sacculina disrupts a male crab's hormones, reshaping its body to resemble a female's and even making it perform female mating dances.",
+  "quote": "changes the bodily layout of the crab to resemble that of a female crab ... even to the point of performing female mating dances",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": "'wider abdomens' not stated"
+ },
+ {
+  "claim": "Mawsynram, India, holds the highest average annual rainfall: 11,872 mm (467.4 inches) over 38 years of observations.",
+  "verdict": "overstated",
+  "corrected_claim": "Mawsynram, India, averaged 11,872 mm (467.4 inches) of rain a year over 38 years of observations — among the highest average annual totals on Earth.",
+  "quote": "11,872 mm (467.4 in) (over 38 years) and 12,701 mm (500.0 in) (1998–2010); Mawsynram, Meghalaya, India",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": "Same list also gives López de Micay, Colombia, a higher average (13,466 mm), so 'highest' is not supported"
+ },
+ {
+  "claim": "The Stroh violin, which uses a metal horn instead of a wooden body, was invented specifically to make violin sounds loud enough to record before electronic amplification.",
+  "verdict": "overstated",
+  "corrected_claim": "In the era of acoustic recording, violins were hard to capture, so studios used the Stroh violin, which channels its sound through a conical horn connected to a diaphragm.",
+  "quote": "Stroh violin, which uses a conical horn connected to a diaphragm",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "'metal horn instead of wooden body' and 'invented specifically' not stated"
+ },
+ {
+  "claim": "1380–1429), Persia/Iran – plate of conjunctions, analog planetary computer\nAndrew Kay (1919–2014), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "If a Sacculina parasite is removed, female crabs can regenerate ovarian tissue, but males often develop ovaries instead of testes — the parasitic damage to their sex is permanent.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "female crabs will normally regenerate new ovarian tissue ... males usually develop complete or partial ovaries instead of testes",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": ""
+ },
+ {
+  "claim": "Tamarack, California, received 9.91 meters (390 inches) of snow in January 1911 alone, leading to a snow depth of 11.46 meters (451 inches) by March.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most in one calendar month: 9.91 meters (390 inches) of snow fell in Tamarack, California, in January 1911, leading to a snow depth in March of 11.46 meters (451 inches) (greatest measured in North America).",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The gramophone record overtook the phonograph cylinder around 1910 and remained the dominant music format until the late 1980s—nearly 80 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Sales of the gramophone record overtook the phonograph cylinder around 1910, and by the end of World War I the disc had become the dominant commercial recording format.",
+  "quote": "Sales of the gramophone record overtook the cylinder ca. 1910, ... by the end of World War I the disc had become the dominant commercial recording format.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "'until the late 1980s' not supported (source: primary medium until end of 20th century)"
+ },
+ {
+  "claim": "– Digital voltmeter\nAdolphe Kégresse (1879–1943), France/Russia – Kégresse track (first half-track and first off-road vehicle with continuous track), dual-clutch transmission\nCarl D.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Sacculina spreads root-like tendrils called 'interna' throughout the crab's body, wrapping around organs including the brain — potentially explaining how it controls host behavior.",
+  "verdict": "overstated",
+  "corrected_claim": "Sacculina spreads root-like tendrils around its host's organs; in a related parasite, roots were seen reaching the brain, a hypothesis for how such parasites manipulate behavior.",
+  "quote": "roots were seen extending to the brain and central nervous system, which is a hypothesis to help explain how parasites like these can manipulate their hosts' behavior",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": "brain roots observed in related Briarosaccus, not Sacculina"
+ },
+ {
+  "claim": "Mount Rainier, Washington, received 31.5 meters (102 feet) of snow in a single year, from February 1971 to February 1972.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most in one-year period: 31.5 meters (102 ft) ... Mount Rainier, Washington, United States, 19 February 1971 to 18 February 1972.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "The nominal speed of 78 rpm for early records was set at 78.26 rpm in America and 77.92 rpm elsewhere, due to differences in AC electricity frequencies used to calibrate recording lathes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The specified speed was 78.26 rpm in America and 77.92 rpm throughout the rest of the world. The difference in speeds was due to the difference in the cycle frequencies of the AC electricity",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "– three way catalytic converter\nMstislav Keldysh (1911–1978), Latvia/Russia – co-developer of Sputnik 1 (the first artificial satellite) together with Korolyov and Tikhonravov\nJohn Harvey Kellogg (1852–1943), cornflake breakfasts\nJohn G.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The emerald cockroach wasp (Ampulex compressa) delivers two precise stings to a cockroach's brain, blocking its escape reflex without paralyzing other motor functions — creating a 'zombie' it can lead around.",
+  "verdict": "overstated",
+  "corrected_claim": "The emerald cockroach wasp first stings a cockroach's thoracic ganglion, then delivers a second sting into the part of its brain that controls the escape reflex — leaving abilities like flight intact but creating a 'zombie' it can lead around.",
+  "quote": "It delivers an initial sting to a thoracic ganglion. ... in the section that controls the escape reflex. ... motor abilities such as flight or flipping over are unimpaired",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": "Only the second sting targets the brain; the first goes to a thoracic ganglion"
+ },
+ {
+  "claim": "Mount Washington, New Hampshire, recorded the fastest non-cyclonic wind: 372 km/h (231 mph) on April 12, 1934.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Fastest non-cyclonic winds: 372 km/h (231 mph) (1-minute average); recorded by anemometer on Mount Washington, New Hampshire, USA, 12 April 1934.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "MIDI (Musical Instrument Digital Interface), introduced in 1982, standardized how electronic instruments communicate and revolutionized music production.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "page mentions MIDI only in passing, no 1982 date or standardization claim"
+ },
+ {
+  "claim": "– BASIC (programming language)\nAlexander Kemurdzhian (1921–2003), Armenia/Russia/USSR – first space exploration rover (Lunokhod)\nMary Kenner (1912–2006), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The jewel wasp leads its zombified cockroach to a burrow by its antenna, like a dog on a leash — then lays an egg on it and seals the burrow.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "by pulling one of the roach's antennae in a manner similar to a leash ... then leads the victim to the wasp's burrow ... the wasp will lay one or two white eggs, about 2 mm long, between the roach's legs ... proceeds to fill in the burrow entrance with any surrounding debris",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": ""
+ },
+ {
+  "claim": "The first gale warning service began in February 1861 when Robert FitzRoy used telegraph communications to warn ships of approaching storms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "His warning service for shipping was initiated in February 1861, with the use of telegraph communications.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": ""
+ },
+ {
+  "claim": "Sound recording has enabled the preservation and spread of musical styles globally; before recording, a person had to attend live performances to hear famous musicians.",
+  "verdict": "overstated",
+  "corrected_claim": "Sound recording helped spread musical styles to new regions, countries and continents; before it was invented, most music was heard only as a live performance.",
+  "quote": "The availability of sound recording thus helped to spread musical styles to new regions, countries and continents. ... Before analog sound recording was invented, most music was as a live performance.",
+  "source_url": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+  "note": "source says 'most music', not that one had to attend"
+ },
+ {
+  "claim": "– Secure Sockets invented in 1991 for securing Internet applications (World Wide Web, email, etc.)\nHedy Lamarr (1914–2000), Austria and U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The jewel wasp's venom contains GABA, taurine, and β-alanine in a precise 10:7:4 ratio that keeps the cockroach paralyzed longer than any single compound alone.",
+  "verdict": "overstated",
+  "corrected_claim": "The jewel wasp's venom contains GABA along with taurine and β-alanine, injected together in a ratio of 10:7:4.",
+  "quote": "injects significant quantities of γ amino-butyric acid (GABA) ... injected together in a ratio of 10:7:4",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": "Claim that the mix paralyzes longer than any single compound is not on page"
+ },
+ {
+  "claim": "Francis Ronalds invented the first photographic weather recording instruments in 1845, including a barograph that FitzRoy later used for forecasting.",
+  "verdict": "overstated",
+  "corrected_claim": "Francis Ronalds invented photographic weather-recording cameras in 1845, and his barograph had earlier been used by Robert FitzRoy.",
+  "quote": "these cameras had been invented by Francis Ronalds in 1845 and his barograph had earlier been used by FitzRoy.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "'First' not stated; FitzRoy used the barograph earlier, not later"
+ },
+ {
+  "claim": "Lexical-gustatory synesthesia causes people to taste specific flavors when hearing words—for example, the word 'basketball' might taste like waffles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This is another form of synesthesia where certain tastes are experienced when hearing words. ... For example, the word basketball might taste like waffles.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "– gas filled incandescent light bulb, hydrogen welding\nNorm Larsen (1923–1970), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Stung cockroaches retain the ability to fly, swim, and right themselves — they simply lose all will to escape, grooming excessively for about 30 minutes before becoming sluggish.",
+  "verdict": "overstated",
+  "corrected_claim": "Stung cockroaches can still fly, swim and right themselves — but after a bout of excessive grooming they become sluggish and fail to show normal escape responses.",
+  "quote": "motor abilities such as flight or flipping over are unimpaired ... cockroaches can right themselves and swim while under the influence ... become sluggish and fail to show normal escape responses",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": "'About 30 minutes' of grooming not on page"
+ },
+ {
+  "claim": "The International Cloud Atlas, first published in 1896, standardized cloud vocabulary and classification worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "Cloud vocabulary and classification were standardized in the International Cloud Atlas of 1896.",
+  "quote": "and standardized in the International Cloud Atlas of 1896.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "'First published' and 'worldwide' not stated"
+ },
+ {
+  "claim": "People with mirror-touch synesthesia feel physical sensations when watching others being touched, and research suggests they may have higher empathy.",
+  "verdict": "overstated",
+  "corrected_claim": "People with mirror-touch synesthesia feel sensations when watching others being touched; some research suggests they have higher empathy, though other research finds no relationship.",
+  "quote": "Some research suggests people with this type of synesthesia have higher empathy levels compared to the general population. ... However, other research finds no relationship between mirror-touch synesthesia and empathy.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "Omits that other research finds no link to empathy"
+ },
+ {
+  "claim": "– invented the first digital sampling synthesizer\nJoy Mangano (born 1956), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "After the wasp stings, the cockroach first grooms excessively, then becomes lethargic and stops showing normal escape responses for about 72 hours while the wasp larva consumes it.",
+  "verdict": "overstated",
+  "corrected_claim": "After the wasp stings, the cockroach grooms excessively, then becomes sluggish, showing drastically reduced survival instincts for about 72 hours.",
+  "quote": "become sluggish and fail to show normal escape responses ... a stung roach exhibits drastically reduced survival instincts (such as swimming or avoiding pain) for about 72 hours",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": "Page does not tie the 72 hours to the larva consuming the roach"
+ },
+ {
+  "claim": "In 904 AD, Ibn Wahshiyya's Nabatean Agriculture discussed weather forecasting based on lunar phases, planetary positions, and wind movements.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ibn Wahshiyya's Nabatean Agriculture, translated into Arabic from an earlier Aramaic work",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "Page dates it 904 AD and lists lunar phases, planetary changes, wind movement"
+ },
+ {
+  "claim": "Ticker-tape synesthesia causes people to mentally 'see' written words when hearing speech, like subtitles in their mind.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Those with ticker-tape synesthesia mentally see written words when they are heard, sometimes on imaginary strips of paper.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "– Marsh rack railway system\nKonosuke Matsushita (1894–1989), Japan – battery-powered Bicycle lighting\nTaqi al-Din Muhammad ibn Ma'ruf (1526–1585), Syria/Egypt/Turkey – steam turbine, six-cylinder 'Monobloc' suction pump, framed sextant\nAlex Mashinsky (born 1965), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The hairworm Spinochordodes tellinii grows inside grasshoppers to 3-4 times the host's length, then compels the insect to jump into water where it will likely drown — allowing the worm to emerge.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "develop inside them into worms that can be three to four times longer than the host ... it causes its grasshopper host to jump into water, where the grasshopper will likely drown",
+  "source_url": "https://en.wikipedia.org/wiki/Spinochordodes_tellinii",
+  "note": ""
+ },
+ {
+  "claim": "Chinese weather prediction methods extend at least as far back as 300 BC, around the same time as ancient Indian weather-prediction methods.",
+  "verdict": "overstated",
+  "corrected_claim": "Chinese weather prediction lore extends at least as far back as 300 BC, and ancient Indian astronomers also developed weather-prediction methods.",
+  "quote": "Chinese weather prediction lore extends at least as far back as 300 BC, ... ancient Indian astronomers developed weather-prediction methods.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "'Around the same time' not stated"
+ },
+ {
+  "claim": "Number form synesthesia causes numbers to automatically appear in specific spatial locations, like a mental map—a phenomenon first documented by Francis Galton in 1881.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Number forms were first documented and named in 1881 by Francis Galton.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "born, UK – first self-powered machine gun\nJames Clerk Maxwell (1831–1879) and Thomas Sutton, Scotland – color photography\nStanley Mazor (born 1941), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Hairworm-infected grasshoppers produce different proteins in their brains than uninfected ones, including proteins similar to the host's own nervous system proteins — a form of molecular mimicry.",
+  "verdict": "overstated",
+  "corrected_claim": "Grasshoppers infected by the hairworm produce different proteins in their brains than uninfected ones, and the worm's own proteins resemble those of other insects — a likely case of molecular mimicry.",
+  "quote": "express, or create, different proteins in their brains compared to uninfected grasshoppers. ... are similar to proteins known from other insects, suggesting an instance of molecular mimicry.",
+  "source_url": "https://en.wikipedia.org/wiki/Spinochordodes_tellinii",
+  "note": "source: similar to proteins of other insects, made by the parasite"
+ },
+ {
+  "claim": "Weather forecasting is so chaotic that time steps for global models are measured in tens of minutes, while regional models use time steps of 1-4 minutes.",
+  "verdict": "overstated",
+  "corrected_claim": "Time steps for global weather models are on the order of tens of minutes, while regional models use time steps of one to four minutes.",
+  "quote": "Time steps for global models are on the order of tens of minutes, ... time steps for regional models are between one and four minutes.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "Causal link to chaos not stated"
+ },
+ {
+  "claim": "Grapheme-color synesthetes show consistent color associations for letters and numbers, scoring 90% consistency on retests years apart, versus 30-40% for non-synesthetes.",
+  "verdict": "overstated",
+  "corrected_claim": "Synesthetes consistently score around 90% on the reliability of their associations, while non-synesthetes score just 30–40%.",
+  "quote": "Synesthetes consistently score around 90% on the reliability of associations ... non-synesthetes score just 30–40%.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "Figures are for synesthesia generally; 'years apart' not stated"
+ },
+ {
+  "claim": "– heavier-than-air gliders\nNarcis Monturiol i Estarriol (1819–1885), Spain – steam powered submarine\nRobert Moog (1934–2005), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The fluke Euhaplorchis californiensis infects killifish brains, causing them to shimmy, jerk, and surface 4 times more often — making them 10-30 times more likely to be caught by birds.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "four times more likely to shimmy, jerk, flash, and surface ... This behavior makes the infected fish 10 to 30 times more likely to be caught and consumed by a bird.",
+  "source_url": "https://en.wikipedia.org/wiki/Euhaplorchis",
+  "note": ""
+ },
+ {
+  "claim": "The sinking of the Royal Charter in October 1859, killing over 450 people, directly motivated Robert FitzRoy to establish modern weather forecasting.",
+  "verdict": "overstated",
+  "corrected_claim": "A storm in October 1859 that sank the Royal Charter inspired Robert FitzRoy to develop weather charts.",
+  "quote": "A storm in October 1859 that caused the loss of the Royal Charter inspired FitzRoy to develop charts.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "Death toll not on page; 'establish modern forecasting' overstated"
+ },
+ {
+  "claim": "There are at least 80 documented types of synesthesia, with any two senses or cognitive pathways potentially linked.",
+  "verdict": "overstated",
+  "corrected_claim": "There are at least 80 types of synesthesia, though most have barely been analyzed scientifically.",
+  "quote": "There are at least 80 types of synesthesia.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "'Any two senses potentially linked' not stated; page notes most types are little studied"
+ },
+ {
+  "claim": "– Hypertext, Hypermedia\nSergey Nepobedimiy (1921–2014), Russia – first supersonic anti-tank guided missile Sturm, other Soviet rocket weaponry\nKarl Nessler (1872–1951), Germany/U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Euhaplorchis metacercariae form a 'carpet-like' layer over the surface of the killifish brain after tunneling along a nerve from the gills.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "form a 'carpet-like' layer over the brain ... make their way along a nerve and into the brain cavity",
+  "source_url": "https://en.wikipedia.org/wiki/Euhaplorchis",
+  "note": ""
+ },
+ {
+  "claim": "The Beaufort Wind Scale was developed by Francis Beaufort, who also helped establish 200 weather recording stations at British coast guard stations.",
+  "verdict": "overstated",
+  "corrected_claim": "Francis Beaufort developed the Wind Force Scale and weather notation coding, and his work expanded weather record-keeping at 200 British coast guard stations.",
+  "quote": "Beaufort developed the Wind Force Scale and Weather Notation coding ... expanded weather record-keeping at 200 British coast guard stations.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "'Helped establish' stations vs expanded record-keeping"
+ },
+ {
+  "claim": "Synesthesia can be induced in non-synesthetes through psychedelic drugs like LSD and mescaline, temporal lobe epilepsy, or deep meditation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "temporal lobe epilepsy, head trauma, stroke, and brain tumors ... can likewise occur during stages of meditation, deep concentration, sensory deprivation ... such as LSD or mescaline",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "– first Quantum machine\nJoseph John O'Connell (1861–1959), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The Rafflesia flower can grow over 1 meter (40 inches) in diameter and weigh up to 10 kg — the largest single flower in the world, produced by a parasitic plant with no stems, leaves, or roots.",
+  "verdict": "overstated",
+  "corrected_claim": "A Rafflesia flower may be over 100 cm (40 in) across and weigh up to 10 kg — and Rafflesia arnoldii has the largest single flower of any flowering plant, at least by weight, from a plant with no stems, leaves or roots.",
+  "quote": "the flower may be over 100 centimetres (40 in) in diameter ... weigh up to 10 kilograms (22 lb) ... Rafflesia arnoldii has the largest single flower of any flowering plant, at least in terms of weight. ... The plant has no stems, leaves or roots.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "'Largest' applies to R. arnoldii and is caveated 'at least in terms of weight'"
+ },
+ {
+  "claim": "Practical numerical weather prediction didn't begin until 1955 because earlier attempts failed due to the enormous computational requirements.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Practical use of numerical weather prediction began in 1955 ... the sheer number of calculations required was too large to be completed without the use of computers.",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": ""
+ },
+ {
+  "claim": "Famous synesthete composers include Duke Ellington, Rimsky-Korsakov, and Jean Sibelius, all of whom associated colors with musical sounds.",
+  "verdict": "overstated",
+  "corrected_claim": "Composers who reported synesthesia include Duke Ellington, Nikolai Rimsky-Korsakov and Jean Sibelius.",
+  "quote": "Other composers who reported synesthesia include Duke Ellington, Nikolai Rimsky-Korsakov, and Jean Sibelius.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "Page does not say all associated colors with musical sounds"
+ },
+ {
+  "claim": "– with Sergey Brin invented Google web search engine\nWilliam Painter (1838–1906), UK/U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Rafflesia flowers smell like rotting flesh to attract carrion flies that pollinate them — earning it the name 'stinking corpse lily.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The flowers look and smell like rotting flesh. ... carrion flies ... In English, Rafflesia is known as the stinking corpse lily.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": ""
+ },
+ {
+  "claim": "Weather drones are being developed to fill the observational gap between 100 meters and 6 km above ground level, where traditional sensors are limited.",
+  "verdict": "overstated",
+  "corrected_claim": "Current weather observing methods leave an in-situ observational gap in the lower atmosphere, from 100 m to 6 km above ground level.",
+  "quote": "leave an in-situ observational gap in the lower atmosphere (from 100 m to 6 km above ground level)",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "Drone development not confirmed verbatim"
+ },
+ {
+  "claim": "Physicist Richard Feynman had grapheme-color synesthesia, seeing Bessel functions with 'light-tan j's, slightly violet-bluish n's, and dark brown x's flying around'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When I see equations, I see the letters in colors. I don't know why. I see vague pictures of Bessel functions with light-tan j's, slightly violet-bluish n's, and dark brown x's flying around.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "– electromagnetic field generator to deflect asteroids away from the Earth, an inertial mass reduction device, a room-temperature superconductor, a gravitational wave generator, and a compact fusion reactor\nAlexey Pajitnov (born 1956), Russia/U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Rafflesia lives entirely inside the tissues of Tetrastigma vines — its only visible part is the enormous flower that eventually bursts through the vine's bark.",
+  "verdict": "overstated",
+  "corrected_claim": "Rafflesia lives inside the tissue of its Tetrastigma host vine — the only part of the plant that can be seen outside the vine is its five-petalled flower.",
+  "quote": "inside the tissue of the vine ... The only part of the plant that can be seen outside the host vine is the five-petalled flower.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "'Bursts through the bark' not on page"
+ },
+ {
+  "claim": "The first weather radio broadcast in the US was made in 1925 by Edward B. Rideout on WEEI, the Edison Electric Illuminating station in Boston.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the first public radio forecasts were made in 1925 by Edward B. \"E.B.\" Rideout, on WEEI",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "Station identified as Edison Electric Illuminating station in Boston"
+ },
+ {
+  "claim": "Billie Eilish, Kanye West, Pharrell Williams, Lorde, and many other contemporary musicians have reported having synesthesia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lorde, Billie Eilish ... sees sounds and that everything he sonically makes is a painting ... also experiences synesthesia",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "– early Automobile air conditioning, shock absorbers\nWilliam Henry Perkin (1838–1907), UK – first synthetic organic chemical dye Mauveine\nHenry Perky (1843–1906), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Rafflesia has stolen a massive amount of genes from its host through horizontal gene transfer — an extremely rare phenomenon in flowering plants.",
+  "verdict": "overstated",
+  "corrected_claim": "Rafflesia is remarkable for showing a large horizontal transfer of genes from its host plants.",
+  "quote": "Rafflesia are also remarkable for showing a large horizontal transfer of genes from their host plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "'Extremely rare in flowering plants' not stated"
+ },
+ {
+  "claim": "The European Centre for Medium-Range Weather Forecasts model runs predictions 10 days into the future, while the Global Forecast System runs 16 days ahead.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is run out to 10 days into the future ... is run 16 days into the future",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": ""
+ },
+ {
+  "claim": "Isaac Newton proposed that musical tones and color tones shared common frequencies, inspiring centuries of attempts to build 'color organs' for performing colored music.",
+  "verdict": "overstated",
+  "corrected_claim": "Isaac Newton proposed that musical tones and color tones shared common frequencies — and there is a long history of building 'color organs' for colored music.",
+  "quote": "Isaac Newton proposed that musical tones and color tones shared common frequencies. ... There is a long history of building color organs such as the clavier à lumières.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "Page does not say Newton inspired the color organs"
+ },
+ {
+  "claim": "– first affordable trampoline safety net enclosure\nGeorge Pullman (1831–1897), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Some Rafflesia species may have completely lost their chloroplast genome — becoming unable to photosynthesize at all, even theoretically.",
+  "verdict": "overstated",
+  "corrected_claim": "Rafflesia lagascae may have lost the genome of its chloroplast — a loss speculated to stem from its parasitic lifestyle.",
+  "quote": "may have lost the genome of its chloroplast",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "Page names one species and calls it speculative; 'even theoretically' not stated"
+ },
+ {
+  "claim": "Klara Dan von Neumann was one of the ENIAC programmers who helped produce the first computerized weather forecast in 1950.",
+  "verdict": "overstated",
+  "corrected_claim": "ENIAC programmer Klara Dan von Neumann was part of the team that produced the first computerized weather forecast.",
+  "quote": "ENIAC programmer Klara Dan von Neumann",
+  "source_url": "https://en.wikipedia.org/wiki/Weather_forecasting",
+  "note": "1950 date not in page body"
+ },
+ {
+  "claim": "Women are six times more likely to have synesthesia than men, according to population studies conducted in Cambridge, England.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Women have a higher chance of developing synesthesia. ... females were 6 times more likely to have it",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "– Richter magnitude scale\nAdolph Rickenbacker (1886–1976), Switzerland – Electric guitar\nHyman George Rickover (1900–1986), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "The pork tapeworm Taenia solium can grow to over 8 meters (26 feet) long in the human intestine, consisting of 800-900 segments called proglottids.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is normally 2 to 3 metres (6.6 to 9.8 ft) in length, but can become much larger, sometimes over 8 metres (26 ft) long. ... The strobila is divided into segments called proglottids, 800 to 900 in number.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": ""
+ },
+ {
+  "claim": "Ball lightning typically has a diameter of 10-20 cm (4-8 inches), lasts 1 second to over a minute, and often leaves behind an odor of sulfur.",
+  "verdict": "overstated",
+  "corrected_claim": "Ball lightning is most commonly 10-20 cm (4-8 inches) across, lasts from one second to over a minute, and witnesses often report odors resembling ozone, burning sulphur or nitrogen oxides.",
+  "quote": "Their diameters range from 1–100 cm (0.4–40 inches), most commonly 10–20 cm (4–8 inches) ... The lifetime of each event is from one second to over a minute ... Odors resembling ozone, burning sulphur, or nitrogen oxides are often reported",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Odor is one of several reported, not 'often sulfur left behind'"
+ },
+ {
+  "claim": "People with spatial sequence synesthesia can recall past events in far greater detail than those without the condition, giving them superior autobiographical memory.",
+  "verdict": "overstated",
+  "corrected_claim": "People with spatial sequence synesthesia may have superior memories, with a built-in and automatic mnemonic reference.",
+  "quote": "People with SSS may have superior memories. ... spatial sequence synesthetes have a built-in and automatic mnemonic reference",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "Page hedges with 'may'; 'far greater detail' not stated"
+ },
+ {
+  "claim": "– Nuclear submarine\nNiklaus Riggenbach (1817–1899), Switzerland – Riggenbach rack railway system, Counter-pressure brake\nDennis Ritchie (1941–2011), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Tapeworms are hermaphrodites — each proglottid segment contains both male and female reproductive organs, allowing them to self-fertilize.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "each mature proglottid contains a set of male and female reproductive systems ... As a hermaphrodite, it reproduces by self-fertilisation.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": ""
+ },
+ {
+  "claim": "The earliest known reference to ball lightning dates to 1195, when monk Gervase of Canterbury described a 'marvellous sign' of a spherical fiery object near London.",
+  "verdict": "overstated",
+  "corrected_claim": "Possibly the earliest known reference to ball lightning dates to 7 June 1195, when Gervase of Canterbury recorded that 'a marvellous sign descended near London'.",
+  "quote": "contains what is possibly the earliest known reference to ball lightning, dated 7 June 1195. ... A marvellous sign descended near London",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Page says 'possibly' the earliest"
+ },
+ {
+  "claim": "The first medical description of synesthesia was published in 1812 by German physician Georg Tobias Ludwig Sachs, who himself had colored hearing.",
+  "verdict": "overstated",
+  "corrected_claim": "The first medical description of 'colored hearing' is in an 1812 thesis by the German physician Georg Tobias Ludwig Sachs.",
+  "quote": "The first medical description of 'colored hearing' is in an 1812 thesis by the German physician Georg Tobias Ludwig Sachs.",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": "Sachs having colored hearing himself not confirmed in fetched text"
+ },
+ {
+  "claim": "– Bra (Maidenform), the standard of cup sizes, nursing bra, full-figured bra, the first seamed uplift bra (all with her husband William)\nSidney Rosenthal (1907–1979), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "A single gravid tapeworm proglottid can contain over 50,000 fertilized eggs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A gravid proglottid can contain more than 50,000 embryonated eggs.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": ""
+ },
+ {
+  "claim": "The Great Thunderstorm at Widecombe-in-the-Moor church in 1638 killed 4 people when an 8-foot ball of fire reportedly struck and entered the church.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Four people died and approximately 60 suffered injuries during a severe storm. ... Witnesses described an 8-foot (2.4 m) ball of fire striking and entering the church",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": ""
+ },
+ {
+  "claim": "Vladimir Nabokov described his grapheme-color synesthesia in detail: the letter A appeared as 'weathered wood' in English but 'polished ebony' in French.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has for me the tint of weathered wood ... the French a evokes polished ebony",
+  "source_url": "https://en.wikipedia.org/wiki/Synesthesia",
+  "note": ""
+ },
+ {
+  "claim": "– Magic Marker\nEugene Roshal (born 1972), Russia – FAR file manager, RAR file format, WinRAR file archiver\nBoris Rosing (1869–1933), Russia – CRT television (first television system using cathode-ray tube on the receiving side)\nGuido van Rossum (born 1956), The Netherlands – Python (programming language)\nMichael Rothman, U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Neurocysticercosis — when pork tapeworm larvae form cysts in the brain — is the leading cause of adult-onset seizures worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "Neurocysticercosis, when pork tapeworm larvae infect the brain, is the leading cause of seizures worldwide.",
+  "quote": "Brain infection by the cysticerci is called neurocysticercosis and is the leading cause of seizures worldwide.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Source says seizures in general, not adult-onset seizures"
+ },
+ {
+  "claim": "Tsar Nicholas II reported witnessing ball lightning as a child during a church service, watching a fiery ball fly near his grandfather Alexander II.",
+  "verdict": "overstated",
+  "corrected_claim": "Tsar Nicholas II reported witnessing a fiery ball as a child while attending church with his grandfather Alexander II.",
+  "quote": "reported witnessing a fiery ball as a child attending church in the company of his grandfather Alexander II.",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Page does not say the ball flew near his grandfather"
+ },
+ {
+  "claim": "Music therapy has been shown to significantly reduce grief-related distress compared to standard counseling or psychotherapy.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2024 systematic review found structured music interventions were associated with significantly less grief-related distress.",
+  "quote": "structured music interventions were associated with significantly less grief-related distress",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "comparison to standard counseling/psychotherapy not supported"
+ },
+ {
+  "claim": "– co-founder and chief executive officer of OceanGate\n\n\n=== S ===\nAlbert Bruce Sabin (1906–1993), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Tapeworm cysts can form in the brain and grow to 20 cm in length, containing 60 ml of fluid — and 13% of neurocysticercosis patients have multiple types of cysts.",
+  "verdict": "overstated",
+  "corrected_claim": "Racemose tapeworm cysts in the brain can be 20 cm long and hold 60 ml of fluid, and 13% of neurocysticercosis patients can have all three cyst types in the brain.",
+  "quote": "They can be 20 cm (7.9 in) in length and have 60 ml (2 fl. oz.) of fluid ... 13% of patients with neurocysticercosis can have all three types in the brain.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "20 cm/60 ml applies to the racemose type only; source says all three types"
+ },
+ {
+  "claim": "Nikola Tesla reportedly could artificially produce 1.5-inch (3.8 cm) ball lightning in laboratory demonstrations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nikola Tesla reportedly could artificially produce 1.5-inch (3.8 cm) balls",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": ""
+ },
+ {
+  "claim": "In ancient China, written records describe music as essential medicine—'at the end of a song, people were safe when they were discharged'.",
+  "verdict": "overstated",
+  "corrected_claim": "An ancient Chinese claim about music's healing power holds that 'at the end of a song, people were safe when they were discharged'.",
+  "quote": "at the end of a song, people were safe when they were discharged",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "page does not describe written records calling music 'essential medicine'"
+ },
+ {
+  "claim": "– Schrader valve for Pneumatic tire\nDavid Schwarz (1852–1897), Croatia, – rigid airship, later called Zeppelin\nRaymond Scott (1908–1994), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Ascaris lumbricoides is the most common parasitic worm in humans, infecting an estimated 800 million to 1.2 billion people worldwide.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is the most common parasitic worm in humans. ... An estimated 807 million–1.2 billion people are infected with Ascaris lumbricoides worldwide.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "Source says 807 million (rounded)"
+ },
+ {
+  "claim": "Submariners in World War II reported frequent ball lightning when battery banks were switched, due to the highly inductive electrical motors.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Submariners/battery banks not mentioned on page"
+ },
+ {
+  "claim": "The Bamileke people of Cameroon use slit drums for communication, as do many African cultures where drums were considered so sacred that certain drums were fatal to see for anyone but royalty.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "believed it was so holy that seeing a drum would be fatal to any person other than the sultan",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "Page attributes the fatal-drum belief to the Wahinda (sultan), Bamileke not mentioned"
+ },
+ {
+  "claim": "– Aerosol paint\nLeonty Shamshurenkov (1687–1758), Russia – first self-propelling carriage (a precursor to both bicycle and automobile), projects of an original odometer and self-propelling sledge\nIbn al-Shatir (1304–1375), Syria – \"jewel box\" device which combined a compass with a universal sundial\nBi Sheng (Chinese: 畢昇) (c.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Female Ascaris roundworms can produce up to 200,000 eggs per day for 12-18 months.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "females produce as many as 200,000 eggs per day for 12–18 months.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "The 2014 scientific recording of natural ball lightning on the Tibetan Plateau detected silicon, calcium, iron, nitrogen, and oxygen in its emission spectrum.",
+  "verdict": "overstated",
+  "corrected_claim": "Natural ball lightning recorded on the Tibetan Plateau in July 2012 showed emission lines of silicon, calcium, iron, nitrogen and oxygen in its spectrum.",
+  "quote": "The researchers detected emission lines of neutral atomic silicon, calcium, iron, nitrogen, and oxygen ... published the results of recordings made in July 2012 of the optical spectrum",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Recording was made in 2012, not 2014"
+ },
+ {
+  "claim": "The carnyx, a Celtic war trumpet from around 300 BC, was designed with a screaming animal head that emitted harsh sounds and a clicking tongue to intimidate enemies in battle.",
+  "verdict": "overstated",
+  "corrected_claim": "The carnyx, a Celtic instrument dated to around 300 BC, was shaped like a screaming animal head held high above the players' heads, with a tongue that clicked when vibrated.",
+  "quote": "An instrument that can be attested to the Iron Age Celts is the carnyx, which is dated to c.300 BC. ... the shape of a screaming animal head which was held high above their heads ... the head also had a tongue which clicked when vibrated.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "Intimidation purpose not confirmed in fetched text"
+ },
+ {
+  "claim": "– first four-engine fixed-wing aircraft (Russky Vityaz), first airliner and purpose-designed bomber (Ilya Muromets), helicopter, Sikorsky-series helicopters\nBernard Silver (1924–1963), together with Norman Joseph Woodland (1921–2012), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Ascaris eggs can survive in soil for 10 years or more, and are resistant to bleach — they're among the hardest pathogens to kill after prions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "they can persist in soil for 10 years or more. ... Bleach does not readily kill A. lumbricoides eggs. ... its eggs are one of the most difficult pathogens to kill (second only to prions).",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "Ball lightning has been reported passing through closed windows, solid walls, and even flying through aircraft cabins without causing damage.",
+  "verdict": "overstated",
+  "corrected_claim": "Ball lightning has been reported passing through closed doors and windows, and appearing inside metal aircraft, entering and leaving without causing damage.",
+  "quote": "Some appear within buildings passing through closed doors and windows ... Some have appeared within metal aircraft and have entered and left without causing damage",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Walls not mentioned specifically"
+ },
+ {
+  "claim": "The Byzantine lyra, a bowed string instrument, is the ancestor of most European bowed instruments including the violin.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Byzantine lyra, a bowed string instrument, is an ancestor of most European bowed instruments, including the violin.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": ""
+ },
+ {
+  "claim": "– GNU operating system, GNU Emacs, GNU Compiler Collection\nLadislas Starevich (1882–1965), Russia/France – puppet animation, live-action/animated film\nGary Starkweather (1938–2019), U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Ascaris eggs have been identified in coprolites (fossilized feces) from the Americas, Europe, Africa, and the Middle East, with the oldest samples being over 24,000 years old.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Eggs of A. lumbricoides have been identified in coprolites in the Americas, Europe, Africa, the Middle East, and New Zealand ... the oldest ones being more than 24,000 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "A ball lightning in 1977 entered the Golden Temple at Amritsar, India, and exited through a side door—the incident is inscribed on the temple's front wall.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "On 30 April 1877, a ball of lightning entered the Golden Temple at Amritsar, India, and exited through a side door.",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Event was in 1877, not 1977"
+ },
+ {
+  "claim": "The first bagpipes appeared in the 9th century and spread throughout Europe, serving functions from folk instruments to military use.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The ninth century revealed the first bagpipes, which spread throughout Europe and had many uses from folk instruments to military instruments.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": ""
+ },
+ {
+  "claim": "– laser printer, color management\nJohn Kemp Starley (1855–1901), U.K.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Ascaris larvae take a bizarre migration route: they hatch in the intestines, travel through the blood to the lungs, get coughed up, swallowed again, and then mature in the intestines.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the duodenum, a single rhabditiform larva hatches from each of the ingested eggs. ... From there, the larvae then pass through the heart to enter the pulmonary circulation. ... Once in the trachea, the worms are coughed up into the pharynx and then swallowed again.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "Loganair Flight 6780 in 2014 experienced ball lightning in the forward cabin just before a nose lightning strike, causing confusion that nearly crashed the plane.",
+  "verdict": "overstated",
+  "corrected_claim": "On 15 December 2014, Loganair Flight 6780 experienced ball lightning in the forward cabin; subsequent autopilot confusion made the plane fall several thousand feet, coming within 340 m of the North Sea before recovering.",
+  "quote": "On 15 December 2014, Loganair Flight 6780 in Scotland experienced ball lightning in the forward cabin ... Due to subsequent confusion related to the autopilot, the plane fell several thousand feet ... came within 340 m (1,100 feet) of the North Sea before recovering",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": "Nose strike timing not confirmed; confusion was about the autopilot"
+ },
+ {
+  "claim": "The saxophone, invented by Adolphe Sax in 1840, grew into an entire family of instruments capable of different ranges from soprano to bass.",
+  "verdict": "overstated",
+  "corrected_claim": "New instruments such as the clarinet, saxophone, and tuba became fixtures in orchestras.",
+  "quote": "New instruments such as the clarinet, saxophone, and tuba became fixtures in orchestras.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "Adolphe Sax, 1840 date and saxophone family not on page"
+ },
+ {
+  "claim": "– First inter-computer email\nEvangelista Torricelli (1608–1647), Italy – barometer\nLinus Torvalds (born 1969), Finland/U.S.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "Female Ascaris worms can grow up to 49 cm (19 inches) long, making them clearly visible if passed in feces.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Females are 3–6 mm (0.1–0.2 in) wide and 20–49 cm (7.9–19 in) long.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "World War II pilots reported mysterious glowing balls following their aircraft, called 'foo fighters'—ball lightning has been suggested as one explanation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Pilots in World War II (1939–1945) described an unusual phenomenon ... for which ball lightning has been suggested as an explanation. ... The pilots saw small balls of light moving in strange trajectories, which came to be referred to as foo fighters.",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": ""
+ },
+ {
+  "claim": "The Moog synthesizer, developed by Robert Moog in the 1960s, revolutionized music production and led to synthesizers becoming ubiquitous in modern music.",
+  "verdict": "overstated",
+  "corrected_claim": "In the late 1960s Bob Moog and other inventors developed the first commercial synthesizers, such as the Moog synthesizer; synthesizers are now ubiquitous in modern music.",
+  "quote": "In the late 1960s, Bob Moog and other inventors developed the first commercial synthesizers, such as the Moog synthesizer. ... are ubiquitous in modern music.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "'Revolutionized music production' not stated; late 1960s"
+ },
+ {
+  "claim": "– chocolate chip cookie\nPaul Walden (1863–1957), Latvia/Russia/Germany – Walden inversion, Ethylammonium nitrate (the first room temperature ionic liquid)\nAdam Walker (1730–1821), UK – eidouranion\nMadam C.J.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_inventors",
+  "note": "page fragment"
+ },
+ {
+  "claim": "One study found that women infected with Ascaris roundworms had increased fertility compared to uninfected women — possibly due to immune system effects, despite the parasites' other negative impacts.",
+  "verdict": "overstated",
+  "corrected_claim": "One study observed increased fertility in women infected with Ascaris roundworms.",
+  "quote": "One study has observed increases in fertility in infected women.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "Immune-system explanation not in source"
+ },
+ {
+  "claim": "Laura Ingalls Wilder described ball lightning in her books: three balls appearing during a blizzard near a cast-iron stove, which her mother chased with a broom.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "three separate balls of lightning appear during a winter blizzard ... near a cast-iron stove in the family's kitchen ... only to disappear as the mother (Caroline Ingalls) chases them with a willow-branch broom.",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": ""
+ },
+ {
+  "claim": "The Hornbostel-Sachs system, developed in 1914, is the only musical instrument classification system that applies to any culture and provides unique classification for each instrument.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "published an extensive new scheme for classification in Zeitschrift für Ethnologie in 1914. ... Scholars recognize Hornbostel–Sachs as the only system that applies irrespective of culture and ... provides only one possible classification for any given instrument.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": ""
+ },
+ {
+  "claim": "The Red Queen hypothesis proposes that hosts and parasites must constantly evolve to keep up with each other — like running just to stay in place.",
+  "verdict": "overstated",
+  "corrected_claim": "The Red Queen hypothesis proposes that hosts and parasites have to change continuously to keep up with each other's adaptations — named after the Red Queen in Lewis Carroll's fiction.",
+  "quote": "both host and parasite have to change continuously to keep up with each other's adaptations ... like the description in Lewis Carroll's fiction",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page does not use the 'running to stay in place' image"
+ },
+ {
+  "claim": "Occultist Aleister Crowley reported witnessing ball lightning at Lake Pasquaney in 1916, describing it as 'dazzling' before it exploded near his knee.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "British occultist Aleister Crowley reported witnessing what he referred to as \"globular electricity\" during a thunderstorm on Lake Pasquaney ... a dazzling globe of electric fire ... was stationary about six inches [15 cm] below and to the right of my right knee. As I looked at it, it exploded with a sharp report",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": ""
+ },
+ {
+  "claim": "The violin achieved its 'classical shape' in the 16th century and has remained essentially unchanged for over 400 years.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 16th century instrument builders gave most instruments their classical shapes; violins today are largely the same as those made in the 18th and 19th centuries.",
+  "quote": "In the sixteenth century, musical instrument builders gave most instruments ... Instruments such as the violin, flute, french horn, and harp are largely the same as those manufactured throughout the eighteenth and nineteenth centuries.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "'Unchanged for over 400 years' not stated"
+ },
+ {
+  "claim": "The Red Queen hypothesis helps explain why sexual reproduction exists — it constantly creates new gene combinations that parasites haven't yet evolved to exploit.",
+  "verdict": "overstated",
+  "corrected_claim": "The Red Queen hypothesis proposes that parasitism favours sexual reproduction in hosts, because sex continually creates new combinations of genes.",
+  "quote": "sexual reproduction continually creates new combinations of genes ... parasitism favours sexual reproduction in the host",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page presents it as a proposal; 'parasites haven't yet evolved to exploit' not stated"
+ },
+ {
+  "claim": "The natural ball lightning recorded in 2012 traveled at 8.6 m/s, had a diameter of 5 meters, and showed oscillations at 100 Hz possibly from nearby power lines.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The ball lightning traveled horizontally across the video frame at an average speed equivalent of 8.6 m/s (28 ft/s). It had a diameter of 5 m (16 ft) ... Oscillations in the light intensity and in the oxygen and nitrogen emission at a frequency of 100 hertz ... possibly caused by the electromagnetic field of the 50 Hz high-voltage power transmission line in the vicinity",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": ""
+ },
+ {
+  "claim": "Concert pitch A=439 Hz was originally proposed for the 1939 international standard but changed to A=440 Hz possibly because 439 is a prime number, making it difficult to reproduce in laboratories.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The initial standard was A = 439 Hz, but this was superseded by A = 440 Hz, possibly because 439 Hz was difficult to reproduce in a laboratory since 439 is a prime number.",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": ""
+ },
+ {
+  "claim": "New Zealand freshwater snails provide evidence for the Red Queen hypothesis — populations with more parasites have significantly higher rates of sexual reproduction.",
+  "verdict": "overstated",
+  "corrected_claim": "New Zealand freshwater snails support the Red Queen hypothesis: there is a high correlation between the presence of parasites and the frequency of sexual individuals.",
+  "quote": "There is a high correlation between the presence of parasites and the frequency of sexual individuals",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page says 'high correlation', not 'significantly higher rates'"
+ },
+ {
+  "claim": "Air within clouds becomes saturated when cooled to its dew point, forming cloud droplets on condensation nuclei like salt or dust particles.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "clouds are formed as a result of saturation of the air when it is cooled to its dew point ... such as salt or dust particles that are small enough to be held aloft",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": ""
+ },
+ {
+  "claim": "Cuban orchestras tune to A=436 Hz so that strings, which are difficult to obtain due to embargoes, last longer.",
+  "verdict": "overstated",
+  "corrected_claim": "Orchestras in Cuba typically tune to A=436 Hz so that strings, which are difficult to obtain, last longer.",
+  "quote": "Orchestras in Cuba typically use A436 as the pitch so that strings, which are difficult to obtain, last longer.",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "Embargo not mentioned"
+ },
+ {
+  "claim": "Sickle cell disease persists in human populations because heterozygotes (carriers with one copy of the gene) have resistance to malaria — a classic example of host-parasite coevolution.",
+  "verdict": "overstated",
+  "corrected_claim": "Carriers of the sickle-cell allele show malaria resistance, so the heterozygote genotype is selectively favored in areas with a high incidence of malaria.",
+  "quote": "homozygote and heterozygote genotypes for the sickle-cell disease allele show malaria resistance ... As a consequence, the heterozygote genotype is selectively favored in areas with a high incidence of malaria.",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page says both homozygotes and heterozygotes show resistance; 'classic example' not stated"
+ },
+ {
+  "claim": "Jean-Baptiste Lamarck proposed a French cloud classification system in 1802, but it failed because it used informal French names instead of universal Latin.",
+  "verdict": "overstated",
+  "corrected_claim": "Jean-Baptiste Lamarck devised a cloud classification in 1802, but it failed to make an impression even in France because it used unusually descriptive and informal French names.",
+  "quote": "failed to make an impression even in his home country of France ... because it used unusually descriptive and informal French names and phrases for cloud types",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "Contrast with 'universal Latin' not in source"
+ },
+ {
+  "claim": "Baroque music ensembles typically tune to A=415 Hz, almost a semitone lower than modern concert pitch, to better match historical instrument design.",
+  "verdict": "overstated",
+  "corrected_claim": "Many modern ensembles specializing in Baroque music have agreed on A=415 Hz — close to an exact equal-tempered semitone below 440 Hz (415.305 Hz).",
+  "quote": "Many modern ensembles who specialize in the performance of Baroque music have agreed on a standard of A = 415 Hz. ... An exact equal-tempered semitone lower than 440 Hz would be 415.305 Hz",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "Reason (matching historical instruments) not stated"
+ },
+ {
+  "claim": "Scientists have reconstructed decades of coevolution by reviving dormant Daphnia and their bacterial parasites from different layers of pond sediment — proving that parasites are most effective against hosts from their own time period.",
+  "verdict": "overstated",
+  "corrected_claim": "Scientists reconstructed decades of coevolution between Daphnia magna and the bacterium Pasteuria ramosa by reanimating resting stages from laminated pond sediments, finding parasites were on average most infective with their contemporary hosts.",
+  "quote": "Decades of coevolution between Daphnia magna and the bacterium Pasteuria ramosa have been reconstructed ... reanimating resting stages of both species from laminated pond sediments ... parasites were on average most infective with their contemporary hosts",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "'Proving' too strong; page says 'on average'"
+ },
+ {
+  "claim": "Noctilucent clouds form at 'extreme level' in the mesosphere, while nacreous (mother-of-pearl) clouds form in the stratosphere.",
+  "verdict": "overstated",
+  "corrected_claim": "Noctilucent clouds are found near the top of the mesosphere at about 80 to 85 km, while nacreous clouds at stratospheric altitudes are restricted to polar regions.",
+  "quote": "are found near the top of the mesosphere at about 80 to 85 km ... nacreous and non-nacreous clouds at this altitude range are restricted to polar regions",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "'Extreme level' only a table label"
+ },
+ {
+  "claim": "The pitch convention of A=432 Hz has attracted conspiracy theories claiming healing properties or Nazi connections, though these claims have no scientific basis.",
+  "verdict": "overstated",
+  "corrected_claim": "Claims around A=432 Hz include conspiracy theories, such as specious claims of healing properties or that Nazis favored 440 Hz tuning.",
+  "quote": "These claims also include conspiracy theories, related to specious claims of healing properties from 432 Hz pitch or involving Nazis having favored the 440 Hz tuning.",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "Nazi theory concerns 440 Hz; 'no scientific basis' paraphrased"
+ },
+ {
+  "claim": "Parasites often evolve to be less lethal over time — if they kill their host too quickly, they can't spread to new hosts, creating selective pressure for reduced virulence.",
+  "verdict": "overstated",
+  "corrected_claim": "A parasite that kills its host too quickly can't reproduce either — and coevolution experiments with flour beetles and their microsporidian parasite revealed a decrease of virulence and an increase in the host's lifespan over time.",
+  "quote": "as if it kills its host too quickly, the parasite will not be able to reproduce either ... coevolutionary experiments, which revealed the decrease of virulence, a constant transmission potential and an increase in the host's lifespan over a period of time",
+  "source_url": "https://en.wikipedia.org/wiki/Host%E2%80%93parasite_coevolution",
+  "note": "Page reports one experimental system, not that parasites 'often' evolve lower lethality"
+ },
+ {
+  "claim": "Low clouds can visually mimic a tornado when orographic lift creates rotating columns that twist through cloud layers.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "Page only says a flumen accessory cloud can be mistaken for a tornado; no orographic rotating columns"
+ },
+ {
+  "claim": "In Michael Praetorius's time (early 17th century), pitch levels were at least a minor third higher than today, causing severe throat strain in singers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "pitch levels had become so high that singers were experiencing severe throat strain ... was at least a minor third higher than today's.",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": ""
+ },
+ {
+  "claim": "E. O. Wilson characterized parasites as 'predators that eat prey in units of less than one' — they consume their hosts gradually rather than all at once.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "predators that eat prey in units of less than one",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": ""
+ },
+ {
+  "claim": "Fog is simply a very low stratus cloud that has subsided to ground level, reducing visibility to less than 1 km; above 1 km visibility it's called mist.",
+  "verdict": "overstated",
+  "corrected_claim": "Low cloud at the surface is called fog if visibility is less than 1 km; if visibility is 1 km or more it is termed mist.",
+  "quote": "is given the common name fog if the prevailing surface visibility is less than 1 km ... If the visibility is 1 km or higher, the visible condensation is termed mist.",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "'Subsided stratus' framing not quoted"
+ },
+ {
+  "claim": "The Berlin Philharmonic recently lowered their tuning from 445 Hz to 443 Hz, reversing the centuries-long trend of rising pitch.",
+  "verdict": "overstated",
+  "corrected_claim": "The Berlin Philharmonic now uses a slightly lower pitch (443 Hz) than its highest previous standard (445 Hz).",
+  "quote": "now use a slightly lower pitch (443 Hz) than their highest previous standard (445 Hz)",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "'Recently' and 'reversing centuries-long trend' not stated"
+ },
+ {
+  "claim": "There are six major parasitic strategies: parasitic castration, direct transmission, trophic transmission (being eaten), vector transmission, parasitoidism, and micropredation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There are six major parasitic strategies",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": ""
+ },
+ {
+  "claim": "Cirrus clouds often form along high-altitude jet streams and can produce virga—precipitation that evaporates before reaching the ground.",
+  "verdict": "overstated",
+  "corrected_claim": "Cirrus clouds often form along a high-altitude jet stream.",
+  "quote": "They often form along a high altitude jetstream",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "Cirrus not listed among virga-producing clouds"
+ },
+ {
+  "claim": "The Treaty of Versailles (1919) included provisions about standardizing musical concert pitch at A=435 Hz, demonstrating how seriously governments took pitch standardization.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1919 Treaty of Versailles, which ended World War I, referenced the 1885 Convention regarding the establishment of a concert pitch.",
+  "quote": "Convention of 16 and 19 November 1885 regarding the establishment of a concert pitch\" in the Treaty of Versailles in 1919 which formally ended World War I",
+  "source_url": "https://en.wikipedia.org/wiki/Concert_pitch",
+  "note": "Page does not tie the treaty to A=435 Hz"
+ },
+ {
+  "claim": "Parasitic castrators don't kill their hosts — they destroy the host's ability to reproduce and redirect that energy into growing the parasite instead.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The host's other systems remain intact, allowing it to survive and to sustain the parasite.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": ""
+ },
+ {
+  "claim": "Cirrostratus clouds create halos around the Sun and Moon by refracting light through ice crystals.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "typically gives rise to halos caused by refraction of the Sun's rays",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": ""
+ },
+ {
+  "claim": "The 'Ames' Stradivarius, stolen in 1981, was recovered 34 years later in 2015, demonstrating how difficult it is to sell stolen famous instruments.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'Ames' Stradivarius was stolen in 1981 and only recovered 34 years later, in 2015.",
+  "quote": "\"The Ames Stradivarius was stolen in 1981 and recovered in 2015.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": "page does not present the Ames case as demonstrating how hard stolen instruments are to sell"
+ },
+ {
+  "claim": "Hyperparasites are parasites of parasites — there can be up to four levels of parasitism in oak gall systems, where parasites attack parasites attacking parasites.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Hyperparasites feed on another parasite. ... In oak gall systems, there can be up to four levels of parasitism.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": ""
+ },
+ {
+  "claim": "Cumulonimbus clouds can produce thunderstorms, lightning, hail, heavy rain, flash floods, downbursts, and tornadoes—all from the same cloud type.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Cumulonimbus can produce thunderstorms, local very heavy downpours of rain that may cause flash floods ... heavy snow showers, hail, strong wind shear, downbursts, and tornadoes",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": ""
+ },
+ {
+  "claim": "In 2019, a museum in Cremona, Italy created the 'Stradivarius Sound Bank', recording over one million sound files to digitally preserve these instruments' sounds for future generations.",
+  "verdict": "overstated",
+  "corrected_claim": "In January 2019, Cremona's Museo del Violino had musicians record scales and arpeggios on Stradivarius instruments, producing over one million sound files to preserve their sound.",
+  "quote": "\"In January 2019, four musicians recorded scales and arpeggios\" ... \"recorded over one million sound files\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": "page does not verbatim name it the \"Stradivarius Sound Bank\"; wording tightened to source"
+ },
+ {
+  "claim": "Malaria parasites can manipulate mosquito behavior to make them more likely to bite multiple hosts, increasing the parasite's transmission rate.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "The malaria parasite modifies the skin odour of its human hosts.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "Page describes malaria altering human skin odour, not mosquito biting behavior"
+ },
+ {
+  "claim": "Low clouds have a stronger cooling effect because they're bright and reflective, while high thin clouds cause warming because they trap outgoing radiation.",
+  "verdict": "overstated",
+  "corrected_claim": "Mid-level and low clouds have a dominant cooling effect, while high ice-crystal cirrus clouds tend to favor net warming.",
+  "quote": "the cooling effect is dominant with mid-level and low clouds ... ice-crystal clouds in the upper troposphere (cirrus) tend to favor net warming",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": "Mechanisms (bright/trap radiation) not stated"
+ },
+ {
+  "claim": "The 'Macdonald' Stradivarius viola was put up for auction in 2014 with a minimum bid of $45 million but failed to sell.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"with a minimum bid of $45 million.\" ... \"The auction failed to reach its minimum bid by 25 June 2014.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": ""
+ },
+ {
+  "claim": "Human knowledge of parasites dates back to ancient Egypt, Greece, and Rome — roundworms and tapeworms were documented thousands of years before their life cycles were understood.",
+  "verdict": "overstated",
+  "corrected_claim": "Human knowledge of parasites such as roundworms and tapeworms dates back to ancient Egypt, Greece, and Rome.",
+  "quote": "Human knowledge of parasites such as roundworms and tapeworms dates back to ancient Egypt, Greece, and Rome.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "'Thousands of years before life cycles were understood' not stated"
+ }
+]

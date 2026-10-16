@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "Stratocumulus clouds form when limited convection meets a temperature inversion layer that caps vertical development.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They generally form as a result of limited convection in an otherwise mostly stable airmass ... topped by an inversion layer",
+  "source_url": "https://en.wikipedia.org/wiki/Cloud",
+  "note": ""
+ },
+ {
+  "claim": "Some world-class soloists like Christian Tetzlaff have switched from Stradivarius instruments to modern violins, finding them better for Romantic and 20th-century music.",
+  "verdict": "overstated",
+  "corrected_claim": "Violinist Christian Tetzlaff switched from a famous Stradivarius to a violin made in 2002 by Stefan-Peter Greiner, which he finds better for the big Romantic and 20th-century concertos.",
+  "quote": "\"switched to a violin made in 2002 by Stefan-Peter Greiner\" ... \"the big Romantic and 20th-century concertos.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": "page names only Tetzlaff, not several world-class soloists"
+ },
+ {
+  "claim": "Bram Stoker's Dracula can be viewed as a story about parasitism — the vampire feeds on host blood without immediately killing, much like a real blood-feeding parasite.",
+  "verdict": "overstated",
+  "corrected_claim": "Parasitism appears in literature: in Bram Stoker's Dracula, the eponymous Count Dracula is a blood-drinking parasite — a vampire.",
+  "quote": "the eponymous Count Dracula is a blood-drinking parasite (a vampire)",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "'Without immediately killing' comparison not stated"
+ },
+ {
+  "claim": "Heinrich events during ice ages caused massive icebergs to be released into the North Atlantic, changing ocean circulation and global climate patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "Heinrich events during ice ages happened when internal instability of ice sheets released huge icebergs into the ocean, possibly driving large climate changes.",
+  "quote": "Heinrich events where internal instability of ice sheets caused huge ice bergs to be released into the ocean",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "'North Atlantic' and ocean-circulation detail not stated"
+ },
+ {
+  "claim": "The maple wood Stradivari used may have been sourced from Croatian forests, known for extremely dense wood due to harsh winters causing slow growth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"the maple wood used was sourced from the forests of northern Croatia\" ... \"extreme density resulting from the slow growth caused by harsh Croatian winters.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": "page presents it as one theory (citation needed); claim is hedged with \"may\""
+ },
+ {
+  "claim": "The word 'parasite' comes from Greek παράσιτος meaning 'one who eats at the table of another' — originally used to describe humans who obtained free meals from others.",
+  "verdict": "overstated",
+  "corrected_claim": "The word 'parasite' comes from the Ancient Greek for 'one who eats at the table of another', and first appeared in English in 1539.",
+  "quote": "'one who eats at the table of another'",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "Original use for free-meal seekers not confirmed"
+ },
+ {
+  "claim": "The Carboniferous Rainforest Collapse 300 million years ago was caused by climate change that devastated tropical rainforests across Europe and America.",
+  "verdict": "overstated",
+  "corrected_claim": "The Carboniferous Rainforest Collapse, an extinction event 300 million years ago, happened when climate change devastated tropical rainforests.",
+  "quote": "An example of this occurred during the Carboniferous Rainforest Collapse (CRC), an extinction event 300 million years ago. Climate change devastated these tropical rainforests",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "'Across Europe and America' not stated"
+ },
+ {
+  "claim": "CT scans of a Stradivarius named the 'Betts' have been used to create reproduction instruments, but none have matched the original's reputation.",
+  "verdict": "overstated",
+  "corrected_claim": "CT scans of a Stradivarius known as the 'Betts' measured the differing densities of its woods, and that data was used to create a reproduction instrument.",
+  "quote": "\"Data regarding the differing densities of woods used were then used to create a reproduction instrument.\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": "page does not say reproductions failed to match the original's reputation"
+ },
+ {
+  "claim": "Some caterpillars self-medicate when parasitized by eating plants toxic to both themselves and their parasites — preferring treatment over perfect health.",
+  "verdict": "overstated",
+  "corrected_claim": "Some caterpillars cure themselves of parasitoid wasps by eating plants that are toxic to both themselves and the parasite.",
+  "quote": "Certain caterpillars eat plants that are toxic to both themselves and the parasite to cure themselves.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "'preferring treatment over perfect health' not in source"
+ },
+ {
+  "claim": "The Azolla Event 49 million years ago—800,000 years of arctic fern blooms—reversed global warming by pulling CO2 from the atmosphere.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "reversal of global warming 49 million years ago by 800,000 years of arctic azolla blooms",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "Stradivari used an inner form to build his instruments, while French makers like Vuillaume used an outer form, representing different lutherie traditions.",
+  "verdict": "overstated",
+  "corrected_claim": "Stradivari built his instruments using an inner form, while the French copyist Vuillaume used an outer form.",
+  "quote": "\"Stradivari made his instruments using an inner form.\" ... \"Vuillaume, who employed an outer form,\"",
+  "source_url": "https://en.wikipedia.org/wiki/Stradivarius",
+  "note": "\"different lutherie traditions\" not stated"
+ },
+ {
+  "claim": "Aphids have a symbiotic bacteria that makes them almost immune to parasitoid wasps — the bacteria kills many wasp eggs before they can develop.",
+  "verdict": "overstated",
+  "corrected_claim": "Aphids carrying a particular symbiotic bacterium (a γ-3 Pseudomonadota) are relatively immune to parasitoid wasps.",
+  "quote": "the presence of a particular species of γ-3 Pseudomonadota makes the aphid relatively immune",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "source says 'relatively immune', not 'almost immune'"
+ },
+ {
+  "claim": "The Paleocene-Eocene Thermal Maximum 55 million years ago was terminated by flourishing marine phytoplankton that absorbed atmospheric CO2.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "termination of the Paleocene–Eocene Thermal Maximum 55 million years ago by flourishing marine phytoplankton",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "Toothed whales produce sounds using 'phonic lips' in their nasal cavity, not vocal cords, and can recycle air to continue making sounds indefinitely.",
+  "verdict": "overstated",
+  "corrected_claim": "Toothed whales make sounds by passing air past 'phonic lips' in their nasal complex, and the air may then be recycled back into the lower nasal complex.",
+  "quote": "Once the air has passed the phonic lips it enters the vestibular sac. From there, the air may be recycled back into the lower part of the nasal complex,",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "'Indefinitely' and 'not vocal cords' not stated in fetched text"
+ },
+ {
+  "claim": "Some wasps have countered aphid defenses by laying more eggs in aphids that carry the protective bacteria, hoping at least one will survive.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "some parasitoid wasps have developed the counterstrategy of laying more eggs in aphids that have the endosymbiont",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": ""
+ },
+ {
+  "claim": "During the supercontinent Pangaea, climate modeling suggests that the landmass was conducive to establishing megamonsoon circulation patterns.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Geologic evidence points to a \"megamonsoonal\" circulation pattern during the time of the supercontinent Pangaea",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "Every toothed whale except the sperm whale has two sets of phonic lips and can make two sounds independently and simultaneously.",
+  "verdict": "overstated",
+  "corrected_claim": "Every toothed whale except the sperm whale has two sets of phonic lips.",
+  "quote": "Every toothed whale except the sperm whale has two sets of phonic lips",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Independent simultaneous sounds not confirmed in fetched text"
+ },
+ {
+  "claim": "The polydnavirus genes found in parasitoid wasps have become permanently incorporated into wasp DNA and are inherited — a virus that became an essential body part.",
+  "verdict": "overstated",
+  "corrected_claim": "In some parasitoid wasps, a polydnavirus has been incorporated into the wasp's genome and is inherited — an obligatory partnership between wasp and virus.",
+  "quote": "the virus has been incorporated in the wasp's genome and is inherited.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "'essential body part' is an embellishment"
+ },
+ {
+  "claim": "CERN's CLOUD experiment showed that cosmic rays are too weak to significantly influence climate through cloud formation, debunking a popular alternative theory.",
+  "verdict": "overstated",
+  "corrected_claim": "CERN's CLOUD experiment showed that the effect of cosmic rays is too weak to influence climate noticeably.",
+  "quote": "CERN designed the CLOUD experiment, which showed the effect of cosmic rays is too weak to influence climate noticeably.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "'Debunking a popular alternative theory' not stated"
+ },
+ {
+  "claim": "Whale sounds discovered during World War II were initially suspected to be Soviet submarine signals before researcher William Schevill identified them as whale vocalizations.",
+  "verdict": "overstated",
+  "corrected_claim": "During World War II, the US military suspected low-frequency underwater blips were used by the Soviets to locate American submarines; William Schevill later produced the first recordings of underwater whale sounds.",
+  "quote": "The US military suspected that low frequency blips were being used by the Soviets to locate American submarines, ... Schevill produced the first recordings of underwater whale sounds and extrapolated their purpose from these recordings.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Page does not directly say Schevill identified those specific sounds as whales"
+ },
+ {
+  "claim": "Parasitoid wasps can detect their prey by 'feeling' vibrations caused by hosts moving inside plant tissue — hunting by touch rather than sight.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "page does not mention detecting hosts by vibration"
+ },
+ {
+  "claim": "Half the 2021 Nobel Prize in Physics was awarded for discovering how climate noise becomes climate signal through ocean inertia effects.",
+  "verdict": "overstated",
+  "corrected_claim": "Klaus Hasselmann, jointly with Syukuro Manabe, received half of the 2021 Nobel Prize in Physics for work on how climate variability builds up into longer climate oscillations.",
+  "quote": "Half of the 2021 Nobel prize on physics was awarded for this work to Klaus Hasselmann jointly with Syukuro Manabe.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "'Climate noise to signal through ocean inertia' wording not found verbatim"
+ },
+ {
+  "claim": "Songs of the Humpback Whale, released in 1970 by Katy and Roger Payne, was a bestselling album that sparked public awareness of whale songs.",
+  "verdict": "overstated",
+  "corrected_claim": "Katy and Roger Payne released the best-selling album Songs of the Humpback Whale in 1970.",
+  "quote": "The Paynes released the best-selling Songs of the Humpback Whale in 1970.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Sparking public awareness not stated in fetched text"
+ },
+ {
+  "claim": "Female parasitoid wasps mark hosts they've already parasitized with chemical signals to avoid wasting eggs on occupied hosts.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some parasitoid wasps mark the host with chemical signals to show that an egg has been laid there. This may both deter rivals from ovipositing and signal to itself that no further egg is needed",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": ""
+ },
+ {
+  "claim": "Nuclear winter theory predicts that soot from nuclear war could block enough sunlight to cause sharp temperature drops for several years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The hypothesis is that soot released by large-scale fires blocks a significant fraction of sunlight for as much as a year ... This possible event is described as nuclear winter.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": ""
+ },
+ {
+  "claim": "Whales adjust their songs to compensate for background noise pollution, a phenomenon called the Lombard effect, also observed in humans.",
+  "verdict": "overstated",
+  "corrected_claim": "Whales adjust their songs to compensate for background noise pollution, a process called the Lombard effect.",
+  "quote": "An important finding is that whales, in a process called the Lombard effect, adjust their song to compensate for background noise pollution.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Observation in humans not stated"
+ },
+ {
+  "claim": "Koinobiont parasitoid wasps let their host continue eating and growing — the host unknowingly feeds itself and the parasites consuming it from within.",
+  "verdict": "overstated",
+  "corrected_claim": "Koinobiont parasitoid wasps lay eggs inside a host that keeps on feeding, developing and moulting while the larvae grow within it.",
+  "quote": "koinobiont, allowing the host to continue to feed, develop, and moult.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "'feeds the parasites' framing goes beyond source wording"
+ },
+ {
+  "claim": "The formation of the Antarctic Circumpolar Current, enabled by continental drift creating a gap around Antarctica, keeps warm waters away from the continent.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "Antarctic Circumpolar Current not mentioned on page"
+ },
+ {
+  "claim": "Dolphins use 'signature whistles' as individual names, developing unique sounds at 4-6 months of age that they use most frequently throughout their lives.",
+  "verdict": "overstated",
+  "corrected_claim": "Dolphin calves develop unique signature sounds at four to six months old that they use most frequently throughout their lives, and these may serve as a form of identification.",
+  "quote": "Four- to six-month-old calves develop unique sounds that they use most frequently throughout their lives. ... are distinctive to the individual and may serve as a form of identification among other odontocetes.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Page hedges ('may serve as identification'), not 'names'"
+ },
+ {
+  "claim": "Some parasitoid wasps produce hormones that mimic their host's molting hormones, controlling when the caterpillar sheds its skin to match the wasp's development schedule.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "page does not mention wasp hormones mimicking molting hormones"
+ },
+ {
+  "claim": "Tree ring analysis for climate study wasn't solidly established as a science until the 1960s, despite earlier pioneering work.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_variability_and_change",
+  "note": "No 1960s date for tree-ring science on page"
+ },
+ {
+  "claim": "Humpback whales produce notes ranging from 20 Hz to above 24 kHz, spanning both infrasonic and near-ultrasonic ranges.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "These sounds vary in frequency from 20 Hz to upward of 24 kHz (the typical human range of hearing is 20 Hz to 20 kHz).",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": ""
+ },
+ {
+  "claim": "Spider wasps (Pompilidae) exclusively attack spiders, which are fast and dangerous prey — the wasp must be quicker, rapidly stinging to paralyze the spider before it can strike back.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "quick and dangerous prey, often as large as the wasp itself.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "source: Pompilidae exclusively attack spiders; wasp is quicker and stings to immobilise"
+ },
+ {
+  "claim": "Relative humidity is decreasing over land even as absolute humidity increases, because land is warming faster than the ocean.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Relative humidity (RH) stays practically constant over the oceans, but it decreases over land. ... the absolute amount of water vapor will increase as the atmosphere warms. ... land experiences faster warming than the ocean.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "Killer whales produce long-range calls traveling 10-16 km for foraging and short-range calls traveling 5-9 km during social and resting periods.",
+  "verdict": "overstated",
+  "corrected_claim": "Killer whale long-range calls travel 10-16 km, while short-range calls, reported during social and resting periods, travel 5-9 km.",
+  "quote": "travelling distances from 10–16 km (6.2–9.9 mi) ... can travel distances from 5–9 km (3.1–5.6 mi) ... Short range calls are reported during social and resting periods",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Foraging use of long-range calls not confirmed"
+ },
+ {
+  "claim": "The 'wasp waist' — a constriction in the abdomen of Apocrita — evolved to give the ovipositor greater maneuverability, contributing to explosive species diversification.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "contributed to rapid diversification as it increased the maneuverability of the ovipositor.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": ""
+ },
+ {
+  "claim": "The combined change in all sea ice cover between 1992 and 2018 created a warming effect equivalent to 10% of all human greenhouse gas emissions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is equivalent to 10% of all the anthropogenic greenhouse gas emissions.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "At least nine separate acoustic populations of blue whales exist worldwide, identifiable by their distinct song types.",
+  "verdict": "overstated",
+  "corrected_claim": "There are at least nine separate blue whale acoustic populations worldwide.",
+  "quote": "There are at least nine separate blue whale acoustic populations worldwide.",
+  "source_url": "https://en.wikipedia.org/wiki/Whale_vocalization",
+  "note": "Identification by song types not confirmed in fetched text"
+ },
+ {
+  "claim": "Host caterpillars may try to bite, wriggle, thrash, or drop off plants to escape parasitoid wasps — wriggling can sometimes cause the wasp to miss and lay its egg nearby instead of inside the host.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some caterpillars even bite the female wasps that approach them. ... dropping off the plant they are on, twisting and thrashing to dislodge or kill the female. ... The wriggling can sometimes help by causing the wasp to 'miss' laying the egg on the host.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": ""
+ },
+ {
+  "claim": "Anthropogenic climate change alone cannot cause a runaway greenhouse effect like on Venus—the Planck response creates a strong stabilizing effect.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "anthropogenic climate change alone cannot cause a runaway greenhouse effect. ... It is a strong stabilizing response.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "People with absolute pitch can identify not just musical notes but also everyday sounds like car horns and alarms by their pitch.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Name the pitches of common everyday sounds such as car horns and alarms.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": ""
+ },
+ {
+  "claim": "Parasitoid wasps are themselves vulnerable to hyperparasitoid wasps — and some have evolved to make their caterpillar hosts guard their pupae from these attackers.",
+  "verdict": "overstated",
+  "corrected_claim": "Parasitoid wasps are themselves vulnerable to hyperparasitoid wasps, and some make their caterpillar host build a silk web around the wasp pupae to protect them.",
+  "quote": "Parasitoid wasps are vulnerable to hyperparasitoid wasps. ... build a silk web around the pupae of the wasps after they emerge from its body",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitoid_wasp",
+  "note": "source says host builds silk web, not 'guards'"
+ },
+ {
+  "claim": "Ice-albedo feedback strength peaks around 2100 under high warming scenarios and declines afterwards because most easily melted ice will already be gone.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "models project that under high warming, its strength peaks around 2100 and declines afterwards.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "Absolute pitch is not related to superior hearing ability—it's a cognitive skill involving pitch memory and labeling, not keener perception.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An absolute listener's sense of hearing is typically no keener than that of a non-absolute (\"normal\") listener. ... Absolute pitch is an act of cognition, needing memory of the frequency, a label for the frequency",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": ""
+ },
+ {
+  "claim": "Mistletoe spreads using sticky seeds that adhere to birds — the seeds pass through the digestive system and are deposited on new branches where they germinate.",
+  "verdict": "overstated",
+  "corrected_claim": "Mistletoe seeds are sticky: they cling to nearby animals and birds and are then brought into direct contact with a host.",
+  "quote": "The seed sticks to nearby animals and birds and then comes into direct contact with the host.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Digestion route and germination on branches not stated for mistletoe"
+ },
+ {
+  "claim": "Permafrost thaw produces both CO2 and methane in ways that are difficult to model, creating significant uncertainty in carbon cycle predictions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "permafrost thaw produces both CO2 and methane emissions in ways that are difficult to model.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "No adult has ever been documented to have acquired true absolute pitch through training, though some can develop 'pseudo-absolute pitch' that resembles it superficially.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "A 2019 study reported adults acquiring absolute pitch performance indistinguishable from lifelong possessors.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "Source reports adults acquiring AP-level performance through training"
+ },
+ {
+  "claim": "Some mistletoe seeds can explosively launch themselves up to 15 meters to reach new host trees.",
+  "verdict": "overstated",
+  "corrected_claim": "Dwarf mistletoe (Arceuthobium) mainly disperses its seeds by exploding fruit.",
+  "quote": "they mainly disperse by fruit explosiveness",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Explosive dispersal is described for dwarf mistletoe (Arceuthobium); 15 m distance not on page"
+ },
+ {
+  "claim": "The Clausius-Clapeyron relation predicts approximately 7% more water vapor in the atmosphere for every 1°C of warming.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": "Page gives no ~7% per 1°C figure"
+ },
+ {
+  "claim": "People with absolute pitch identify C-major notes (the white keys) faster and more reliably than the five 'black key' notes, reflecting greater musical exposure to these tones.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "identified the C-major tones more reliably and, except for B, more quickly than the five \"black key\" tones ... which corresponds to the higher prevalence of these tones in ordinary musical experiences.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "Except B for speed"
+ },
+ {
+  "claim": "Strigolactones — the chemicals that trigger parasitic plant germination — are also signals that help plants form beneficial relationships with mycorrhizal fungi.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Strigolactone stimulates ethylene biosynthesis in seeds causing them to germinate. ... Strigolactone also cues the growth of mycorrhizal fungus.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": ""
+ },
+ {
+  "claim": "Melt ponds on sea ice have lower albedo than white ice, creating a local feedback that accelerates melting.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": "Page does not mention melt ponds"
+ },
+ {
+  "claim": "Mandarin Chinese speakers speak words at the same absolute pitch (within a quarter-tone) on different days, suggesting absolute pitch develops through tonal language learning.",
+  "verdict": "overstated",
+  "corrected_claim": "Speakers of Sino-Tibetan tone languages have been found to speak a word in the same absolute pitch (within a quarter-tone) on different days.",
+  "quote": "speak a word in the same absolute pitch (within a quarter-tone) on different days.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "Source says Sino-Tibetan speakers; developmental conclusion not stated"
+ },
+ {
+  "claim": "Host plants defend against parasitic plants by thickening cell walls, secreting germination inhibitors, and creating toxic environments at attachment sites.",
+  "verdict": "overstated",
+  "corrected_claim": "Host plants fight parasitic plants by reinforcing their cell walls, secreting germination inhibitors, and creating a toxic environment for the parasite.",
+  "quote": "secrete germination inhibitors ... creates a toxic environment for the parasitic plant",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Page describes cell wall reinforcement by protein cross-linking, not thickening"
+ },
+ {
+  "claim": "Low clouds cool the Earth while high clouds warm it; climate change is expected to shift cloud distributions in ways that reduce overall cooling.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Low clouds are bright and very reflective, so they lead to strong cooling. ... high clouds are too thin and transparent to effectively reflect sunlight, so they cause overall warming. ... climate change is expected to alter the distribution of cloud types in a way which collectively reduces their cooling.",
+  "source_url": "https://en.wikipedia.org/wiki/Climate_feedback",
+  "note": ""
+ },
+ {
+  "claim": "People without perfect pitch can often sing familiar songs in the correct key and recognize when TV themes have been shifted to the wrong key.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "People who are not skilled singers will often sing popular songs in the correct key ... can usually recognize when TV themes have been shifted into the wrong key.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": ""
+ },
+ {
+  "claim": "Beech drops (Epifagus virginiana) are among the most specialized parasitic plants — they can only parasitize American beech trees and no other species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is a root holoparasite only on American beech.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": ""
+ },
+ {
+  "claim": "Tropical cyclones mix ocean layers, inserting heat deeper into the water with potential effects on global climate patterns.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the mixing of the sea can result in heat being inserted in deeper waters, with potential effects on global climate.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "The drug valproate (an antiseizure medication) may help adults learn pitch identification better, possibly by reopening critical period plasticity in the brain.",
+  "verdict": "overstated",
+  "corrected_claim": "In a 2013 study, adults taking the antiseizure drug valproate learned to identify pitch significantly better than those taking a placebo.",
+  "quote": "learned to identify pitch significantly better than those taking placebo",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": "Critical-period mechanism not tied verbatim to valproate"
+ },
+ {
+  "claim": "Even aquatic environments have parasitic plants — including freshwater algae that parasitize shrimp, growing filaments into their muscle tissue.",
+  "verdict": "overstated",
+  "corrected_claim": "Even freshwater has a parasitic plant: the alga Cladogonium ogishimae parasitizes a variety of shrimp species, growing filaments into their muscle.",
+  "quote": "parasitizing on a variety of shrimp species ... filaments grow into the muscle",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Page describes a single freshwater alga species (Cladogonium ogishimae), not algae generally"
+ },
+ {
+  "claim": "The Fujiwhara effect causes two nearby tropical cyclones to orbit each other, with the weaker one often dissipating.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When two cyclones approach one another, their centers will begin orbiting cyclonically about a point between the two systems. ... can weaken and ultimately result in the dissipation of the weaker of two tropical cyclones",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "People with Williams syndrome have a higher prevalence of absolute pitch than the general population.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Absolute pitch ability has higher prevalence among those with Williams syndrome.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": ""
+ },
+ {
+  "claim": "Parasitic plants can be keystone species that control invasive plants more than native species — naturally limiting ecological damage from invasive species.",
+  "verdict": "overstated",
+  "corrected_claim": "Some parasitic plants damage invasive species more than native ones, and parasitism has been shown to help keep invasive species under control.",
+  "quote": "Some parasitic plants damage invasive species more than native species.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Page qualifies with 'some'; keystone framing is softer"
+ },
+ {
+  "claim": "Hurricanes rotate counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere due to the Coriolis effect.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "with their surface winds blowing counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere. ... The opposite direction of circulation is due to the Coriolis effect.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "Absolute pitch may actually hinder some musical tasks like transposition, as possessors can become confused by 'wrong' pitches that are in tune relatively.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a musician with absolute pitch may become confused upon perceiving tones believed to be \"wrong\" ... The relative pitch of the notes may be in tune to each other, but out of tune to the standard pitch.",
+  "source_url": "https://en.wikipedia.org/wiki/Absolute_pitch",
+  "note": ""
+ },
+ {
+  "claim": "Some parasitic plants can detect light reflecting from nearby plants and use chlorophyll levels to select hosts with more sugar content.",
+  "verdict": "overstated",
+  "corrected_claim": "Some studies suggest that dodders can use light reflecting from nearby plants to select hosts with higher sugar content.",
+  "quote": "Some studies suggest that by using light reflecting from nearby plants dodders can select hosts with higher sugar",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitic_plant",
+  "note": "Page limits this to dodders and hedges with 'some studies suggest'; chlorophyll not stated"
+ },
+ {
+  "claim": "The Northwest Pacific sees tropical cyclones year-round, making it the most active basin with an average of 26 storms per year.",
+  "verdict": "overstated",
+  "corrected_claim": "The Northwest Pacific sees tropical cyclones year-round, with a minimum in February and March and a peak in early September.",
+  "quote": "The Northwest Pacific sees tropical cyclones year-round, with a minimum in February and March and a peak in early September.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": "Page does not call it the most active basin or state 26 storms in text"
+ },
+ {
+  "claim": "Research indicates that music therapy produces highly significant improvements in social behaviors and reduces agitated behaviors in people with dementia.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "music therapy produces highly significant improvements in social behaviors ... reductions in agitated behaviors",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": ""
+ },
+ {
+  "claim": "Toxoplasma infection in humans has been associated with subtle personality changes, increased risk-taking behavior, and even higher rates of traffic accidents — though these associations are debated.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Infected subjects have a 2.65 times higher risk of getting into a traffic accident. ... Many of these associations have been debated and one study conducted in 2016 has found them to be weak.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "Ten warning centers worldwide are designated by the World Meteorological Organization to issue tropical cyclone advisories for their regions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ten of these warning centers worldwide are designated as either a Regional Specialized Meteorological Centre or a Tropical Cyclone Warning Centre",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "Patients with non-fluent aphasia who cannot speak can often still sing words and phrases they cannot otherwise express.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "patients with non-fluent aphasia are often able to sing words, phrases, and even sentences",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": ""
+ },
+ {
+  "claim": "Toxoplasma tissue cysts can persist in the brain and other organs for the lifetime of the host, periodically rupturing and re-encysting.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Tissue cysts can be maintained in host tissue for the lifetime of the animal. ... the perpetual presence of cysts appears to be due to a periodic process of cyst rupturing and re-encysting",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "Kelvin waves regulate tropical cyclone development by influencing the westerlies, with formation reduced 3 days before the wave crest and increased 3 days after.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Kelvin waves can contribute to tropical cyclone formation by regulating the development of the westerlies. ... Cyclone formation is usually reduced 3 days prior to the wave's crest and increased during the 3 days after.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "Rhythmic stimuli help balance training for people with brain injuries because the brain's motor systems respond strongly to rhythm.",
+  "verdict": "overstated",
+  "corrected_claim": "Rhythmic stimuli have been found to help balance training for people with a brain injury.",
+  "quote": "Rhythmic stimuli has been found to help balance training for those with a brain injury.",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "causal explanation (motor systems respond to rhythm) not on page"
+ },
+ {
+  "claim": "Toxoplasma infection depletes tryptophan in the host's brain by activating enzymes that break down this amino acid — potentially contributing to depression-like effects.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The IFN-γ-mediated activation of IDO and TDO is an evolutionary mechanism that serves to starve the parasite ... but it can result in depletion of tryptophan in the brain of the host. ... Low levels of tryptophan and serotonin in the brain were already associated with depression.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "Rossby waves can help form new tropical cyclones by transferring energy from existing mature storms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Rossby waves can aid in the formation of a new tropical cyclone by disseminating the energy of an existing, mature storm.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "Music therapy has been shown to lower cortisol levels, providing biochemical evidence that music reduces stress.",
+  "verdict": "overstated",
+  "corrected_claim": "There is evidence that receptive music therapy brings biochemical changes such as lowered cortisol levels.",
+  "quote": "There is also evidence of biochemical changes (e.g., lowered cortisol levels).",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "'shown to' and stress-reduction conclusion stronger than page"
+ },
+ {
+  "claim": "T. gondii has three main genetic lineages (Types I, II, and III) that emerged from a common ancestor only about 10,000 years ago — suggesting a recent population expansion.",
+  "verdict": "overstated",
+  "corrected_claim": "T. gondii is dominated by three clonal lineages (Types I, II and III), whose common ancestor was estimated to have existed about 10,000 years ago.",
+  "quote": "dominated by three clonal lineages called Types I, II and III ... They estimated that a common ancestor existed about 10,000 years ago.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": "'recent population expansion' inference not stated in fetched text"
+ },
+ {
+  "claim": "The African easterly jet contributes to cyclone formation in the Atlantic by creating areas of atmospheric instability.",
+  "verdict": "overstated",
+  "corrected_claim": "The African easterly jet and areas of atmospheric instability give rise to cyclones in the Atlantic Ocean and Caribbean Sea.",
+  "quote": "the African easterly jet and areas of atmospheric instability give rise to cyclones in the Atlantic Ocean and Caribbean Sea",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": "Page lists jet and instability as joint factors, not jet creating instability"
+ },
+ {
+  "claim": "Researchers at Baylor University are studying whether harmonica playing can improve lung function in patients with COPD.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "studying the effect of harmonica playing on patients with COPD to determine if it helps improve lung function.",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": ""
+ },
+ {
+  "claim": "Pregnant women are advised not to clean cat litter boxes because Toxoplasma infection during pregnancy can cause severe birth defects including blindness and brain damage.",
+  "verdict": "overstated",
+  "corrected_claim": "Pregnant women should not change or handle cat litter boxes because they are at higher risk of passing Toxoplasma to their unborn child.",
+  "quote": "Pregnant women are at higher risk of transmitting the parasite to their unborn child ... Because of this, they should not change or handle cat litter boxes.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": "specific birth defects (blindness, brain damage) not on page"
+ },
+ {
+  "claim": "La Niña years increase hurricane landfalls in China and intensify storms in the Philippines by shifting the subtropical ridge westward.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "along with the subtropical ridge position, shifts westward across the western Pacific Ocean, which increases the landfall threat to China and much greater intensity in the Philippines.",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "The Bonny Method of Guided Imagery and Music uses classical music selections to guide patients to higher states of consciousness for healing.",
+  "verdict": "overstated",
+  "corrected_claim": "The Bonny Method of Guided Imagery and Music uses music, usually classical, to guide patients to a higher state of consciousness.",
+  "quote": "The piece is usually classical. ... the patient to a higher state of consciousness.",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "music is 'usually' classical"
+ },
+ {
+  "claim": "Infected mice lose their fear not just of cat urine, but of predators in general — showing reduced anxiety and increased exploratory behavior.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "infection in mice lowers general anxiety, increases explorative behaviors ... increases a loss of aversion to predators in general",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "El Niño reduces Atlantic hurricane activity through increased vertical wind shear across the basin.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Atlantic Ocean experiences depressed activity due to increased vertical wind shear across the region during El Niño years",
+  "source_url": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+  "note": ""
+ },
+ {
+  "claim": "Children in music therapy groups showed 43% decrease in grief process scale scores, demonstrating music's effectiveness in helping bereaved adolescents.",
+  "verdict": "overstated",
+  "corrected_claim": "In a study of bereaved adolescents receiving music therapy, the mean grief process scale score decreased by 43%.",
+  "quote": "the mean GPS (grief process scale) score decreased by 43%.",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "study was of adolescents, not children; 'demonstrating effectiveness' overstated"
+ },
+ {
+  "claim": "Toxoplasma can be transmitted sexually in some animals including rats, sheep, and dogs — not just through the usual routes of ingestion.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In warm-blooded animals, such as brown rats, sheep, and dogs, T. gondii has also been shown to be sexually transmitted.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "Hurricanes can generate lightning, mainly in rainbands up to 160 km from the center, though they produce less lightning than typical thunderstorms.",
+  "verdict": "overstated",
+  "corrected_claim": "Hurricanes typically generate some lightning, mainly in their rainbands as far as 160 km from the center.",
+  "quote": "Hurricanes typically generate some lightning, mainly in the rainbands as much as 160 km (99 mi) from the center.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "page does not say hurricanes produce less lightning than typical thunderstorms"
+ },
+ {
+  "claim": "Music therapy may help children with autism improve motor and attention skills as well as social communication and language acquisition.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Music may help people with autism hone their motor and attention skills as well as healthy neurodevelopment of socio-communication and interaction skills.",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": ""
+ },
+ {
+  "claim": "Certain human genetic variants in the immune system (specific HLA alleles) make some people much more susceptible to Toxoplasma infection than others.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Individuals carrying certain genetic sequences of MHC molecules are much more likely to be infected with Toxoplasma.",
+  "source_url": "https://en.wikipedia.org/wiki/Toxoplasma_gondii",
+  "note": ""
+ },
+ {
+  "claim": "The dielectric strength of moist air is about 3 MV/m—when the local electric field exceeds this, lightning discharge occurs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When the local electric field exceeds the dielectric strength of damp air (about 3 MV/m),",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Listening to music may improve heart rate, respiratory rate, and blood pressure in patients with coronary heart disease.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Listening to music may improve heart rate, respiratory rate, and blood pressure in those with coronary heart disease (CHD).",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": ""
+ },
+ {
+  "claim": "The malaria parasite was discovered by Charles Louis Alphonse Laveran in 1880 in Algeria — he won the Nobel Prize in 1907, but his discovery was initially dismissed because scientists believed a bacterium caused malaria.",
+  "verdict": "overstated",
+  "corrected_claim": "Charles Louis Alphonse Laveran identified the malaria parasite in 1880 at Bône (now Annaba, Algeria) and won the 1907 Nobel Prize, but his discovery was received with skepticism because leading physicians claimed a bacterium caused malaria.",
+  "quote": "correctly identified the parasite as a causative pathogen of malaria in 1880. ... (now Annaba in Algeria) ... Laveran was awarded the Nobel Prize in Physiology or Medicine in 1907 for his work. ... his discovery was received with skepticism, mainly because by that time, leading physicians",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page says received with skepticism, not dismissed"
+ },
+ {
+  "claim": "Volcanic eruptions produce lightning through charge separation in ash clouds—the same basic process as thunderstorm lightning.",
+  "verdict": "overstated",
+  "corrected_claim": "Lightning can occur during volcanic eruptions, as well as during dust storms, forest fires and tornadoes.",
+  "quote": "Lightning can also occur during dust storms, forest fires, tornadoes, volcanic eruptions,",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "page does not explain the volcanic lightning mechanism"
+ },
+ {
+  "claim": "Music therapy is distinct from 'sound healing'—music therapy is regulated and evidence-based, while sound healing is an unregulated alternative therapy.",
+  "verdict": "overstated",
+  "corrected_claim": "Unlike music therapy, which is regulated, sound healing is unregulated and an alternative therapy.",
+  "quote": "Unlike music therapy, sound healing is unregulated and an alternative therapy.",
+  "source_url": "https://en.wikipedia.org/wiki/Music_therapy",
+  "note": "'evidence-based' contrast not stated on page"
+ },
+ {
+  "claim": "Ronald Ross discovered that mosquitoes transmit malaria in 1897, but initially proved this in bird malaria — Giovanni Battista Grassi demonstrated human transmission the following year.",
+  "verdict": "overstated",
+  "corrected_claim": "Ronald Ross discovered in 1897 that malarial parasites lived in certain mosquitoes and showed a bird malaria parasite could be transmitted by mosquitoes; Giovanni Battista Grassi demonstrated that P. falciparum was transmitted in humans only by female Anopheles mosquitoes.",
+  "quote": "Ross discovered in 1897 that malarial parasites lived in certain mosquitoes. ... a malarial parasite of birds (Plasmodium relictum) could be transmitted by mosquitoes ... Grassi demonstrated that P. falciparum was transmitted in humans only by female anopheline mosquitos",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "'The following year' timing not confirmed in fetched text"
+ },
+ {
+  "claim": "Dust storms and forest fires can both produce lightning through charge separation in suspended particles.",
+  "verdict": "overstated",
+  "corrected_claim": "Lightning can occur not only in thunderstorms but also during dust storms, forest fires, tornadoes and volcanic eruptions.",
+  "quote": "Lightning can also occur during dust storms, forest fires, tornadoes, volcanic eruptions,",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "page does not give the charge-separation mechanism for dust storms/fires"
+ },
+ {
+  "claim": "Al-Biruni, a medieval Islamic scholar, postulated around 1000 AD that sound traveled much slower than light—centuries before this was scientifically measured.",
+  "verdict": "overstated",
+  "corrected_claim": "The medieval scholar al-Biruni is believed to have postulated that the speed of sound was much slower than the speed of light.",
+  "quote": "the speed of sound was much slower than the speed of light",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page hedges ('is believed to have postulated'); 'centuries before measured' not stated"
+ },
+ {
+  "claim": "Malaria has shaped human evolution — in sub-Saharan Africa, nearly 100% of malaria cases are caused by P. falciparum, driving selection for genetic variants like sickle cell that provide resistance.",
+  "verdict": "overstated",
+  "corrected_claim": "In sub-Saharan Africa almost 100% of malaria cases were due to P. falciparum, and in 1948 it was observed that sickle-cell disease was related to a lower rate of malaria infections.",
+  "quote": "In Sub-Saharan Africa, almost 100% of cases were due to P. falciparum ... observed in 1948 that sickle-cell disease was related to a lower rate of malaria infections",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Page does not state malaria drove selection for sickle cell in cited sentences"
+ },
+ {
+  "claim": "Thundersnow—lightning during a snowstorm—occurs when warm moist air rises through cold air, usually in winter storms.",
+  "verdict": "overstated",
+  "corrected_claim": "Lightning can even strike in the cold of winter, where it is known as thundersnow.",
+  "quote": "and even in the cold of winter, where the lightning is known as thundersnow.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "warm-moist-air mechanism not stated on page"
+ },
+ {
+  "claim": "Galileo Galilei discovered the complete laws of vibrating strings around 1600, building on what Pythagoras had started 2000 years earlier.",
+  "verdict": "overstated",
+  "corrected_claim": "Galileo and Mersenne discovered the complete laws of vibrating strings, completing work Pythagoras had begun with harmonious string-length ratios.",
+  "quote": "discovered the complete laws of vibrating strings",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page credits Galileo and Mersenne together; date not given"
+ },
+ {
+  "claim": "A free malaria merozoite survives in the bloodstream for only about 60 seconds before it must enter a new red blood cell.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A free merozoite is in the bloodstream for roughly 60 seconds before it enters another erythrocyte.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "Ice crystals become positively charged and graupel becomes negatively charged when they collide in thunderclouds—this charge separation drives lightning.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "When the rising ice crystals collide with graupel, the ice crystals become positively charged",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Wallace Sabine's groundbreaking work in architectural acoustics in the early 1900s was the first major technological application of acoustic science.",
+  "verdict": "overstated",
+  "corrected_claim": "Wallace Sabine's groundbreaking work in architectural acoustics was the first technological application of acoustic science, and many others followed.",
+  "quote": "The first such application was Sabine's groundbreaking work in architectural acoustics, and many others followed.",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Date 'early 1900s' not confirmed in fetched text"
+ },
+ {
+  "claim": "Mosquitoes are selective about which plants they feed on for sugar — some plants contain compounds that hinder malaria parasite development inside the mosquito.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Anopheles mosquitoes prefer some plants over others, specifically those containing compounds ... that hinder the development and survival of malaria parasites inside the mosquito",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "Fulminology is the scientific study of lightning, derived from the Latin 'fulmen' meaning lightning bolt.",
+  "verdict": "overstated",
+  "corrected_claim": "The scientific study of lightning is called fulminology.",
+  "quote": "its scientific study is called fulminology.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "Latin root 'fulmen' not mentioned on page"
+ },
+ {
+  "claim": "Underwater acoustics was first used militarily to detect submarines in World War I.",
+  "verdict": "overstated",
+  "corrected_claim": "Underwater acoustics was used to detect submarines in the First World War.",
+  "quote": "Underwater acoustics was used for detecting submarines in the First World War.",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page does not say this was the first military use"
+ },
+ {
+  "claim": "Plasmodium undergoes meiosis (sexual reproduction) inside the mosquito, creating genetic diversity — only the mosquito stages are diploid, while all human stages are haploid.",
+  "verdict": "overstated",
+  "corrected_claim": "Plasmodium falciparum is haploid in human blood and liver; inside the mosquito it briefly forms a diploid zygote, the only diploid stage, which undergoes meiosis to release haploid sporozoites.",
+  "quote": "Plasmodium falciparum is haploid (one set of chromosomes) during its reproductive stages in human blood and liver. ... form a diploid (2N) plasmodium zygote, the only diploid stage in the life cycle ... The ookinetes can undergo meiosis involving two meiotic divisions leading to the release of haploid sporozoites",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Only the zygote is diploid, not all mosquito stages"
+ },
+ {
+  "claim": "Lightning releases energy between 200 megajoules and 7 gigajoules—enough to power a 100-watt light bulb for several months.",
+  "verdict": "overstated",
+  "corrected_claim": "A lightning flash releases, near-instantaneously, an average of between 200 megajoules and 7 gigajoules of energy.",
+  "quote": "Lightning involves a near-instantaneous release of energy on a scale averaging between 200 megajoules and 7 gigajoules.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "light bulb comparison not on page"
+ },
+ {
+  "claim": "Psychoacoustics research shows that the central nervous system is activated by basic acoustic characteristics of music, explaining music's effects on mood and behavior.",
+  "verdict": "overstated",
+  "corrected_claim": "Research shows the central nervous system is activated by basic acoustical characteristics of music.",
+  "quote": "the central nervous system is activated by basic acoustical characteristics of music.",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Explanation of mood/behavior effects not in quoted text"
+ },
+ {
+  "claim": "Sporozoites spend 2-3 hours in the skin after a mosquito bite before most enter the bloodstream — only 0.5-5% make it to the liver.",
+  "verdict": "overstated",
+  "corrected_claim": "After a mosquito bite, malaria sporozoites remain in the skin for two to three hours, and only 0.5-5% of them enter the bloodstream into the liver.",
+  "quote": "The sporozoites do not enter the bloodstream directly, but rather remain in the skin for two to three hours. ... Only a small number (0.5-5%) of sporozoites enter the bloodstream into the liver.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": "Claim says most enter the bloodstream; page says only 0.5-5% do"
+ },
+ {
+  "claim": "The 'stepped leader' of lightning establishes the channel over hundreds of milliseconds, while the actual discharge takes only a few dozen microseconds.",
+  "verdict": "overstated",
+  "corrected_claim": "Establishing lightning's ionic channel takes hundreds of milliseconds, while the discharge itself occurs within a few dozen microseconds.",
+  "quote": "The establishment of the ionic channel takes a comparatively long amount of time (hundreds of milliseconds)",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "page refers to the ionic channel generally, not specifically the stepped leader"
+ },
+ {
+  "claim": "Acoustic levitation—using sound waves to suspend objects in mid-air—is a real phenomenon studied by acousticians.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Only a 'See also' link; subject not described"
+ },
+ {
+  "claim": "Malaria was well known to ancient civilizations — Hippocrates described tertian and quartan fevers around 400 BCE.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Hippocrates (c. 460–370 BCE) gave several descriptions on tertian fever and quartan fever.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "Step potentials from lightning—voltage differences along the ground surface—kill more people in groups than direct strikes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This huge surge of current creates large radial voltage differences along the surface of the ground. ... are responsible for more injuries and deaths in groups of people or of other animals than the strike itself.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Sonoluminescence is the emission of light from imploding bubbles in liquid when excited by sound, demonstrating sound can produce light.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Only a 'See also' link; subject not described"
+ },
+ {
+  "claim": "The malaria incubation period is typically 11 days, but can occasionally last 2-8 years in rare cases — pregnancy and HIV increase the chance of delayed symptoms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An average incubation period is 11 days, ... In isolated cases, prolonged incubation periods as long as 2, 3 or even 8 years have been recorded. ... Pregnancy and co-infection with HIV are important conditions for delayed symptoms.",
+  "source_url": "https://en.wikipedia.org/wiki/Plasmodium_falciparum",
+  "note": ""
+ },
+ {
+  "claim": "The 'skin effect' causes lightning current to travel on the surface of conductors, which is why multi-stranded wires work better for lightning protection.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Rapidly changing (alternating) currents tend to travel on the surface of a conductor, in what is called the skin effect. ... Hence, conductors used in the protection of facilities tend to be multi-stranded, with small wires woven together.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Sonochemistry uses sound waves to accelerate chemical reactions, with applications in medicine and industry.",
+  "verdict": "overstated",
+  "corrected_claim": "Sonochemistry is one of the specialisms of ultrasonics, alongside ultrasonic sensors and ultrasonic testing.",
+  "quote": "ultrasonic sensors, sonochemistry, ultrasonic testing",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page only lists sonochemistry; reaction acceleration and applications not stated"
+ },
+ {
+  "claim": "Male tapeworms are much smaller than females — an adult pork tapeworm can grow to 8 meters long with 800-900 body segments.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "T. solium is a hermaphrodite; page says nothing about male tapeworms being smaller than females"
+ },
+ {
+  "claim": "In the tropics, where the freezing level is higher, only 10% of lightning is cloud-to-ground; at Norway's latitude, 50% is cloud-to-ground.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the tropics, where the freezing level is generally higher in the atmosphere, only 10% of lightning flashes are CG. At the latitude of Norway (around 60° North latitude), where the freezing elevation is lower, 50% of lightning is CG.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "The Doppler effect, commonly heard when an ambulance passes, was first described for sound but later proved fundamental to understanding the expanding universe.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Only a 'See also' link; Doppler effect not described"
+ },
+ {
+  "claim": "Tapeworm scolexes (heads) have both suckers and hooks for attachment — the pork tapeworm has 22-32 hooks arranged in two rows.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The scolex bears four radially arranged suckers that surround the rostellum. ... Its 22 to 32 rostellar hooks can be differentiated into short (130 μm) and long (180 μm) types.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Page also mentions two rows of hooks on the rostellum"
+ },
+ {
+  "claim": "A 'megaflash' is defined by the American Meteorological Society as a continuous lightning flash with a horizontal path of approximately 100 km or greater.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a continuous mesoscale lightning flash with a horizontal path length of approximately 100 km or greater.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Helioseismology uses sound waves inside the Sun to study its internal structure, applying acoustic principles to astronomy.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Only a 'See also' link; helioseismology not described"
+ },
+ {
+  "claim": "Tapeworms have no digestive system — they absorb nutrients directly through their skin (tegument) using specialized microvilli called microtriches.",
+  "verdict": "overstated",
+  "corrected_claim": "The pork tapeworm's entire body is covered by an absorptive layer called the tegument, studded with tiny projections called microtriches.",
+  "quote": "The entire body is covered by a covering called a tegument, which is an absorptive layer",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Page does not state tapeworms lack a digestive system"
+ },
+ {
+  "claim": "One hypothesis for lightning initiation involves cosmic rays accelerating electrons to create 'runaway breakdown' that ionizes air and starts the leader.",
+  "verdict": "overstated",
+  "corrected_claim": "One hypothesis holds that cosmic rays create showers of relativistic electrons that are then accelerated through a process called runaway breakdown.",
+  "quote": "showers of relativistic electrons are created by cosmic rays and are then accelerated to higher velocities",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "claim's detail about ionizing air and starting the leader not in fetched text"
+ },
+ {
+  "claim": "The snapping shrimp creates one of the loudest sounds in the ocean through cavitation bubbles, reaching up to 218 dB and used as a sonic weapon.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Only a reference title mentions snapping shrimp; no figures"
+ },
+ {
+  "claim": "Adult pork tapeworms can survive 2-5 years in the human intestine, according to evidence from a British military outbreak in the 1930s.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "evidences from an outbreak among British military in the 1930s indicate that they can survive for 2 to 5 years in humans.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": ""
+ },
+ {
+  "claim": "Positive lightning tends to occur more frequently in winter storms, during intense tornadoes, and in the dissipation stage of thunderstorms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Positive lightning tends to occur more frequently in winter storms, as with thundersnow ... during intense tornadoes and in the dissipation stage of a thunderstorm.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": ""
+ },
+ {
+  "claim": "Acoustic metamaterials can bend sound waves around objects, potentially creating acoustic invisibility cloaks.",
+  "verdict": "overstated",
+  "corrected_claim": "Acoustic metamaterials are a sub-discipline of structural acoustics.",
+  "quote": "Acoustic metamaterials",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Cloaking/bending sound not mentioned"
+ },
+ {
+  "claim": "The 1940s treatment for tapeworms involved inserting oleoresin of aspidium directly into the duodenum via a tube — primitive but effective.",
+  "verdict": "overstated",
+  "corrected_claim": "An early tapeworm treatment involved introducing oleoresin of aspidium directly into the duodenum via a Rehfuss tube.",
+  "quote": "the preferred treatment was oleoresin of aspidium, which would be introduced into the duodenum ... via a Rehfuss tube.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "'Primitive but effective' is editorial, not in source"
+ },
+ {
+  "claim": "Positive lightning is responsible for triggering sprites in the upper atmosphere and can propagate through clear air as 'bolts from the blue.'",
+  "verdict": "overstated",
+  "corrected_claim": "Positive lightning is largely responsible for triggering sprites tens of kilometers above the ground, and can travel through clear air as \"bolts from the blue.\"",
+  "quote": "is largely responsible for the initiation of sprites several tens of kilometers above ground level. ... known as \"bolts from the blue\", giving no warning to observers.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "page says \"largely responsible\""
+ },
+ {
+  "claim": "Piezoelectric materials convert mechanical pressure to electricity and vice versa, enabling ultrasonic medical imaging and many acoustic devices.",
+  "verdict": "overstated",
+  "corrected_claim": "Ultrasonic systems used in medical ultrasonography employ piezoelectric transducers.",
+  "quote": "The ultrasonic systems used in medical ultrasonography employ piezoelectric transducers.",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Mechanism and 'many devices' not stated"
+ },
+ {
+  "claim": "A vaccine to prevent cysticercosis in pigs has been developed — breaking the parasite's life cycle in pigs could protect humans.",
+  "verdict": "overstated",
+  "corrected_claim": "A vaccine to prevent cysticercosis in pigs has been studied, though its large-scale use is still under consideration.",
+  "quote": "A vaccine to prevent cysticercosis in pigs has been studied. The large scale use of this vaccine, however, is still under consideration.",
+  "source_url": "https://en.wikipedia.org/wiki/Taenia_solium",
+  "note": "Source says 'studied', not 'developed'; large-scale use undecided"
+ },
+ {
+  "claim": "Heat lightning is simply lightning from a distant thunderstorm that can be seen but not heard because the thunder dissipates over distance.",
+  "verdict": "overstated",
+  "corrected_claim": "Heat lightning is lightning that can be seen from a great distance but not heard.",
+  "quote": "can be seen from a great distance but not heard.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "reason (thunder dissipating) not stated on page"
+ },
+ {
+  "claim": "Active noise control uses destructive interference—playing a sound wave's inverse—to cancel unwanted noise in headphones and other applications.",
+  "verdict": "overstated",
+  "corrected_claim": "Active noise control is one application of acoustic signal processing, alongside hearing-aid design and echo cancellation.",
+  "quote": "active noise control; design for hearing aids or cochlear implants; echo cancellation.",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Destructive interference mechanism not stated"
+ },
+ {
+  "claim": "In 1922, scientist Shimesu Koino deliberately swallowed 2,000 Ascaris eggs to prove the parasite's life cycle — he recovered 667 immature worms 50 days later after taking medicine.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1922, Shimesu Koino ingested 2,000 Ascaris lumbricoides eggs ... after 50 days took an anthelmintic and recovered 667 immature Ascaris lumbricoides.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "Dry lightning occurs when rain from a thunderstorm evaporates before reaching the ground—it's a major cause of wildfires.",
+  "verdict": "overstated",
+  "corrected_claim": "Dry lightning can cause forest fires; lightning is the major natural cause of wildfire, estimated to cause 10% of forest fires worldwide.",
+  "quote": "dry lightning, which can cause forest fires. ... Lightning is the major natural cause of wildfire, estimated to cause 10% of forest fires worldwide.",
+  "source_url": "https://en.wikipedia.org/wiki/Lightning",
+  "note": "evaporating-rain definition not on page"
+ },
+ {
+  "claim": "The MP3 format uses psychoacoustic principles, removing sounds humans can't perceive to compress audio files by 90% or more.",
+  "verdict": "overstated",
+  "corrected_claim": "MP3 is an example of perceptual coding, an application of acoustic signal processing.",
+  "quote": "perceptual coding (e.g. MP3 or Opus)",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "90% compression figure and mechanism not stated"
+ },
+ {
+  "claim": "Ascaris eggs have a lipid layer that makes them resistant to acids, alkalis, and many chemicals — even bleach won't reliably kill them, only remove their sticky coating.",
+  "verdict": "overstated",
+  "corrected_claim": "Ascaris eggs have a lipid layer that makes them resistant to acids and alkalis, and bleach does not readily kill them.",
+  "quote": "The eggs have a lipid layer which makes them resistant to the effects of acids and alkalis. ... Bleach does not readily kill A. lumbricoides eggs.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "'Many chemicals' not in source"
+ },
+ {
+  "claim": "St. Elmo's fire and ball lightning are distinct phenomena, though they are often mistakenly identified as each other.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Although they are separate and distinct phenomena, ball lightning is often erroneously identified as St. Elmo's fire.",
+  "source_url": "https://en.wikipedia.org/wiki/Ball_lightning",
+  "note": ""
+ },
+ {
+  "claim": "Archaeoacoustics studies the acoustic properties of prehistoric sites, finding that cave paintings often cluster in areas with special acoustic properties.",
+  "verdict": "overstated",
+  "corrected_claim": "Archaeoacoustics draws parallels between cave wall paintings and the acoustic properties of the caves they are in.",
+  "quote": "Parallels can also be drawn between cave wall paintings and the acoustic properties of the cave.",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page does not say paintings 'often cluster' in acoustically special spots"
+ },
+ {
+  "claim": "Some scientists have proposed that Ascaris lumbricoides (human roundworm) and Ascaris suum (pig roundworm) are actually the same species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It has been proposed that Ascaris lumbricoides and Ascaris suum (pig roundworm) are the same species.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "The coldest average monthly temperature in the Northern Hemisphere was -56.7°C (-70.1°F) at Verkhoyansk, Russia, in January 1892.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Coldest average monthly temperature in the Northern Hemisphere: −56.7 °C (−70.1 °F) ... Verkhoyansk, Russia for the month of January 1892.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Lord Rayleigh's The Theory of Sound (1877) combined all previous acoustic knowledge and remains influential in the field today.",
+  "verdict": "overstated",
+  "corrected_claim": "Lord Rayleigh's monumental work The Theory of Sound was published in 1877.",
+  "quote": "his monumental work The Theory of Sound (1877).",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "'Combined all previous knowledge' and lasting influence not stated"
+ },
+ {
+  "claim": "Ascariasis is the most common cause of Löffler's syndrome (pulmonary infiltrates with eosinophilia) worldwide — caused by larvae migrating through the lungs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ascariasis is the most common cause of Löffler's syndrome worldwide.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": ""
+ },
+ {
+  "claim": "The lowest temperature in the Northern Hemisphere was -69.6°C (-93.3°F) on the Greenland Ice Sheet on December 22, 1991.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Lowest temperature in the Northern Hemisphere: −69.6 °C (−93.3 °F); Greenland Ice Sheet, Greenland on 22 December 1991.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "Sound travels faster in solids than liquids, and faster in liquids than gases, because molecules are more closely packed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page gives no comparison of sound speed across solids, liquids and gases"
+ },
+ {
+  "claim": "One theory for why Ascaris larvae migrate through the lungs rather than developing directly in the intestines is that this mimics an ancestral life cycle that required an intermediate host.",
+  "verdict": "overstated",
+  "corrected_claim": "One hypothesis for why Ascaris larvae migrate through the lungs is that the migration mimics an intermediate host.",
+  "quote": "One hypothesis to account for this behavior is that the migration mimics an intermediate host.",
+  "source_url": "https://en.wikipedia.org/wiki/Ascaris_lumbricoides",
+  "note": "'Ancestral life cycle' not in source"
+ },
+ {
+  "claim": "The greatest 24-hour temperature increase was 57°C (102.6°F) at Loma, Montana, on January 15, 1972, rising from -48°C to 9°C.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Greatest 24-hour temperature increase: +57 °C (+102.6 °F), from −48 °C (−54 °F) to 9 °C (48 °F) ... Loma, Montana, on 15 January 1972.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_weather_records",
+  "note": ""
+ },
+ {
+  "claim": "In fluids, sound propagates as pressure waves (longitudinal), but in solids it can also travel as transverse and surface waves.",
+  "verdict": "overstated",
+  "corrected_claim": "In fluids, sound travels primarily as a pressure wave, but in solids mechanical waves can be longitudinal, transverse or surface waves.",
+  "quote": "In fluids, sound propagates primarily as a pressure wave. ... In solids, mechanical waves can take many forms including longitudinal waves, transverse waves and surface waves.",
+  "source_url": "https://en.wikipedia.org/wiki/Acoustics",
+  "note": "Page says 'primarily' as a pressure wave"
+ },
+ {
+  "claim": "The scientific study of parasites as disease agents began in the 19th century, though humans have known about worms like tapeworms and roundworms since ancient times.",
+  "verdict": "overstated",
+  "corrected_claim": "Modern parasitology developed in the 19th century, though knowledge of roundworms and tapeworms dates back to ancient Egypt, Greece and Rome.",
+  "quote": "Modern parasitology developed in the 19th century with accurate observations and experiments by many researchers and clinicians.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "Page does not frame it as study of parasites as disease agents"
+ },
+ {
+  "claim": "The ice age theory was initially rejected—geologist Jean de Charpentier called Perraudin's glacier hypothesis 'so extraordinary and even so extravagant.'",
+  "verdict": "overstated",
+  "corrected_claim": "The ice age theory was initially rejected: geologist Jean de Charpentier rejected Jean-Pierre Perraudin's glacier theory as absurd.",
+  "quote": "rejected Perraudin's theory as absurd",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "The quoted phrase 'so extraordinary and even so extravagant' is not on the page"
+ },
+ {
+  "claim": "The 'New Violin Family' was developed in 1964 to provide differently sized violins to expand the range of available sounds beyond the traditional violin, viola, and cello.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'New Violin Family' began in 1964 to provide differently sized violins.",
+  "quote": "the \"New Violin Family\" began in 1964 to provide differently sized violins",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "Purpose of expanding beyond violin/viola/cello not stated"
+ },
+ {
+  "claim": "Antonie van Leeuwenhoek first observed the parasite Giardia lamblia with his microscope in 1681 — one of the earliest microscopic observations of a human parasite.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1681, Antonie van Leeuwenhoek observed and illustrated the protozoan parasite Giardia lamblia.",
+  "quote": "In 1681, Antonie van Leeuwenhoek observed and illustrated the protozoan parasite Giardia lamblia.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "'One of the earliest' framing not stated"
+ },
+ {
+  "claim": "Louis Agassiz omitted mention of Karl Friedrich Schimper, who coined 'ice age' and helped develop the theory, due to personal quarrels.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page says Schimper coined 'ice age' but does not mention Agassiz omitting him or quarrels"
+ },
+ {
+  "claim": "The electric guitar was developed in the 1930s, and by the 1960s had revolutionized popular music.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": "Page does not give the 1930s/1960s electric guitar history"
+ },
+ {
+  "claim": "Lamprey fish are micropredators that attach to larger fish and feed on their blood — like aquatic vampires that don't kill their hosts outright.",
+  "verdict": "overstated",
+  "corrected_claim": "Lampreys are among the vertebrates classed as micropredators.",
+  "quote": "vertebrates such as lampreys",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "Feeding details (attaching to fish, blood) not stated"
+ },
+ {
+  "claim": "The ice age theory wasn't fully accepted internationally until the late 1870s, after James Croll published 'Climate and Time' explaining the causes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This happened on an international scale in the second half of the 1870s, following the work of James Croll",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page names Croll's Climate and Time (1875)"
+ },
+ {
+  "claim": "Samplers, introduced around 1980, allow musicians to sample and reuse existing sounds and were crucial to the development of hip hop.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Samplers, introduced around 1980 ... were important to the development of hip hop.",
+  "source_url": "https://en.wikipedia.org/wiki/Musical_instrument",
+  "note": ""
+ },
+ {
+  "claim": "Vampire bats are true micropredators — they feed on blood from multiple hosts without killing any, and even share blood meals with roostmates who were unsuccessful at feeding.",
+  "verdict": "overstated",
+  "corrected_claim": "Vampire bats are classed as micropredators.",
+  "quote": "mammals such as vampire bats",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "Blood-sharing with roostmates not mentioned"
+ },
+ {
+  "claim": "Ice ages require specific continental positions: a continent at a pole, a nearly land-locked polar sea, or a supercontinent covering most of the equator.",
+  "verdict": "overstated",
+  "corrected_claim": "Continental layout can contribute to ice ages by blocking warm water from the poles — for example, when a supercontinent covers most of the equator.",
+  "quote": "There are three main contributors from the layout of the continents that obstruct the movement of warm water to the poles: ... A supercontinent covers most of the equator.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Source calls them contributors, not requirements"
+ },
+ {
+  "claim": "The theremin was used in classic film scores including Spellbound, The Day the Earth Stood Still, and The Ten Commandments, establishing its association with eerie atmospheres.",
+  "verdict": "overstated",
+  "corrected_claim": "The theremin found great success in motion pictures such as Spellbound, The Day the Earth Stood Still and The Ten Commandments, and its sound is often associated with eerie situations.",
+  "quote": "The sound of the instrument is often associated with eerie situations. ... found great success in many motion pictures, notably Spellbound",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": "Page does not say the film scores established the eerie association"
+ },
+ {
+  "claim": "Scale insects are plant parasites so specialized they cannot move as adults — they spend their entire lives permanently attached to their host plant.",
+  "verdict": "overstated",
+  "corrected_claim": "Female scale insects cannot move — they are obligate parasites permanently attached to their host plants.",
+  "quote": "As female scale insects cannot move, they are obligate parasites, permanently attached to their hosts.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": "Applies to female scale insects only"
+ },
+ {
+  "claim": "Evidence suggests brief glaciation periods occurred even during the warm Early Cretaceous, with ice sheets possibly extending to the Iberian Peninsula.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "ice sheets may have extended as far south as the Iberian Peninsula during the Hauterivian and Aptian.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": ""
+ },
+ {
+  "claim": "Jimmy Page of Led Zeppelin used a theremin (pitch antenna only) in live performances of 'Whole Lotta Love' and 'No Quarter'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "used a variation of the theremin (pitch antenna only) during performances of ... Whole Lotta Love ... No Quarter",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Coinfection by multiple parasites at once is common in nature — hosts often carry several different parasite species simultaneously.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Coinfection by multiple parasites is common.",
+  "source_url": "https://en.wikipedia.org/wiki/Parasitism",
+  "note": ""
+ },
+ {
+  "claim": "The evolution of land plants at the start of the Devonian period increased oxygen and reduced CO2, leading to the late Paleozoic ice house.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The evolution of land plants at the onset of the Devonian period caused a long term increase in planetary oxygen levels",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page links it to reduced CO2 and the late Paleozoic icehouse"
+ },
+ {
+  "claim": "The world record for largest theremin ensemble (289 players) was set in 2019 in Kobe, Japan, and included three generations of Theremin's own family.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a group of 289 theremin players that included ... achieved a Guinness world record as the largest ensemble of the instrument ... the daughter, granddaughter and great-grandson of the inventor",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "The largest Rafflesia flower ever recorded measured 111 cm (44 inches) in diameter, found in West Sumatra in January 2020.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A Rafflesia that bloomed in West Sumatra in January 2020 was measured to be 111 centimetres (44 in) in diameter, the largest flower ever recorded",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": ""
+ },
+ {
+  "claim": "Ice sheets may have briefly returned to Antarctica just before the Cretaceous-Paleogene extinction event that killed the dinosaurs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "ice sheets and associated sea ice appear to have briefly returned to Antarctica near the very end of the Maastrichtian",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Page places it just before the K-Pg extinction"
+ },
+ {
+  "claim": "Lothar and the Hand People, formed in 1965, were the first rock band to perform live with a theremin—which they named 'Lothar'.",
+  "verdict": "overstated",
+  "corrected_claim": "Lothar and the Hand People were the first rock band known to perform live with a theremin, in November 1965 — and 'Lothar' was the name they gave their Moog theremin.",
+  "quote": "Lothar and the Hand People were the first rock band known to perform live with a theremin in November 1965. ... Lothar was the name they gave to their Moog theremin.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": "Page says 'first known'; 1965 is the performance date, not the band's founding"
+ },
+ {
+  "claim": "Even the smallest Rafflesia species (R. baletei) produces flowers 12 cm across — enormous compared to its host vine.",
+  "verdict": "overstated",
+  "corrected_claim": "Even one of the smallest Rafflesia species, R. baletei, has flowers 12 cm (5 in) across.",
+  "quote": "Even one of the smallest species, R. baletei, has 12 cm (5 in) diameter flowers.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "Page says 'one of the smallest'; comparison to host vine not stated"
+ },
+ {
+  "claim": "Glacial periods follow 40,000-year and 100,000-year cycles due to Milankovitch cycles—periodic changes in Earth's orbit and axial tilt.",
+  "verdict": "overstated",
+  "corrected_claim": "Glacial periods advance and retreat on 40,000- and 100,000-year time scales, linked to Milankovitch cycles in Earth's orbit around the Sun.",
+  "quote": "advancing and retreating on 40,000- and 100,000-year time scales",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": "Axial-tilt detail and direct causation not quoted"
+ },
+ {
+  "claim": "Forbidden Planet's electronic soundtrack was not made with a theremin but with custom-built oscillator circuits and a ring modulator by Bebe and Louis Barron.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A theremin was not used for the soundtrack of Forbidden Planet. ... Bebe and Louis Barron built disposable oscillator circuits and a ring modulator",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Rafflesia evolved from plants with tiny flowers in the Euphorbiaceae family — their flower size evolved extremely rapidly, unlike the slow evolution seen in most plants.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2007 study placed Rafflesia within the Euphorbiaceae, whose members typically have very small flowers — Rafflesia's flowers rapidly evolved to become much larger before reverting to a slower rate of change.",
+  "quote": "members of that family typically have very small flowers ... where the flowers rapidly evolved to become much larger before reverting to the slower rate of change",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "Placement is from one study; 'unlike most plants' not stated"
+ },
+ {
+  "claim": "The 2004 Nature paper suggests the current interglacial may be most analogous to one that lasted 28,000 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "an article in Nature in 2004 argues that it might be most analogous to a previous interglacial that lasted 28,000 years.",
+  "source_url": "https://en.wikipedia.org/wiki/Ice_age",
+  "note": ""
+ },
+ {
+  "claim": "The theremin has been praised as providing an accessible route to music-making for people with disabilities, as it requires no physical contact.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "has been praised for providing an accessible route to music-making",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Rafflesia seeds are packed into berries containing hundreds of thousands of seeds, each with a tiny elaiosome that likely attracts ants for dispersal.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The seeds are packed into berries, each of which contains hundreds of thousands of seeds. ... extremely tiny elaiosomes, and are thus most likely dispersed by ants",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": ""
+ },
+ {
+  "claim": "A banana is a berry, but a strawberry is not - botanically, berries are fruits produced from a single ovary with seeds embedded in the flesh.",
+  "verdict": "overstated",
+  "corrected_claim": "A banana is a berry, but a strawberry is not.",
+  "quote": "\"A banana is a berry.\" \"A strawberry, however, is not.\"",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "page gives no botanical definition of a berry"
+ },
+ {
+  "claim": "A theremin works by detecting minute changes in capacitance caused by hand movement, with a full octave of frequency shift produced by only 0.01 picofarad capacitance change.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a change in capacitance between the performer and the instrument in the order of 0.01 picofarads ... produces a full octave of frequency shift.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Tree shrews and other forest mammals eat Rafflesia berries and likely help disperse their seeds.",
+  "verdict": "overstated",
+  "corrected_claim": "Tree shrews and other forest mammals eat Rafflesia fruits, though little is known about how its seeds are dispersed.",
+  "quote": "Tree shrews and other forest mammals eat the fruits.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "Page does not say mammals disperse the seeds; says little is known"
+ },
+ {
+  "claim": "The manchineel tree is called the 'tree of death' - touching it can leave chemical burns on your skin, its fruit is toxic, and smoke from burning its bark can cause blindness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"The manchineel tree is nicknamed the 'tree of death' for good reason. Touching it can leave chemical burns on your skin, its fruit is toxic, and its bark—when burned—can cause blindness.\"",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Clara Rockmore, the most famous thereminist, observed that theremin players must 'play the rests as well as the notes'—actively silencing the instrument between notes.",
+  "verdict": "overstated",
+  "corrected_claim": "Thereminist Clara Rockmore observed that the player must 'play the rests, as well as the notes.'",
+  "quote": "play the rests, as well as the notes.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": "'Most famous thereminist' not confirmed in fetched text"
+ },
+ {
+  "claim": "All Rafflesia species are found only in Southeast Asia — the genus has very limited geographic distribution despite having over 40 species.",
+  "verdict": "overstated",
+  "corrected_claim": "All of the roughly 40 species of Rafflesia are found in Southeast Asia.",
+  "quote": "all of them are found in Southeast Asia",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "'Very limited distribution' not stated; species count varies on page (41-42)"
+ },
+ {
+  "claim": "China owns all giant pandas in the world and rents them to zoos for about $1 million per year.",
+  "verdict": "overstated",
+  "corrected_claim": "China owns all of the giant pandas in the world and rents them out for about $1 million a year.",
+  "quote": "\"China owns all of the giant pandas in the world.\" \"They rent them out for about $1 million a year.\"",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "page does not say to whom (zoos) they are rented"
+ },
+ {
+  "claim": "The Loki TV series soundtrack on Disney+ features a theremin played by Charlie Draper, bringing the vintage instrument to 21st century audiences.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Charlie Draper plays the theremin in the soundtrack",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": ""
+ },
+ {
+  "claim": "Rafflesia was first seen by a Western European in 1791-1794 by French surgeon Louis Deschamps in Java, but his notes were seized by the British and weren't available to scientists until 1861.",
+  "verdict": "overstated",
+  "corrected_claim": "Western Europeans first learned about Rafflesia from French surgeon Louis Deschamps, who was in Java between 1791 and 1794, but his notes were seized by the British in 1798 and weren't available to Western scientists until 1861.",
+  "quote": "Western Europeans first learned about plants of this genus from French surgeon and naturalist Louis Deschamps ... when he was in Java between 1791 and 1794 ... his notes and illustrations were seized by the British in 1798 and were not available to Western scientists until 1861.",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "Page says Europeans 'first learned about' it from him, not 'first seen'"
+ },
+ {
+  "claim": "An avocado never ripens on the tree - farmers can use trees as storage and keep avocados fresh for up to seven months.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"An avocado never ripens on the tree.\" \"Farmers can use trees as storage and keep avocados fresh for up to seven months.\"",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "Be More Chill was the first Broadway musical to include a theremin in its band.",
+  "verdict": "overstated",
+  "corrected_claim": "Be More Chill's orchestrator Charlie Rosen credits the show as the first on Broadway to have a theremin in its band.",
+  "quote": "credits the show as being the first on Broadway to have a theremin in its band.",
+  "source_url": "https://en.wikipedia.org/wiki/Theremin",
+  "note": "Page attributes the 'first' claim to the show's orchestrator"
+ },
+ {
+  "claim": "When first discovered in 1818, Joseph Arnold was so amazed by Rafflesia's size that he wrote he would have been 'fearful of mentioning the dimensions' if he had been alone without witnesses.",
+  "verdict": "overstated",
+  "corrected_claim": "Joseph Arnold, the first British person to see Rafflesia in 1818, wrote that had he been alone with no witnesses, he would have been 'fearful of mentioning the dimensions' of the flower.",
+  "quote": "The first British person to see one was Joseph Arnold in 1818 ... had I been alone, and had there been no witnesses, I should, I think, have been fearful of mentioning the dimensions",
+  "source_url": "https://en.wikipedia.org/wiki/Rafflesia",
+  "note": "1818 was not its first discovery; Arnold was the first British person to see it"
+ },
+ {
+  "claim": "The WAFFLE House Index is informally used by FEMA to gauge storm severity - due to the restaurant's legendary reputation for staying open in extreme weather.",
+  "verdict": "overstated",
+  "corrected_claim": "The 'Waffle House Index' is informally used by FEMA to gauge storm severity, thanks to the restaurant's reputation for staying open in extreme weather.",
+  "quote": "\"The 'Waffle House Index' is informally used by FEMA to gauge storm severity.\" \"This is due to the restaurant's reputation for staying open in extreme weather.\"",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "\"legendary\" added"
+ },
+ {
+  "claim": "Cats lapping water is a feat of physics - their tongue barely touches the water surface, creating a column of liquid through adhesion and inertia, snapping their mouth shut before gravity can overcome the inertia and pull the water back down.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The smooth tip of the tongue barely touches the surface of the liquid before the cat draws its tongue back up.",
+  "source_url": "https://www.mentalfloss.com/animals/cats/20-fun-facts-about-our-mysterious-feline-friends",
+  "note": "rest of passage (column, inertia vs gravity) confirmed but quote tool limited"
+ },
+ {
+  "claim": "The tongue-eating louse can live up to three years inside a fish's mouth, feeding on blood or mucus while functioning as a replacement tongue.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "C. exigua can live up to three years and will grow with its host.",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": "source: some feed on the host's blood and mucus"
+ },
+ {
+  "claim": "Polar bears in some populations are getting fatter, surprising scientists who expected climate change to reduce their food sources.",
+  "verdict": "overstated",
+  "corrected_claim": "Polar bears around Svalbard got fatter as sea ice declined, surprising scientists who had expected them to get skinnier.",
+  "quote": "\"I was a bit surprised when we found that it had actually increased instead of decreasing,\" ... the scientists expected to see the bears get skinnier as sea ice decreased",
+  "source_url": "https://www.nationalgeographic.com/animals/article/polar-bears-getting-fatter",
+  "note": "article is about Svalbard bears; expectation was about sea ice, not food sources"
+ },
+ {
+  "claim": "Bubbles in a bath keep water warmer longer by forming an insulating layer on the surface that reduces heat loss to the air.",
+  "verdict": "overstated",
+  "corrected_claim": "Bubbles keep your bath water warmer longer.",
+  "quote": "\"Bubbles keep your bath water warmer longer.\"",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": "page gives no insulating-layer explanation"
+ },
+ {
+  "claim": "Fish with two or more tongue-eating lice are usually underweight because eating becomes difficult — single infections appear to cause minimal harm.",
+  "verdict": "overstated",
+  "corrected_claim": "Fish infested with two or more tongue-eating lice are usually underweight, though infestation apparently does little other damage.",
+  "quote": "infested fish with two or more of the parasites are usually underweight ... While infestation apparently does not cause much other damage to the host fish,",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": "source doesn't explicitly compare single infections; eating difficulty not stated"
+ },
+ {
+  "claim": "Truffle-hunting dogs are advancing scientific understanding of fungi by locating previously unknown species underground.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Canine truffle-hunting efforts have already helped scientists uncover several new species just in the past year.",
+  "source_url": "https://www.nationalgeographic.com/animals/article/truffle-hunting-dogs-fungi-species",
+  "note": ""
+ },
+ {
+  "claim": "A double rainbow occurs when sunlight is reflected twice inside a raindrop - the colors of the secondary rainbow appear in reverse order.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "\"A double rainbow occurs when sunlight is reflected twice inside a raindrop.\" \"If you look closely, you can see that the colors of the secondary rainbow appear in reverse order.\"",
+  "source_url": "https://www.mentalfloss.com/amazing-facts",
+  "note": ""
+ },
+ {
+  "claim": "When a host fish dies, the tongue-eating louse detaches and clings to the outside of the fish's head or body — its fate in the wild after this is unknown.",
+  "verdict": "overstated",
+  "corrected_claim": "When its host fish dies, the tongue-eating louse detaches from the tongue stub and leaves the mouth; its behavior in the wild after that remains unknown.",
+  "quote": "In the event of host death, C. exigua will detach from the tongue stub and abandon the host's oral cavity. Post host death behavior in the wild has not been studied and remains unknown.",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": "clinging to outside of head/body not in source"
+ },
+ {
+  "claim": "Invasive species are disrupting the mating rituals of native species - sometimes preventing successful reproduction through interference.",
+  "verdict": "overstated",
+  "corrected_claim": "Invasive species can interfere with the reproduction of native species—sometimes the mere presence of an invader is enough to inhibit it.",
+  "quote": "\"Sometimes the mere presence of an invader can inhibit the reproduction of native species,\"",
+  "source_url": "https://www.nationalgeographic.com/animals/article/invasive-native-species-mating-interference",
+  "note": "source says \"inhibit\", not \"prevent successful reproduction\""
+ },
+ {
+  "claim": "In 1912, Barnum & Bailey trained elephants to play baseball - they used the image on posters to sell circus tickets.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1912, thanks to the work of Barnum & Bailey's elephant trainer, Harry L. Mooney, ... the intelligent animals played their first ballgame. Barnum & Bailey capitalized on the concept of elephant baseball by using the image on posters to sell tickets for shows.",
+  "source_url": "https://www.mentalfloss.com/animals/12-interesting-facts-about-elephants",
+  "note": ""
+ },
+ {
+  "claim": "Cymothoa exigua parasitizes at least 8 fish species across 4 families, living in waters from 2 to 60 meters deep.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "C. exigua is also known to parasitize eight species across two orders and four families of fish ... It is found in waters 2m (6 ft 7 in) to 60 m (200 ft) deep.",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": ""
+ },
+ {
+  "claim": "The grapefruit was described as the 'forbidden fruit' in 1750.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A hybrid fruit, called forbidden fruit, was first documented in 1750",
+  "source_url": "https://en.wikipedia.org/wiki/Grapefruit",
+  "note": ""
+ },
+ {
+  "claim": "Humpback whale songs helped save them from extinction - recordings of their haunting calls in the 1970s sparked the 'Save the Whales' movement.",
+  "verdict": "overstated",
+  "corrected_claim": "Once at risk of being wiped out, humpback whales made a remarkable comeback thanks to their songs, recorded by Roger Payne and others from 1964 onward.",
+  "quote": "Once at risk of being wiped out, humpback whales charted a remarkable comeback thanks to their songs.",
+  "source_url": "https://www.nationalgeographic.com/animals/article/humpback-songs-archival-save-the-whales-ceti-roger-payne",
+  "note": "'Save the Whales' movement and 1970s sparking not stated"
+ },
+ {
+  "claim": "When a tongue-eating louse is separated from its host and handled, it may bite — it's not dangerous to humans but can cause a painful nip.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Parasitic isopods like the Cymothoa exigua are not harmful to humans, though they may bite if separated from its host or handled.",
+  "source_url": "https://en.wikipedia.org/wiki/Cymothoa_exigua",
+  "note": ""
+ },
+ {
+  "claim": "Coscinodon lawianus is one of only two species of moss found only in continental Antarctica.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It is one of two species of moss endemic to (only found in) continental Antarctica, alongside Bryum bharatiense",
+  "source_url": "https://en.wikipedia.org/wiki/Coscinodon_lawianus",
+  "note": ""
+ },
+ {
+  "claim": "Scientists have developed a breakthrough method that could double rare earth element extraction from ores.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Scientific Breakthrough Could Double Rare Earth Elements Extraction",
+  "source_url": "https://www.sciencealert.com/scientific-breakthrough-could-double-rare-earth-elements-extraction",
+  "note": "Supported by headline; body says method is 'up to three times more efficient than current approaches'"
+ },
+ {
+  "claim": "Sacculina parasites can reach infection rates of 50% in some crab populations — half of all crabs in an area may be zombified reproducers for the parasite.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The prevalence of this crustacean parasite in its crab host can be as high as 50%.",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": ""
+ },
+ {
+  "claim": "The 1925 Tri-State tornado was the deadliest in United States history.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The tornado was the deadliest in United States history, with 695 people being killed.",
+  "source_url": "https://en.wikipedia.org/wiki/Great_Tri-State_Tornado",
+  "note": ""
+ },
+ {
+  "claim": "Helium has the lowest boiling point of any element at -268.9°C, and remains liquid even at absolute zero under normal pressure.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q560",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Sacculina has been proposed as a biological control agent for invasive green crabs, but this is controversial because it would also attack native crab species.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This is controversial because Sacculina can also use native crab species as their host",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": ""
+ },
+ {
+  "claim": "The unique flower shape of Lilium lophophorum is adapted to protect its reproductive organs from the harsh ultraviolet light and torrential rains of its habitat.",
+  "verdict": "overstated",
+  "corrected_claim": "The bell-shaped flowers of Lilium lophophorum are an adaptation to protect their reproductive structures; one 2015 study says they shield them against torrential rains and UV rays.",
+  "quote": "\"Their shape is a result of an adaptation by the plant in order to protect its reproductive structures\" ... \"the campanulate shape protected the floral reproductive structures against the torrential rains and UV rays\"",
+  "source_url": "https://en.wikipedia.org/wiki/Lilium_lophophorum",
+  "note": "UV protection comes from one study; another view cites only heavy summer rains"
+ },
+ {
+  "claim": "Gold has a density of 19.32 g/cm³, so dense that a cubic foot would weigh over half a ton.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q897",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Sacculina's life span matches its crab host's, typically 1-2 years — the parasite is completely dependent on its host's survival.",
+  "verdict": "overstated",
+  "corrected_claim": "Sacculina is primarily host-dependent, so its life span matches its crab host's — usually 1 to 2 years.",
+  "quote": "Sacculina are primarily host dependent so their life span matches that of their hosts ... Crabs usually have a life span anywhere from 1 to 2 years.",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": "source says 'primarily', not 'completely' dependent"
+ },
+ {
+  "claim": "The flowers of the desert paintbrush (Castilleja chromosa) are small, green, and unremarkable.",
+  "verdict": "overstated",
+  "corrected_claim": "The actual flowers of the desert paintbrush are small, yellowish-green and unremarkable; its color comes from the colorful bracts.",
+  "quote": "The actual flowers are yellowish-green with more or less reddish edges, tubular, and unremarkable.",
+  "source_url": "https://en.wikipedia.org/wiki/Castilleja_chromosa",
+  "note": "Flowers are yellowish-green with reddish edges, not simply green"
+ },
+ {
+  "claim": "Lithium is the lightest metal with a density of just 0.534 g/cm³ - light enough to float on water.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q568",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Sacculina larvae look like typical barnacle larvae — they're only recognized as barnacles because of this larval similarity to their filter-feeding relatives.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "they are recognised as barnacles because their larval forms are like other members of the barnacle class Cirripedia",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": ""
+ },
+ {
+  "claim": "Debris fallout from a violent 2011 tornado included a photograph found 353 km (219 mi) downstream from its origin.",
+  "verdict": "overstated",
+  "corrected_claim": "Photographs carried by the 2011 Hackleburg–Phil Campbell tornado were recovered as far away as Tennessee.",
+  "quote": "Photographs were recovered as far away as Tennessee.",
+  "source_url": "https://en.wikipedia.org/wiki/2011_Hackleburg%E2%80%93Phil_Campbell_tornado",
+  "note": "353 km figure not on page"
+ },
+ {
+  "claim": "Hydrogen is the lightest element with a density of just 0.08987 g/L at standard conditions.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q556",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Infected crabs stop molting, lose the ability to regenerate lost claws, and suffer reduced nutrition — all energy is redirected to the parasite.",
+  "verdict": "overstated",
+  "corrected_claim": "Crabs infected by Sacculina can no longer molt or regrow a severed claw, and suffer a loss of nutrition that impairs their growth.",
+  "quote": "the crab is unable to perform the normal function of molting ... This results in a loss of nutrition for the crab, and impairs its overall growth",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": "'all energy redirected' not stated"
+ },
+ {
+  "claim": "The small flowers that give Aquilegia parviflora its name make it unpopular with gardeners.",
+  "verdict": "overstated",
+  "corrected_claim": "The comparatively small flowers that give Aquilegia parviflora its name make it less popular with gardeners, who often favor larger-flowered columbines.",
+  "quote": "Its comparatively small blue-purple flowers give the plant its name and make it less popular with gardeners... Gardeners, who often favor columbine plants with larger flowers, tend to avoid acquiring the species.",
+  "source_url": "https://en.wikipedia.org/wiki/Aquilegia_parviflora",
+  "note": "Source says 'less popular', not 'unpopular'"
+ },
+ {
+  "claim": "Light travels at exactly 299,792,458 meters per second - the cosmic speed limit that nothing with mass can reach.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q9128",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Over 100 species of Sacculina parasitic barnacles have been identified, each specialized for different crab hosts.",
+  "verdict": "overstated",
+  "corrected_claim": "More than 100 species of Sacculina parasitic barnacles are currently recognised.",
+  "quote": "More than 100 species of Sacculina are currently recognised:",
+  "source_url": "https://en.wikipedia.org/wiki/Sacculina",
+  "note": "'each specialized for different hosts' not in source"
+ },
+ {
+  "claim": "Debris was carried aloft to an altitude of 30,000 feet (9,100 m) after the 1957 Ruskin Heights tornado.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "other debris was carried aloft 30,000 ft (9,100 m; 5.7 mi; 9.1 km)",
+  "source_url": "https://en.wikipedia.org/wiki/1957_Ruskin_Heights_tornado",
+  "note": ""
+ },
+ {
+  "claim": "Tantalum has the second highest melting point of any element at 3,017°C and is used in surgical implants because it's non-reactive in the body.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1123",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The emerald cockroach wasp's second sting directly targets the subesophageal ganglion and supraesophageal ganglion in the cockroach brain — a remarkably precise surgical strike.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The second sting is administered to the subesophageal ganglion (SEG) and the supraesophageal ganglion (SupOG).",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": ""
+ },
+ {
+  "claim": "The 2007 Greensburg tornado had ten smaller tornadoes (satellite tornadoes) orbiting it.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "at least five confirmed satellite tornadoes existed around the main tornado",
+  "source_url": "https://en.wikipedia.org/wiki/2007_Greensburg_tornado",
+  "note": "Page says at least five satellite tornadoes, not ten"
+ },
+ {
+  "claim": "Mercury is the only metal that's liquid at room temperature, with a melting point of -38.83°C.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q925",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The jewel wasp's venom blocks octopamine receptors — octopamine is the insect equivalent of adrenaline, controlling escape and flight responses.",
+  "verdict": "overstated",
+  "corrected_claim": "The jewel wasp's venom is reported to block receptors for the neurotransmitter octopamine.",
+  "quote": "The venom is reported to block receptors for the neurotransmitter octopamine.",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": "Octopamine as 'insect adrenaline' controlling escape not stated; page says 'reported'"
+ },
+ {
+  "claim": "The Chapline columbine is generally considered a distinct species, except in Texas, where it is considered a variety of the golden columbine.",
+  "verdict": "overstated",
+  "corrected_claim": "The Chapline columbine is sometimes treated as a variety of the golden columbine — a reclassification not broadly accepted outside Texas but still used within that state.",
+  "quote": "The renaming as a variant of A. chrysantha proposed by Lott was not broadly accepted outside of Texas but remains in use within that state.",
+  "source_url": "https://en.wikipedia.org/wiki/Aquilegia_chaplinei",
+  "note": "Even in Texas, TPWD uses A. chaplinei"
+ },
+ {
+  "claim": "Uranium has a density of 19.05 g/cm³, making it one of the densest naturally occurring elements.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1098",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "After stinging, the jewel wasp chews off half of each cockroach antenna and drinks hemolymph (insect blood) from the wounds before leading its victim away.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "chew off half of each of the roach's antennae, after which it carefully feeds from exuding hemolymph.",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": ""
+ },
+ {
+  "claim": "Aquilegia barykinae is likely more closely related to other species of columbine than to Aquilegia amurensis, which shares its range.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Aquilegia barykinae is likely closely related to the widespread species Aquilegia vulgaris, ... Despite similarities in the shape of the shoots and leaves to Aquilegia amurensis, another species in the same region, it is not likely to be a close relative.",
+  "source_url": "https://en.wikipedia.org/wiki/Aquilegia_barykinae",
+  "note": ""
+ },
+ {
+  "claim": "Californium is so rare that only 8 grams have ever been produced, yet it has a density of 15.1 g/cm³.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1888",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The jewel wasp was introduced to Hawaii in 1941 for cockroach control, but the program failed because the wasps are territorial and hunt on too small a scale.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A. compressa was introduced to Hawaii by F.X. Williams in 1941 as a method of biocontrol. This has been unsuccessful because of the territorial tendencies of the wasp and the small scale on which they hunt.",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": ""
+ },
+ {
+  "claim": "Although the plant species Dolichostachys elongata was first described in 1962, it was not considered validly published until 60 years later.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "were named and described by Raymond Benoist in 1962 ... neither the genus nor species names could be considered validly published ... Benoist's description was verified and a type specimen was designated in a 2022 article",
+  "source_url": "https://en.wikipedia.org/wiki/Dolichostachys",
+  "note": ""
+ },
+ {
+  "claim": "Neon has a boiling point of -246°C and produces the iconic reddish-orange glow in neon signs.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q654",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Female jewel wasps only need to mate once to parasitize several dozen cockroaches over their several-month lifespan.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "only one mating is necessary for a female wasp to successfully parasitize several dozen roaches ... Adults live for several months.",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": ""
+ },
+ {
+  "claim": "Some Idaho mountain deathcamas are pollinated by carrion and flesh flies rather than bees.",
+  "verdict": "overstated",
+  "corrected_claim": "In alpine Idaho, flies including flower, carrion and flesh flies are likely the major pollinators of mountain deathcamas; bees were present but not seen visiting it.",
+  "quote": "flies including flower, carrion and flesh flies ... are likely the major pollinators for A. elegans in alpine areas of Idaho.",
+  "source_url": "https://en.wikipedia.org/wiki/Anticlea_elegans",
+  "note": "Page says 'likely'; bees were present but not documented visiting"
+ },
+ {
+  "claim": "Fluorine has an extremely low boiling point of -188°C and is the most electronegative element on the periodic table.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q650",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Scientists can recreate the zombie state in cockroaches by injecting procaine into the same brain region the wasp targets — proving the mechanism of control.",
+  "verdict": "overstated",
+  "corrected_claim": "Researchers have simulated the cockroach 'zombie' state by injecting procaine into the same brain ganglion (the SEG) the wasp stings.",
+  "quote": "Researchers have simulated this zombie state by injecting procaine into the SEG.",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": "'Proving the mechanism' not stated"
+ },
+ {
+  "claim": "1977's Typhoon Thelma was the most destructive event in Taiwan since World War II.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "brought more destruction on Taiwan than any event since World War II",
+  "source_url": "https://en.wikipedia.org/wiki/Typhoon_Thelma_(1977)",
+  "note": ""
+ },
+ {
+  "claim": "Molybdenum has a melting point of 2,623°C and is essential for high-strength steel alloys used in construction.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1053",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "The jewel wasp larva first feeds externally on the cockroach's leg for 4-5 days, then chews into the abdomen to become an internal parasite.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The hatched larva lives and feeds for 4–5 days on the roach, then chews its way into its abdomen.",
+  "source_url": "https://en.wikipedia.org/wiki/Ampulex_compressa",
+  "note": ""
+ },
+ {
+  "claim": "The Indonesian pulp and paper industry collectively controls over 10 million hectares of land.",
+  "verdict": "overstated",
+  "corrected_claim": "According to WALHI, Indonesian pulp and paper companies collectively control over 10 million hectares of land in concessions.",
+  "quote": "Indonesian pulp and paper companies collectively control over 10 million hectares (25 million acres) of land in concessions",
+  "source_url": "https://en.wikipedia.org/wiki/Pulp_and_paper_industry_in_Indonesia",
+  "note": "'Over 10 million' is WALHI's attributed figure; elsewhere page says 'around 10 million'"
+ },
+ {
+  "claim": "Hafnium has a melting point of 2,233°C and is used in nuclear reactor control rods due to its neutron-absorbing properties.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://www.wikidata.org/wiki/Q1119",
+  "note": "Wikidata not reachable"
+ },
+ {
+  "claim": "Hairworms don't actively make grasshoppers seek water from far away — they only trigger jumping behavior when the host is already near water.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "does not influence its host to actively seek water over large distances ... only when it is already close to water",
+  "source_url": "https://en.wikipedia.org/wiki/Spinochordodes_tellinii",
+  "note": ""
+ },
+ {
+  "claim": "A tornado near Chicago was produced by a storm with a hydrodynamical helicity four times higher than the threshold favorable for tornadogenesis.",
+  "verdict": "overstated",
+  "corrected_claim": "The storm behind the 2021 Naperville-Woodridge tornado had extreme storm-relative helicity of 644 m2/s2 at 0-1 km, roughly four times the 150 m2/s2 considered favorable for tornadogenesis.",
+  "quote": "as well as extreme storm-relative helicity values of 644 m2/s2 at 0–1 kilometers and 857 m2/s2 at 0–3 kilometers ... where storm-relative values of helicity above 150 m2/s2 are considered favorable for tornadogenesis.",
+  "source_url": "https://en.wikipedia.org/wiki/2021_Naperville%E2%80%93Woodridge_tornado",
+  "note": "Page gives values, not 'four times'; it is storm-relative helicity, not 'hydrodynamical'"
+ }
+]
