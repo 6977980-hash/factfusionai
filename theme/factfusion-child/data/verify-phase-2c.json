@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "An 829-bit RSA key was factored in 2020, requiring 2,700 CPU-years of computation — RSA-2048 is estimated to require 10^9 times more effort.",
+  "verdict": "overstated",
+  "corrected_claim": "The largest publicly factored RSA number has 829 bits (RSA-250); its factorization took about 2,700 CPU-years.",
+  "quote": "the largest publicly known factored RSA number had 829 bits (250 decimal digits, RSA-250). Its factorization, by a state-of-the-art distributed implementation, took about 2,700 CPU-years.",
+  "source_url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+  "note": "RSA-2048 '10^9 times more effort' estimate not on the page."
+ },
+ {
+  "claim": "Geobacillus thermodenitrificans can remove heavy metals from industrial effluent in just 12 hours at extreme temperatures.",
+  "verdict": "overstated",
+  "corrected_claim": "In extreme-heat environments, Geobacillus thermodenitrificans has been shown to effectively manage heavy-metal concentrations within twelve hours of introduction.",
+  "quote": "has been shown to effectively manage the concentration of these metals within twelve hours of introduction.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page says 'manage the concentration', not remove from industrial effluent."
+ },
+ {
+  "claim": "Japanese honeybees defend against giant hornets by mobbing them and vibrating their muscles to raise temperature to 47°C (117°F)—lethal to hornets but not bees.",
+  "verdict": "overstated",
+  "corrected_claim": "Japanese honeybees mob an invading hornet in a ball and vibrate their flight muscles, raising the temperature to 46°C (115°F) — which the hornet can't survive, while the bees tolerate up to 50°C, though some bees do die too.",
+  "quote": "The bees violently vibrate their flight muscles ... This raises the temperature in the ball to the critical temperature of 46 °C (115 °F) ... the honey bees can tolerate up to 50 °C (122 °F) ... Some bees do die along with the intruder",
+  "source_url": "https://en.wikipedia.org/wiki/Apis_cerana_japonica",
+  "note": "Page gives 46°C, not 47°C, and notes some bees die"
+ },
+ {
+  "claim": "Scurvy, the vitamin C deficiency disease, was a major killer of sailors until the connection to citrus fruits was established in the 18th century.",
+  "verdict": "overstated",
+  "corrected_claim": "Vitamin deficiencies were common among ships' crews until, in 1747, Scottish surgeon James Lind discovered that citrus foods helped prevent scurvy.",
+  "quote": "In 1747, the Scottish surgeon James Lind discovered that citrus foods helped prevent scurvy ... made illnesses from vitamin deficiency common among ships' crews.",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "'Major killer' not stated."
+ },
+ {
+  "claim": "Every known language has words for 'mother', 'father', and 'you' — these are among the true universal concepts found in all human languages.",
+  "verdict": "overstated",
+  "corrected_claim": "Proposed semantic universals include the idea that all languages have words meaning '(biological) mother' and 'you' (second person singular) - though some linguists argue these are strong tendencies rather than true universals.",
+  "quote": "Some other examples of proposed linguistic universals in semantics include the idea that all languages possess words with the meaning '(biological) mother' and 'you (second person singular pronoun)'",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_universal",
+  "note": "Father not mentioned; source calls them proposed universals and notes counterarguments"
+ },
+ {
+  "claim": "The Price of Anarchy measures how much worse selfish behavior is than optimal coordination — in some road networks, selfish routing can be 4/3 times worse than optimal.",
+  "verdict": "overstated",
+  "corrected_claim": "The price of anarchy measures how the efficiency of a system degrades due to the selfish behavior of its agents, comparing the optimal centralized solution with the worst equilibrium.",
+  "quote": "measures how the efficiency of a system degrades due to selfish behavior of its agents. ... The Price of Anarchy is then defined as the ratio between the optimal 'centralized' solution and 'worst equilibrium':",
+  "source_url": "https://en.wikipedia.org/wiki/Price_of_anarchy",
+  "note": "4/3 value for road networks not readable in fetched page text"
+ },
+ {
+  "claim": "Introduced cordgrass can hybridize with native California cordgrass, threatening its existence in San Francisco Bay through genetic pollution.",
+  "verdict": "overstated",
+  "corrected_claim": "In San Francisco Bay, hybridization with introduced cordgrass threatens the existence of native California cordgrass.",
+  "quote": "hybridization with introduced cordgrass threatens the existence of California cordgrass ... in San Francisco Bay",
+  "source_url": "https://en.wikipedia.org/wiki/Invasive_species",
+  "note": "'Genetic pollution' wording not confirmed"
+ },
+ {
+  "claim": "Dark web forensics focuses on identifying and analyzing digital evidence from overlay networks like Tor and I2P, used in investigating illegal marketplaces and cybercrime.",
+  "verdict": "overstated",
+  "corrected_claim": "Dark web forensics is a subfield of digital forensics that investigates activity on the dark web and other darknets, including overlay networks such as Tor and I2P.",
+  "quote": "Dark web forensics is a subfield of digital forensics and cybercrime investigation ... activities on the dark web and other darknets ... overlay networks such as Tor, I2P, and private peer-to-peer networks).",
+  "source_url": "https://en.wikipedia.org/wiki/Digital_forensics",
+  "note": "Page does not mention illegal marketplaces."
+ },
+ {
+  "claim": "RSA was patented by MIT in 1983 but released to the public domain in September 2000, just two weeks before the patent would have expired.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A patent describing the RSA algorithm was granted to MIT on 20 September 1983 ... The patent was about to expire on 21 September 2000 ... released the algorithm to the public domain on 6 September 2000.",
+  "source_url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+  "note": ""
+ },
+ {
+  "claim": "Tortoises can survive 40,000 roentgens of radiation — 50 times more than the lethal dose for humans.",
+  "verdict": "overstated",
+  "corrected_claim": "It takes 40,000 roentgens to kill up to 50% of a tortoise population, compared with only 800 roentgens to kill 50% of humans, a 50-fold difference.",
+  "quote": "The lethal dose required to kill up to 50% of a tortoise population is 40,000 ... compared to only 800 roentgens needed to kill 50% of a human population.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "40,000 R is the LD50 for tortoises, not a dose they survive."
+ },
+ {
+  "claim": "Queen bees can store millions of sperm from a single mating flight, using them to fertilize eggs for 2-5 years until she dies.",
+  "verdict": "overstated",
+  "corrected_claim": "A young queen bee stores up to 6 million sperm from multiple drones, releasing them selectively for the remaining 2–7 years of her life.",
+  "quote": "The young queen stores up to 6 million sperm from multiple drones in her spermatheca. ... She will selectively release sperm for the remaining 2–7 years of her life.",
+  "source_url": "https://en.wikipedia.org/wiki/Queen_bee",
+  "note": "Sperm comes from multiple drones; span is 2–7 years, not 2–5."
+ },
+ {
+  "claim": "Vitamin E is actually a group of eight related molecules—four tocopherols and four tocotrienols.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For example, there are eight vitamers of vitamin E: four tocopherols and four tocotrienols.",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": ""
+ },
+ {
+  "claim": "The Kuuk Thaayorre people of Australia don't use left/right but cardinal directions — they say 'there's an ant on your southwest leg.'",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Kuuk Thaayorre not mentioned (page discusses Guugu Yimithirr)"
+ },
+ {
+  "claim": "Venezuela's hyperinflation peaked at 1.7 million percent annually in 2018 — caused by money printing to cover fiscal deficits when oil prices fell and production collapsed.",
+  "verdict": "overstated",
+  "corrected_claim": "Venezuela's inflation was estimated at about 1,700,000% in 2018 (the IMF later reported 929,790%), with heavy money-printing and deficit spending among the causes.",
+  "quote": "and about 1,700,000% in 2018 ... The IMF reported that the inflation rate for 2018 reached 929,790%, slightly below the original 1,000,000% estimate. ... Potential causes of the hyperinflation include heavy money-printing and deficit spending.",
+  "source_url": "https://en.wikipedia.org/wiki/Hyperinflation_in_Venezuela",
+  "note": "Estimates vary; oil production collapse not stated as cause"
+ },
+ {
+  "claim": "Opium poppy was listed on Sumerian clay tablets around 3000 BC—among humanity's oldest documented medicinal plants.",
+  "verdict": "overstated",
+  "corrected_claim": "In ancient Sumeria, hundreds of medicinal plants including myrrh and opium were listed on clay tablets from around 3000 BC.",
+  "quote": "In ancient Sumeria, hundreds of medicinal plants including myrrh and opium are listed on clay tablets from around 3000 BC.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "'Among humanity's oldest documented' not stated."
+ },
+ {
+  "claim": "Forensic psychology research by Saul Kassin on false confessions was instrumental in overturning the wrongful convictions of the Central Park Five.",
+  "verdict": "overstated",
+  "corrected_claim": "One of psychologist Saul Kassin's articles on false confessions was instrumental in overturning the convictions of five boys falsely convicted of raping a jogger.",
+  "quote": "One of Kassin's articles was instrumental in overturning the convictions of five boys who had been falsely convicted of the rape of a jogger.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Page does not name the 'Central Park Five'."
+ },
+ {
+  "claim": "A 512-bit RSA key can now be factored on a desktop computer in about 73 days — in 1999, it required hundreds of computers and the equivalent of 8,400 MIPS-years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first RSA-512 factorization in 1999 used hundreds of computers and required the equivalent of 8,400 MIPS years, over an elapsed time of about seven months. By 2009, Benjamin Moody could factor a 512-bit RSA key in 73 days using only public software (GGNFS) and his desktop computer",
+  "source_url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+  "note": ""
+ },
+ {
+  "claim": "Lepidopteran insects show significant DNA damage only at 20 Gy or higher — 10 times the dose that damages human cells.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "significant DNA damage was detected only at 20 Gy and higher doses",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page contrasts with similar damage in human cells at 2 Gy."
+ },
+ {
+  "claim": "Worker bees change jobs as they age—young bees nurse larvae, middle-aged bees build comb and process honey, older bees guard the entrance, and the oldest forage.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Bee",
+  "note": "Page does not describe age-based worker roles"
+ },
+ {
+  "claim": "Beriberi, caused by thiamine (B1) deficiency, became epidemic in Asia when polished white rice replaced whole brown rice as a dietary staple.",
+  "verdict": "overstated",
+  "corrected_claim": "When polished white rice was the common staple food, beriberi from lack of vitamin B1 was endemic.",
+  "quote": "polished white rice was the common staple food of the middle class ... beriberi resulting from lack of vitamin B1 was endemic",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Page says endemic, not an Asia-wide epidemic from replacing brown rice."
+ },
+ {
+  "claim": "Speakers of languages with grammatical gender tend to assign gendered properties to objects based on their noun's gender.",
+  "verdict": "overstated",
+  "corrected_claim": "In one experiment, speakers tended to describe objects consistently with their noun's grammatical gender, though the effect was not replicated by independent trials.",
+  "quote": "Speakers tended to describe objects in ways that were consistent with the gender of the noun in their language.",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Page notes the result failed to replicate"
+ },
+ {
+  "claim": "Attribute substitution explains why people answer different questions than asked — when asked about happiness, people often report recent mood instead of life satisfaction.",
+  "verdict": "overstated",
+  "corrected_claim": "Attribute substitution means people may answer a related but different question without realizing it — someone thinking about their love life who is then asked about their happiness might rate their love life instead.",
+  "quote": "they may actually answer a related but different question, without realizing that a substitution has taken place ... someone who has been thinking about their love life who is then asked about their happiness might substitute how happy they are with their love life rather than answer the question as asked.",
+  "source_url": "https://en.wikipedia.org/wiki/Attribute_substitution",
+  "note": "Page's example is love life, not recent mood vs life satisfaction"
+ },
+ {
+  "claim": "Ephedra plant contains ephedrine, used in Chinese medicine for millennia and now a common decongestant and stimulant compound.",
+  "verdict": "overstated",
+  "corrected_claim": "Ephedra, the source of the alkaloid ephedrine, is recorded in the ancient Chinese pharmacopoeia, the Shennong Ben Cao Jing.",
+  "quote": "The Chinese pharmacopoeia, the Shennong Ben Cao Jing records plant medicines such as chaulmoogra for leprosy, ephedra, and hemp.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Decongestant/stimulant use and 'millennia' not stated."
+ },
+ {
+  "claim": "Ted Bundy was evaluated by multiple forensic psychologists in 1980 to determine his competency to stand trial—he was found fit despite obvious psychological disturbance.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1980, Ted Bundy was evaluated by multiple psychology professionals to determine whether he could stand trial — and was found fit.",
+  "quote": "In 1980, he went to trial and was evaluated by multiple psychology professionals to determine his ability to stand before the court. ... The results from the multiple psychologist evaluations determined that Ted Bundy was fit to stand before the court.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "'Despite obvious psychological disturbance' is not on the page."
+ },
+ {
+  "claim": "In 2012, researchers found that 0.2% of RSA public keys on the Internet shared prime factors with other keys, allowing them to be trivially broken using only Euclid's algorithm.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They were able to factor 0.2% of the keys using only Euclid's algorithm.",
+  "source_url": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)",
+  "note": "Keys gathered from the Internet in early 2012."
+ },
+ {
+  "claim": "Sulfolobus solfataricus survived Martian-level UV radiation — suggesting microbial life could exist on Mars.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2015, Italian scientists reported that the archaeon Sulfolobus solfataricus survived Martian radiation at a wavelength considered lethal to most bacteria.",
+  "quote": "S. soflataricus survived under Martian radiation at a wavelength that was considered lethal to most bacteria.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not say the finding suggests life could exist on Mars."
+ },
+ {
+  "claim": "Bees have five eyes—two large compound eyes for detecting movement and three small ocelli on top of their head for detecting light intensity.",
+  "verdict": "overstated",
+  "corrected_claim": "Bees have five eyes: a pair of large compound eyes covering much of the head, plus three small simple eyes (ocelli) that provide information on light intensity.",
+  "quote": "A pair of large compound eyes which cover much of the surface of the head. Between and above these are three small simple eyes (ocelli) which provide information on light intensity.",
+  "source_url": "https://en.wikipedia.org/wiki/Bee",
+  "note": "Page does not say compound eyes are for detecting movement"
+ },
+ {
+  "claim": "Folic acid supplementation during pregnancy reduced the risk of neural tube defects like spina bifida so dramatically that it became a public health recommendation.",
+  "verdict": "overstated",
+  "corrected_claim": "Recommendations for folic acid supplementation during pregnancy reduced the risk of infant neural tube defects.",
+  "quote": "Recommendations for folic acid supplementation during pregnancy reduced the risk of infant neural tube defects.",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Spina bifida and 'dramatically' not on page."
+ },
+ {
+  "claim": "Wilhelm von Humboldt declared in 1820 that 'the diversity of languages is not a diversity of signs but a diversity of views of the world.'",
+  "verdict": "overstated",
+  "corrected_claim": "Wilhelm von Humboldt declared in 1820: 'The diversity of languages is not a diversity of signs and sounds but a diversity of views of the world.'",
+  "quote": "Wilhelm von Humboldt declared in 1820: ... The diversity of languages is not a diversity of signs and sounds but a diversity of views of the world.",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Quote omits 'and sounds'"
+ },
+ {
+  "claim": "Grim Trigger strategy enforces cooperation by threatening permanent defection after any betrayal — effective in infinitely repeated games but vulnerable to mistakes.",
+  "verdict": "overstated",
+  "corrected_claim": "Grim trigger threatens permanent defection after a single defection, which in theory sustains cooperation in infinitely repeated games, but it performs poorly in practice and worse still with signal errors.",
+  "quote": "Since a single defect by the opponent triggers defection forever ... Its ability to threaten permanent defection gives it a theoretically effective way to sustain trust ... grim trigger performs poorly even without noise, and adding signal errors makes it even worse.",
+  "source_url": "https://en.wikipedia.org/wiki/Grim_trigger",
+  "note": "Page says it performs poorly even without noise, not just vulnerable to mistakes"
+ },
+ {
+  "claim": "Cinchona bark contains quinine, which saved countless lives from malaria and was the first effective treatment for the disease.",
+  "verdict": "overstated",
+  "corrected_claim": "Quinine, from the cinchona tree, is one of the common modern drugs that originated from medicinal plants.",
+  "quote": "These include the common drugs aspirin, digoxin, quinine, and opium.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Page does not mention malaria or 'first effective treatment'."
+ },
+ {
+  "claim": "Elizabeth Loftus's research on eyewitness memory has demonstrated how easily false memories can be implanted, fundamentally changing how courts evaluate witness testimony.",
+  "verdict": "overstated",
+  "corrected_claim": "Elizabeth Loftus is known for her research on eyewitness memory, a key topic in forensic psychology.",
+  "quote": "Elizabeth Loftus and Gary Wells, who are both known for their research on eyewitness memory.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "False-memory implantation and impact on courts not on the page."
+ },
+ {
+  "claim": "Unix was created at Bell Labs by Ken Thompson and Dennis Ritchie starting in 1969 — it was named 'Unics' as a pun on 'Multics', the bloated system they had abandoned.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the development of which started in 1969 at the Bell Labs research center by Ken Thompson, Dennis Ritchie, and others ... the group coined the name Unics for Uniplexed Information and Computing Service as a pun on Multics",
+  "source_url": "https://en.wikipedia.org/wiki/Unix",
+  "note": "Page: frustrated by the size and complexity of Multics."
+ },
+ {
+  "claim": "Bacillus boroniphilus is strongly borophilic — thriving in high boron concentrations toxic to most life.",
+  "verdict": "overstated",
+  "corrected_claim": "Boron tolerance in microbes was unknown until the bacterium Bacillus boroniphilus was isolated — a strong borophile.",
+  "quote": "boron tolerance was unknown, but a strong borophile was discovered in bacteria.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page does not say it thrives in boron concentrations toxic to most life."
+ },
+ {
+  "claim": "Mason bees are so efficient at pollination that just 250 females can pollinate an acre of apple trees—a job requiring 25,000 honeybees.",
+  "verdict": "overstated",
+  "corrected_claim": "Mason bees (Osmia) can pollinate very efficiently, which is largely attributed to their anatomy and behavior.",
+  "quote": "Osmia can pollinate very efficiently, which is largely attributed to their anatomy and behavior.",
+  "source_url": "https://en.wikipedia.org/wiki/Mason_bee",
+  "note": "250 females per acre vs 25,000 honeybees not on page."
+ },
+ {
+  "claim": "Vitamin B12 deficiency can cause irreversible neurological damage and is a particular concern for strict vegans, as B12 is found almost exclusively in animal products.",
+  "verdict": "overstated",
+  "corrected_claim": "Vitamin B12 is the only vitamin or nutrient not available from plant sources; its deficiency causes anemia.",
+  "quote": "Vitamin B12 is the only vitamin or nutrient not available from plant sources.",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Neurological damage and vegans not mentioned."
+ },
+ {
+  "claim": "Franz Boas, the father of American anthropology, argued there was no such thing as a 'primitive language' — all are equally complex.",
+  "verdict": "overstated",
+  "corrected_claim": "Franz Boas stressed the equal worth of all cultures and languages and held that there was no such thing as a primitive language.",
+  "quote": "stressed the equal worth of all cultures and languages ... there was no such thing as a primitive language",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "'Father of American anthropology' and 'equally complex' not on page"
+ },
+ {
+  "claim": "The Panic of 1837 lasted 7 years and was triggered by Andrew Jackson's banking policies and British credit tightening — leading to 40% unemployment in some cities.",
+  "verdict": "overstated",
+  "corrected_claim": "The Panic of 1837 set off a recession that persisted for nearly seven years, against a background of Jackson's veto of the Second Bank's recharter, his Specie Circular, and Bank of England interest-rate hikes — with mass unemployment.",
+  "quote": "the recession persisted for nearly seven years ... The Specie Circular of 1836 mandated that western lands could be purchased only with gold and silver coin ... there was mass unemployment",
+  "source_url": "https://en.wikipedia.org/wiki/Panic_of_1837",
+  "note": "Page gives no 40% unemployment figure (40% refers to bank failures)"
+ },
+ {
+  "claim": "Chaulmoogra oil from Hydnocarpus trees was used to treat leprosy in Chinese medicine for centuries before modern antibiotics.",
+  "verdict": "overstated",
+  "corrected_claim": "The ancient Chinese pharmacopoeia, the Shennong Ben Cao Jing, records chaulmoogra as a plant medicine for leprosy.",
+  "quote": "The Chinese pharmacopoeia, the Shennong Ben Cao Jing records plant medicines such as chaulmoogra for leprosy, ephedra, and hemp.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Hydnocarpus, 'centuries' and antibiotics not stated."
+ },
+ {
+  "claim": "The M'Naghten Rule from 1843 defines insanity as not understanding the nature of one's acts or that they were wrong due to mental disease—still used in many jurisdictions today.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1843 M'Naghten rule defines insanity as not understanding the nature and quality of one's acts, or that they were wrong, due to a mental disease or defect.",
+  "quote": "The M'Naghten/McNaugton rule (1843) defines insanity as the individual not understanding the nature and quality of his or her acts or that these acts were wrong due to a mental disease or defect.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Page does not say it is still used in many jurisdictions."
+ },
+ {
+  "claim": "The entire original Unix distribution fit on a single magnetic tape and occupied less than 10 MB — including all source code, binaries, and documentation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "occupied less than 10 MB and arrived on a single nine-track magnetic tape",
+  "source_url": "https://en.wikipedia.org/wiki/Unix",
+  "note": ""
+ },
+ {
+  "claim": "Thermus brockianus from Yellowstone produces a catalase stable at 80°C and pH 10 for 15 days — industrial-strength enzymes from hot springs.",
+  "verdict": "overstated",
+  "corrected_claim": "A catalase from Yellowstone's Thermus brockianus has a half-life of 15 days at 80°C and pH 10 — versus 15 seconds for a fungal catalase under the same conditions.",
+  "quote": "the T. brockianus catalase exhibited a half-life of 15 days at 80 °C and pH 10.",
+  "source_url": "https://en.wikipedia.org/wiki/Extremophile",
+  "note": "Page gives a 15-day half-life, not 15 days of stability."
+ },
+ {
+  "claim": "Silkworm moths have been domesticated for so long (over 5,000 years) that they can no longer fly or survive in the wild without human care.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The domestic silk moths cannot fly ... These changes have made B. mori entirely dependent upon humans for survival, and it does not exist in the wild. ... has existed for at least 5,000 years in China.",
+  "source_url": "https://en.wikipedia.org/wiki/Bombyx_mori",
+  "note": ""
+ },
+ {
+  "claim": "Water-soluble vitamins (B and C) are rarely dangerous in excess because they're excreted in urine, but fat-soluble vitamins (A, D, E, K) can accumulate to toxic levels.",
+  "verdict": "overstated",
+  "corrected_claim": "Water-soluble vitamins are readily excreted from the body, while vitamins A and D can accumulate and cause dangerous hypervitaminosis.",
+  "quote": "are readily excreted from the body ... Vitamins A and D can accumulate in the body, which can result in dangerous hypervitaminosis.",
+  "source_url": "https://en.wikipedia.org/wiki/Vitamin",
+  "note": "Page names only A and D as accumulating; 'rarely dangerous' not stated."
+ },
+ {
+  "claim": "Edward Sapir wrote: 'No two languages are ever sufficiently similar to be considered as representing the same social reality.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "No two languages are ever sufficiently similar to be considered as representing the same social reality.",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": ""
+ },
+ {
+  "claim": "Recency bias leads investors to overweight recent events — after a market crash, investors assume crashes are more likely, but after a bull run, they underestimate crash risk.",
+  "verdict": "overstated",
+  "corrected_claim": "Recency bias can skew investors' view of economic cycles — convincing them a rising market will keep rising, so they stay invested in growing markets and refrain from buying in declining ones.",
+  "quote": "Recency bias can skew investors into not accurately evaluating economic cycles, causing them to continue to remain invested in a growing market ... refrain from buying assets in a declining market or recession period",
+  "source_url": "https://en.wikipedia.org/wiki/Recency_bias",
+  "note": "Page does not discuss crash-probability estimates after crashes or bull runs."
+ },
+ {
+  "claim": "Tobacco was considered a panacea in Europe after the Columbian Exchange and has 'probably been responsible for more deaths than any other herb.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was considered a panacea in Europe ... probably been responsible for more deaths than any other herb",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Panacea statement is in a footnote; Columbian Exchange context on page."
+ },
+ {
+  "claim": "Forensic human factors professionals analyze how cognitive factors like perception, situational awareness, and decision-making contributed to accidents and system failures.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "applies human factors theory, principles and data to analyze systems failures ... cognition, perception and human information processing",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Page also lists situational awareness and decision-making."
+ },
+ {
+  "claim": "Unix was rewritten in C in 1973, making it the first portable operating system — almost entirely hardware-independent, it could be easily ported to new machines.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "almost the entire operating system is written in the C programming language (in 1973) ... It distinguished itself from its predecessors as the first portable operating system",
+  "source_url": "https://en.wikipedia.org/wiki/Unix",
+  "note": ""
+ },
+ {
+  "claim": "The Human Microbiome Project identified over 10,000 microbial species in 242 healthy volunteers.",
+  "verdict": "overstated",
+  "corrected_claim": "The Human Microbiome Project collected more than 5,000 samples from 242 healthy U.S. volunteers; more than 10,000 microbial species occupy the human ecosystem.",
+  "quote": "From 242 healthy U.S. volunteers, more than 5,000 samples were collected ... more than 10,000 microbial species occupy the human ecosystem.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Page does not say the HMP identified all 10,000 species in the volunteers"
+ },
+ {
+  "claim": "A single silkworm cocoon contains a continuous silk thread up to 900 meters long—but it takes about 2,500 cocoons to make one pound of silk.",
+  "verdict": "overstated",
+  "corrected_claim": "A silkworm caterpillar spins about one mile (1.6 km) of filament in 2–3 days to encase itself in a cocoon — and producing 1 kg of silk takes 3,000 silkworms eating 104 kg of mulberry leaves.",
+  "quote": "Within 2–3 days, the caterpillar spins about one mile (1.6 km) of filament and is completely encased in a cocoon. ... To produce 1 kg of silk, 104 kg of mulberry leaves must be eaten by 3000 silkworms.",
+  "source_url": "https://en.wikipedia.org/wiki/Silk",
+  "note": "Page says ~1.6 km, not 900 m; no 2,500 cocoons per pound figure."
+ },
+ {
+  "claim": "'Superfood' is a marketing term with no official definition by the FDA, USDA, or European Food Safety Authority—it's primarily used to sell products at higher prices.",
+  "verdict": "overstated",
+  "corrected_claim": "'Superfood' is a marketing term with no official definition from the FDA, USDA or European Food Safety Authority — and 'superfood' products have been sold at higher prices than similar foods without the label.",
+  "quote": "The term has no official definition by regulatory authorities in major consumer markets, such as the United States Food and Drug Administration and Department of Agriculture or the European Food Safety Authority. ... 'Superfood' products were sold at a higher price than similar foods not marketed with the label.",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": "Page does not say it is 'primarily used' to raise prices."
+ },
+ {
+  "claim": "The novel 'Arrival' (and film) explores linguistic relativity through an alien language that changes how humans perceive time.",
+  "verdict": "overstated",
+  "corrected_claim": "Ted Chiang's 1998 short story \"Story of Your Life\", and the 2016 film Arrival based on it, apply the Whorf hypothesis to an alien species that visits Earth.",
+  "quote": "Ted Chiang's 1998 short story \"Story of Your Life\" developed the concept of the Whorf hypothesis as applied to an alien species that visits Earth. ... In the 2016 American movie Arrival, based on Chiang's short story, the Whorf hypothesis is the premise.",
+  "source_url": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+  "note": "Source calls it a short story, not a novel, and does not mention perception of time"
+ },
+ {
+  "claim": "Stackelberg leadership in game theory gives first-movers an advantage — the leader commits to a strategy knowing the follower will best-respond, allowing the leader to shape the game.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the leader firm moves first and then the follower firms move sequentially. ... More generally, the leader must have commitment power. ... Simply by moving first, the leader has accrued twice the profit of the follower.",
+  "source_url": "https://en.wikipedia.org/wiki/Stackelberg_competition",
+  "note": "Page profit ratio is from a specific example."
+ },
+ {
+  "claim": "Thymol from thyme has antiseptic properties and was once used as a vermifuge (anti-worm medicine) before modern drugs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "thymol is an antiseptic and was once used as a vermifuge (anti-worm medicine).",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "The American Board of Forensic Psychology was chartered in 1976, eventually becoming part of the American Board of Professional Psychology in 1985.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1976, the American Board of Forensic Psychology was chartered, eventually becoming part of the American Board of Professional Psychology in 1985.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": ""
+ },
+ {
+  "claim": "By the late 1990s, Unix and Unix-like systems ran on over 90% of the world's top 500 fastest supercomputers.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "became the operating system of choice for over 90% of the world's top 500 fastest supercomputers",
+  "source_url": "https://en.wikipedia.org/wiki/Unix",
+  "note": "Page places this in the 1990s."
+ },
+ {
+  "claim": "The mouth has distinct microbial neighborhoods — bacteria of the same species form different communities on teeth versus tongue.",
+  "verdict": "overstated",
+  "corrected_claim": "Bacteria of the same species in the mouth come in multiple subtypes that prefer distinctly different locations in the mouth.",
+  "quote": "Bacteria of the same species found throughout the mouth are of multiple subtypes, preferring to inhabit distinctly different locations in the mouth.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Teeth-vs-tongue not specified"
+ },
+ {
+  "claim": "Cockroaches can live for weeks without their heads—they die only because they can't drink water, not because they need their brain to survive.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "Popular claims of the longevity of headless cockroaches do not appear to be based on published research.",
+  "source_url": "https://en.wikipedia.org/wiki/Cockroach",
+  "note": "Page says the weeks-without-head claim is not based on published research; the severed head survives only hours"
+ },
+ {
+  "claim": "The EU prohibited marketing products as 'superfoods' in 2007 unless accompanied by specific health claims supported by scientific research.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2007, the marketing of products as \"superfoods\" was prohibited in the European Union unless accompanied by a specific authorized health claim supported by credible scientific research.",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": ""
+ },
+ {
+  "claim": "Estonian and Finnish swap the words for 'south' and 'southwest' — close relatives with a surprising false friend.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Estonian and Finnish languages are related, which gives rise to false friends such as swapped forms for south and south-west:",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": ""
+ },
+ {
+  "claim": "The Mexican Peso Crisis of 1994 required a $50 billion bailout — the 'Tequila Effect' spread contagion to Argentina and Brazil, demonstrating how crises can propagate.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1994 Mexican peso crisis led to a $50 billion US-organized bailout; its impact on Chile and Brazil became known as the 'Tequila effect', and contagion spread to markets across Asia and the Americas.",
+  "quote": "The United States organized a $50 billion bailout for Mexico in January 1995 ... The impact of Mexico's crisis in Chile and Brazil became known as the Tequila effect",
+  "source_url": "https://en.wikipedia.org/wiki/Mexican_peso_crisis",
+  "note": "Page names Chile and Brazil, not Argentina."
+ },
+ {
+  "claim": "Plants used in traditional medicine for the same conditions belong to the same plant groups across Nepal, New Zealand, and South Africa—suggesting real efficacy.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2012 study found that plants used for the same conditions in Nepal, New Zealand and South Africa belonged to the same plant groups in all three regions, suggesting those groups have potential for medicinal efficacy.",
+  "quote": "belonged to the same groups of plants in all three regions ... do have potential for medicinal efficacy",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Source says 'potential' efficacy, not real efficacy."
+ },
+ {
+  "claim": "Forensic psychology was recognized as a professional specialty by the American Psychological Association in 2001.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "By 2001, forensic psychology was recognized as a professional specialty by the American Psychological Association.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": ""
+ },
+ {
+  "claim": "The first Unix source license was sold for just $150 to universities — this low price fueled its rapid adoption in academic circles.",
+  "verdict": "overstated",
+  "corrected_claim": "Unix licenses cost non-university institutions US$20,000, while universities could get one for a nominal fee of $150.",
+  "quote": "US$20,000 for non-university institutions, while universities could obtain a license for a nominal fee of $150",
+  "source_url": "https://en.wikipedia.org/wiki/Unix",
+  "note": "Page doesn't directly say the fee fueled academic adoption; 'first license sold' not stated."
+ },
+ {
+  "claim": "Lactobacillus species in the vagina produce hydrogen peroxide and lactic acid to suppress pathogens.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "which suppress pathogens by producing hydrogen peroxide and lactic acid.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": ""
+ },
+ {
+  "claim": "Cockroaches can run at speeds up to 5 km/h—equivalent to a human running at 330 km/h relative to body size.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Cockroach",
+  "note": "Page gives no running speed or body-size comparison"
+ },
+ {
+  "claim": "Blueberries, commonly marketed as a superfood, actually have only moderate nutrient content—they're not especially nutrient-dense compared to many other fruits and vegetables.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Specifically, blueberries are not especially nutrient dense (a superfood characteristic) ... they have moderate content of only three essential nutrients",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": ""
+ },
+ {
+  "claim": "Czech 'čerstvý' means 'fresh' but Russian 'чёрствый' means 'stale' — the same Slavic root evolved to opposite meanings.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": "Czech/Russian example not on the page."
+ },
+ {
+  "claim": "The Weber-Fechner law in economics shows people perceive proportional rather than absolute changes — a $5 discount matters more on a $20 item than a $500 item.",
+  "verdict": "overstated",
+  "corrected_claim": "The Weber–Fechner law may help explain why consumers shop around to save a large percentage on a small purchase but not a small percentage on a large one.",
+  "quote": "It may also play a role in explaining why consumers neglect to shop around to save a small percentage on a large purchase ... will shop around to save a large percentage on a small purchase",
+  "source_url": "https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law",
+  "note": "Discount example not on page."
+ },
+ {
+  "claim": "Many phytochemicals including curcumin and resveratrol are 'pan-assay interference compounds' that produce unreliable results in drug discovery studies.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "curcumin, epigallocatechin gallate, genistein and resveratrol are pan-assay interference compounds, meaning that in vitro studies of their activity often provide unreliable data.",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "The Daubert standard, established in 1993, requires judges to evaluate whether expert testimony is based on sufficient facts, reliable methods, and proper application to case facts.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1993 case Daubert v. Merrell Dow introduced a standard for admitting expert testimony: the expert's method must be valid and reliable.",
+  "quote": "In 1993, the case of Daubert v. Merrell Dow Pharmaceutical introduced the standard of admissibility when an expert witness is on the stand.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Page does not list the sufficient-facts and proper-application criteria."
+ },
+ {
+  "claim": "In 2026, a magnetic tape containing Version 4 Unix (1973) was discovered at the University of Utah and successfully recovered — the earliest known surviving distribution of that version.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2026, a previously unknown magnetic tape containing Version 4 Unix was discovered at the University of Utah ... The tape represents the earliest known surviving distribution of Version 4.",
+  "source_url": "https://en.wikipedia.org/wiki/Unix",
+  "note": ""
+ },
+ {
+  "claim": "African American women have different vaginal flora with less hydrogen peroxide-producing lactobacilli — ethnicity affects microbiomes.",
+  "verdict": "overstated",
+  "corrected_claim": "Hydrogen peroxide-producing lactobacilli are less common in African American women, whose vaginal pH is higher.",
+  "quote": "The occurrence of hydrogen peroxide-producing lactobacilli is lower in African American women and vaginal pH is higher.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Broad 'ethnicity affects microbiomes' generalization not stated"
+ },
+ {
+  "claim": "The American cockroach can hold its breath for 40 minutes and survive being submerged in water for 30 minutes.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/American_cockroach",
+  "note": "Page does not mention breath-holding or submersion"
+ },
+ {
+  "claim": "The term 'superfood' first appeared in a Canadian newspaper in 1949, referring to the supposed nutritional qualities of a muffin.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It appears to have been first used in a Canadian newspaper in 1949 when referring to the supposed nutritional qualities of a muffin.",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": ""
+ },
+ {
+  "claim": "German 'bekommen' means 'to receive' — not 'to become' — a trap for English speakers ordering at German restaurants.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": "'bekommen' not mentioned on the page."
+ },
+ {
+  "claim": "Congestion games always have at least one pure strategy Nash equilibrium — this makes them special among game classes and applies to traffic routing and facility location.",
+  "verdict": "overstated",
+  "corrected_claim": "Every congestion game has at least one pure-strategy Nash equilibrium—Rosenthal proved it by showing every congestion game is an exact potential game; they model situations like road traffic and communication networks.",
+  "quote": "He proved that every congestion game has a Nash equilibrium in pure strategies (aka pure Nash equilibrium, PNE). ... They represent situations which commonly occur in roads, communication networks, oligopoly markets and natural habitats.",
+  "source_url": "https://en.wikipedia.org/wiki/Congestion_game",
+  "note": "'Special among game classes' and facility location not stated"
+ },
+ {
+  "claim": "Only two botanical drug candidates were approved by the FDA between 1999-2012 despite hundreds of applications.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "despite several hundred applications for new drug status, only two botanical drug candidates had sufficient evidence",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": ""
+ },
+ {
+  "claim": "Meta-analysis of over 45,000 risk assessments showed that structured tools significantly outperform unstructured clinical judgment in predicting violence risk.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "over 45,673 risk assessments ... structured tools significantly outperformed unstructured",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Across 31 meta-analyses."
+ },
+ {
+  "claim": "The Unix philosophy of 'do one thing well' and composing small programs with pipes revolutionized software engineering and influenced all subsequent operating systems.",
+  "verdict": "overstated",
+  "corrected_claim": "The Unix philosophy—simple tools each performing a limited, well-defined function, strung together with pipes—had a significant impact on other operating systems.",
+  "quote": "the operating system should provide a set of simple tools, each of which performs a limited, well-defined function ... The Unix system had a significant impact on other operating systems.",
+  "source_url": "https://en.wikipedia.org/wiki/Unix",
+  "note": "'Revolutionized' and 'all subsequent operating systems' overstate the page."
+ },
+ {
+  "claim": "Sexual intercourse with condoms changes lactobacilli levels and increases E. coli in vaginal flora.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "sexual intercourse with a condom does appear to change lactobacilli levels ... does increase the level of Escherichia coli within the vaginal flora.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": ""
+ },
+ {
+  "claim": "Cockroaches have been around for approximately 320 million years—they predate dinosaurs by about 70 million years.",
+  "verdict": "overstated",
+  "corrected_claim": "The earliest cockroach-like fossils, the 'roachoids', date to the Carboniferous period about 320 million years ago—though modern cockroaches only appeared in the Late Jurassic.",
+  "quote": "The earliest cockroach-like fossils (\"blattopterans\" or \"roachoids\") are from the Carboniferous period 320 million years ago. ... Modern cockroaches are an ancient group that first appeared during the Late Jurassic.",
+  "source_url": "https://en.wikipedia.org/wiki/Cockroach",
+  "note": "320 Myr applies to roachoid ancestors; dinosaur comparison not on page"
+ },
+ {
+  "claim": "Noni juice manufacturer Tahitian Noni achieved billions of dollars in sales during their first 10 years, showing the commercial power of superfood marketing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "achieved billions of dollars in sales during their first 10 years",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": ""
+ },
+ {
+  "claim": "The Italian 'confetti' means sugared almonds — what English calls confetti, Italians call 'coriandoli'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The Italian word confetti ('sugared almonds') has acquired a new meaning in English, French and Dutch; in Italian, the corresponding word is coriandoli.",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": ""
+ },
+ {
+  "claim": "The Panic of 1893 was triggered by over-expansion of railroads and bank failures — it caused 500 bank closures, 15,000 business failures, and 20% unemployment.",
+  "verdict": "overstated",
+  "corrected_claim": "The Panic of 1893 followed greatly overbuilt railroads and a series of bank failures; over 15,000 companies and 500 banks failed and about 17–19% of the workforce was unemployed at its peak.",
+  "quote": "in total over 15,000 companies and 500 banks, many of them in the West, failed. ... about 17%–19% of the workforce was unemployed at the panic's peak.",
+  "source_url": "https://en.wikipedia.org/wiki/Panic_of_1893",
+  "note": "Unemployment was about 17–19%, not 20%"
+ },
+ {
+  "claim": "Datura stramonium (thornapple) contains atropine and was used for asthma, but it's also a powerful and potentially fatal hallucinogen.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Medicinal_plants",
+  "note": "Datura not mentioned on the page."
+ },
+ {
+  "claim": "The median annual income for clinical-forensic psychologists in the United States is $125,000-$149,999, ranging from $50,000 entry-level to over $350,000.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "$125,000 - $149,999",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "Page also gives the $50,000 entry to $350,000+ range."
+ },
+ {
+  "claim": "Deep Blue was the first computer to defeat a reigning world chess champion in a match — it beat Garry Kasparov 3½–2½ in 1997.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the first computer system to defeat a reigning world champion in a match under standard chess tournament time controls ... when it won the six-game rematch 3½–2½.",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
+  "note": ""
+ },
+ {
+  "claim": "The esophagus was thought sterile until the 1980s — it actually has a diverse microbiome dominated by Streptococcus.",
+  "verdict": "overstated",
+  "corrected_claim": "The esophagus was previously considered to lack a microbiome, but a healthy esophagus is dominated by gram-positive bacteria such as Streptococcus.",
+  "quote": "previously considered to lack a microbiome ... In a healthy esophagus, it is dominated by gram-positive bacteria such as Streptococcus.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "'Until the 1980s' not on page"
+ },
+ {
+  "claim": "The Madagascar hissing cockroach produces sound by forcing air through its spiracles—it's one of the few insects that makes sound this way rather than through stridulation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The sound is produced as the insect forcefully expels air out of their specialized respiratory spiracles (orifices), ... Compared to crickets, this exact mode of sound production is atypical, as most insects that make noises do so by rubbing together various body parts",
+  "source_url": "https://en.wikipedia.org/wiki/Madagascar_hissing_cockroach",
+  "note": ""
+ },
+ {
+  "claim": "Cancer Research UK states that 'superfoods cannot substitute for a generally healthy and balanced diet' and calls the concept 'a marketing tool with little scientific basis.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the term 'superfood' is really just a marketing tool, with little scientific basis to it ... Cancer Research UK cautioned that they \"cannot substitute for a generally healthy and balanced diet\".",
+  "source_url": "https://en.wikipedia.org/wiki/Superfood",
+  "note": ""
+ },
+ {
+  "claim": "Swedish 'rolig' means 'fun' but Danish 'rolig' means 'calm' — even closely related languages can have false friends.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In Swedish, the word rolig means 'fun' ... while in the closely related languages Danish and Norwegian it means 'calm'",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": ""
+ },
+ {
+  "claim": "Action bias leads people to prefer doing something over nothing — during market volatility, investors trade excessively, usually reducing returns compared to holding steady.",
+  "verdict": "overstated",
+  "corrected_claim": "Action bias is the tendency to favour action over inaction — inaction is often perceived as an inferior alternative, and action tends to be rewarded while inaction is punished.",
+  "quote": "Action bias is the psychological phenomenon where people tend to favor action over inaction ... There is a general tendency to reward action and punish inaction.",
+  "source_url": "https://en.wikipedia.org/wiki/Action_bias",
+  "note": "Page has no claim about excessive trading during volatility reducing returns"
+ },
+ {
+  "claim": "George Bernard Shaw was 'intensely disturbed' witnessing a demonstration where a cabbage appeared to have 'convulsions' while being boiled.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was intensely disturbed upon witnessing a demonstration in which a cabbage had \"convulsions\" as it boiled to death.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "In 2023, the U.S. Bureau of Labor Statistics reported a 7% rise in psychologist employment, faster than average, with 207,500 new jobs.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As of 2023, the U.S. Bureau of Labor Statistics, has seen a 7% rise in psychologist employment, which is faster than average, and there has been 207,500 new jobs for psychologists.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": ""
+ },
+ {
+  "claim": "Deep Blue could evaluate 200 million chess positions per second using 480 custom VLSI 'chess chips' running alongside 30 PowerPC processors.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "evaluating 200 million positions per second ... based on 30 PowerPC 604e processors and 480 custom 600 nm CMOS VLSI \"chess chips\" designed to execute the chess-playing expert system",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
+  "note": ""
+ },
+ {
+  "claim": "The bladder has its own microbiome — standard culture methods just couldn't detect the bacteria present there.",
+  "verdict": "overstated",
+  "corrected_claim": "The bladder has a microbiome, but common culture methods do not detect many kinds of bacteria present there.",
+  "quote": "common culture methods do not detect many kinds of bacteria.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Page says culture misses many kinds, not that it detected none"
+ },
+ {
+  "claim": "Locusts can form swarms of billions of individuals covering hundreds of square kilometers—a single swarm can consume the same amount of food as 35,000 people daily.",
+  "verdict": "overstated",
+  "corrected_claim": "A large locust swarm can consist of billions of locusts spread over thousands of square kilometres, at densities of up to 80 million per square kilometre, consuming most of the green vegetation wherever it settles.",
+  "quote": "A large swarm can consist of billions of locusts spread out over an area of thousands of square kilometres, with a population of up to 80 million per square kilometre (200 million per square mile).",
+  "source_url": "https://en.wikipedia.org/wiki/Locust",
+  "note": "35,000-people food comparison not on page."
+ },
+ {
+  "claim": "Olive oil is 70% oleic acid, making it predominantly monounsaturated fat—part of what makes it central to the Mediterranean diet.",
+  "verdict": "overstated",
+  "corrected_claim": "Olive oil consists mainly of oleic acid (up to 83%), a monounsaturated fat.",
+  "quote": "It consists mainly of oleic acid (up to 83%)",
+  "source_url": "https://en.wikipedia.org/wiki/Olive_oil",
+  "note": "Page gives up to 83%, not 70%; Mediterranean diet link not in fetched text."
+ },
+ {
+  "claim": "Quebec French uses 'éventuellement' to mean 'eventually' — but in European French it means 'perhaps' or 'possibly'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "éventuellement is commonly used as 'eventually' in Quebec but means 'perhaps' in Europe.",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": ""
+ },
+ {
+  "claim": "Potential games have a potential function where any improvement for one player improves the global function — guaranteeing convergence to equilibrium through best-response dynamics.",
+  "verdict": "overstated",
+  "corrected_claim": "In a potential game, a single potential function tracks every player's incentives — a change in one player's utility equals the change in the potential — and in finite potential games any sequence of individual improvements ends at a pure Nash equilibrium.",
+  "quote": "the change in the potential equals the change in the utility of that player. ... The terminal state in every finite improvement path is a Nash equilibrium",
+  "source_url": "https://en.wikipedia.org/wiki/Potential_game",
+  "note": "Convergence guarantee holds for finite games (finite improvement property), not stated generally"
+ },
+ {
+  "claim": "The book 'The Secret Life of Plants' (1973) severely damaged the credibility of plant intelligence research by mixing legitimate science with pseudoscience.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1973 book 'The Secret Life of Plants' captured public attention but severely damaged the credibility of the field of plant intelligence.",
+  "quote": "severely damaged the credibility of the field of plant intelligence",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page does not say it did so by mixing legitimate science with pseudoscience"
+ },
+ {
+  "claim": "There are 67 forensic psychology degree programs offered in the United States.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "There are 67 forensic psychology degree programs offered in the US.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": ""
+ },
+ {
+  "claim": "A bug in Deep Blue's code caused it to make a random move during the first game against Kasparov — he misread this as 'superior intelligence' and became psychologically shaken.",
+  "verdict": "overstated",
+  "corrected_claim": "During the 1997 rematch, a bug made Deep Blue enter a loop that it exited with a randomly selected valid move, and Kasparov misattributed the seemingly pointless move to 'superior intelligence'.",
+  "quote": "a bug in Deep Blue's code led it to enter an unintentional loop, which it exited by taking a randomly selected valid move. ... misattributed the seemingly pointless move to \"superior intelligence\".",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
+  "note": "Bug was in the first game of the second (1997) match, not the first game overall; 'psychologically shaken' not stated."
+ },
+ {
+  "claim": "Gut bacteria synthesize vitamin B and vitamin K for you — essential nutrients you get from your microbiome.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Intestinal bacteria also play a role in synthesizing B vitamins and vitamin K",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": ""
+ },
+ {
+  "claim": "Locusts and grasshoppers are the same insects—locusts are grasshoppers that have entered a 'gregarious phase' triggered by crowding, changing color and behavior.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Locusts are the swarming phase of certain species of short-horned grasshoppers in the family Acrididae. These insects are usually solitary, but under certain circumstances become more abundant and change their behaviour and habits, becoming gregarious. Swarming behaviour is a response to overcrowding. This causes the locust to change colour, eat much more, and breed much more easily.",
+  "source_url": "https://en.wikipedia.org/wiki/Locust",
+  "note": ""
+ },
+ {
+  "claim": "Wild olives were collected by Neolithic people as early as the 8th millennium BCE in Asia Minor.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Wild olives, which originated in Asia Minor, were collected by Neolithic people as early as the 8th millennium BC.",
+  "source_url": "https://en.wikipedia.org/wiki/Olive_oil",
+  "note": ""
+ },
+ {
+  "claim": "Japanese wasei-eigo ('Japan-made English') includes words that look English but aren't — like 'salary man' or 'skinship'.",
+  "verdict": "overstated",
+  "corrected_claim": "Japanese is famous for its pseudo-anglicisms, known as wasei-eigo ('Japan-made English') — words that look English but aren't.",
+  "quote": "Japanese is notable for its pseudo-anglicisms, known as wasei-eigo ('Japan-made English').",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": "Examples 'salary man' and 'skinship' are not on the page."
+ },
+ {
+  "claim": "The British Railway Mania of 1847 saw one-third of authorized railways never built after the bubble burst — it absorbed vast capital and caused a financial crisis.",
+  "verdict": "overstated",
+  "corrected_claim": "At the peak of Britain's Railway Mania in 1846, 263 Acts of Parliament set up new railway companies — and about a third of the railways authorised were never built.",
+  "quote": "The mania reached its zenith in 1846, when 263 Acts of Parliament for setting up new railway companies were passed ... About a third of the railways authorised were never built",
+  "source_url": "https://en.wikipedia.org/wiki/Railway_Mania",
+  "note": "Peak was 1846; financial crisis not described on the page."
+ },
+ {
+  "claim": "Dorothy Retallack's 1973 experiments claiming plants died from acid rock but thrived with classical music were poorly controlled and not scientifically valid.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After about 20 experiments, she stated that the plants died in response to acid rock, ... flourished under classical music and jazz. ... there was a lack of control for factors such as humidity, light and water.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "The American Psychology-Law Society's 2020 guidelines provide nine recommendations for eyewitness identification procedures, including double-blind lineups and immediate confidence statements.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "should not know who the suspect is ... immediately",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "2020 guidelines: five new plus four retained recommendations (nine total), incl. double-blind lineups and immediate confidence statements."
+ },
+ {
+  "claim": "IBM renamed 'Deep Thought' to 'Deep Blue' because the original name too closely resembled the pornographic film 'Deep Throat.'",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "IBM held a contest to rename the chess machine: the winning name was \"Deep Blue\" ... a play on IBM's nickname, \"Big Blue\".",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
+  "note": "Page says the name came from a renaming contest and plays on 'Big Blue'; no mention of Deep Throat."
+ },
+ {
+  "claim": "Oral bacteria form biofilms that harden into tarite (calculus) if not brushed away — and secrete acids that cause tooth decay.",
+  "verdict": "overstated",
+  "corrected_claim": "Oral bacteria form plaque that hardens into calculus (tartar) if not brushed away, and secrete acids that dissolve enamel and cause tooth decay.",
+  "quote": "If this is not removed by brushing, it hardens into calculus (also called tartar). The same bacteria also secrete acids that dissolve tooth enamel, causing tooth decay.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Claim misspells tartar as 'tarite'"
+ },
+ {
+  "claim": "Katydids have ears on their front legs—the tympanal organs are located in slits in their tibiae, allowing them to detect sounds for mating.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Tettigoniidae",
+  "note": "Katydid ears/tympanal organs not mentioned on the page."
+ },
+ {
+  "claim": "Aristotle recommended applying olive oil mixed with cedar oil or lead ointment to the cervix as a form of birth control in ancient Greece.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Olive oil was also popular as a form of birth control;",
+  "source_url": "https://en.wikipedia.org/wiki/Olive_oil",
+  "note": "Page cites Aristotle's History of Animals for olive oil mixed with cedar oil or lead ointment applied to the cervix (full sentence not retrievable verbatim)."
+ },
+ {
+  "claim": "English 'gymnasium' means a place for exercise, but German 'Gymnasium' is an academic high school — same Latin origin, different paths.",
+  "verdict": "overstated",
+  "corrected_claim": "In Latin, 'gymnasium' meant both a place of education and a place for exercise — German kept the first meaning, English the second.",
+  "quote": "Also, gymnasium meant both 'a place of education' and 'a place for exercise' in Latin, but its meaning became restricted to the former in German and to the latter in English",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": "Page says the German sense is 'a place of education', not specifically an academic high school."
+ },
+ {
+  "claim": "Probability weighting shows people overweight small probabilities and underweight large ones — explaining both lottery playing and insurance buying as responses to unlikely events.",
+  "verdict": "overstated",
+  "corrected_claim": "Prospect theory's probability weighting says people give excessive weight to low-probability events and too little to high-probability ones — which can make insurance attractive.",
+  "quote": "people attribute excessive weight to events with low probability and insufficient weight to events with high probability. ... a strong overweighting of small probabilities is likely to undo the effect of the convexity of in losses, making the insurance attractive.",
+  "source_url": "https://en.wikipedia.org/wiki/Prospect_theory",
+  "note": "Page does not explain lottery playing with this; only insurance."
+ },
+ {
+  "claim": "MythBusters tested plant perception in 2006 and found results were not repeatable when proper controls were applied.",
+  "verdict": "overstated",
+  "corrected_claim": "MythBusters tested plant perception in 2006 and concluded the results were not repeatable.",
+  "quote": "the results were not repeatable",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "Page does not mention proper controls being applied"
+ },
+ {
+  "claim": "Research shows that lay assessors (potential jurors) have limited ability to distinguish between accurate and inaccurate eyewitness identifications, particularly affected by racial bias.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "showed limited ability to distinguish between accurate and inaccurate identifications ... this study showed that racial bias influencers how jurors interpret identification evidence",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": "From a 2016 mock-crime study."
+ },
+ {
+  "claim": "After defeating Kasparov, IBM dismantled Deep Blue and refused his request for a rematch — the match prize was $700,000 for IBM and $400,000 for Kasparov.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "IBM had dismantled Deep Blue after its victory and refused the rematch. ... awarded a $700,000 first prize to the Deep Blue team and a $400,000 second prize to Kasparov.",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
+  "note": ""
+ },
+ {
+  "claim": "Trimethylamine produced by gut bacteria gets converted to TMAO in the liver — linked to cardiovascular disease.",
+  "verdict": "overstated",
+  "corrected_claim": "The human body converts trimethylamine from gut bacteria into trimethylamine N-oxide (TMAO) via FMO3-mediated oxidation.",
+  "quote": "trimethylamine ... trimethylamine N-oxide via FMO3-mediated oxidation",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Liver/cardiovascular link only in reference notes, not article text"
+ },
+ {
+  "claim": "Earwigs are devoted mothers—females guard their eggs, clean them to prevent fungal growth, and protect their nymphs until they can fend for themselves.",
+  "verdict": "overstated",
+  "corrected_claim": "Earwigs are among the few non-social insects that show maternal care: the mother defends her eggs, continuously cleans them to protect them from fungi, and protects the nymphs until their second molt.",
+  "quote": "Earwigs are among the few non-social insect species that show maternal care. ... She faithfully defends the eggs from predators ... She also continuously cleans the eggs to protect them from fungi. ... she will continue to protect them until their second molt.",
+  "source_url": "https://en.wikipedia.org/wiki/Earwig",
+  "note": "Page says protection lasts until the second molt, not until nymphs can fend for themselves."
+ },
+ {
+  "claim": "Spain produces 24% of the world's olive oil, making it the largest producer, followed by Italy, Greece, and Turkey.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2022 Spain was the world's largest olive oil producer with 24% of the total; Italy, Greece and Turkey were other large producers, together accounting for 59%.",
+  "quote": "In 2022, Spain was the world's largest producer, manufacturing 24% of the world's total. Other large producers were Italy, Greece, and Turkey, collectively accounting for 59% of the global market.",
+  "source_url": "https://en.wikipedia.org/wiki/Olive_oil",
+  "note": "Page does not rank Italy, Greece, Turkey in order; figure is for 2022."
+ },
+ {
+  "claim": "Proto-Malayo-Polynesian *qayam ('domesticated animal') became 'chicken' in Malay, 'dog' in Cebuano, and 'pig' in Gaddang.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the Proto-Malayo-Polynesian word *qayam ('domesticated animal') became specialized in descendant languages: Malay/ Indonesian ayam ('chicken'), Cebuano ayam ('dog'), and Gaddang ayam ('pig').",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": ""
+ },
+ {
+  "claim": "Network effects create natural monopolies where the winning product dominates regardless of quality — explaining how QWERTY keyboards and VHS formats persisted despite alternatives.",
+  "verdict": "overstated",
+  "corrected_claim": "Network effects can cause a market to 'tip' so one product dominates and competition is stifled; the QWERTY keyboard owes its ubiquity to establishing an early lead.",
+  "quote": "Tipping results in a market in which only one good or service dominates and competition is stifled ... The most commonly cited example of path dependence is the QWERTY keyboard, which owes its ubiquity to its establishment of an early lead in the keyboard layout industry",
+  "source_url": "https://en.wikipedia.org/wiki/Network_effect",
+  "note": "Page does not say dominance is 'regardless of quality'; VHS is described as having surpassed Betamax technologically."
+ },
+ {
+  "claim": "The book 'The Hidden Life of Trees' by Peter Wohlleben was criticized by scientists for anthropomorphizing trees with friendships, fear, love, and pain.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The book was widely criticized by biologists and forest scientists ... \"friendships\" ... registering fear, love and pain",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "Risk assessment instruments may inadvertently reinforce racial and socioeconomic disparities because underlying data reflects historical patterns of unequal treatment.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Additionally, risk-assessment instruments may inadvertently reinforce racial and socioeconomic disparities, as underlying data can reflect historical patterns of unequal treatment.",
+  "source_url": "https://en.wikipedia.org/wiki/Forensic_psychology",
+  "note": ""
+ },
+ {
+  "claim": "Kasparov initially called Deep Blue an 'alien opponent' but later belittled it, stating it was 'as intelligent as your alarm clock.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Kasparov initially called Deep Blue an \"alien opponent\" ... stating that it was \"as intelligent as your alarm clock\"",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
+  "note": ""
+ },
+ {
+  "claim": "Lysozyme in tears has antibacterial activity — it's why eye infections are relatively rare despite constant exposure.",
+  "verdict": "overstated",
+  "corrected_claim": "Tears contain bactericides such as lysozyme.",
+  "quote": "Tears contain bactericides such as lysozyme.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Link to rarity of eye infections not stated"
+ },
+ {
+  "claim": "Froghoppers (spittlebugs) can jump higher than fleas relative to body size—accelerating at 4,000 m/s² (over 400 g) during takeoff.",
+  "verdict": "overstated",
+  "corrected_claim": "Froghoppers can jump up to 70 cm vertically, a more impressive performance relative to body weight than fleas, accelerating at 4,000 m/s2 and experiencing over 400 g.",
+  "quote": "a more impressive performance relative to body weight than fleas ... The froghopper can accelerate at 4,000 m/s2 (13,000 ft/s2) over 2 mm (0.079 in) as it jumps ... experiencing over 400 gs of acceleration",
+  "source_url": "https://en.wikipedia.org/wiki/Froghopper",
+  "note": "Page compares relative to body weight, not jump height relative to size"
+ },
+ {
+  "claim": "The first probiotic discovered was Lactobacillus bulgaricus in Bulgarian yogurt, identified by Stamen Grigorov in 1905.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first discovered probiotic was a certain strain of bacillus in Bulgarian yoghurt, called Lactobacillus bulgaricus. The discovery was made in 1905 by Bulgarian physician and microbiologist Stamen Grigorov.",
+  "source_url": "https://en.wikipedia.org/wiki/Probiotics",
+  "note": ""
+ },
+ {
+  "claim": "The English word 'friend' originally meant both 'friend' and 'relative' — Scandinavian cognates kept only the 'relative' meaning.",
+  "verdict": "overstated",
+  "corrected_claim": "The Proto-Germanic ancestor of 'friend' could mean both friend and relative — English mostly lost the 'relative' sense, while Scandinavian cognates like Swedish 'frände' predominantly mean 'relative'.",
+  "quote": "The original Proto-Germanic word meant simply 'someone whom one cares for' and could therefore refer to both a friend and a relative, but it lost various degrees of the 'friend' sense in the Scandinavian languages, while it mostly lost the sense of 'relative' in English",
+  "source_url": "https://en.wikipedia.org/wiki/False_friend",
+  "note": "Dual meaning belongs to the Proto-Germanic word; Scandinavian cognates 'predominantly', not only, mean relative."
+ },
+ {
+  "claim": "The Knickerbocker Trust collapse in 1907 triggered a run on other trusts — J.P. Morgan personally coordinated bailouts, leading to calls for a central bank and the Federal Reserve's creation.",
+  "verdict": "overstated",
+  "corrected_claim": "A 1907 run on the Knickerbocker Trust forced it to suspend operations, and the banking crisis is seen as the final event that led Congress to form the Federal Reserve in 1913.",
+  "quote": "triggering a run of depositors demanding their funds back that forced the Knickerbocker to suspend operations. ... The banking crisis is also seen as the final event that led Congress to form the Federal Reserve System in 1913.",
+  "source_url": "https://en.wikipedia.org/wiki/Knickerbocker_Trust_Company",
+  "note": "Page says Morgan refused aid; runs on other trusts not mentioned"
+ },
+ {
+  "claim": "Gustav Fechner in 1848 first suggested plants can feel emotions and that one could promote healthy growth with talk, attention, and affection.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The notion that plants are capable of feeling emotions was first recorded in 1848, when ... talk, attention, attitude, and affection",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "The rate of cold cases being solved is slowly declining—soon less than 30% will be solved per year, with about 35% of 'solved' cases not truly being cold cases.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Page gives no solve-rate percentages"
+ },
+ {
+  "claim": "Edward Fredkin created a $100,000 prize in 1980 for the first computer to beat a world chess champion — it went unclaimed for 17 years until Deep Blue won it.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a prize created by computer science professor Edward Fredkin in 1980 for the first computer program to beat a reigning world chess champion",
+  "source_url": "https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)",
+  "note": "17 years is 1980 to 1997; Carnegie Mellon awarded the Deep Blue team $100,000."
+ },
+ {
+  "claim": "Malassezia yeasts live on skin by consuming oils from sebaceous glands — feeding off your face.",
+  "verdict": "overstated",
+  "corrected_claim": "Malassezia yeasts living on the skin consume oils secreted by the sebaceous glands.",
+  "quote": "consume oils secreted from the sebaceous glands.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "'Face' not specified"
+ },
+ {
+  "claim": "Asian giant hornets (Vespa mandarinia) can kill up to 40 honeybees per minute—a single hornet can decimate an entire hive in hours.",
+  "verdict": "overstated",
+  "corrected_claim": "A single Asian giant hornet can kill as many as 40 bees per minute, and only a few hornets (under 50) can exterminate a colony of tens of thousands of bees in a few hours.",
+  "quote": "A single hornet can kill as many as 40 bees per minute due to its large mandibles ... Only a few hornets (under 50) can exterminate a colony of tens of thousands of bees in a few hours.",
+  "source_url": "https://en.wikipedia.org/wiki/Asian_giant_hornet",
+  "note": "Page says a single hornet cannot take on a colony; it takes a group"
+ },
+ {
+  "claim": "Nobel laureate Élie Metchnikoff proposed around 1907 that yogurt-consuming Bulgarian peasants lived longer, helping establish the probiotic concept.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The modern-day theory is generally attributed to Russian Nobel Prize laureate Élie Metchnikoff, who postulated around 1907 that yoghurt-consuming Bulgarian peasants lived longer.",
+  "source_url": "https://en.wikipedia.org/wiki/Probiotics",
+  "note": ""
+ },
+ {
+  "claim": "The Yupik word 'tuntussuqatarniksaitengqiggtuq' is a single word meaning 'He had not yet said again that he was going to hunt reindeer.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "tuntussuqatarniksaitengqiggtuq ... He had not yet said again that he was going to hunt reindeer.",
+  "source_url": "https://en.wikipedia.org/wiki/Polysynthetic_language",
+  "note": ""
+ },
+ {
+  "claim": "Unit bias causes people to consider a single unit (one cookie, one serving) appropriate — food portions have grown larger, and people eat more without realizing it.",
+  "verdict": "overstated",
+  "corrected_claim": "Unit bias makes people see the standard suggested amount, like a serving size, as appropriate—so they consume it all even when it is too much for them.",
+  "quote": "The standard suggested amount of consumption (e.g., food serving size) is perceived to be appropriate ... a person would consume it all even if it is too much for this particular person.",
+  "source_url": "https://en.wikipedia.org/wiki/Unit_bias",
+  "note": "Growing portion sizes and eating more without realizing are not on the page."
+ },
+ {
+  "claim": "Plants under water stress release abscisic acid that causes developmental changes—similar to how signal transductions in neural networks cause muscle responses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "there are abscisic acid dependent and independent effects on development ... signal transductions in neural networks causing responses in muscle",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "The FBI's Next Generation Identification (NGI) system is replacing the older IAFIS fingerprint database, offering improved matching capabilities for cold cases.",
+  "verdict": "overstated",
+  "corrected_claim": "Because fingerprint evidence is useless without records to compare it to, the FBI is switching from its IAFIS fingerprint system to a newer technology called Next Generation Identification (NGI).",
+  "quote": "However, to combat that issue, the FBI is switching from using the Integrated Automated Fingerprint Identification System (IAFIS) to using a newer technology called the Next Generation Identification (NGI).",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Specific improved-matching benefits not stated"
+ },
+ {
+  "claim": "AlphaGo became the first computer program to beat a professional Go player without handicap in October 2015 — defeating European champion Fan Hui 5-0.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In October 2015, the distributed version of AlphaGo defeated the European Go champion Fan Hui ... This was the first time a computer Go program had beaten a professional human player on a full-sized board without handicap.",
+  "source_url": "https://en.wikipedia.org/wiki/AlphaGo",
+  "note": ""
+ },
+ {
+  "claim": "Candida albicans and Lactobacillus mutually inhibit each other — yeast and bacteria battling in your body.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Candida albicans inhibits the growth of Lactobacillus species. ... Lactobacillus species which produce hydrogen peroxide inhibit the growth and virulence of Candida albicans.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": ""
+ },
+ {
+  "claim": "Paper wasps have demonstrated the ability to recognize individual faces—they use facial recognition to maintain their social hierarchy.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Paper_wasp",
+  "note": "Facial recognition appears only in a reference title, not the article text"
+ },
+ {
+  "claim": "Probiotics are 'generally recognized as safe' (GRAS) by the FDA, but most health claims about treating conditions like eczema lack substantial scientific support.",
+  "verdict": "overstated",
+  "corrected_claim": "The FDA regards probiotics as 'generally recognized as safe' (GRAS), but that does not establish their effectiveness — and many claimed benefits, such as treating eczema, lack substantial scientific support.",
+  "quote": "Many claimed health benefits, such as treating eczema or curing vaginal infections, lack substantial scientific support.",
+  "source_url": "https://en.wikipedia.org/wiki/Probiotics",
+  "note": "Source says 'many' claimed benefits, not 'most'; GRAS does not establish effectiveness."
+ },
+ {
+  "claim": "Polysynthetic languages can pack an entire English sentence into a single word — common in Native American, Australian, and Siberian languages.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "long words that correspond to an entire sentence in English or other Indo-European languages ... more frequent in the Americas, Australia, Siberia, and New Guinea",
+  "source_url": "https://en.wikipedia.org/wiki/Polysynthetic_language",
+  "note": ""
+ },
+ {
+  "claim": "All-pay auctions, where everyone pays their bid but only the winner gets the prize, model lobbying and patent races — players often bid more than the prize is worth.",
+  "verdict": "overstated",
+  "corrected_claim": "In an all-pay auction every bidder pays whether or not they win — and in experiments over-bidding is common, with the seller's revenue frequently exceeding the value of the prize.",
+  "quote": "every bidder must pay regardless of whether they win the prize, which is awarded to the highest bidder ... over-bidding is common. That is, the seller's revenue frequently exceeds that of the value of the prize",
+  "source_url": "https://en.wikipedia.org/wiki/All-pay_auction",
+  "note": "Lobbying and patent races not mentioned as applications"
+ },
+ {
+  "claim": "Plant memory may be disadvantageous—'forgetting' brief stress periods may be more beneficial than remembering them, allowing faster return to normal growth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "plant memory could be advantageous under recurring and predictable stress; however, resetting ... forgetting about the brief period of stress may be more beneficial for plants to grow",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": ""
+ },
+ {
+  "claim": "The Jack the Ripper case from 1888 remains unsolved over 135 years later, despite numerous theories and modern forensic analysis attempts.",
+  "verdict": "overstated",
+  "corrected_claim": "The identity of Jack the Ripper is a notorious example of an outstanding cold case, with numerous suggestions as to who the serial killer was.",
+  "quote": "The identity of Jack the Ripper is a notorious example of an outstanding cold case, with numerous suggestions as to the identity of the serial killer.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Modern forensic attempts not mentioned"
+ },
+ {
+  "claim": "AlphaGo's victory over Lee Sedol in March 2016 was a 'Sputnik moment' for China, which then dramatically increased government funding for AI research.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In China, AlphaGo was a \"Sputnik moment\" which helped convince the Chinese government to prioritize and dramatically increase funding for artificial intelligence.",
+  "source_url": "https://en.wikipedia.org/wiki/AlphaGo",
+  "note": ""
+ },
+ {
+  "claim": "The vaginal microbiome changes throughout the menstrual cycle — fluctuating bacterial communities track hormones.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Bacterial species composition and ratios vary depending on the stage of the menstrual cycle.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": ""
+ },
+ {
+  "claim": "Fig wasps pollinate figs by crawling inside them, often losing their wings and antennae—they then die inside, and are digested by the fig.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Forcing her way through the ostiole, the mated mature female often loses her wings and most of her antennae. ... After the female wasp lays her eggs and follows through with pollination, she dies. ... The fig actually produces an enzyme called ficain (also known as ficin) which digests the dead wasps",
+  "source_url": "https://en.wikipedia.org/wiki/Fig_wasp",
+  "note": "Applies to mated female pollinator wasps."
+ },
+ {
+  "claim": "As of 2019, numerous applications for probiotic health claims have been rejected by European regulators for insufficient evidence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "have been rejected by the European Food Safety Authority for insufficient evidence of beneficial mechanism or efficacy.",
+  "source_url": "https://en.wikipedia.org/wiki/Probiotics",
+  "note": "Page: as of 2019, numerous applications by European probiotic supplement makers."
+ },
+ {
+  "claim": "In the Mohawk language, 'sahonwanhotónkwahse' is one word meaning 'she opened the door for him again.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Sahonwanhotónkwahse ... she opened the door for him again",
+  "source_url": "https://en.wikipedia.org/wiki/Polysynthetic_language",
+  "note": ""
+ },
+ {
+  "claim": "The Penn Central Railroad bankruptcy in 1970 was the largest in US history at the time — it had received government-backed loans shortly before collapse, showing moral hazard in action.",
+  "verdict": "overstated",
+  "corrected_claim": "Penn Central's 1970 bankruptcy was the largest in US history at the time; shortly before, it sought a federal loan guarantee and a Defense Department loan, but both proposals failed.",
+  "quote": "representing the largest bankruptcy in U.S. history at the time ... initiated efforts to secure a federal loan guarantee ... resulted in the failure of both loan proposals",
+  "source_url": "https://en.wikipedia.org/wiki/Penn_Central_Transportation_Company",
+  "note": "Loans were sought but never received; page does not mention moral hazard"
+ },
+ {
+  "claim": "Scientists found that the heritability of mycorrhizal colonization in cowpeas provides evidence that plant-fungus interactions have evolved genetically.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Plants and fungus have evolved heritable genetic traits which influence their interactions with each other, and experiments, such as one which revealed the heritability of mycorrhizal colonization in cowpeas, provide evidence.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "The Zodiac Killer has been studied extensively for over 50 years with numerous suspects discussed, but no confirmed identification has ever been made.",
+  "verdict": "overstated",
+  "corrected_claim": "The Zodiac Killer case has been studied extensively for almost 50 years, with numerous suspects discussed and debated.",
+  "quote": "Similarly, the Zodiac Killer has been studied extensively for almost 50 years, with numerous suspects discussed and debated.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Page says almost 50 years, not over 50"
+ },
+ {
+  "claim": "Most experts thought AlphaGo-level AI was at least five years away — some thought it would take another decade before computers could beat Go champions.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Most experts thought a Go program as powerful as AlphaGo was at least five years away; some experts thought that it would take at least another decade before computers would beat Go champions.",
+  "source_url": "https://en.wikipedia.org/wiki/AlphaGo",
+  "note": ""
+ },
+ {
+  "claim": "Methanobrevibacter smithii is the dominant methanogen in human guts — producing methane from hydrogen and CO2.",
+  "verdict": "overstated",
+  "corrected_claim": "Methanogens, particularly Methanobrevibacter smithii, are the dominant group of archaea in the human gut.",
+  "quote": "The dominant group are the methanogens, particularly Methanobrevibacter smithii.",
+  "source_url": "https://en.wikipedia.org/wiki/Human_microbiome",
+  "note": "Methane from H2 and CO2 not stated"
+ },
+ {
+  "claim": "Parasitoid wasps like Cotesia glomerata can manipulate caterpillars into becoming bodyguards—even after the wasps emerge, the caterpillar protects the cocoons until it starves.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "After 15 to 20 days the larvae emerge, usually killing the parasitised caterpillar.",
+  "source_url": "https://en.wikipedia.org/wiki/Cotesia_glomerata",
+  "note": "Page says emergence usually kills the caterpillar; no bodyguard behavior mentioned"
+ },
+ {
+  "claim": "Lactic acid fermentation remains one of the most practical food preservation methods due to its low cost and energy requirements.",
+  "verdict": "overstated",
+  "corrected_claim": "Acid fermentation (along with salting) remains one of the most practical ways to preserve fresh vegetables, cereal gruels and milk-cereal mixtures, thanks to its low cost and energy requirements.",
+  "quote": "Acid fermentation (as well as salting), remains one of the most practical methods of preservation of fresh vegetables, cereal gruels, and milk-cereal mixtures due to its low cost and energy requirements.",
+  "source_url": "https://en.wikipedia.org/wiki/Probiotics",
+  "note": "Source says 'acid fermentation' for specific foods, not food preservation in general."
+ },
+ {
+  "claim": "Nahuatl (Aztec) can say 'I shall make somebody give something to you' in a single verb: 'Nimitztētlamaquiltīz'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nimitztētlamaquiltīz ... I shall make somebody give something to you",
+  "source_url": "https://en.wikipedia.org/wiki/Polysynthetic_language",
+  "note": ""
+ },
+ {
+  "claim": "The conjunction fallacy leads people to judge specific scenarios as more likely than general ones — 'Linda is a feminist bank teller' seems more probable than 'Linda is a bank teller.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A conjunction effect or Linda problem is a bias or mistake in reasoning where adding extra details ... to a sentence makes it appear more likely. ... Linda is a bank teller. Linda is a bank teller and is active in the feminist movement.",
+  "source_url": "https://en.wikipedia.org/wiki/Conjunction_fallacy",
+  "note": ""
+ },
+ {
+  "claim": "The idea of plant 'neuronal' structures was controversial, but plants do have cell information-processing systems analogous to some animal functions.",
+  "verdict": "overstated",
+  "corrected_claim": "Structures like phloem resemble neurons but are not considered convergent structures; still, as Garzón argued, plants possess an information-processing system composed of cells.",
+  "quote": "Structures like phloem, although similar to neurons, cannot be considered as convergent structures. ... while plants do not have neurons as animals do, they do possess an information-processing system composed of cells",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_intelligence",
+  "note": "'Analogous to some animal functions' is Garzón's argument, stated as fact"
+ },
+ {
+  "claim": "The Wall Street bombing of 1920 has never been positively solved, though the Galleanist anarchist group is widely believed responsible.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The perpetrators of the Wall Street bombing of 1920 have never been positively identified, though the Galleanists, a group of Italian anarchists, are widely believed to have planned the explosion.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": ""
+ },
+ {
+  "claim": "Lee Sedol's 'divine move' in game 4 against AlphaGo exploited a bug — the program's policy network couldn't find the correct continuation for a move it hadn't predicted as likely.",
+  "verdict": "overstated",
+  "corrected_claim": "After Lee Sedol's move 78 in game 4 — dubbed the 'divine move' — AlphaGo failed to adjust: its value network had not judged the move as most likely, and DeepMind later patched the 'logical weakness' it exposed.",
+  "quote": "after move 78 (which was dubbed the \"divine move\" by many professionals) ... its value network did not determine Lee's 78th move as being the most likely ... patched the logical weakness that occurred during the 4th game",
+  "source_url": "https://en.wikipedia.org/wiki/AlphaGo",
+  "note": "Page calls it a logical weakness, not a bug, and attributes the misjudgment to the value network"
+ },
+ {
+  "claim": "PrP (prion protein) normally exists on cell membranes of neurons and blood cells — it only becomes dangerous when misfolded.",
+  "verdict": "overstated",
+  "corrected_claim": "The normal prion protein, PrPC, is found on the membranes of cells; disease arises from its misfolded form.",
+  "quote": "PrPC is a normal protein found on the membranes of cells",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not specify neurons and blood cells"
+ },
+ {
+  "claim": "The fairy wasp Dicopomorpha echmepterygis is the smallest known flying insect at just 0.139 mm—smaller than some single-celled organisms.",
+  "verdict": "overstated",
+  "corrected_claim": "Males of the fairy wasp Dicopomorpha echmepterygis, blind and wingless, can be as short as 139 μm, making it the smallest known insect and smaller than certain species of Paramecium and amoeba.",
+  "quote": "the smallest known insect ... The males are blind, apterous, and their body length is only 40% that of females. ... smaller than certain species of Paramecium, amoeba, and shorter than certain bacteria.",
+  "source_url": "https://en.wikipedia.org/wiki/Dicopomorpha_echmepterygis",
+  "note": "Smallest individuals are wingless males, so 'smallest flying insect' is not supported; 139 μm is the minimum of a 139-240 μm range (average 186 μm)."
+ },
+ {
+  "claim": "Sauerkraut contains multiple probiotic bacteria including Leuconostoc mesenteroides, Lactobacillus plantarum, and Lactobacillus brevis.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Leuconostoc mesenteroides, Lactobacillus plantarum, Pediococcus pentosaceus, Lactobacillus brevis",
+  "source_url": "https://en.wikipedia.org/wiki/Probiotics",
+  "note": ""
+ },
+ {
+  "claim": "In Classical Ainu, 'aeyaykotuymasiramsuypa' means 'I wonder about various rumors' — packed into one word.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "aeyaykotuymasiramsuypa ... I wonder about various rumors.",
+  "source_url": "https://en.wikipedia.org/wiki/Polysynthetic_language",
+  "note": ""
+ },
+ {
+  "claim": "Global games model situations where players have slightly different information — coordination becomes possible even without common knowledge, explaining bank run dynamics.",
+  "verdict": "overstated",
+  "corrected_claim": "Global games model players who receive noisy, possibly-correlated signals about the state of the world, and are applied to bank runs, currency crises and bubbles.",
+  "quote": "players receive possibly-correlated signals of the underlying state of the world ... such as bank runs, currency crises, and bubbles",
+  "source_url": "https://en.wikipedia.org/wiki/Global_game",
+  "note": "Page does not mention common knowledge or say coordination becomes possible"
+ },
+ {
+  "claim": "Plants can respond to stress by releasing carbon from their roots to connected plants through mycorrhizal networks—environmental stress sharing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Physiological changes due to environmental stress have also initiated nutrient transfer by causing the movement of carbon from the roots of the stressed plant to the roots of a conspecific plant over a mycorrhizal network.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Timothy Evans was wrongly executed in 1950 for murders actually committed by serial killer John Christie, who lived in the same house—the case helped end capital punishment in Britain.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Timothy Evans / John Christie not mentioned on page"
+ },
+ {
+  "claim": "AlphaGo Zero taught itself Go from scratch with no human data and beat the version that defeated Lee Sedol 100-0 in just three days of self-play.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "By playing games against itself, AlphaGo Zero surpassed the strength of AlphaGo Lee in three days by winning 100 games to 0.",
+  "source_url": "https://en.wikipedia.org/wiki/AlphaGo",
+  "note": ""
+ },
+ {
+  "claim": "Normal prion protein (PrPC) binds copper ions — it may have antioxidant functions in healthy cells.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "PrPC binds copper(II) ions (those in a +2 oxidation state) with high affinity. This property is supposed to play a role in PrPC's anti-oxidative properties.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Tarantula hawk wasps have one of the most painful stings in the insect world—the advice to victims: 'Lie down and scream.'",
+  "verdict": "overstated",
+  "corrected_claim": "The tarantula hawk's sting is rated near the top of the Schmidt sting pain index, second only to the bullet ant's — pain that 'shuts down one's ability to do anything, except scream.'",
+  "quote": "the wasp's sting is rated near the top of the Schmidt sting pain index, second only to that of the bullet ant",
+  "source_url": "https://en.wikipedia.org/wiki/Tarantula_hawk",
+  "note": "'Lie down and scream' advice not on the page."
+ },
+ {
+  "claim": "Antioxidants work by scavenging free radicals before they can damage cells, or by inhibiting the oxidation reactions that produce them.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Antioxidants are compounds that inhibit oxidation, a chemical reaction that can produce free radicals ... often by scavenging ROS before they can damage cells",
+  "source_url": "https://en.wikipedia.org/wiki/Antioxidant",
+  "note": ""
+ },
+ {
+  "claim": "Onomatopoeia differs dramatically across languages: a rooster says 'cock-a-doodle-doo' in English but 'kikeriki' in German and 'cocoricó' in French.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "note": "Page does not mention rooster sounds in any language"
+ },
+ {
+  "claim": "The Lehman Brothers collapse on September 15, 2008 triggered the worst phase of the financial crisis — the decision not to bail it out remains controversial as the global economy contracted.",
+  "verdict": "overstated",
+  "corrected_claim": "Lehman Brothers filed for Chapter 11 bankruptcy on September 15, 2008 — the climax of the subprime mortgage crisis, which shook confidence in the government's ability to manage the crisis and prompted a general financial panic.",
+  "quote": "Lehman Brothers filed for Chapter 11 bankruptcy protection on Monday, September 15, 2008 ... was the climax of the subprime mortgage crisis ... It shook confidence in the government's ability to manage the crisis and prompted a general financial panic.",
+  "source_url": "https://en.wikipedia.org/wiki/Bankruptcy_of_Lehman_Brothers",
+  "note": "Controversy over no-bailout decision and global contraction not stated"
+ },
+ {
+  "claim": "Douglas fir seedlings grow better when planted near the root systems of mature Douglas firs than when isolated from established trees.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Douglas firs had higher rates of ectomycorrhizal fungal diversity, richness, and photosynthetic rates when planted alongside root systems of mature Douglas firs and Betula papyrifera than compared to those seedlings who exhibited no or little growth when isolated from mature trees.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "In 2003, a cold case murder was solved when fingerprints from 1957 were finally matched using computerized databases—identifying Gerald Mason 45 years after the crime.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Mason was arrested 45 years later after a computerized fingerprint database identified him",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "1957 crime and 2003 conviction from page table"
+ },
+ {
+  "claim": "Ke Jie, world's top Go player, said after losing to AlphaGo: 'After humanity spent thousands of years improving our tactics, computers tell us that humans are completely wrong.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "After humanity spent thousands of years improving our tactics, computers tell us that humans are completely wrong.",
+  "source_url": "https://en.wikipedia.org/wiki/AlphaGo",
+  "note": ""
+ },
+ {
+  "claim": "Prion diseases cause characteristic 'astrogliosis' — star-shaped brain cells multiply in response to dying neurons.",
+  "verdict": "overstated",
+  "corrected_claim": "Prion diseases cause astrogliosis in the brain, typically without any inflammatory reaction.",
+  "quote": "Other histological changes include astrogliosis and the absence of an inflammatory reaction.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not describe mechanism (star-shaped cells multiplying in response to dying neurons)"
+ },
+ {
+  "claim": "Velvet ants aren't ants—they're wasps whose wingless females look like furry ants and have one of the most powerful stings of any insect.",
+  "verdict": "overstated",
+  "corrected_claim": "Velvet ants aren't ants—they're a family of more than 7,000 species of wasps whose wingless females resemble large, hairy ants, and they are known for their extremely painful sting.",
+  "quote": "a family of more than 7,000 species of wasps ... whose wingless females resemble large, hairy ants. ... They are known for their extremely painful sting.",
+  "source_url": "https://en.wikipedia.org/wiki/Mutillidae",
+  "note": "Page says venom toxicity is much lower than honey bees'; 'most powerful' not supported."
+ },
+ {
+  "claim": "Despite widespread marketing, dietary supplements marketed as antioxidants have not been shown to maintain health or prevent disease in humans.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Dietary supplements marketed as antioxidants have not been shown to maintain health or prevent disease in humans.",
+  "source_url": "https://en.wikipedia.org/wiki/Antioxidant",
+  "note": ""
+ },
+ {
+  "claim": "Japanese uses 'shiiin' as the onomatopoeia for complete silence — the sound of soundlessness.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "shiiin is the onomatopoetic form of absolute silence",
+  "source_url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "note": ""
+ },
+ {
+  "claim": "Denominator neglect causes people to focus on numerators alone — 7 out of 100 feels riskier than 1 out of 10, even though 7% is safer than 10%.",
+  "verdict": "overstated",
+  "corrected_claim": "Denominator neglect makes people focus on the numerator: in one study people preferred drawing from a bowl with 9 red beans out of 100 over one with 1 red bean out of 10, even though the 1-in-10 bowl offered better odds.",
+  "quote": "individuals focus on the numerator of a ratio while neglecting the denominator ... a bowl containing 9 red beans out of 100 rather than from one with 1 red bean out of 10.",
+  "source_url": "https://en.wikipedia.org/wiki/Denominator_neglect",
+  "note": "Page's example uses 9 of 100 vs 1 of 10, not 7 of 100; claim's framing of 'riskier/safer' is not from the page."
+ },
+ {
+  "claim": "Some Sumatran pitcher plants like Nepenthes inermis use sticky pitcher fluid, combining pitfall and flypaper trapping mechanisms.",
+  "verdict": "overstated",
+  "corrected_claim": "Most Sumatran pitcher plants, like Nepenthes inermis, use the same sticky-pitcher-fluid method as Nepenthes jamban.",
+  "quote": "Most Sumatran nepenthes, like N. inermis, also have this method.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Pitfall+flypaper combination not stated for N. inermis"
+ },
+ {
+  "claim": "The Green River Killer, Gary Ridgway, was identified in 2001 through DNA testing of samples collected in 1987—proving that preserved evidence can solve cases decades later.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Ridgway was identified in 2001 after a DNA test was made on samples collected from him already in 1987.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": ""
+ },
+ {
+  "claim": "Go has a branching factor of about 250 (vs chess's 35), making traditional search approaches infeasible — AlphaGo needed neural networks to evaluate positions.",
+  "verdict": "overstated",
+  "corrected_claim": "Go's much larger branching factor than chess makes traditional AI search methods prohibitively difficult.",
+  "quote": "and its much larger branching factor makes it prohibitively difficult to use traditional AI methods",
+  "source_url": "https://en.wikipedia.org/wiki/AlphaGo",
+  "note": "Page gives no figures of 250 vs 35"
+ },
+ {
+  "claim": "Scrapie in sheep was the first prion disease described — named because affected sheep compulsively scrape their wool off on fences.",
+  "verdict": "overstated",
+  "corrected_claim": "Scrapie in sheep was noticed as early as the 18th and 19th centuries, when exports of sheep from Spain coincided with the disease.",
+  "quote": "In the 18th and 19th centuries, exportation of sheep from Spain was observed to coincide with a disease called scrapie.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not say it was the first prion disease or explain the name"
+ },
+ {
+  "claim": "Carpenter bees can vibrate flowers at a specific frequency to release pollen—a technique called 'buzz pollination' that honeybees cannot do.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Carpenter_bee",
+  "note": "Page does not mention buzz pollination or honeybees"
+ },
+ {
+  "claim": "Plants evolved antioxidants like vitamin C and polyphenols as part of their adaptation from marine to terrestrial life.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As part of their adaptation from marine life, terrestrial plants began producing non-marine antioxidants such as ascorbic acid (vitamin C), polyphenols, and tocopherols",
+  "source_url": "https://en.wikipedia.org/wiki/Antioxidant",
+  "note": ""
+ },
+ {
+  "claim": "James Joyce coined 'tattarrattat' for a knock on the door — it's the longest palindrome in the Oxford English Dictionary.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "James Joyce in Ulysses (1922) coined the onomatopoeic tattarrattat for a knock on the door. It is listed as the longest palindromic word in The Oxford English Dictionary.",
+  "source_url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "note": ""
+ },
+ {
+  "claim": "Bertrand competition between firms selling identical products drives prices to marginal cost — even with only two competitors, profits disappear entirely.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "If both firms establish a competitive price at the marginal cost (unit cost), neither firm obtains profits ... as two competitors in a market are sufficient to generate competitive pricing",
+  "source_url": "https://en.wikipedia.org/wiki/Bertrand_competition",
+  "note": ""
+ },
+ {
+  "claim": "Triphyophyllum peltatum is only carnivorous in its juvenile phase—it becomes a non-carnivorous liana as an adult, possibly needing nutrients for flowering.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "This plant is usually encountered as a liana, but in its juvenile phase, the plant is carnivorous. This may be related to a requirement for specific nutrients for flowering.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "In 2002, the conviction of 75-year-old war crimes related to Nazi concentration camps was achieved—likely the oldest criminal conduct ever proved in a US court.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "In a deportation case tried in 2020 in U.S. Immigration Court in Memphis, Tennessee, US (therefore not strictly a criminal prosecution), Friedrich Karl Berger was adjudged complicit in Nazi crimes ... is likely the oldest criminal conduct (75 years) ever proved against a defendant in court by prosecutors in the United States.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "It was a 2020 deportation case (Berger), not a 2002 conviction; 75 years is the age of the conduct"
+ },
+ {
+  "claim": "Lee Sedol retired from professional Go in 2019, saying AI was 'an entity that cannot be defeated' — he is the only human to ever beat AlphaGo in its 74 official games.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "On 19 November 2019, Lee announced his retirement from professional play ... which made him recorded as the only human player who beat AlphaGo in all of its 74 official games.",
+  "source_url": "https://en.wikipedia.org/wiki/AlphaGo",
+  "note": "Quote 'an entity that cannot be defeated' also on page"
+ },
+ {
+  "claim": "Sporadic Creutzfeldt-Jakob disease affects about 1 in 1 million people annually — prion misfolding occurs spontaneously.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page has no 1-in-a-million incidence figure"
+ },
+ {
+  "claim": "The tsetse fly gives birth to one larva at a time, which is already nearly as large as the mother—it's fed 'milk' internally before being deposited.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "A female fertilizes only one egg at a time ... the female feeds the developing offspring with a milky substance ... her offspring, whose mass can exceed that of the mother",
+  "source_url": "https://en.wikipedia.org/wiki/Tsetse_fly",
+  "note": "Page says offspring mass can even exceed the mother's."
+ },
+ {
+  "claim": "The term 'antioxidant' originally referred to chemicals that prevented oxygen consumption in industrial processes like rubber vulcanization.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Originally, the term antioxidant specifically referred to a chemical that prevented the consumption of oxygen ... such as the prevention of metal corrosion, the vulcanization of rubber",
+  "source_url": "https://en.wikipedia.org/wiki/Antioxidant",
+  "note": ""
+ },
+ {
+  "claim": "The candy Tic Tac gets its name from the sound its container makes when opened and closed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The sound of the container opening and closing gives Tic Tac its name.",
+  "source_url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "note": ""
+ },
+ {
+  "claim": "The Northern Rock bank run in 2007 was the first run on a British bank in 150 years — images of queues outside branches hastened the crisis despite government guarantees.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2007 Northern Rock became the first British bank in 150 years to fail due to a bank run, as depositors lined up outside to withdraw their savings as quickly as possible.",
+  "quote": "It was the first British bank in 150 years to fail due to a bank run. ... depositors lined up outside the bank to withdraw all of their savings as quickly as possible.",
+  "source_url": "https://en.wikipedia.org/wiki/Northern_Rock",
+  "note": "Page does not say images hastened the crisis or mention government guarantees preventing it."
+ },
+ {
+  "claim": "Carnivorous plants are poor competitors in nutrient-rich environments—they invest too heavily in trap structures that have no advantage when nutrients are abundant.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In general, carnivorous plants are poor competitors, because they invest too heavily in structures that have no selective advantage in nutrient-rich habitats.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The MKULTRA program's involvement in Harold Blauer's death in 1953 wasn't confirmed until 1975—his estate received $700,000 in damages in 1987.",
+  "verdict": "overstated",
+  "corrected_claim": "Harold Blauer died in 1953, but the MKULTRA program wasn't revealed to the public until 1975—and his estate was awarded $700,000 in damages in 1987.",
+  "quote": "MKULTRA was revealed to the public in 1975, and Blauer's estate was awarded $700,000 in damages in 1987.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Page says MKULTRA was revealed in 1975, not specifically its role confirmed"
+ },
+ {
+  "claim": "Bubble sort was analyzed as early as 1956, making it one of the oldest sorting algorithms formally studied — despite being one of the least efficient.",
+  "verdict": "overstated",
+  "corrected_claim": "Bubble sort was analyzed as early as 1956.",
+  "quote": "Bubble sort was analyzed as early as 1956.",
+  "source_url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+  "note": "Page does not call it one of the oldest studied or rank its inefficiency in this context."
+ },
+ {
+  "claim": "The methionine/methionine genotype at codon 129 of the prion gene increases CJD risk 5-fold compared to heterozygotes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "individuals with the MM genotype are approximately five times more likely to develop sCJD ... when compared to a heterozygous methionine/valine (MV) genotype",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Houseflies taste with their feet—as soon as they land on food, they can determine whether it's edible.",
+  "verdict": "overstated",
+  "corrected_claim": "Houseflies have taste organs (chemoreceptors) on the tarsi of their legs, so they can identify foods such as sugars by walking over them.",
+  "quote": "Houseflies have chemoreceptors, organs of taste, on the tarsi of their legs ... so they can identify foods such as sugars by walking over them.",
+  "source_url": "https://en.wikipedia.org/wiki/Housefly",
+  "note": "'As soon as they land' / edibility judgment not stated"
+ },
+ {
+  "claim": "Rancidity in fats is caused by oxidation of unsaturated fats, which is why antioxidants are added to many processed foods.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "preventing the oxidation of unsaturated fats, which is the cause of rancidity ... Antioxidants are added to food to prevent deterioration.",
+  "source_url": "https://en.wikipedia.org/wiki/Antioxidant",
+  "note": ""
+ },
+ {
+  "claim": "Japanese has over 1,000 onomatopoeic words, including sounds for glittering (kirakira) and the feeling of something slimy (nuru-nuru).",
+  "verdict": "overstated",
+  "corrected_claim": "Japanese has a large inventory of ideophone words that are symbolic sounds — for example, kirakira is used for glittery things.",
+  "quote": "The Japanese language has a large inventory of ideophone words that are symbolic sounds. ... In Japanese, kirakira is used for glittery things.",
+  "source_url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "note": "Page gives no count (1,000) and does not mention nuru-nuru"
+ },
+ {
+  "claim": "Distinction bias causes people to overvalue differences when comparing options side-by-side — but those differences matter less in actual experience of the chosen option.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the tendency to view two options as more distinctive when evaluating them simultaneously ... over-examine and over-value the differences between things as we scrutinize them. ... over-predict the difference that different values of an attribute will lead their happiness",
+  "source_url": "https://en.wikipedia.org/wiki/Distinction_bias",
+  "note": ""
+ },
+ {
+  "claim": "Over 300 'protocarnivorous' plant species show some but not all carnivorous traits—they may represent evolutionary transitional forms.",
+  "verdict": "overstated",
+  "corrected_claim": "Over 300 'protocarnivorous' plant species in several genera show some, but not all, of the traits of true carnivorous plants.",
+  "quote": "Additionally, over 300 protocarnivorous plant species in several genera show some but not all of these characteristics.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "'Evolutionary transitional forms' not stated"
+ },
+ {
+  "claim": "The murder of Irene Garza in 1960 wasn't prosecuted until 2017 because the long-time district attorney opposed investigation of the priest suspect for 34 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Beauty queen Irene Garza was murdered in 1960, but the priest suspected from the beginning wasn't convicted until 2017—little investigation was made due to opposition from long-time district attorney Rene Guerra (1980–2014).",
+  "quote": "Feit, a 27-year-old priest at the church who later pled no contest to raping a parishioner, was a suspect since the beginning, but little investigation was made due to the opposition of long-time district attorney Rene Guerra (1980–2014).",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "'34 years' is the DA's tenure, not stated as duration of opposition"
+ },
+ {
+  "claim": "Betty Holberton, who worked on ENIAC and UNIVAC, was among the authors of early sorting algorithms around 1951.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Among the authors of early sorting algorithms around 1951 was Betty Holberton, who worked on ENIAC and UNIVAC.",
+  "source_url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+  "note": ""
+ },
+ {
+  "claim": "Feline and exotic ungulate spongiform encephalopathies appeared after contaminated cattle feed spread BSE across species.",
+  "verdict": "overstated",
+  "corrected_claim": "Prion diseases include feline spongiform encephalopathy and exotic ungulate encephalopathy.",
+  "quote": "Feline spongiform encephalopathy ... Exotic ungulate encephalopathy",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page lists the diseases but not their link to contaminated cattle feed"
+ },
+ {
+  "claim": "Blow fly larvae (maggots) are used in medicine—they clean wounds by eating only dead tissue while secreting antimicrobial compounds.",
+  "verdict": "overstated",
+  "corrected_claim": "Blow fly larvae, most commonly the green bottle fly Lucilia sericata, are used in maggot therapy; they eat only dead tissue, and their secretions are believed to have broad-spectrum antimicrobial activity.",
+  "quote": "the blow fly species used most commonly is Lucilia sericata, the common green bottle fly. ... these worms eat only dead tissues, and do not injure specifically the well parts. ... Secretions from maggots believed to have broad-spectrum antimicrobial activity include",
+  "source_url": "https://en.wikipedia.org/wiki/Maggot_therapy",
+  "note": "Antimicrobial activity is 'believed', not established."
+ },
+ {
+  "claim": "BHA and BHT, synthetic antioxidants added to many processed foods, prevent rancidity but have been controversial for potential health effects.",
+  "verdict": "overstated",
+  "corrected_claim": "BHA and BHT are synthetic antioxidant food preservatives, and the page notes BHT can cause hepatotoxicity and damage to the endocrine system.",
+  "quote": "butylated hydroxyanisole (BHA, E320) and butylated hydroxytoluene (BHT, E321) ... BHT can cause hepatotoxicity and damage to the endocrine system",
+  "source_url": "https://en.wikipedia.org/wiki/Antioxidant",
+  "note": "Page does not call them 'controversial'"
+ },
+ {
+  "claim": "Roy Crane, a comic artist, invented the classic comic book sounds 'bam,' 'pow,' and 'wham' in the 1930s.",
+  "verdict": "overstated",
+  "corrected_claim": "Comic artist Roy Crane pioneered the use of onomatopoeic sound effects in comics, adding 'bam,' 'pow' and 'wham' to the genre's vocabulary.",
+  "quote": "It was Crane who pioneered the use of onomatopoeic sound effects in comics, adding \"bam,\" \"pow\" and \"wham\"",
+  "source_url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "note": "Page says 'pioneered', not 'invented', and gives no 1930s date"
+ },
+ {
+  "claim": "Cournot competition between quantity-setting firms predicts prices between monopoly and perfect competition — the more firms enter, the closer to competitive pricing.",
+  "verdict": "overstated",
+  "corrected_claim": "In Cournot competition, prices are lower under duopoly than under monopoly—and as the number of firms grows, the price keeps falling until it reaches marginal cost.",
+  "quote": "Hence, prices are lower under duopoly than under monopoly, and quantities sold are accordingly higher. ... Hence, the price diminishes indefinitely as the number of proprietors increases. ... if we allow for costs of production, the price becomes the marginal cost.",
+  "source_url": "https://en.wikipedia.org/wiki/Cournot_competition",
+  "note": "Page never frames it against perfect competition explicitly"
+ },
+ {
+  "claim": "The Venus flytrap's snap trap mechanism involves cells rapidly changing water content through ion pumping, allowing the trap to flip from convex to concave.",
+  "verdict": "overstated",
+  "corrected_claim": "When a Venus flytrap is triggered, cells in its leaf pump out ions—which may cause water to follow by osmosis—and the trap flips rapidly from convex to concave.",
+  "quote": "These cells respond by pumping out ions, which may either cause water to follow by osmosis ... flipping rapidly from convex to concave",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "Page presents water movement as one possible mechanism"
+ },
+ {
+  "claim": "The Kalinka Bamberski case was solved when the victim's father had the suspect kidnapped from Germany and delivered to French police in 2009—receiving only a suspended sentence for the abduction.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2009, Kalinka Bamberski's father had suspect Krombach abducted from his home and delivered to a French police station; Krombach got 15 years, while the father received a one-year suspended sentence for the abduction.",
+  "quote": "In 2009, Bamberski had Krombach abducted from his home and delivered to a French police station in Alsace, where he was arrested. Krombach was tried again and sentenced to 15 years in prison, while Bamberski received a one-year suspended sentence for his abduction in 2014.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "'Kidnapped from Germany' not stated verbatim; minor framing"
+ },
+ {
+  "claim": "Timsort, the widely used sorting algorithm in Python and Java, was only invented in 2002 — asymptotically optimal algorithms have been known since the mid-20th century.",
+  "verdict": "overstated",
+  "corrected_claim": "The widely used Timsort dates only to 2002 — even though asymptotically optimal sorting algorithms have been known since the mid-20th century.",
+  "quote": "Asymptotically optimal algorithms have been known since the mid-20th century ... Timsort dating to 2002",
+  "source_url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+  "note": "Page does not name Python and Java here."
+ },
+ {
+  "claim": "Cryo-electron microscopy has revealed the atomic structure of brain-derived infectious prions — finally seeing the enemy.",
+  "verdict": "overstated",
+  "corrected_claim": "Cryo-electron microscopy has revealed the structures of several highly infectious, brain-derived prions.",
+  "quote": "Several highly infectious, brain-derived PrPSc structures have been discovered by cryo-electron microscopy",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not say 'atomic' structure"
+ },
+ {
+  "claim": "Fruit flies share about 60% of their genes with humans—and 75% of genes known to cause disease in humans have a recognizable match in fruit fly DNA.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "about 60% of genes are conserved between the two species ... About 75% of known human disease genes have a recognizable match in the genome of fruit flies",
+  "source_url": "https://en.wikipedia.org/wiki/Drosophila_melanogaster",
+  "note": ""
+ },
+ {
+  "claim": "MSG (monosodium glutamate) has been extensively studied and is considered safe by the FDA and WHO, despite persistent myths about 'Chinese restaurant syndrome.'",
+  "verdict": "overstated",
+  "corrected_claim": "The FDA designates MSG as safe; an FDA-commissioned study found only transient, mild symptoms in a few subjects, and only with unrealistically large amounts.",
+  "quote": "has designated the umami enhancer monosodium glutamate (MSG) as a safe ingredient. ... a study commissioned by the FDA was only able to identify transient, mild symptoms in a few of the subjects, and only when the MSG was consumed in unrealistically large quantities.",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "WHO and 'Chinese restaurant syndrome' not mentioned."
+ },
+ {
+  "claim": "The English word 'cuckoo' has kept nearly the same pronunciation since Anglo-Saxon times because of continuous familiarity with the bird's call.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "An example of the opposite case is cuckoo, which, due to continuous familiarity with the bird noise down the centuries ... has kept approximately the same pronunciation as in Anglo-Saxon times.",
+  "source_url": "https://en.wikipedia.org/wiki/Onomatopoeia",
+  "note": ""
+ },
+ {
+  "claim": "The Cyprus bail-in of 2013 confiscated up to 47.5% of uninsured deposits — the first time depositors shared losses in a Euro-area banking crisis, creating precedent for future rescues.",
+  "verdict": "overstated",
+  "corrected_claim": "In the 2013 Cyprus bailout, insured deposits of €100,000 or less were untouched, but 47.5% of all bank deposits above €100,000 were seized.",
+  "quote": "No insured deposit of €100,000 or less would be affected, though 47.5% of all bank deposits above €100,000 were seized.",
+  "source_url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis",
+  "note": "'First time in a euro-area crisis' and 'precedent' not stated on page"
+ },
+ {
+  "claim": "Pitcher plant digestive fluids contain enzymes like proteases, chitinases (to break insect exoskeletons), phosphatases, and nucleases.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Proteins of digestive fluid include proteases, chitinases (partly destroy exoskeleton of insects), phosphatases, ... and nucleases.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The Dos Erres massacre conviction resulted in sentences of 6,060 years for each perpetrator—among the longest prison sentences ever issued.",
+  "verdict": "overstated",
+  "corrected_claim": "Each person convicted for the Dos Erres massacre was sentenced to 6,060 years in prison.",
+  "quote": "Each convict was sentenced to 6,060 years in prison for the crimes.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "'Among the longest sentences ever' not stated"
+ },
+ {
+  "claim": "Comparison sorting algorithms cannot do better than O(n log n) on average — this is mathematically proven, not just an empirical limit.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Mathematical analysis demonstrates a comparison sort cannot perform better than O(n log n) on average.",
+  "source_url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+  "note": ""
+ },
+ {
+  "claim": "Prion fibers grow at their ends like crystals — breakage creates more ends, enabling exponential replication.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "they replicate when breakage causes two growing ends to become four growing ends",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Fruit flies were the first animals sent into space—in 1947, they rode a V-2 rocket to study the effects of radiation at high altitude.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first animals sent into space were fruit flies aboard a U.S.-launched V-2 rocket on 20 February 1947 ... The purpose of the experiment was to explore the effects of radiation exposure at high altitudes.",
+  "source_url": "https://en.wikipedia.org/wiki/Animals_in_space",
+  "note": ""
+ },
+ {
+  "claim": "Parmesan cheese naturally contains more glutamate (umami) than most foods—up to 1.6 grams per 100 grams.",
+  "verdict": "overstated",
+  "corrected_claim": "Cheeses such as Parmesan are rich in glutamate and umami flavor.",
+  "quote": "Cheese varieties are rich in glutamate and umami flavor.",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": "No 1.6 g/100 g figure or comparison to most foods on page."
+ },
+ {
+  "claim": "Esperanto, created in 1887 by L.L. Zamenhof, is the most widely spoken constructed language with up to 2 million speakers.",
+  "verdict": "overstated",
+  "corrected_claim": "Esperanto, proposed in 1887 by L. L. Zamenhof, is the world's most widely spoken constructed international auxiliary language—200 to 2,000 people even speak it as their first language.",
+  "quote": "Esperanto is the world's most widely spoken constructed international auxiliary language. ... According to Ethnologue, there are 200–2000 who speak Esperanto as a first language.",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "'Up to 2 million speakers' not on page"
+ },
+ {
+  "claim": "Zero-risk bias leads people to prefer eliminating a small risk entirely over larger reductions in bigger risks — explaining preferences for zero-defect products over statistically safer alternatives.",
+  "verdict": "overstated",
+  "corrected_claim": "Zero-risk bias is the tendency to prefer completely eliminating risk in one sub-part over alternatives with greater overall risk reduction, often in health, safety and environmental decisions.",
+  "quote": "a tendency to prefer the complete elimination of risk in a sub-part over alternatives with greater overall risk reduction. ... It often manifests in cases where decision makers address problems concerning health, safety, and the environment.",
+  "source_url": "https://en.wikipedia.org/wiki/Zero-risk_bias",
+  "note": "Zero-defect products example not on page."
+ },
+ {
+  "claim": "Carnivorous plants on all continents except Antarctica show convergent evolution—similar solutions to nutrient limitation evolved independently multiple times.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "They can be found on all continents except Antarctica, as well as many Pacific islands. ... True carnivory is believed to have evolved independently at least 12 times",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The murder of Martha Moxley in 1975 wasn't solved until 2002 when Michael Skakel was convicted—suspicion had shifted between family members for 27 years.",
+  "verdict": "overstated",
+  "corrected_claim": "Martha Moxley was murdered in 1975, but Michael Skakel wasn't convicted until 2002—and was convicted again on retrial in 2016.",
+  "quote": "Skakel was convicted of the murder in 2002, and again on retrial, in 2016.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Shifting suspicion among family for 27 years not stated"
+ },
+ {
+  "claim": "Sorting small arrays optimally (fewest comparisons and swaps) remains an open research problem — solutions are only known for arrays smaller than 20 elements.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "only known for very small arrays (fewer than 20 elements)",
+  "source_url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+  "note": ""
+ },
+ {
+  "claim": "A drug blocking prion fiber growth could slow disease even without eliminating prions — buying patients more time.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is to find a drug that binds to fibril ends and blocks them from growing any further",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": ""
+ },
+ {
+  "claim": "Midges of the family Chironomidae can survive being frozen in liquid helium at -270°C (-454°F)—close to absolute zero.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Chironomidae",
+  "note": "Page mentions cold tolerance but nothing about liquid helium or -270°C"
+ },
+ {
+  "claim": "Breast milk contains significant amounts of glutamate, suggesting humans are exposed to umami taste from birth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Glutamic acid makes up half of the free amino acids in breast milk. ... Studies have shown that the amino acids in breast milk are often the first encounter humans have with umami.",
+  "source_url": "https://en.wikipedia.org/wiki/Umami",
+  "note": ""
+ },
+ {
+  "claim": "Lingua Ignota, created by St. Hildegard of Bingen in the 12th century, is the first entirely artificial language ever recorded.",
+  "verdict": "overstated",
+  "corrected_claim": "Lingua Ignota, recorded in the 12th century by St. Hildegard of Bingen, is apparently the first entirely artificial language.",
+  "quote": "The Lingua Ignota, recorded in the 12th century by St. Hildegard of Bingen, is an example, and apparently the first entirely artificial language.",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "Page hedges with 'apparently'"
+ },
+ {
+  "claim": "Hotelling's Law predicts that competing firms will locate near each other — explaining why gas stations cluster at intersections and fast food restaurants bunch together.",
+  "verdict": "overstated",
+  "corrected_claim": "Hotelling's law predicts rivals will cluster together, which is seen in businesses like bars, restaurants and gas stations, and chains such as McDonald's and Burger King locating close to each other.",
+  "quote": "This phenomenon can be observed in real life, where commodity businesses like bars, restaurants, and gas stations, as well as large, branded chains, are located close to their rivals:",
+  "source_url": "https://en.wikipedia.org/wiki/Hotelling%27s_law",
+  "note": "Intersections and 'fast food bunching' not stated"
+ },
+ {
+  "claim": "Trigger hairs in Venus flytraps generate action potentials that propagate to cells in the midrib, causing the dramatic trap closure.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "generating an action potential that propagates to cells in the midrib",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "The case of Etan Patz (missing since 1979) wasn't solved until 2017 when Pedro Hernandez was convicted—after it emerged he had confessed publicly at his church in the 1980s but wasn't investigated.",
+  "verdict": "overstated",
+  "corrected_claim": "Etan Patz's case wasn't solved until 2017, when Pedro Hernandez was found guilty—after his brother-in-law said in 2012 that Hernandez had confessed publicly at his church in the 1980s.",
+  "quote": "However, Hernandez's brother-in-law identified him as the real perpetrator in 2012, claiming that he had confessed publicly at his church in the 1980s and that his guilt was an open secret in his family. Hernandez confessed again after his arrest, but doubts about his mental health delayed a guilty verdict until 2017.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "Confession is the brother-in-law's claim; 'wasn't investigated' not stated"
+ },
+ {
+  "claim": "Radix sort can sort n numbers with k digits in O(n·k) time — faster than comparison sorts when k is small, which is why it's used for sorting integers.",
+  "verdict": "overstated",
+  "corrected_claim": "Radix sort sorts n numbers of k digits each in O(n·k) time.",
+  "quote": "n numbers consisting of k digits each are sorted in O(n · k) time.",
+  "source_url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+  "note": "Page does not state the 'which is why it's used for integers' reasoning."
+ },
+ {
+  "claim": "Prion protein is required for bone marrow self-renewal — mice without PrP have impaired blood stem cells.",
+  "verdict": "overstated",
+  "corrected_claim": "Prion protein on stem cells is needed for bone marrow self-renewal; blood-forming tissues with PrP-null stem cells are more sensitive to cell depletion.",
+  "quote": "PrP expression on stem cells is necessary for an organism's self-renewal of bone marrow. ... hematopoietic tissues with PrP-null stem cells exhibit increased sensitivity to cell depletion.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not say the work was in mice"
+ }
+]

@@ -1,0 +1,2002 @@
+[
+ {
+  "claim": "The human botfly lays its eggs on mosquitoes—when the mosquito bites a person, the body heat triggers the eggs to hatch and burrow into the skin.",
+  "verdict": "overstated",
+  "corrected_claim": "The female human botfly captures a mosquito, attaches its eggs to its body and releases it; the eggs hatch while the mosquito feeds and the larvae enter through the bite to develop under the skin.",
+  "quote": "The female captures the mosquito and attaches its eggs to its body, then releases it. ... the eggs hatch while the mosquito is feeding and the larvae use the mosquito bite area as the entry point ... The larvae develop inside the subcutaneous layers",
+  "source_url": "https://en.wikipedia.org/wiki/Dermatobia_hominis",
+  "note": "Page says nothing about body heat triggering hatching; it also lists muscoid flies as vectors."
+ },
+ {
+  "claim": "The 'blue zone' populations known for longevity (Okinawa, Sardinia, etc.) all have diets rich in fermented foods.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Blue zones/longevity not mentioned on the page."
+ },
+ {
+  "claim": "Klingon from Star Trek has a complete grammar and vocabulary — some couples have even raised children speaking it.",
+  "verdict": "overstated",
+  "corrected_claim": "d'Armond Speers of the Klingon Language Institute tried to raise his son bilingual in English and Star Trek's Klingon.",
+  "quote": "d'Armond Speers, a member of the Klingon Language Institute, attempted to raise his son as bilingual, using both English and the constructed Klingon language.",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "One father attempted it; 'couples' and 'complete grammar' not stated"
+ },
+ {
+  "claim": "The Bear Stearns collapse in March 2008 was the first major Wall Street casualty of the subprime crisis — the Fed facilitated its sale to JPMorgan for $2/share (later $10).",
+  "verdict": "overstated",
+  "corrected_claim": "Bear Stearns' collapse in March 2008 was a prelude to the 2008 financial crisis; after a Fed-backed rescue it agreed to a JPMorgan Chase stock swap worth $2 a share, later raised to $10.",
+  "quote": "The collapse of the company was a prelude to the 2008 financial crisis ... a new agreement was reached that raised JPMorgan Chase's offer to $10 a share, up from the initial $2 offer",
+  "source_url": "https://en.wikipedia.org/wiki/Bear_Stearns",
+  "note": "'First major Wall Street casualty' not stated"
+ },
+ {
+  "claim": "Venus flytrap leaves can be reused only 3-4 times for digestion before becoming unresponsive to stimulation.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Leaves can be reused three or four times before they become unresponsive to stimulation",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Christian Gerhartsreiter was convicted of a 1985 murder only in 2013, when the victim's adopted status prevented DNA comparison until advanced testing became available in 2010.",
+  "verdict": "overstated",
+  "corrected_claim": "Christian Gerhartsreiter was convicted in 2013 of a 1985 murder; the victim's skeleton, found in 1994, couldn't be identified until 2010 because he was adopted and his DNA couldn't be compared to relatives.",
+  "quote": "In 1994, the dismembered skeleton of a man was disinterred in the Sohus home, but he could not be identified until 2010 because Sohus was adopted and his DNA could not be compared to his known relatives.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "'Advanced testing became available' not stated"
+ },
+ {
+  "claim": "Bogosort has unbounded worst-case runtime — it randomly shuffles elements until they happen to be sorted, used only as a humorous teaching example.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Used for example purposes only, as even the expected best-case runtime is awful. ... Worst case is unbounded when using randomization.",
+  "source_url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+  "note": ""
+ },
+ {
+  "claim": "Autophagy can clear prion aggregates from cells — promoting autophagy delays disease onset in mice.",
+  "verdict": "overstated",
+  "corrected_claim": "Some autophagy-promoting compounds have delayed prion disease onset and death in animal models.",
+  "quote": "Some autophagy-promoting compounds have shown promise in animal models by delaying disease onset and death.",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not say autophagy clears prion aggregates"
+ },
+ {
+  "claim": "Hover flies are masters of aerial precision—they can hover in place, fly backwards, and make turns that would be impossible for any aircraft.",
+  "verdict": "overstated",
+  "corrected_claim": "Hoverflies are often seen hovering, holding a spot in the air as part of their display behavior.",
+  "quote": "they are often seen hovering, maintaining a spot in the air as part of their display behavior",
+  "source_url": "https://en.wikipedia.org/wiki/Hoverfly",
+  "note": "Flying backwards and aircraft comparison not on page"
+ },
+ {
+  "claim": "Kimchi, the Korean fermented vegetable dish, contains Leuconostoc and Lactobacillus bacteria that may have health benefits.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists kimchi; no Leuconostoc/Lactobacillus or health claims."
+ },
+ {
+  "claim": "Tolkien created multiple complete Elvish languages (Quenya, Sindarin) before writing The Lord of the Rings — the stories grew from the languages.",
+  "verdict": "overstated",
+  "corrected_claim": "J. R. R. Tolkien invented the Elvish languages Quenya and Sindarin for his legendarium, first published with The Hobbit in 1937.",
+  "quote": "Quenya and Sindarin by J. R. R. Tolkien for his legendarium (first published with The Hobbit, 1937)",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "'Stories grew from the languages' not stated"
+ },
+ {
+  "claim": "Reactive devaluation causes people to value proposals less once they come from adversaries — in negotiations, good offers are rejected simply because of who proposed them.",
+  "verdict": "overstated",
+  "corrected_claim": "Reactive devaluation means a proposal is devalued if it appears to come from an antagonist — in one study, far fewer people rated an arms proposal favorably when told it came from Mikhail Gorbachev.",
+  "quote": "Reactive devaluation is a cognitive bias that occurs when a proposal is devalued if it appears to originate from an antagonist. ... if respondents were told it came from Mikhail Gorbachev only 44 percent thought it was favorable or neutral",
+  "source_url": "https://en.wikipedia.org/wiki/Reactive_devaluation",
+  "note": "Page does not state good offers are rejected in negotiations."
+ },
+ {
+  "claim": "The snap trap of Venus flytraps and waterwheel plants evolved from ancestral flypaper traps, with stalked glands becoming trigger hairs and teeth.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "which had evolved from an ancestral lineage that utilized flypaper traps ... The stalked glands that once made glue became teeth and trigger hairs in species with active snap traps",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Robert Bierenbaum was convicted of his wife's 1985 disappearance after investigators discovered he took an unexplained two-hour flight over the Atlantic Ocean the day she vanished.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Her husband was convicted of murder after it was learned that he took an unexplained two-hour-flight over the Atlantic Ocean the day she went missing.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": ""
+ },
+ {
+  "claim": "Diffie-Hellman key exchange, published in 1976, was the first practical public-key protocol — but GCHQ had secretly developed equivalent methods in 1969-1973.",
+  "verdict": "overstated",
+  "corrected_claim": "Diffie–Hellman, published in 1976, is one of the earliest practical examples of key exchange, but in 1997 it was revealed that GCHQ researchers had shown back in 1969 that public-key cryptography could be achieved.",
+  "quote": "The scheme was published by Whitfield Diffie and Martin Hellman in 1976 ... DH is one of the earliest practical examples of key exchange implemented within the field of cryptography. ... In 1997 it was revealed that James H. Ellis ... Malcolm J. Williamson of GCHQ, the British signals intelligence agency, had previously shown in 1969",
+  "source_url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange",
+  "note": "Page says 'one of the earliest', not 'the first'; 1969-1973 range not stated (only 1969)."
+ },
+ {
+  "claim": "The keratinase enzyme from Bacillus licheniformis can actually degrade prions — one of few known ways to destroy them biologically.",
+  "verdict": "overstated",
+  "corrected_claim": "Keratinase from Bacillus licheniformis is among several enzymes found to degrade disease-causing prions.",
+  "quote": "have been found to degrade PrPSc",
+  "source_url": "https://en.wikipedia.org/wiki/Prion",
+  "note": "Page does not call it one of the few known ways to destroy prions"
+ },
+ {
+  "claim": "Lacewing larvae camouflage themselves by stacking the carcasses of their prey on their backs—they look like a pile of debris rather than a predator.",
+  "verdict": "overstated",
+  "corrected_claim": "Lacewing larvae have bristles that collect debris and the empty skins of the aphids they eat, giving them camouflage from birds.",
+  "quote": "These bristles will collect debris and food remains – the empty integuments of aphids, most notably – that provide camouflage from birds.",
+  "source_url": "https://en.wikipedia.org/wiki/Chrysopidae",
+  "note": "Page says debris and food remains collected on bristles; 'stacking carcasses' and 'look like a pile of debris' overstate"
+ },
+ {
+  "claim": "Tempeh, an Indonesian fermented soy product, is made using Rhizopus fungi which bind the soybeans together into a cake.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists tempeh; Rhizopus not mentioned."
+ },
+ {
+  "claim": "Volapük (1879) was the first constructed language to gain international popularity — at its peak, there were 283 Volapük clubs worldwide.",
+  "verdict": "overstated",
+  "corrected_claim": "Volapük, proposed in 1879 by Johann Martin Schleyer, was the first constructed language to make an international impact—within a decade, 283 Volapükist clubs existed around the globe.",
+  "quote": "The first of these that made any international impact was Volapük, proposed in 1879 by Johann Martin Schleyer ... within a decade, 283 Volapükist clubs were counted all over the globe.",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "'At its peak' framing not stated"
+ },
+ {
+  "claim": "Double marginalization occurs when both manufacturer and retailer add markups — vertical integration or clever contracts can eliminate this inefficiency.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "two firms with market power ... at different vertical levels in the same supply chain, apply a mark-up to their prices ... By vertically integrating, these deadweight losses will be eliminated.",
+  "source_url": "https://en.wikipedia.org/wiki/Double_marginalization",
+  "note": "Page also lists contract fixes: franchise fee, nonlinear pricing, resale price maintenance."
+ },
+ {
+  "claim": "Calcuim molecules move dynamically within Venus flytrap cells when touching prey, likely producing defense hormones that trigger leaf movement.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "According to a recent study, calcium molecules move dynamically within the cells of the plant's leaves when a carnivorous plant touches live prey. Changing calcium levels make leaves move to catch prey, likely by producing more hormones related to defense.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Stephanie Lazarus was convicted of a 1986 murder in 2012 after DNA from a bite mark was finally identified as female—she had been an LAPD detective who had an affair with the victim's husband.",
+  "verdict": "overstated",
+  "corrected_claim": "Stephanie Lazarus was convicted in 2012 of a 1986 murder after DNA from a bite mark on the victim was identified as female in 2009 and matched to her—she had had an affair with the victim's husband.",
+  "quote": "when DNA from a bite mark on Rasmussen's body was identified as female ... The DNA was positively matched to Lazarus, who had had an affair with Rasmussen's husband shortly before she was killed.",
+  "source_url": "https://en.wikipedia.org/wiki/Cold_case",
+  "note": "LAPD detective detail not found on page"
+ },
+ {
+  "claim": "Martin Hellman suggested in 2006 that Diffie-Hellman should be called 'Diffie-Hellman-Merkle' to recognize Ralph Merkle's equal contribution to public-key cryptography.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2006, Hellman suggested the algorithm be called Diffie–Hellman–Merkle key exchange in recognition of ... recognize Merkle's equal contribution to the invention of public key cryptography.",
+  "source_url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange",
+  "note": ""
+ },
+ {
+  "claim": "Quinolone resistance genes (qnr) were acquired from aquatic bacteria — environmental DNA became clinical resistance.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the qnr genes that have been acquired from aquatic bacteria",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": ""
+ },
+ {
+  "claim": "Antlion larvae dig conical pits in sand and wait at the bottom—when prey slides down, they flick sand to prevent escape before dragging victims underground.",
+  "verdict": "overstated",
+  "corrected_claim": "Antlion larvae dig funnel-shaped pits and wait buried at the bottom with only their jaws exposed, throwing showers of loose sand at prey to bring it down.",
+  "quote": "digs a funnel-shaped pit in loose material ... the larva settles down at the bottom, buried in the soil with only the jaws projecting above the surface ... showers of loose sand which are thrown at it from below by the larva",
+  "source_url": "https://en.wikipedia.org/wiki/Antlion",
+  "note": "Dragging prey underground not stated; page says the carcass is flicked out of the pit"
+ },
+ {
+  "claim": "Miso, the Japanese fermented soybean paste, contains over 1,000 identified chemical compounds contributing to its complex flavor.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists miso; no compound count."
+ },
+ {
+  "claim": "Lojban is a constructed language designed to test the Sapir-Whorf hypothesis by eliminating syntactic ambiguity entirely.",
+  "verdict": "overstated",
+  "corrected_claim": "Lojban (like its predecessor Loglan) is a constructed language designed to eliminate syntactical ambiguity.",
+  "quote": "others are designed for eliminating syntactical ambiguity (e.g., Loglan and Lojban).",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "Page does not link Lojban to testing Sapir-Whorf"
+ },
+ {
+  "claim": "The Credit Anstalt failure in 1931 triggered banking crises across Europe — Austria's largest bank collapse spread to Germany and contributed to the Great Depression's severity.",
+  "verdict": "overstated",
+  "corrected_claim": "The 1931 collapse of Austria's Creditanstalt, which held 27 percent of the country's banking assets, was one of the first major bank collapses that initiated the Great Depression and helped produce a global banking crisis.",
+  "quote": "it represented 27 percent of the Austrian banking sector's total assets ... The Creditanstalt's bankruptcy and its impact in producing a global banking crisis ... This was one of the first major bank collapses that initiated the Great Depression.",
+  "source_url": "https://en.wikipedia.org/wiki/Creditanstalt",
+  "note": "'Largest bank' and spread to Germany not stated"
+ },
+ {
+  "claim": "The waterwheel plant (Aldrovanda vesiculosa) is an aquatic snap trap specialist that catches small invertebrates using the same mechanism as Venus flytraps.",
+  "verdict": "overstated",
+  "corrected_claim": "The waterwheel plant (Aldrovanda vesiculosa) is an aquatic snap-trap plant specialized in catching small invertebrates.",
+  "quote": "Aldrovanda is aquatic and specialized in catching small invertebrates",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "'Same mechanism as Venus flytrap' not quoted directly"
+ },
+ {
+  "claim": "Locard's exchange principle applies to cyber crime as well—committing digital crimes leaves digital traces that can be forensically analyzed.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Locard's Principle also holds in computer forensics, where committing cyber crime will result in a digital trace being left behind.",
+  "source_url": "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+  "note": ""
+ },
+ {
+  "claim": "The Logjam attack (2015) showed that cracking 1024-bit Diffie-Hellman would cost about $100 million — well within the budget of a major intelligence agency like the NSA.",
+  "verdict": "overstated",
+  "corrected_claim": "The Logjam attack's authors estimated that precomputing to break 1024-bit Diffie–Hellman would cost on the order of $100 million, well within the budget of an agency like the NSA.",
+  "quote": "As estimated by the authors behind the Logjam attack ... would cost on the order of $100 million ... well within the budget of a large national intelligence agency such as the U.S. National Security Agency (NSA)",
+  "source_url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange",
+  "note": "Page gives no year (2015) for Logjam."
+ },
+ {
+  "claim": "Artemisinin — the anti-malarial drug from traditional Chinese medicine — was used for thousands of years before modern isolation.",
+  "verdict": "overstated",
+  "corrected_claim": "Artemisinin was extracted in the 1970s from Artemisia plants, which Chinese herbalists had used for thousands of years as a remedy for many illnesses.",
+  "quote": "was extracted in the 1970s from Artemisia plants",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "Thousands of years refers to the plants, not artemisinin itself."
+ },
+ {
+  "claim": "Assassin bugs inject digestive enzymes that liquefy prey from the inside—they then drink the resulting 'insect smoothie.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "inject a lethal saliva that liquefies the insides of the prey, which are then sucked out.",
+  "source_url": "https://en.wikipedia.org/wiki/Reduviidae",
+  "note": "Page calls it extraoral digestion via saliva enzymes."
+ },
+ {
+  "claim": "Sourdough bread is made using wild yeast and lactobacillus bacteria, which create the characteristic tangy flavor and may make the bread more digestible.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists sourdough; no wild yeast/flavor/digestibility details."
+ },
+ {
+  "claim": "Solresol (1827) was a language based entirely on musical notes — you could sing, whistle, or play it on any instrument.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "Page only lists 'Solresol by François Sudre (1827)'; musical-note details not stated"
+ },
+ {
+  "claim": "Impact bias causes people to overestimate how long emotions from events will last — lottery winners and accident victims both return to baseline happiness faster than expected.",
+  "verdict": "overstated",
+  "corrected_claim": "Impact bias leads people to overestimate the intensity and duration of their emotional reactions to future events.",
+  "quote": "overestimate the intensity and durability of affect when making predictions about their emotional responses",
+  "source_url": "https://en.wikipedia.org/wiki/Impact_bias",
+  "note": "Lottery winners and accident victims not mentioned"
+ },
+ {
+  "claim": "Tuberous sundews form tubers to survive dry Australian summers—a form of aestivation uncommon among carnivorous plants.",
+  "verdict": "overstated",
+  "corrected_claim": "Tuberous sundews such as Drosera peltata form tubers that lie dormant (aestivate) through the dry summer months.",
+  "quote": "tuberous sundews such as D. peltata, which form tubers that aestivate during the dry summer months.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "'Australian' and 'uncommon among carnivorous plants' not stated"
+ },
+ {
+  "claim": "Paul Kirk expressed Locard's principle: 'Physical evidence cannot be wrong, it cannot perjure itself, it cannot be wholly absent. Only human failure to find it, study and understand it, can diminish its value.'",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Physical evidence cannot be wrong, it cannot perjure itself, it cannot be wholly absent. Only human failure to find it, study and understand it, can diminish its value.",
+  "source_url": "https://en.wikipedia.org/wiki/Locard%27s_exchange_principle",
+  "note": ""
+ },
+ {
+  "claim": "The supersingular isogeny key exchange, designed to be quantum-resistant, was broken in July 2022 — showing how rapidly cryptographic assumptions can fail.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "was designed to be secure against quantum computers, but it was broken in July 2022.",
+  "source_url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange",
+  "note": "Closing remark is commentary."
+ },
+ {
+  "claim": "Fleming warned about penicillin resistance in his 1945 Nobel lecture — predicting the crisis before it began.",
+  "verdict": "overstated",
+  "corrected_claim": "Fleming was among the first to warn of potential penicillin resistance if the drug was used too little or for too short a period.",
+  "quote": "Fleming was also among the first who cautioned about the potential resistance to penicillin ... if used too little or for a too short period during treatment.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "Nobel lecture and 1945 not mentioned."
+ },
+ {
+  "claim": "Some assassin bug species camouflage themselves by covering their bodies with dead ant carcasses—both hiding from prey and deterring predators.",
+  "verdict": "overstated",
+  "corrected_claim": "As nymphs, some assassin bug species camouflage themselves with debris or the remains of dead prey insects.",
+  "quote": "As nymphs, some species cover and camouflage themselves effectively with debris or the remains of dead prey insects.",
+  "source_url": "https://en.wikipedia.org/wiki/Reduviidae",
+  "note": "Page says remains of prey insects (not specifically ants), in nymphs; purposes not stated."
+ },
+ {
+  "claim": "Kefir contains up to 61 different strains of bacteria and yeasts, far more than most yogurts.",
+  "verdict": "overstated",
+  "corrected_claim": "Kefir contains a range of probiotic microbes, including Lactobacillus acidophilus, Bifidobacterium bifidum, Streptococcus thermophilus, Lactobacillus kefiranofaciens and Leuconostoc species.",
+  "quote": "Kefir contains Lactobacillus acidophilus, Bifidobacterium bifidum, Streptococcus thermophilus, Lactobacillus delbrueckii subsp. bulgaricus, Lactobacillus helveticus, Lactobacillus kefiranofaciens, Lactococcus lactis, and Leuconostoc species.",
+  "source_url": "https://en.wikipedia.org/wiki/Probiotics",
+  "note": "No '61 strains' figure or yogurt comparison on the page; it lists eight organisms."
+ },
+ {
+  "claim": "Ithkuil is a constructed language designed to be maximally concise — it can express in one word what takes a paragraph in English.",
+  "verdict": "overstated",
+  "corrected_claim": "Ithkuil is a constructed language designed for maximum conciseness.",
+  "quote": "or maximizing conciseness (e.g., Ithkuil).",
+  "source_url": "https://en.wikipedia.org/wiki/Constructed_language",
+  "note": "'One word vs a paragraph' not stated"
+ },
+ {
+  "claim": "Limit pricing by incumbents deters entry by keeping prices low enough that potential competitors can't profit — sacrificing current profits for future market power.",
+  "verdict": "overstated",
+  "corrected_claim": "Limit pricing means an incumbent sets a price low enough to make it unprofitable for others to enter the market.",
+  "quote": "a price low enough to make it unprofitable for other players to enter the market",
+  "source_url": "https://en.wikipedia.org/wiki/Limit_pricing",
+  "note": "Sacrifice of current profits for future power not stated"
+ },
+ {
+  "claim": "Cephalotus follicularis (Albany pitcher plant) from Western Australia has moccasin-like pitchers with pronounced rims that prevent trapped prey from climbing out.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is a small pitcher plant from Western Australia, with moccasin-like pitchers. The rim of its pitcher's opening (the peristome) is particularly pronounced (both secrete nectar) and provides a thorny overhang to the opening, preventing trapped insects from climbing out.",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": ""
+ },
+ {
+  "claim": "Koalas have fingerprints so similar to humans that even with an electron microscope, it can be difficult to distinguish between them.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "According to one study, even with an electron microscope, it can be quite difficult to distinguish between the fingerprints of a koala and a human.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Per one study."
+ },
+ {
+  "claim": "Much of the Internet's traffic used one of a handful of 1024-bit Diffie-Hellman groups — an attacker who precomputed these could break many connections.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "much Internet traffic uses one of a handful of groups that are of order 1024 bits or less ... By precomputing the first three steps of the number field sieve for the most common groups",
+  "source_url": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange",
+  "note": ""
+ },
+ {
+  "claim": "Penicillinase (β-lactamase) was discovered even before penicillin was widely used — bacteria were pre-adapted to resist it.",
+  "verdict": "overstated",
+  "corrected_claim": "Even before penicillin was widely used, observations suggested bacteria could destroy it by enzymatic degradation.",
+  "quote": "Even before the extensive use of penicillin, some observations suggested that bacteria ... could destroy it by enzymatic degradation.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "'Pre-adapted' and the term penicillinase not on page."
+ },
+ {
+  "claim": "The water scorpion breathes through a snorkel—a tube at the end of its abdomen that reaches the water surface like a built-in breathing straw.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Respiration in the adult is achieved by means of the caudal process ... Air is conducted through it to the tracheae at the apex of the abdomen ... when the tip of the tube is thrust above the surface of the water",
+  "source_url": "https://en.wikipedia.org/wiki/Nepidae",
+  "note": ""
+ },
+ {
+  "claim": "Kombucha, the fermented tea, is made using a SCOBY (symbiotic culture of bacteria and yeast) that forms a rubbery mat on the surface.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists kombucha; SCOBY not mentioned."
+ },
+ {
+  "claim": "Children can acquire any language perfectly by age 5 without formal instruction — an ability that diminishes dramatically after puberty.",
+  "verdict": "overstated",
+  "corrected_claim": "Children in a speech community converge on very much the same grammar by about age five, and acquisition is typically solidified by around age 12.",
+  "quote": "all children in a given speech-community converge on very much the same grammar by the age of about five years. ... By around age 12, language acquisition has typically been solidified",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": "'Perfectly', 'any language' and puberty decline not stated"
+ },
+ {
+  "claim": "The BCCI scandal of 1991 revealed the largest bank fraud in history — the Bank of Credit and Commerce International had $20 billion in assets and operated a global criminal enterprise.",
+  "verdict": "overstated",
+  "corrected_claim": "BCCI, shut down by regulators in July 1991, had reported assets in excess of US$20 billion and was found to be involved in massive money laundering — Manhattan DA Robert Morgenthau called it 'the largest bank fraud in world financial history'.",
+  "quote": "On 5 July 1991, regulators persuaded a court in Luxembourg to order BCCI liquidated ... the largest bank fraud in world financial history ... Subsequent investigations revealed that it was involved in massive money laundering and other financial crimes.",
+  "source_url": "https://en.wikipedia.org/wiki/Bank_of_Credit_and_Commerce_International",
+  "note": "'Largest bank fraud' is Morgenthau's characterization, not stated as fact"
+ },
+ {
+  "claim": "Some pitcher plants have phytotelmata—the water pools inside pitchers become entire micro-ecosystems hosting frogs, insects, and other organisms.",
+  "verdict": "overstated",
+  "corrected_claim": "Water trapped in pitcher plants forms a 'phytotelma'—a tiny habitat where mosquitoes lay their eggs and tree frogs come to exploit the supply of prey.",
+  "quote": "Water can become trapped within the pitcher, making a habitat for other flora and fauna. This type of 'water body' is called a phytotelma. ... small insectivores such as tree frogs often exploit the supply of prey to be found in pitcher plants ... Numerous species of mosquitoes lay their eggs in the liquid",
+  "source_url": "https://en.wikipedia.org/wiki/Carnivorous_plant",
+  "note": "'Entire micro-ecosystems hosting frogs' stretches the page"
+ },
+ {
+  "claim": "Mark Twain's 1883 memoir 'Life on the Mississippi' contains an account of a murder solved by thumbprint identification—predating real-world forensic use of the technique.",
+  "verdict": "overstated",
+  "corrected_claim": "Mark Twain's 1883 memoir 'Life on the Mississippi' includes a melodramatic account of a murder in which the killer is identified by a thumbprint.",
+  "quote": "Among them is an involved, melodramatic account of a murder in which the killer is identified by a thumbprint.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page does not say this predated real-world forensic use."
+ },
+ {
+  "claim": "The Y2K bug existed because memory cost up to $100 per kilobyte in the 1970s — storing two digits instead of four for years saved significant money.",
+  "verdict": "overstated",
+  "corrected_claim": "Memory was expensive—from $10 to more than $100 per kilobyte in 1975—so storing two-digit years saved money by shrinking data files.",
+  "quote": "from as low as $10 per kilobyte to more than US $100 per kilobyte in 1975. ... these strategies saved money by reducing the size of stored data files",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": "Page says 'more than' $100, not 'up to'."
+ },
+ {
+  "claim": "Carbapenem-resistant Enterobacteriaceae (CRE) are resistant to nearly all antibiotics — earning the nickname 'nightmare bacteria'.",
+  "verdict": "overstated",
+  "corrected_claim": "Enterobacteriaceae have become resistant not only to penicillin but also to semi-synthetic penicillins, cephalosporins and the newer carbapenems.",
+  "quote": "not only to the original penicillin but also to semi-synthetic penicillins, cephalosporins, and newer carbapenems",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "'Nightmare bacteria' and 'nearly all antibiotics' not on page."
+ },
+ {
+  "claim": "Giant water bugs can catch and eat fish, frogs, and even small snakes—they have one of the most painful bites of any insect and are called 'toe-biters.'",
+  "verdict": "overstated",
+  "corrected_claim": "Giant water bugs — colloquially 'toe-biters' — catch fish and amphibians, and the largest species even take baby turtles and water snakes; their bite is excruciatingly painful but of no medical significance.",
+  "quote": "known as giant water bugs or colloquially as toe-biters ... The largest species have also been found to capture and feed on baby turtles and water snakes. ... Although their bite is excruciatingly painful, it is of no medical significance.",
+  "source_url": "https://en.wikipedia.org/wiki/Belostomatidae",
+  "note": "'Frogs' and 'one of the most painful bites of any insect' not stated; snakes only for largest species"
+ },
+ {
+  "claim": "Fish sauce, used across Asia, is made by fermenting fish with salt for up to two years—similar to the ancient Roman garum.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists fish sauce and garum; no fermentation duration."
+ },
+ {
+  "claim": "Victor of Aveyron, a feral child found in 1800, never fully learned language despite years of training — evidence for a critical period.",
+  "verdict": "overstated",
+  "corrected_claim": "Victor of Aveyron, a feral child, learned a few words but never fully acquired language.",
+  "quote": "Victor was able to learn a few words, but ultimately never fully acquired language.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": "Year 1800 and years of training not on page"
+ },
+ {
+  "claim": "Duration neglect means people's memories of experiences ignore how long they lasted — a short painful procedure may be remembered worse than a longer one ending less painfully.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "people's judgments of the unpleasantness of painful experiences depend very little on the duration of those experiences. ... These patients subsequently rated their procedure as significantly less unpleasant.",
+  "source_url": "https://en.wikipedia.org/wiki/Duration_neglect",
+  "note": "Colonoscopy trial: the longer procedure with a milder ending was rated less unpleasant."
+ },
+ {
+  "claim": "Flowering plants (angiosperms) dominate modern plant life with over 300,000 species—more than all other plant groups combined.",
+  "verdict": "overstated",
+  "corrected_claim": "Flowering plants are the dominant plant group today, reproducing both sexually and asexually.",
+  "quote": "Flowering plants, the dominant plant group, reproduce both by sexual and asexual means.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "Page gives no 300,000 species count or comparison with other groups"
+ },
+ {
+  "claim": "Ancient Babylonians used fingerprints to sign contracts around 200 BC, potentially representing the earliest documented use of prints for identification.",
+  "verdict": "overstated",
+  "corrected_claim": "Around 200 BCE, fingerprints were used to sign written contracts in Babylon — and even earlier, under King Hammurabi, officials took the fingerprints of people who had been arrested.",
+  "quote": "In about 200 BCE, fingerprints were used to sign written contracts in Babylon. ... References from the age of the Babylonian king Hammurabi (reigned 1792–1750 BCE) indicate that law officials would take the fingerprints of people who had been arrested.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page cites earlier Hammurabi-era use, so 200 BCE is not the earliest documented."
+ },
+ {
+  "claim": "Bob Bemer noticed the Y2K problem in 1958 and spent 20 years trying to warn IBM, the US government, and international standards bodies — largely ignored.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The first person known to publicly address this issue was Bob Bemer, who had noticed it in 1958 ... He spent the next twenty years fruitlessly trying to raise awareness of the problem with programmers, IBM,",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": ""
+ },
+ {
+  "claim": "Agricultural use of antibiotics for growth promotion was banned in the EU in 2006 — reducing environmental resistance pressure.",
+  "verdict": "overstated",
+  "corrected_claim": "Following a 2006 ban on growth-promoting antibiotics, other EU countries have implemented similar measures to limit antibiotic resistance from agricultural sources.",
+  "quote": "With the ban of growth promoting antibiotics in 2006, other EU countries have been implementing similar measures to limit the occurrence and dissemination of antibiotic resistance from agricultural sources.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "Page doesn't clearly describe an EU-wide 2006 ban."
+ },
+ {
+  "claim": "Male giant water bugs carry eggs on their backs—the female glues them there after mating, and he aerates them until they hatch.",
+  "verdict": "overstated",
+  "corrected_claim": "In giant water bugs of the subfamily Belostomatinae, eggs are laid on the male's wings and he carries them until they hatch — he cannot mate during that time.",
+  "quote": "In species of the subfamily Belostomatinae, the eggs are typically laid on the male's wings and carried until they hatch. The male cannot mate during this period.",
+  "source_url": "https://en.wikipedia.org/wiki/Belostomatidae",
+  "note": "Only one subfamily; gluing and aerating not stated"
+ },
+ {
+  "claim": "Hákarl, Icelandic fermented shark, is buried underground for several months to ferment, developing an extremely pungent ammonia odor.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Fermentation_in_food_processing",
+  "note": "Page only lists hákarl; burial and ammonia not mentioned."
+ },
+ {
+  "claim": "Genie, isolated until age 13, could learn vocabulary but never mastered grammar — supporting the critical period hypothesis.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "She had been entirely isolated for the first thirteen years of her life by her father. ... She was able to acquire a large vocabulary, but never acquired grammatical knowledge.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": ""
+ },
+ {
+  "claim": "Predatory pricing — selling below cost to drive out competitors — is theoretically possible but empirically rare, as it requires deep pockets and discourages future entry only temporarily.",
+  "verdict": "overstated",
+  "corrected_claim": "Predatory pricing — selling below cost to eliminate competitors — requires a firm with the size and capital to absorb short-term losses, and critics such as Easterbrook and DiLorenzo argue true predatory pricing is rare, as new firms can rapidly enter once prices rise.",
+  "quote": "According to Easterbrook, predatory pricing is rare and should not be considered a central concern. ... the dominant firm has the size and capital to sustain short-term loss in profits",
+  "source_url": "https://en.wikipedia.org/wiki/Predatory_pricing",
+  "note": "Rarity is the view of critics (Easterbrook, DiLorenzo), stated as established fact"
+ },
+ {
+  "claim": "Asteraceae (sunflower family) is the second-largest flowering plant family with about 22,000 species of composite flowers.",
+  "verdict": "overstated",
+  "corrected_claim": "Asteraceae, the sunflower family, is a large flowering plant family with close to 22,000 species, whose inflorescences are made of many tiny florets.",
+  "quote": "Another large group of flowering plants is the Asteraceae or sunflower family with close to 22,000 species",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "Page does not call it the second-largest family"
+ },
+ {
+  "claim": "In 1686, Italian professor Marcello Malpighi at the University of Bologna first identified ridges, spirals and loops in fingerprint patterns under scientific study.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1686, Marcello Malpighi, a professor of anatomy at the University of Bologna, identified ridges, spirals and loops in fingerprints left on surfaces.",
+  "quote": "identified ridges, spirals and loops in fingerprints left on surfaces.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page does not say he was the first."
+ },
+ {
+  "claim": "Companies predicted Y2K remediation would cost between $400 billion and $600 billion globally — fear led some people to stockpile food, water, and firearms.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "predicted the global damage caused by the bug would require anything between $400 billion and $600 billion to rectify. ... A lack of clarity regarding the potential dangers of the bug led some to stock up on food, water, and firearms",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": ""
+ },
+ {
+  "claim": "The SOS response in bacteria (triggered by UV and DNA damage) promotes horizontal transfer of resistance genes.",
+  "verdict": "overstated",
+  "corrected_claim": "Researchers have studied whether the SOS response, induced by UV radiation, promotes the horizontal spread of antibiotic resistance genes.",
+  "quote": "the SOS response-inducing UV radiation, on the horizontal dissemination of antibiotic resistance genes.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+  "note": "Body text raises it as a question; only a cited paper title asserts it."
+ },
+ {
+  "claim": "Treehoppers have some of the most bizarre shapes in the insect world—their pronotum can grow into structures resembling thorns, ants, or even helicopter rotors.",
+  "verdict": "overstated",
+  "corrected_claim": "Treehoppers' pronotum is expanded into often fantastic shapes that boost camouflage or mimicry, resembling plant thorns, twigs, seeds, fungi, caterpillar frass, ants and wasps.",
+  "quote": "expanded into often fantastic shapes that enhance their camouflage or mimicry, often resembling plant thorns ... mimic thorns, twigs, seeds and fungi, as well as caterpillar frass, ants and wasps.",
+  "source_url": "https://en.wikipedia.org/wiki/Treehopper",
+  "note": "No helicopter rotors; 'bizarre' is 'fantastic'."
+ },
+ {
+  "claim": "The 'tongue map' showing different taste zones is a myth debunked decades ago—all taste qualities can be detected across the entire tongue.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Tongue map not mentioned on the page."
+ },
+ {
+  "claim": "Children universally go through stages of 'overregularization' — saying 'goed' instead of 'went' shows they're learning grammar rules, not just imitating.",
+  "verdict": "overstated",
+  "corrected_claim": "Children make overgeneralization errors such as 'gived', 'runned' or 'hitted' after first using correct forms like 'gave'.",
+  "quote": "a child may correctly learn the word \"gave\" (past tense of \"give\"), and later on use the word \"gived\". ... occasional overgeneralization errors (e.g. \"runned\", \"hitted\")",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": "'Universally' and the rules-not-imitation conclusion not stated"
+ },
+ {
+  "claim": "The GameStop short squeeze of January 2021 saw shares rise from $20 to $483 — retail investors coordinating on Reddit's WallStreetBets inflicted billions in losses on hedge funds.",
+  "verdict": "overstated",
+  "corrected_claim": "In January 2021 GameStop shares rose from $17.25 at the start of the month to an all-time intraday high of $483, after r/wallstreetbets users built the foundations of a short squeeze; short sellers had lost $6 billion by January 26.",
+  "quote": "up from $17.25 at the start of the month. ... the all-time highest intraday stock price for GameStop was $483.00 ... On January 26, it was reported that short sellers had lost a total of $6 billion due to the squeeze.",
+  "source_url": "https://en.wikipedia.org/wiki/GameStop_short_squeeze",
+  "note": "Starting price was $17.25 per page; $483 was intraday peak"
+ },
+ {
+  "claim": "Seed plants evolved about 350 million years ago in the Paleozoic era, with pollen grains protecting male gametes during transfer.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The seed plants including seed ferns, conifers and cordaites, which were all gymnosperms, evolved about 350 million years ago. They had pollen grains that contained the male gametes for protection of the sperm",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "German anatomist Johann Christoph Andreas Mayer was the first European to conclude that fingerprints were unique to each individual, publishing his findings in 1788.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1788, German anatomist Johann Christoph Andreas Mayer was the first European to conclude that fingerprints are unique to each individual.",
+  "quote": "In 1788, a German anatomist Johann Christoph Andreas Mayer was the first European to conclude that fingerprints were unique to each individual.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page does not mention him publishing findings."
+ },
+ {
+  "claim": "On January 1, 2000, police breathalyzers in Hong Kong failed at midnight, and taxi meters in Jiangsu, China stopped working.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In Hong Kong, police breathalyzers failed at midnight. ... In Jiangsu, China, taxi meters failed at midnight.",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": ""
+ },
+ {
+  "claim": "A single fungal network can extend for kilometers underground, connecting thousands of individual trees.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Page does not mention networks spanning kilometers or thousands of trees."
+ },
+ {
+  "claim": "Scale insects are so motionless and plant-like that many species were historically classified as plant growths rather than animals.",
+  "verdict": "overstated",
+  "corrected_claim": "Adult female scale insects are almost always immobile, staying permanently attached to the plant on which they feed.",
+  "quote": "Adult females are almost always immobile ... permanently attached to the plant on which they are feeding",
+  "source_url": "https://en.wikipedia.org/wiki/Scale_insect",
+  "note": "Page does not say they were historically classified as plant growths."
+ },
+ {
+  "claim": "Miracle berry (Synsepalum dulcificum) contains miraculin, a protein that makes sour foods taste sweet for up to two hours.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Miracle berry/miraculin not mentioned on the page."
+ },
+ {
+  "claim": "Nim Chimpsky, a chimp taught sign language, could learn individual signs but never combined them grammatically — showing language is uniquely human.",
+  "verdict": "overstated",
+  "corrected_claim": "Nim Chimpsky could acquire signs but never acquired a knowledge of grammar.",
+  "quote": "While Nim was able to acquire signs, he never acquired a knowledge of grammar,",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": "'Language is uniquely human' conclusion not stated"
+ },
+ {
+  "claim": "The focusing illusion means 'Nothing in life is as important as you think it is, while you are thinking about it' — leading to mispredictions about what will make us happy.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Focusing_effect",
+  "note": "URL redirects to Anchoring effect; focusing illusion and the quote are not on the page."
+ },
+ {
+  "claim": "Mosses and liverworts have motile sperm that must swim through water films to reach eggs—an ancestral aquatic adaptation.",
+  "verdict": "overstated",
+  "corrected_claim": "Primitive land plants such as mosses and liverworts have motile sperm that swim through a thin film of water, or are splashed in droplets, to reach the female organs.",
+  "quote": "Primitive land plants such as liverworts and mosses had motile sperm that swam in a thin film of water",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "Page does not call it an ancestral aquatic adaptation and notes splashing as an alternative"
+ },
+ {
+  "claim": "Jan Evangelista Purkyně identified nine fingerprint patterns in 1823, including the tented arch, loop, and whorl that are still used in modern forensic classification.",
+  "verdict": "overstated",
+  "corrected_claim": "Jan Evangelista Purkyně identified nine fingerprint patterns in 1823, including the tented arch, the loop and the whorl.",
+  "quote": "The nine patterns include the tented arch, the loop, and the whorl.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page does not say these are still used in modern classification."
+ },
+ {
+  "claim": "A Y2K bug at a Sheffield hospital miscalculated Down syndrome risk assessments, directly causing two unnecessary abortions and four undetected cases.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As a direct result two abortions were carried out ... four babies with Down syndrome were also born to mothers who had been told they were in the low-risk group.",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": ""
+ },
+ {
+  "claim": "Allelochemicals like juglone from black walnuts travel faster through fungal networks than through soil alone.",
+  "verdict": "overstated",
+  "corrected_claim": "In studies of juglone from black walnuts, mycorrhizal networks caused target plants to show reduced growth by increasing the transfer of the toxic chemical.",
+  "quote": "In studies of juglone in black walnuts and their target species, the presence of mycorrhizal networks caused target plants to exhibit reduced growth by increasing the transfer of the infochemical.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Page says networks increase transfer, not that it travels faster than through soil."
+ },
+ {
+  "claim": "Cochineal insects produce carmine dye—it takes 70,000 insects to make one pound of dye, which is still used in food and cosmetics.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "It takes about 70,000 insects to make 1 pound (0.45 kilograms) of cochineal dye. ... Today, carmine is primarily used as a colorant in food and in lipstick",
+  "source_url": "https://en.wikipedia.org/wiki/Cochineal",
+  "note": ""
+ },
+ {
+  "claim": "Gymnema sylvestre, an herb used in traditional medicine, temporarily blocks sweet taste receptors, making sugar taste like sand.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Gymnema sylvestre not mentioned on the page."
+ },
+ {
+  "claim": "Babies can distinguish all phonemes from all languages until about 10 months — then they lose the ability to hear distinctions not in their native language.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "from birth until the age of six months, infants can discriminate the phonetic contrasts of all languages.",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": "Page says until six months, not ten months"
+ },
+ {
+  "claim": "Entry deterrence in industrial organization involves strategic investments that commit firms to aggressive responses — making potential competitors believe entry would be unprofitable.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Entry_deterrence",
+  "note": "Source page could not be fetched (URL not found)."
+ },
+ {
+  "claim": "Fern gametophytes (prothalli) are independent, heart-shaped, green plants completely unlike the adult fern sporophytes.",
+  "verdict": "overstated",
+  "corrected_claim": "Ferns have free-living gametophytes called prothalli — typically small, heart-shaped and green — much smaller than the fern sporophyte.",
+  "quote": "free-living gametophytes called prothalli that are typically heart-shaped, small and green in color.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "Page does not say they are completely unlike the adult fern"
+ },
+ {
+  "claim": "The aqueous component of a fingerprint can evaporate within 24 hours, while the sebaceous oils remain much longer—affecting which detection methods are effective over time.",
+  "verdict": "overstated",
+  "corrected_claim": "The watery part of a fingerprint can make up over 90% of its weight at first, yet it evaporates quickly and may be mostly gone after 24 hours.",
+  "quote": "The aqueous component of a fingerprint, while initially sometimes making up over 90% of the weight of the fingerprint, can evaporate quite quickly and may have mostly gone after 24 hours.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page does not say sebaceous oils last much longer or link this to detection methods."
+ },
+ {
+  "claim": "In Denmark, the first baby born on January 1, 2000, was recorded as being 100 years old due to a Y2K bug.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In Denmark, the first baby born on 1 January was recorded as being 100 years old.",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": ""
+ },
+ {
+  "claim": "Plants connected via fungal networks show primed immune defenses — ready to fight pathogens before they arrive.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycorrhizal networks can prime plant defenses—activating them before an attack—as when tomato plants upregulated defense genes after a connected neighbor was infected.",
+  "quote": "Priming occurs when a plant's defenses are activated before an attack. ... In a study of tomato plants connected via an AM mycorrhizal network, a plant not infected by a fungal pathogen ... causing the uninfected plant to upregulate genes for the SA and JA pathways",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Shown in specific studies, not for connected plants generally."
+ },
+ {
+  "claim": "Lac insects produce shellac—the original record coating and furniture finish, made from processed secretions of millions of tiny bugs.",
+  "verdict": "overstated",
+  "corrected_claim": "Shellac is the processed form of the resin secreted by lac insects.",
+  "quote": "Shellac, the processed form of this resin",
+  "source_url": "https://en.wikipedia.org/wiki/Lac",
+  "note": "Records, furniture finish and 'millions of bugs' not on page"
+ },
+ {
+  "claim": "The average human can distinguish about 10,000 different smells, though trained perfumers may identify many more.",
+  "verdict": "overstated",
+  "corrected_claim": "Human smell has long been presented as able to distinguish roughly 10,000 odors, but recent research suggests the average person can distinguish over one trillion.",
+  "quote": "have long presented human smell as capable of distinguishing between roughly 10,000 unique odors ... recent research has suggested that the average individual is capable of distinguishing over one trillion unique odors.",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "Page says recent research suggests over a trillion; perfumers not mentioned."
+ },
+ {
+  "claim": "Children hear about 21,000 words per day but produce only about 5,000 — they understand far more than they can say.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Language_acquisition",
+  "note": "21,000/5,000 words-per-day figures not on page"
+ },
+ {
+  "claim": "The Terra/Luna cryptocurrency collapse in May 2022 erased $60 billion in value within days — an algorithmic stablecoin death spiral caused by its unsustainable mechanism design.",
+  "verdict": "overstated",
+  "corrected_claim": "The May 2022 collapse of Terra's algorithmic stablecoin TerraUSD triggered a death spiral that wiped out almost $45 billion of market capitalization in one week.",
+  "quote": "The collapse wiped out almost $45 billion of market capitalization in one week. ... After that, there was a death spiral.",
+  "source_url": "https://en.wikipedia.org/wiki/Terra_(blockchain)",
+  "note": "Page says ~$45 billion, not $60 billion."
+ },
+ {
+  "claim": "Plants can breed cultivars with individual desirable characteristics through vegetative propagation, bypassing the randomness of sexual reproduction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Asexual methods are most often used to propagate cultivars with individual desirable characteristics that do not come true from seed.",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "Fingerprints can be visualized in 3D without chemicals using infrared lasers, representing one of the newer techniques in forensic print detection.",
+  "verdict": "overstated",
+  "corrected_claim": "Fingerprints can be visualized in 3D, without any chemicals, using infrared lasers.",
+  "quote": "Fingerprints can for example be visualized in 3D and without chemicals by the use of infrared lasers.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "'One of the newer techniques' not stated."
+ },
+ {
+  "claim": "A Korean video store charged a customer 8 million won ($7,000) in late fees because its computer calculated a rental as 100 years overdue.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a video store in Gwangju accidentally generated a late fee of approximately 8 million won",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": "Page also gives ~US$7,000 and 100 years overdue."
+ },
+ {
+  "claim": "Tomato plants connected by mycorrhizal networks upregulate defense genes when a neighbor is infected by fungal pathogens.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In a study of tomato plants connected via an AM mycorrhizal network, a plant not infected by a fungal pathogen ... causing the uninfected plant to upregulate genes for the SA and JA pathways",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "New Zealand's wētā can survive being frozen solid—they have antifreeze-like compounds in their blood that protect their cells from ice damage.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Weta",
+  "note": "Page does not mention freezing or antifreeze."
+ },
+ {
+  "claim": "When you have a cold and can't taste food, it's actually your smell that's impaired—taste (sweet, sour, salty, bitter, umami) remains intact.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "Page does not discuss colds and taste."
+ },
+ {
+  "claim": "The shortest complete sentence in English is 'I am' — though 'Go!' could be considered shorter as an imperative.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/English_language",
+  "note": "Page does not mention shortest sentences."
+ },
+ {
+  "claim": "Effort heuristic causes people to value things based on effort invested — hand-crafted items command premiums even when machine-made versions are objectively identical.",
+  "verdict": "overstated",
+  "corrected_claim": "The effort heuristic leads people to judge an object's worth by the perceived effort that went into making it, so an intricate, time-intensive Persian carpet is valued more than a mass-produced one.",
+  "quote": "the quality or worth of an object is determined by the perceived amount of effort that went into its production ... the greater the value as compared with a mass-produced carpet",
+  "source_url": "https://en.wikipedia.org/wiki/Effort_heuristic",
+  "note": "Page does not discuss hand-crafted items commanding premiums over objectively identical machine-made ones."
+ },
+ {
+  "claim": "Grafting allows four or more related fruit varieties to grow on a single tree by joining stems onto established rootstocks.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nurseries offer for sale trees with grafted stems that can produce four or more varieties of related fruits,",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": ""
+ },
+ {
+  "claim": "Ninhydrin, developed for fingerprint detection, reacts specifically with amino acids left in print residue, making invisible prints visible through a purple color change.",
+  "verdict": "overstated",
+  "corrected_claim": "Ninhydrin is a specific fingerprint reagent: it reacts with amino acids in print residue, and it is sensitive enough to be used operationally.",
+  "quote": "Some fingerprint reagents are specific, for example ninhydrin or diazafluorenone reacting with amino acids.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Purple color and 'developed for fingerprint detection' not on the page."
+ },
+ {
+  "claim": "Microsoft Exchange Server had a 'Y2K22' bug — on January 1, 2022, it couldn't process the date '2201010001' and emails got stuck in transport queues.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The problem caused emails to be stuck on transport queues on Exchange Server 2016 and Exchange Server 2019 ... Can't convert \"2201010001\" to long.",
+  "source_url": "https://en.wikipedia.org/wiki/Y2K_problem",
+  "note": ""
+ },
+ {
+  "claim": "Aphid-free plants express salicylic acid pathways only when connected via mycorrhizal network to infested plants.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Similarly, aphid-free plants were shown to only be able to express the SA pathways when a mycorrhizal network connected them to infested plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "The rhinoceros beetle can lift 850 times its own body weight—equivalent to a human lifting 65 tons.",
+  "verdict": "overstated",
+  "corrected_claim": "Some rhinoceros beetle species have been anecdotally claimed to lift up to 850 times their own weight.",
+  "quote": "Some species have been anecdotally claimed to lift up to 850 times their own weight.",
+  "source_url": "https://en.wikipedia.org/wiki/Rhinoceros_beetle",
+  "note": "Claim is anecdotal per source; 65-ton human equivalent not on page."
+ },
+ {
+  "claim": "Cilantro tastes like soap to about 4-14% of the population due to a genetic variant affecting olfactory receptors for aldehydes.",
+  "verdict": "overstated",
+  "corrected_claim": "Liking or disliking cilantro (coriander) has been linked to the olfactory receptor gene OR6A2.",
+  "quote": "The preference (or dislike) of cilantro (coriander) has been linked to the olfactory receptor OR6A2.",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "4-14% figure, soapy taste and aldehydes not in page body."
+ },
+ {
+  "claim": "The most translated book in the world is the Bible, available in over 700 languages — followed by the Book of Mormon and the Quran.",
+  "verdict": "overstated",
+  "corrected_claim": "The Bible is the most translated book in the world — the full Protestant Bible has been translated into 807 languages.",
+  "quote": "The Bible is the most translated book in the world ... the full Protestant Bible has been translated into 807 languages",
+  "source_url": "https://en.wikipedia.org/wiki/Bible_translations",
+  "note": "Book of Mormon and Quran ranking not stated; figure is 807"
+ },
+ {
+  "claim": "Contestable markets theory shows that even monopolies behave competitively when entry barriers are low — potential competition disciplines behavior as effectively as actual competition.",
+  "verdict": "overstated",
+  "corrected_claim": "Contestable markets theory holds that with low barriers to entry and exit, even a single-firm market can behave highly competitively, because potential rivals will enter if it raises prices for excess profits.",
+  "quote": "even a single-firm market can show highly competitive behavior ... low barriers to entry and exit ... potential rivals will enter the market",
+  "source_url": "https://en.wikipedia.org/wiki/Contestable_market",
+  "note": "'As effectively as actual competition' not stated"
+ },
+ {
+  "claim": "Mistletoe plants are parasitic and spread by birds that eat their sticky berries—the seeds pass through and germinate on new host branches.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Plant_reproduction",
+  "note": "Page does not mention mistletoe"
+ },
+ {
+  "claim": "Vacuum metal deposition using gold and zinc can detect fat layers as thin as one molecule, making it one of the most sensitive fingerprint detection methods available.",
+  "verdict": "overstated",
+  "corrected_claim": "Vacuum metal deposition using gold and zinc is non-specific, but it can detect fat layers as thin as one molecule.",
+  "quote": "Vacuum metal deposition using gold and zinc has been shown to be non-specific, but can detect fat layers as thin as one molecule.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page does not call it one of the most sensitive methods available; notes it is non-specific."
+ },
+ {
+  "claim": "Moore's Law was first articulated by Gordon Moore in 1965 — he noted transistor density doubled yearly and predicted this would continue for at least a decade.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The complexity for minimum component costs has increased at a rate of roughly a factor of two per year. ... remain nearly constant for at least 10 years.",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "Arbuscular mycorrhizal fungi penetrate plant cell walls; ectomycorrhizal fungi thread between cells — two different strategies.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "fungal hyphae not only enter the plant's roots but also penetrate into the cells themselves ... they thread their way between the plant cells but do not penetrate cell walls",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Glowworm caves in New Zealand are lit by Arachnocampa luminosa larvae—they create bioluminescent 'fishing lines' of sticky silk to trap prey attracted to their glow.",
+  "verdict": "overstated",
+  "corrected_claim": "New Zealand glowworm larvae hang up to 30 silk threads dotted with sticky droplets; their bright glow acts as bait, attracting prey into these silk 'fishing lines'.",
+  "quote": "hangs down up to 30 silk threads along which it regularly places small sticky droplets ... The bright glow acts as bait for prey and attracts them into the silk fishing lines constructed by the larvae.",
+  "source_url": "https://en.wikipedia.org/wiki/Arachnocampa_luminosa",
+  "note": "The glow comes from the larvae, not the silk lines; page does not state caves are 'lit' by them"
+ },
+ {
+  "claim": "Artificial sweeteners like saccharin were discovered by accident—Constantin Fahlberg noticed his fingers tasted sweet after laboratory work in 1879.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Saccharin's discovery not described; only listed as a sweetener."
+ },
+ {
+  "claim": "English is the only major language with no official governing body — unlike French (Académie française) or Spanish (RAE).",
+  "verdict": "overstated",
+  "corrected_claim": "English has no regulating body: no single national authority sets the standard for its use, and it is not overseen by any government or international organisation.",
+  "quote": "Regulated by: None, unregulated ... no single national authority sets the standard for its use ... without any oversight by any government or international organisation",
+  "source_url": "https://en.wikipedia.org/wiki/English_language",
+  "note": "Page does not claim English is the only major unregulated language or compare it with French or Spanish academies."
+ },
+ {
+  "claim": "FTX's collapse in November 2022 lost $8 billion of customer funds — the crypto exchange's founder faces criminal charges for misusing deposits, echoing classic fraud patterns.",
+  "verdict": "overstated",
+  "corrected_claim": "When FTX collapsed in November 2022, it reportedly owed as much as $8 billion — and founder Sam Bankman-Fried was charged with fraud and conspiracy.",
+  "quote": "Anonymous sources cited by The New York Times said that the exchange owed as much as $8 billion. ... FTX founder and CEO Sam Bankman-Fried was charged by the US Attorney's Office",
+  "source_url": "https://en.wikipedia.org/wiki/FTX_(company)",
+  "note": "Page says the exchange owed up to $8B (per anonymous sources), not that $8B was lost; 'echoing classic fraud patterns' unsupported."
+ },
+ {
+  "claim": "The Wollemi pine was thought extinct for 200 million years until fewer than 100 trees were discovered in Australia in 1994.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Wollemi pine not mentioned on the page"
+ },
+ {
+  "claim": "A 2007 technique proposed identifying ethnicity, sex, and dietary patterns from fingerprint chemical composition—expanding potential forensic applications beyond simple identification.",
+  "verdict": "overstated",
+  "corrected_claim": "A technique proposed in 2007 aims to identify a person's ethnicity, sex and dietary patterns from their fingerprints.",
+  "quote": "A technique proposed in 2007 aims to identify an individual's ethnicity, sex, and dietary patterns.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Page does not say it uses chemical composition."
+ },
+ {
+  "claim": "In 1975, Moore revised his prediction to doubling every two years — this version held true for nearly 50 years.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1975, Moore revised his forecast to doubling every two years, and his prediction has held since 1975.",
+  "quote": "he revised the forecast to doubling every two years. ... his prediction has held since 1975 and has since become known as a law.",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": "'Nearly 50 years' not stated."
+ },
+ {
+  "claim": "Carbon moves through fungal networks following source-sink dynamics — flowing from surplus to deficit like water downhill.",
+  "verdict": "overstated",
+  "corrected_claim": "Nutrient transfer through mycorrhizal networks can follow a source–sink relationship, with nutrients moving from areas of higher concentration to lower concentration.",
+  "quote": "Transfer of nutrients can follow a source–sink relationship where nutrients move from areas of higher concentration to areas of lower concentration.",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Page says nutrients 'can' follow source-sink, not carbon specifically."
+ },
+ {
+  "claim": "The death's-head hawkmoth can enter bee hives and steal honey—it mimics bee scent and produces a squeaking sound that may pacify the bees.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Acherontia",
+  "note": "Source is a disambiguation page; says nothing about hives, honey or squeaking"
+ },
+ {
+  "claim": "Some artificial sweeteners are hundreds of times sweeter than sugar—sucralose is 600 times sweeter, neotame is 13,000 times sweeter.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Sucralose/neotame sweetness multiples not on the page."
+ },
+ {
+  "claim": "The letter E is the most common letter in English, appearing in about 11% of all words.",
+  "verdict": "overstated",
+  "corrected_claim": "E is the most common letter in English, making up about 12.7% of letters in texts and 11% of letters in dictionary words.",
+  "quote": "| E | 12.7% |  | 11.0% |  |",
+  "source_url": "https://en.wikipedia.org/wiki/Letter_frequency",
+  "note": "11% is letter frequency in dictionaries, not share of words"
+ },
+ {
+  "claim": "Omission bias prefers harmful inaction over helpful action — people judge harmful side effects of vaccines more negatively than equivalent harm from disease non-vaccination.",
+  "verdict": "overstated",
+  "corrected_claim": "Omission bias is the tendency to judge harm caused by action more harshly than harm caused by inaction; in one 1990 study, people were reluctant to vaccinate even when the disease was far deadlier than the vaccine's side effects—though a 2011 study failed to replicate this.",
+  "quote": "Omission bias is the moral judgement in which people prefer omission (inaction) over commission (action), and tend to believe harm as a result of commission more negatively than harm as a result of omission. ... Connolly and Reb (2011) failed to replicate omission bias in the scenario of vaccination.",
+  "source_url": "https://en.wikipedia.org/wiki/Omission_bias",
+  "note": "Vaccination finding is from one study and was not replicated."
+ },
+ {
+  "claim": "Giant sequoias can survive forest fires due to bark up to 3 feet thick that protects the living tissue beneath.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Giant sequoia bark thickness/fire not mentioned on the page"
+ },
+ {
+  "claim": "England requires 16 identification points to match two fingerprints, while France requires only 12—showing the lack of international standardization in fingerprint evidence.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In England 16 identification points are required and in France 12",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "'Lack of standardization' is an inference from the stated numbers."
+ },
+ {
+  "claim": "Moore's Law is not a law of physics but a self-fulfilling prophecy — the semiconductor industry used it as a target, driving R&D to meet the prediction.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Despite the name, Moore's law describes an empirical relationship, not a scientific law. ... The observation was even seen as a self-fulfilling prophecy. ... to guide long-term planning and to set targets for research and development (R&D).",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "Nitrogen flows from nitrogen-fixing plants to non-fixers through mycorrhizal networks — sharing the wealth underground.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nitrogen has also been shown to flow from nitrogen-fixing plants to non-nitrogen fixing plants",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Atlas moths have the largest wing surface area of any insect—up to 400 square centimeters, roughly the size of a dinner plate.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "The Atlas moth is one of the largest lepidopterans ... and a wing surface area of about 160 cm2 (25 in2) ... and in wing surface area by the Hercules moth (Coscinocera hercules).",
+  "source_url": "https://en.wikipedia.org/wiki/Atlas_moth",
+  "note": "Page: ~160 cm², surpassed in wing area by the Hercules moth"
+ },
+ {
+  "claim": "Stevia, a natural sweetener, comes from a plant native to South America and is 200-300 times sweeter than table sugar with no calories.",
+  "verdict": "overstated",
+  "corrected_claim": "Rebaudioside A, a steviol glycoside from stevia, is 200 times sweeter than sugar.",
+  "quote": "Rebaudioside A is a steviol glycoside coming from stevia that is 200 times sweeter than sugar.",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Page doesn't mention South America, 300x, or zero calories."
+ },
+ {
+  "claim": "The letter Q is almost always followed by U in English — but not in borrowed words like 'qi', 'qat', and 'qoph'.",
+  "verdict": "overstated",
+  "corrected_claim": "In English the letter Q is almost always followed by U — but there are exceptions, such as 'qat' and 'faqir'.",
+  "quote": "In English, the letter Q is almost always followed immediately by the letter U, e.g. quiz, quarry, question, squirrel. However, there are some exceptions.",
+  "source_url": "https://en.wikipedia.org/wiki/Q_without_U",
+  "note": "'qoph' not mentioned; page's example is qat and faqir."
+ },
+ {
+  "claim": "The Groves mechanism provides incentives to reveal true valuations of public goods — each person pays the externality they impose on others, making honesty optimal.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Vickrey–Clarke–Groves mechanism, each player's payment equals the externality they impose on others, making bidding one's true valuation a dominant strategy—though it does not fully solve the public goods problem.",
+  "quote": "a mechanism where bidding the true valuation is a dominant strategy. ... This is exactly the externality of player ... keep it from fully solving the public goods problem",
+  "source_url": "https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_mechanism",
+  "note": "Page says VCG does not fully solve the public goods problem."
+ },
+ {
+  "claim": "Coast redwoods can reproduce by sprouting from burls and root systems, allowing individuals to persist even if the main trunk is destroyed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Coast redwood sprouting from burls not mentioned on the page"
+ },
+ {
+  "claim": "The 'one dissimilarity doctrine' holds that if there is one dissimilarity between two fingerprints, they cannot be from the same finger—a strict standard used by some examiners.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "if there is one dissimilarity between two fingerprints, the fingerprints are not from the same finger.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "Moore's second law (Rock's law) states that the cost of a semiconductor fabrication plant doubles every four years.",
+  "verdict": "overstated",
+  "corrected_claim": "Moore's second law, also called Rock's law, holds that the capital cost of a semiconductor fabrication plant increases exponentially over time; the cost of chipmaking tools such as EUV lithography doubles every four years.",
+  "quote": "This led to the formulation of Moore's second law, also called Rock's law (named after Arthur Rock) ... The cost of the tools, principally extreme ultraviolet lithography (EUVL), used to manufacture chips doubles every 4 years.",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": "Four-year doubling refers to tools, not the whole fab."
+ },
+ {
+  "claim": "Sugar maple saplings receive carbon from the network in spring when budding; trout lilies receive it in fall when developing roots.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "carbon moves to young sugar maple saplings in spring when leaves are unfurling ... shifts to move to the trout lilies in fall when the lilies are developing their roots",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": ""
+ },
+ {
+  "claim": "Sphinx moths (hawk moths) can hover like hummingbirds and have the longest proboscis of any moth—up to 30 cm in some species.",
+  "verdict": "overstated",
+  "corrected_claim": "Hawk moths hover in midair while feeding on nectar and are sometimes mistaken for hummingbirds; Darwin predicted a Madagascar moth with a proboscis 10–12 inches (25–30 cm) long, later found as Xanthopan morganii praedicta.",
+  "quote": "hover in midair while they feed on nectar from flowers, so are sometimes mistaken for hummingbirds ... to a length of between 10 and 12 inches",
+  "source_url": "https://en.wikipedia.org/wiki/Sphingidae",
+  "note": "Page does not say it is the longest proboscis of any moth."
+ },
+ {
+  "claim": "The color of food significantly affects taste perception—people rate white wine dyed red as having red wine characteristics.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Food color / dyed wine experiment not mentioned."
+ },
+ {
+  "claim": "The word 'set' has the most definitions of any English word — the Oxford English Dictionary lists 430 different senses.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Set_(word)",
+  "note": "Page failed to load (URL not found)."
+ },
+ {
+  "claim": "The SVB collapse in March 2023 was the second-largest bank failure in US history — a classic duration mismatch crisis where rising rates crushed the value of long-term bonds.",
+  "verdict": "overstated",
+  "corrected_claim": "SVB's March 2023 collapse was the third-largest bank failure in US history: it had put most deposits into long-term Treasury bonds, which lost market value as interest rates rose.",
+  "quote": "marking the third-largest bank failure in United States history and the largest since the 2008 financial crisis ... These long-term bonds fell in current market value as interest rates rose.",
+  "source_url": "https://en.wikipedia.org/wiki/Collapse_of_Silicon_Valley_Bank",
+  "note": "Page says third-largest in US history (second-largest of an FDIC-insured bank)"
+ },
+ {
+  "claim": "Bald cypresses can live over 2,650 years—among the oldest non-clonal organisms in eastern North America.",
+  "verdict": "overstated",
+  "corrected_claim": "A bald cypress in North Carolina has been dated at 2,651 years old.",
+  "quote": "Bald Cypress (Taxodium distichum) | 2,651 | North Carolina, USA",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Page gives the age but does not call it among the oldest in eastern North America"
+ },
+ {
+  "claim": "The Scanning Kelvin Probe (SKP) fingerprint technique makes no physical contact and requires no chemical developers, potentially allowing DNA analysis of the same sample.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The application of the new scanning Kelvin probe (SKP) fingerprinting technique, which makes no physical contact with the fingerprint and does not require the use of developers, has the potential to allow fingerprints to be recorded while still leaving intact material that could subsequently be subjected to DNA analysis.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "Moore himself said in 2006: 'Moore's law is a violation of Murphy's law. Everything gets better and better.'",
+  "verdict": "overstated",
+  "corrected_claim": "Moore himself said: 'Moore's law is a violation of Murphy's law. Everything gets better and better.'",
+  "quote": "Moore's law is a violation of Murphy's law. Everything gets better and better.",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": "Page gives no 2006 date (cited source is a 2005 article)."
+ },
+ {
+  "claim": "A 1% carbon gain through fungal networks can cause a 4-fold increase in seedling establishment — tiny transfers, huge effects.",
+  "verdict": "overstated",
+  "corrected_claim": "A carbon gain of less than 1% through fungal networks has been shown to coincide with a four-fold increase in the establishment of new seedlings.",
+  "quote": "a carbon gain of less than 1% has been shown to coincide with a four-fold increase in the establishment of new seedlings",
+  "source_url": "https://en.wikipedia.org/wiki/Mycorrhizal_network",
+  "note": "Source says 'coincide with', not 'cause'."
+ },
+ {
+  "claim": "Darwin predicted that a moth with a 30 cm tongue must exist to pollinate the Madagascar orchid Angraecum sesquipedale—it was discovered 21 years after his death.",
+  "verdict": "overstated",
+  "corrected_claim": "Darwin reasoned in 1862 that Madagascar's orchid Angraecum sesquipedale must have a pollinator moth with a proboscis long enough to reach its nectar; Rothschild and Jordan named the moth's Madagascan form praedicta in 1903.",
+  "quote": "Darwin surmised in his 1862 book Fertilisation of Orchids that there must be a pollinator moth ... Xanthopan Rothschild & Jordan, 1903",
+  "source_url": "https://en.wikipedia.org/wiki/Xanthopan",
+  "note": "30 cm and '21 years after his death' not on page; naming honoured Wallace's prediction."
+ },
+ {
+  "claim": "Sound can affect taste—studies show crunching sounds make chips taste fresher, and high-pitched music enhances sweet perception.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Sound effects on taste not mentioned."
+ },
+ {
+  "claim": "The word 'OK' is the most universally recognized word in the world — understood across more languages than any other.",
+  "verdict": "overstated",
+  "corrected_claim": "'OK' has been described as the most frequently spoken or written word on the planet, and it is frequently borrowed into other languages.",
+  "quote": "It has been described as the most frequently spoken or written word on the planet. ... OK is frequently used as a loanword in other languages.",
+  "source_url": "https://en.wikipedia.org/wiki/OK",
+  "note": "Page says 'described as most frequently spoken or written', not most universally recognized."
+ },
+ {
+  "claim": "The curse of knowledge makes experts unable to imagine not knowing what they know — explaining why specialists often give incomprehensible explanations to beginners.",
+  "verdict": "overstated",
+  "corrected_claim": "The curse of knowledge is a bias where people with specialized knowledge assume others share it—which is why a knowledgeable professor may no longer remember the difficulties a student faces learning a new subject.",
+  "quote": "a cognitive bias that occurs when a person who has specialized knowledge assumes that others share in that knowledge. ... A knowledgeable professor might no longer remember the difficulties that a student faces when learning a new subject.",
+  "source_url": "https://en.wikipedia.org/wiki/Curse_of_knowledge",
+  "note": "'Unable to imagine' and 'incomprehensible explanations' stronger than page"
+ },
+ {
+  "claim": "Saharan cypresses (Cupressus dupreziana) have lived over 2,200 years in the extreme desert environment of southern Algeria.",
+  "verdict": "overstated",
+  "corrected_claim": "A Saharan cypress (Cupressus dupreziana) at Wadi Tichouinet in southern Algeria is about 2,200 years old.",
+  "quote": "Cupressus dupreziana | 2,200 | Wadi Tichouinet, southern Algeria",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Page gives 2,200 years, not over 2,200"
+ },
+ {
+  "claim": "In 1840, a provincial doctor wrote to Scotland Yard suggesting checking for fingerprints after the murder of Lord William Russell—decades before the technique was officially adopted.",
+  "verdict": "overstated",
+  "corrected_claim": "After the 1840 murder of Lord William Russell, provincial doctor Robert Blake Overton wrote to Scotland Yard suggesting they check for fingerprints.",
+  "quote": "a provincial doctor, Robert Blake Overton, wrote to Scotland Yard suggesting checking for fingerprints.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "'Decades before officially adopted' is not stated on the page."
+ },
+ {
+  "claim": "By 2025, commercially available processors exceeded 92 billion transistors — seven orders of magnitude more than the IC era began with.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "a GB202 graphics processor with more than 92.2 billion transistors ... transistor counts to grow by more than seven orders of magnitude in less than five decades",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "Bacteria divide so fast that one cell could theoretically produce more mass than Earth in 48 hours — if unlimited resources existed.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteria",
+  "note": "Page gives only a 17-minute doubling time; no Earth-mass-in-48-hours claim"
+ },
+ {
+  "claim": "The peppered moth became a textbook example of evolution—industrial pollution caused dark moths to become more common as light ones were more visible to predators on soot-covered trees.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "remains a classic example in the teaching of evolution ... led to an increase in bird predation for light-coloured moths",
+  "source_url": "https://en.wikipedia.org/wiki/Peppered_moth_evolution",
+  "note": ""
+ },
+ {
+  "claim": "Airplane food tastes bland partly because cabin pressure and low humidity reduce our ability to taste and smell by about 30%.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Airplane food/cabin pressure not mentioned."
+ },
+ {
+  "claim": "English has borrowed words from over 350 languages — more than any other language in history.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Foreign_language_influences_in_English",
+  "note": "Page gives no count of source languages and no comparison with other languages."
+ },
+ {
+  "claim": "Sequential bargaining with alternating offers converges to a unique equilibrium depending on players' patience — more patient players get larger shares of the pie.",
+  "verdict": "overstated",
+  "corrected_claim": "In Rubinstein's alternating-offers bargaining game, the unique subgame perfect equilibrium depends on how strongly players prefer current over future payoffs.",
+  "quote": "In Rubinstein's alternating offers bargaining game, players take turns acting as the proposer for splitting some surplus ... the unique subgame perfect equilibrium depends upon how strongly players prefer current over future payoffs",
+  "source_url": "https://en.wikipedia.org/wiki/Bargaining_problem",
+  "note": "'More patient players get larger shares' not stated in words (only implied by formula)"
+ },
+ {
+  "claim": "The Sacred Fig at Anuradhapura, Sri Lanka is one of the oldest human-planted trees at 2,302 years, grown from a cutting of the Bodhi tree.",
+  "verdict": "overstated",
+  "corrected_claim": "A sacred fig in Anuradhapura, Sri Lanka is listed at 2,302 years old.",
+  "quote": "Ficus religiosa | 2,302 | Anuradhapura, Sri Lanka",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Page does not call it among the oldest human-planted trees or mention the Bodhi tree cutting"
+ },
+ {
+  "claim": "Non-contact 3D fingerprint scanners were developed around 2010 to overcome problems with distortion caused by pressing fingers onto flat surfaces.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In order to overcome these problems, as of 2010, non-contact or touchless 3D fingerprint scanners have been developed.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "In 2022, Nvidia CEO Jensen Huang declared Moore's Law dead, while Intel CEO Pat Gelsinger disagreed — the debate continues.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Nvidia CEO Jensen Huang declared Moore's law dead in 2022; several days later, Intel CEO Pat Gelsinger countered with the opposite claim.",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "The smallest known free-living bacterium is Mycoplasma genitalium with a genome of just 580,000 base pairs.",
+  "verdict": "overstated",
+  "corrected_claim": "Mycoplasma genitalium has a tiny genome of about 580,000 base pairs, which made it the organism of choice for the Minimal Genome Project.",
+  "quote": "The genome of M. genitalium strain G37T consists in one circular DNA molecule of 580,070 base pairs. ... The small genome of M. genitalium made it the organism of choice",
+  "source_url": "https://en.wikipedia.org/wiki/Mycoplasma_genitalium",
+  "note": "Page does not call it the smallest known free-living bacterium."
+ },
+ {
+  "claim": "Clothes moths don't actually eat clothes—it's their larvae that digest keratin in wool, silk, and feathers using special gut enzymes.",
+  "verdict": "overstated",
+  "corrected_claim": "Adult clothes moths don't eat at all—their mouthparts are atrophied; all the damage is done by the larvae, which can digest the keratin protein in wool and silk.",
+  "quote": "Adult mouth parts are atrophied and cannot be used on fabric or clothing. All feeding damage is done by the caterpillar (larval) form. ... they have the ability to digest keratin protein in wool and silk.",
+  "source_url": "https://en.wikipedia.org/wiki/Tineola_bisselliella",
+  "note": "Gut enzymes not mentioned; feathers only as a place larvae are found."
+ },
+ {
+  "claim": "The smell of baking bread has been used in real estate to make homes more appealing, exploiting the powerful connection between smell and emotion.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "Baking bread / real estate not mentioned on page."
+ },
+ {
+  "claim": "The word 'bookkeeper' is the only unhyphenated English word with three consecutive double letters.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/English_language",
+  "note": "Page does not mention 'bookkeeper'."
+ },
+ {
+  "claim": "Survivorship bias in investing means we study successful fund managers and strategies while ignoring the many that failed — leading to overestimates of achievable returns.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "For example, a mutual fund company's selection of funds today will include only those that are successful now. ... Many losing funds are closed and merged into other funds to hide poor performance.",
+  "source_url": "https://en.wikipedia.org/wiki/Survivorship_bias",
+  "note": "Page: bias 'may lead to overly optimistic beliefs because multiple failures are overlooked'."
+ },
+ {
+  "claim": "Trees may reverse transpiration streams and absorb water through needles in foggy environments, exceeding theoretical maximum heights.",
+  "verdict": "overstated",
+  "corrected_claim": "Some recorded tree heights exceed theoretical maximums, lending limited credibility to speculation that some trees can 'reverse' transpiration and absorb water through needles in fog.",
+  "quote": "Some of the heights recorded in this way exceed the maximum possible height of a tree as calculated by theorists, lending some limited credibility to speculation that some superlative trees are able to 'reverse' transpiration streams and absorb water through needles in foggy environments.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Source frames it as speculation with limited credibility"
+ },
+ {
+  "claim": "To collect fingerprints from cadavers in advanced decomposition, forensic examiners may boil dried skin to rehydrate it and restore friction ridge detail.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In the case of cadaver in the later stages of decomposition with dried skin, analysts will boil the skin to recondition/rehydrate it, allowing for moisture to flow back into the skin and resulting in detail friction ridges.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": ""
+ },
+ {
+  "claim": "In 2012, University of New South Wales researchers built the first working transistor consisting of a single atom placed precisely in a silicon crystal.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2012, a research team at the University of New South Wales announced ... the first working transistor consisting of a single atom placed precisely in a silicon crystal",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "Pelagibacter ubique is the most abundant organism on Earth — trillions upon trillions live in the ocean.",
+  "verdict": "overstated",
+  "corrected_claim": "Pelagibacter may be the most abundant organism in the ocean and quite possibly the most abundant bacterium in the world, with an estimated 2 × 10^28 cells of it and its relatives.",
+  "quote": "may be the most abundant organisms in the ocean, and quite possibly the most abundant bacteria in the entire world ... The total abundance of Ca. P. communis and relatives is estimated to be about 2 × 1028 microbes.",
+  "source_url": "https://en.wikipedia.org/wiki/Pelagibacter",
+  "note": "Page hedges ('may be', 'quite possibly'); claim states it as fact for all organisms"
+ },
+ {
+  "claim": "Luna moths have no mouths—they live only about one week as adults, just long enough to mate, surviving on energy stored as caterpillars.",
+  "verdict": "overstated",
+  "corrected_claim": "Adult luna moths have vestigial mouthparts and do not feed—they live only 7–10 days, relying entirely on fat stored as caterpillars.",
+  "quote": "Adults have vestigial mouthparts and do not feed. ... All energy required for reproduction is released from fat stores from the caterpillar. ... their very brief (7–10 day) adult lives",
+  "source_url": "https://en.wikipedia.org/wiki/Luna_moth",
+  "note": "Mouthparts are vestigial, not absent; lifespan 7-10 days."
+ },
+ {
+  "claim": "Pregnant women often develop heightened smell sensitivity, which may have evolved to protect against potentially harmful foods.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Olfaction",
+  "note": "Pregnancy smell sensitivity not mentioned on page."
+ },
+ {
+  "claim": "About 30% of English words come from French, a legacy of the Norman Conquest of 1066.",
+  "verdict": "overstated",
+  "corrected_claim": "About 28 per cent of Modern English words come from French dialects, and the Middle English period is often dated from the Norman Conquest of 1066.",
+  "quote": "which are the source of approximately 28 per cent of Modern English words ... The Middle English period is often defined as beginning with the Norman Conquest in 1066.",
+  "source_url": "https://en.wikipedia.org/wiki/English_language",
+  "note": "Page gives about 28%, not 30%."
+ },
+ {
+  "claim": "The 'too big to fail' problem creates implicit government guarantees for large banks — encouraging excessive risk-taking because executives know taxpayers will bear losses.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "As a result, too-big-to-fail firms will tend to take more risk than desirable ... in the expectation that they will receive assistance if their bets go bad. ... taxpayers can be stuck picking up the tab if their big bets sink the company.",
+  "source_url": "https://en.wikipedia.org/wiki/Too_big_to_fail",
+  "note": ""
+ },
+ {
+  "claim": "Tasmania has been called a 'global gigantism hotspot'—many of the world's tallest hardwood trees grow there.",
+  "verdict": "overstated",
+  "corrected_claim": "A news report called Tasmania a 'global gigantism hotspot' after a tree nearly 100 m tall was found there - Australia's tallest.",
+  "quote": "Global 'gigantism' hotspot: Tasmanian tree standing at almost 100m tallest in the country",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Phrase appears only in a cited headline; page does not say many of the world's tallest hardwoods grow there"
+ },
+ {
+  "claim": "Research has identified WNT, BMP and EDAR as signaling pathways regulating fingerprint ridge formation through a Turing reaction-diffusion system.",
+  "verdict": "overstated",
+  "corrected_claim": "A 2023 study identified WNT, BMP and EDAR as signaling pathways that regulate fingerprint ridge formation — with WNT and BMP locked in an opposing Turing reaction-diffusion system.",
+  "quote": "In February 2023, a study identified WNT, BMP and EDAR as signaling pathways regulating the formation of primary ridges on fingerprints, with the first two having an opposite relationship established by a Turing reaction-diffusion system.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Only WNT and BMP are tied to the Turing system on the page."
+ },
+ {
+  "claim": "Dennard scaling predicted that as transistors shrank, power density stayed constant — this broke down around 2006, ending the 'free lunch' of automatic speed improvements.",
+  "verdict": "overstated",
+  "corrected_claim": "Dennard scaling held that as MOS transistors got smaller their power density stayed constant—but since around 2005–2007 Dennard scaling has ended.",
+  "quote": "which describes that as MOS transistors get smaller, their power density stays constant ... Since around 2005–2007, Dennard scaling has ended",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": "'Free lunch' framing not on page; date given as 2005–2007."
+ },
+ {
+  "claim": "Bacteria can form multicellular biofilms with internal channels, specialized cell types, and coordinated behaviors.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Some biofilms have been found to contain water channels that help distribute nutrients and signalling molecules ... Subpopulations of cells within the biofilm differentiate to perform various activities ... the bacteria organize themselves into a coordinated functional community",
+  "source_url": "https://en.wikipedia.org/wiki/Biofilm",
+  "note": ""
+ },
+ {
+  "claim": "Io moths have eyespots on their hindwings that they flash at predators—the sudden appearance of 'eyes' startles attackers into hesitating.",
+  "verdict": "overstated",
+  "corrected_claim": "Io moths have a big black-to-bluish eyespot on each hindwing, which they expose and shake as a defense when touched or threatened by predators.",
+  "quote": "Both males and females have one big black to bluish eyespot with some white in the center, on each hindwing ... Both male and female adult Io moths utilize their hindwing eyespots in predatory defense",
+  "source_url": "https://en.wikipedia.org/wiki/Automeris_io",
+  "note": "Startling attackers into hesitating not stated"
+ },
+ {
+  "claim": "Humans produce about 1-1.5 liters of saliva per day, which is essential for taste—dry mouth significantly impairs taste perception.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Taste",
+  "note": "Daily saliva volume and dry mouth not mentioned."
+ },
+ {
+  "claim": "The word 'alphabet' comes from the first two Greek letters: alpha and beta.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "it was made from the first two letters of the Greek alphabet, alpha (α) and beta (β).",
+  "source_url": "https://en.wikipedia.org/wiki/Alphabet",
+  "note": ""
+ },
+ {
+  "claim": "Proportional thinking leads people to accept worse deals for small amounts — walking across town to save $10 on a $20 purchase but not on a $1000 purchase.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+  "note": "Page does not discuss proportional thinking or the $10 savings example"
+ },
+ {
+  "claim": "A South Tibetan cypress was discovered in 2023 at 102.3 meters—the tallest tree in Asia and second-tallest species after coast redwoods.",
+  "verdict": "overstated",
+  "corrected_claim": "A South Tibetan cypress in Tibet's Yarlung Zangbo reserve measures 102.3 meters - an Asian record and second only to the coast redwood in the tallest-species list.",
+  "quote": "Tibet's 102.3-meter \"tall tree\" breaks Asian record",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "2023 discovery date not stated in page text; tallest-in-Asia only in a cited headline"
+ },
+ {
+  "claim": "In the UK, schools were fingerprinting tens of thousands of children by 2002, often without parental consent—raising significant privacy concerns addressed by the Protection of Freedoms Act 2012.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2002, Privacy International warned that tens of thousands of UK schoolchildren were being fingerprinted, often without their parents' knowledge or consent.",
+  "quote": "Privacy International in 2002 made the cautionary announcement that tens of thousands of UK school children were being fingerprinted by schools, often without the knowledge or consent of their parents.",
+  "source_url": "https://en.wikipedia.org/wiki/Fingerprint",
+  "note": "Protection of Freedoms Act 2012 not mentioned on the page."
+ },
+ {
+  "claim": "In May 2021, IBM announced a 2nm chip with parts smaller than human DNA — 50 billion transistors on a fingernail-sized chip.",
+  "verdict": "overstated",
+  "corrected_claim": "In May 2021, IBM announced the first 2 nm computer chip, with parts supposedly smaller than human DNA.",
+  "quote": "In May 2021, IBM announced the creation of the first 2 nm computer chip, with parts supposedly being smaller than human DNA.",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": "50 billion transistors / fingernail not on page."
+ },
+ {
+  "claim": "Quorum sensing allows bacteria to count their population and coordinate behavior — like voting on when to attack.",
+  "verdict": "overstated",
+  "corrected_claim": "Quorum sensing lets bacteria detect their population density and coordinate gene expression — switching on behaviors like biofilm formation and virulence once their numbers are high enough.",
+  "quote": "allows bacteria to detect and respond to cell population density by gene regulation ... Some common phenotypes include biofilm formation, virulence factor expression, and motility.",
+  "source_url": "https://en.wikipedia.org/wiki/Quorum_sensing",
+  "note": "'Voting' analogy and 'counting' not in source."
+ },
+ {
+  "claim": "The cabbage white butterfly is one of the most successful invasive insects—introduced accidentally to North America in the 1860s, it's now found across the continent.",
+  "verdict": "overstated",
+  "corrected_claim": "The cabbage white was accidentally introduced to Quebec around 1860 and spread rapidly throughout North America, where its caterpillar is a serious pest of cabbage-family crops.",
+  "quote": "It was accidentally introduced to Quebec, Canada, around 1860 and spread rapidly throughout North America.",
+  "source_url": "https://en.wikipedia.org/wiki/Pieris_rapae",
+  "note": "Page does not call it one of the most successful invasive insects"
+ },
+ {
+  "claim": "Coffee's bitterness comes from chlorogenic acid lactones and phenylindanes formed during roasting, not primarily from caffeine.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "Page does not discuss chlorogenic acid lactones or phenylindanes"
+ },
+ {
+  "claim": "Ghoti could theoretically spell 'fish' in English: 'gh' as in 'enough', 'o' as in 'women', 'ti' as in 'nation'.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "gh, pronounced /f/ as in enough /ɪˈnʌf/ or tough /tʌf/; o, pronounced /ɪ/ as in women /ˈwɪmɪn/; ti, pronounced /ʃ/ as in nation /ˈneɪʃən/ or motion /ˈmoʊʃən/.",
+  "source_url": "https://en.wikipedia.org/wiki/Ghoti",
+  "note": ""
+ },
+ {
+  "claim": "Common-value auctions are prone to winner's curse because the winner tends to be whoever overestimated value most — experienced bidders shade bids below their estimates.",
+  "verdict": "overstated",
+  "corrected_claim": "Common-value auctions suffer from the 'winner's curse': the highest bid tends to come from whoever overestimated the item's value—something rational bidders anticipate.",
+  "quote": "One important phenomenon occurring in common value auctions is the winner's curse. ... the highest bid will tend to have been placed by someone who overestimated the good's value. ... Rational bidders will anticipate the adverse selection",
+  "source_url": "https://en.wikipedia.org/wiki/Common_value_auction",
+  "note": "'Experienced bidders shade bids' not on page"
+ },
+ {
+  "claim": "Mountain ash trees (Eucalyptus regnans) in Australia may have historically exceeded 140 meters, but logging eliminated the tallest specimens.",
+  "verdict": "overstated",
+  "corrected_claim": "Records of Mountain ash trees exceeding 140 m exist from before widespread logging, such as a fallen tree measured at 483 feet in 1865, though many such records are likely greatly exaggerated.",
+  "quote": "records exist of much greater heights in the past, before widespread logging took place. Some, if not most, of these records are likely greatly exaggerated",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Source says historical records are likely exaggerated"
+ },
+ {
+  "claim": "In 1999, a disabled man was arrested and detained for seven hours based on a DNA match that was later found to be incorrect—highlighting the importance of confirmation testing.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 1999, Raymond Easton, a disabled man from Swindon, England, was arrested and detained for seven hours ... He was released when a more accurate test showed clear differences.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Commentary about confirmation testing is framing, facts match."
+ },
+ {
+  "claim": "The 18-month doubling period often cited for Moore's Law was actually Intel executive David House's prediction about chip performance, not transistor count.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "David House deduced that computer chip performance would roughly double every 18 months.",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": ""
+ },
+ {
+  "claim": "Bacteria can share antibiotic resistance genes via conjugation — essentially microbial sex spreading drug resistance.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "is often regarded as the bacterial equivalent of sexual reproduction or mating ... Benefits may include antibiotic resistance, xenobiotic tolerance or the ability to use new metabolites.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacterial_conjugation",
+  "note": ""
+ },
+ {
+  "claim": "Asian tiger mosquitoes spread globally by laying eggs in used tires—larvae survive shipment in stagnant water collected in tire treads.",
+  "verdict": "overstated",
+  "corrected_claim": "Asian tiger mosquitoes spread to many countries through the transport of goods — they reached Houston in a 1985 shipment of used tires and Italy in used tires from Georgia (USA) in 1990–91.",
+  "quote": "then at the Port of Houston in a 1985 shipment of used tires ... In 1990–1991, they were most likely brought to Italy in used tires from Georgia (USA) ... it has spread to many countries through the transport of goods and international travel.",
+  "source_url": "https://en.wikipedia.org/wiki/Aedes_albopictus",
+  "note": "Page does not describe larvae surviving shipment in tire-tread water"
+ },
+ {
+  "claim": "Dark roast coffee has slightly less caffeine than light roast because heat breaks down some caffeine during roasting.",
+  "verdict": "overstated",
+  "corrected_claim": "Dark-roast coffee has slightly less caffeine than lighter roasts.",
+  "quote": "dark-roast coffee has slightly less caffeine than lighter roasts",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "Page does not give heat breakdown as the reason"
+ },
+ {
+  "claim": "The ampersand (&) was once the 27th letter of the English alphabet, placed after Z.",
+  "verdict": "overstated",
+  "corrected_claim": "The ampersand (&) was once regarded as the 27th letter of the English alphabet, as taught to children in the US and elsewhere.",
+  "quote": "Similarly, & was regarded as the 27th letter of the English alphabet, as taught to children in the US and elsewhere.",
+  "source_url": "https://en.wikipedia.org/wiki/Ampersand",
+  "note": "Page says 'regarded as', taught to children, not an official letter"
+ },
+ {
+  "claim": "Dollarization — adopting the US dollar as official currency — surrenders monetary policy but provides stability, as Ecuador did in 2000 after hyperinflation.",
+  "verdict": "overstated",
+  "corrected_claim": "Dollarization costs a country its monetary policy autonomy but can promote fiscal and monetary discipline and greater macroeconomic stability; Ecuador fully dollarized in 2000 amid a widespread political and financial crisis.",
+  "quote": "the loss of monetary policy autonomy, and the loss of the exchange rate instruments ... Official currency substitution helps to promote fiscal and monetary discipline and thus greater macroeconomic stability ... Ecuador and El Salvador became fully dollarized economies in 2000 and 2001 respectively",
+  "source_url": "https://en.wikipedia.org/wiki/Dollarization",
+  "note": "Page ties Ecuador's move to a political and financial crisis, not hyperinflation."
+ },
+ {
+  "claim": "The Kauri tree Tāne Mahuta in New Zealand has the largest total wood volume outside California at 516 cubic meters including branches.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The 516 cubic meter figure includes 255m³ for the main trunk and 261m³ for branches ... Tāne Mahuta, the largest living tree outside of California",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "The 2012 U.S. Supreme Court ruling Maryland v. King upheld that DNA sampling of prisoners arrested for serious crimes is constitutional.",
+  "verdict": "overstated",
+  "corrected_claim": "The 2013 U.S. Supreme Court ruling Maryland v. King held that DNA sampling of prisoners arrested for serious crimes is constitutional.",
+  "quote": "Maryland v. King (2013) that DNA sampling of prisoners arrested for serious crimes is constitutional.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Ruling was 2013, not 2012."
+ },
+ {
+  "claim": "A 1982 Osborne Executive computer had 100x the weight, 500x the volume, and 1/100th the clock speed of a 2007 iPhone — at 10x the inflation-adjusted cost.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Moore%27s_law",
+  "note": "Osborne Executive/iPhone comparison not found on page."
+ },
+ {
+  "claim": "The word 'bacteria' was coined by Christian Gottfried Ehrenberg in 1838 from Greek for 'small stick'.",
+  "verdict": "wrong",
+  "corrected_claim": "",
+  "quote": "The word was first used to refer to bacteria in 1828 ... the diminutive of βακτηρία (baktēría), meaning 'staff' or 'cane'.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacteria",
+  "note": "Page gives 1828 and 'staff/cane'; Ehrenberg and 1838 not stated"
+ },
+ {
+  "claim": "The brown marmorated stink bug, native to Asia, invaded North America in 1998 and now costs apple growers alone $37 million annually.",
+  "verdict": "overstated",
+  "corrected_claim": "The brown marmorated stink bug, native to China, Japan, Korea and other Asian regions, was first documented in North America in Allentown, Pennsylvania, in 1998 — and in 2010 Mid-Atlantic apple growers lost $37 million to it.",
+  "quote": "The first documented specimen was collected in Allentown, Pennsylvania, in September 1998. ... In 2010, in the Mid-Atlantic United States, $37 million in apple crops were lost",
+  "source_url": "https://en.wikipedia.org/wiki/Brown_marmorated_stink_bug",
+  "note": "$37 million was a 2010 Mid-Atlantic loss, not an annual cost"
+ },
+ {
+  "claim": "Decaffeinated coffee still contains 2-15 mg of caffeine per cup, compared to 95-200 mg in regular coffee.",
+  "verdict": "overstated",
+  "corrected_claim": "Decaf isn't caffeine-free: one study found decaffeinated coffee contained 10 mg of caffeine per cup, compared to about 85 mg for regular coffee.",
+  "quote": "One study found that decaffeinated coffee contained 10 mg of caffeine per cup, compared to approximately 85 mg of caffeine per cup for regular coffee",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "Page figures differ (10 vs 85 mg, from one study); 95–200 mg not stated"
+ },
+ {
+  "claim": "The word 'goodbye' is a contraction of 'God be with ye' — evolved through centuries of casual use.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Goodbye",
+  "note": "Page is a disambiguation page; no etymology given"
+ },
+ {
+  "claim": "Private-value auctions have different optimal strategies than common-value — when your value is independent of others, there's no winner's curse to worry about.",
+  "verdict": "unverifiable",
+  "corrected_claim": "",
+  "quote": "",
+  "source_url": "https://en.wikipedia.org/wiki/Private_value_auction",
+  "note": "Page failed to load (URL not found)"
+ },
+ {
+  "claim": "The Centurion eucalyptus tree in Tasmania reached 100.5 meters in 2018 but lost 4 meters of height due to fire damage.",
+  "verdict": "overstated",
+  "corrected_claim": "The Centurion eucalyptus in Tasmania reached 100.5 meters in 2018 but had lost 4 meters of height by 2025 due to damage from a 2019 fire.",
+  "quote": "Tree had reached 100.5 m in 2018, but lost 4 meters of height by 2025 due to the 2019 fire damage",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Claim omits that the fire was in 2019 and the loss by 2025; minor"
+ },
+ {
+  "claim": "DNA evidence can theoretically be fabricated—70% of human DNA is methylated, allowing tests to distinguish manufactured synthetic DNA from genuine samples.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Seventy percent of the DNA in any human genome is methylated ... The synthetic DNA lacks this epigenetic modification ... which allows the test to distinguish manufactured DNA from genuine DNA.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "Linus Torvalds wanted to call Linux 'Freax' (free + freak + x) — an FTP admin named it 'Linux' without asking because he thought 'Freax' was a terrible name.",
+  "verdict": "overstated",
+  "corrected_claim": "Linus Torvalds wanted to call Linux 'Freax' (free + freak + x); FTP admin Ari Lemmke didn't think it was a good name and named the project 'Linux' on the server without consulting Torvalds.",
+  "quote": "Linus Torvalds had wanted to call his invention \"Freax\", a portmanteau of \"free\", \"freak\", and \"x\" (as an allusion to Unix). ... Ari Lemmke ... did not think that \"Freax\" was a good name, so he named the project \"Linux\" on the server without consulting Torvalds.",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": "Source says 'not a good name', not 'terrible'"
+ },
+ {
+  "claim": "Magnetotactic bacteria contain chains of magnetic crystals that let them navigate using Earth's magnetic field.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "To perform this task, these bacteria have organelles called magnetosomes that contain magnetic crystals. ... Magnetotactic bacteria organize their magnetosomes in linear chains. ... orient themselves along the magnetic field lines of Earth's magnetic field",
+  "source_url": "https://en.wikipedia.org/wiki/Magnetotactic_bacteria",
+  "note": ""
+ },
+ {
+  "claim": "Emerald ash borers have killed hundreds of millions of ash trees in North America since arriving in 2002—likely in wooden shipping materials.",
+  "verdict": "overstated",
+  "corrected_claim": "The emerald ash borer, first identified in Canton, Michigan, in 2002 and likely introduced in shipping materials such as packing crates, has killed tens of millions of ash trees.",
+  "quote": "It has killed tens of millions of ash trees so far ... The insect was first identified in Canton, Michigan, in 2002 ... introduced from overseas in shipping materials such as packing crates",
+  "source_url": "https://en.wikipedia.org/wiki/Emerald_ash_borer",
+  "note": "Page says tens of millions, not hundreds of millions; 2002 is first identification (may have been present since late 1980s)."
+ },
+ {
+  "claim": "Tea generally has less caffeine than coffee (25-50 mg vs 95-200 mg per cup), but contains L-theanine which may moderate caffeine's effects.",
+  "verdict": "overstated",
+  "corrected_claim": "Tea contains more caffeine than coffee by dry weight, but a typical serving contains much less; and a 2014 meta-analysis found caffeine and L-theanine together have synergistic psychoactive effects.",
+  "quote": "Tea contains more caffeine than coffee by dry weight. A typical serving, however, contains much less ... concurrent caffeine and L-theanine use has synergistic psychoactive effects",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "Page gives no 25–50 vs 95–200 mg figures and says synergistic, not moderating"
+ },
+ {
+  "claim": "The word 'nice' originally meant 'foolish' or 'stupid' in Latin (nescius) — its meaning completely reversed over centuries.",
+  "verdict": "overstated",
+  "corrected_claim": "The word 'nice' originally meant 'foolish, ignorant, frivolous, senseless', from Latin nescius ('ignorant or unaware') — only by 1769 did it come to mean 'agreeable, delightful'.",
+  "quote": "Nice – Originally meant \"foolish, ignorant, frivolous, senseless\". ... from Latin nescius (\"ignorant or unaware\"). ... to \"agreeable, delightful\" (1769); to \"kind, thoughtful\" (1830).",
+  "source_url": "https://en.wikipedia.org/wiki/Semantic_change",
+  "note": "Latin nescius meant 'ignorant', not 'foolish/stupid' (those were Old French senses)."
+ },
+ {
+  "claim": "The Public Goods Game shows free-riding is the dominant strategy — but real humans often contribute 40-60% of their endowment, contradicting pure self-interest assumptions.",
+  "verdict": "overstated",
+  "corrected_claim": "In the Public Goods Game, each player maximizes payoff by contributing nothing, so the Nash equilibrium is zero contribution — yet in experiments people rarely play it and tend to put something into the pot.",
+  "quote": "at the Nash equilibrium each individual contributes 0. ... In fact, the Nash equilibrium is rarely seen in experiments; people do tend to add something into the pot.",
+  "source_url": "https://en.wikipedia.org/wiki/Public_goods_game",
+  "note": "Page gives no 40-60% figure; says contributions vary widely from 0% to 100%."
+ },
+ {
+  "claim": "Menara in Malaysia is the tallest tropical tree at 97.58 meters—a yellow meranti (Shorea faguetiana).",
+  "verdict": "overstated",
+  "corrected_claim": "Menara, a yellow meranti (Shorea faguetiana) in Malaysia, stands 97.58 meters tall and has been reported as the world's tallest known tropical tree.",
+  "quote": "The correct height of the tree is 97.58m",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "'Tallest tropical tree' appears only in a cited headline"
+ },
+ {
+  "claim": "The UK's Human Tissue Act 2004 prohibits private individuals from covertly collecting biological samples for DNA analysis, but exempts medical and criminal investigations.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "the Human Tissue Act 2004 prohibits private individuals from covertly collecting biological samples ... exempts medical and criminal investigations from the prohibition.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": ""
+ },
+ {
+  "claim": "Linux runs on all 500 of the world's fastest supercomputers — it gradually displaced all competitors by November 2017.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Linux is used on all of the world's 500 fastest supercomputers (as of November 2017, having gradually displaced all competitors).",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": ""
+ },
+ {
+  "claim": "Some bacteria have circular chromosomes; others have linear ones — chromosome shape isn't universal even among prokaryotes.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "The prokaryotes – bacteria and archaea – typically have a single circular chromosome ... For instance, Spirochaetes such as Borrelia burgdorferi (causing Lyme disease), contain a single linear chromosome.",
+  "source_url": "https://en.wikipedia.org/wiki/Bacterial_chromosome",
+  "note": ""
+ },
+ {
+  "claim": "The red imported fire ant (Solenopsis invicta) causes an estimated $6 billion in damage annually in the United States alone.",
+  "verdict": "overstated",
+  "corrected_claim": "The red imported fire ant (Solenopsis invicta) is a notorious pest that causes billions of dollars in damage annually.",
+  "quote": "The ant is viewed as a notorious pest, causing billions of dollars in damage annually and impacting wildlife.",
+  "source_url": "https://en.wikipedia.org/wiki/Red_imported_fire_ant",
+  "note": "No $6 billion US-specific figure on the page."
+ },
+ {
+  "claim": "Energy drinks typically contain 70-200 mg of caffeine per can—similar to coffee but often consumed faster, leading to quicker absorption.",
+  "verdict": "overstated",
+  "corrected_claim": "Energy drinks such as Red Bull can start at 80 milligrams of caffeine per serving.",
+  "quote": "By contrast, energy drinks, such as Red Bull, can start at 80 milligrams of caffeine per serving.",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "70–200 mg range and faster absorption not stated"
+ },
+ {
+  "claim": "The word 'awful' once meant 'inspiring awe' (full of awe) — now it means almost the opposite.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Awful – Literally \"full of awe\", originally meant \"inspiring wonder (or fear)\", hence \"impressive\". In contemporary usage, the word means \"extremely bad\".",
+  "source_url": "https://en.wikipedia.org/wiki/Semantic_change",
+  "note": ""
+ },
+ {
+  "claim": "English auctions (ascending price) and second-price sealed-bid auctions are strategically equivalent — in both, bidding your true value is optimal.",
+  "verdict": "overstated",
+  "corrected_claim": "For a single item with independent private values, an English auction is theoretically equivalent to a second-price sealed-bid (Vickrey) auction: both award the item to the highest-value bidder at the second-highest value, and both have weakly dominant strategies.",
+  "quote": "the expected payment and expected revenues of an English auction is theoretically equivalent to that of the Vickrey auction ... award the item to the bidder with the highest value at a price equal to the value of the second highest bidder ... both mechanisms have weakly dominant strategies",
+  "source_url": "https://en.wikipedia.org/wiki/English_auction",
+  "note": "Equivalence holds only under independent private values for a single item; with common values the English auction differs."
+ },
+ {
+  "claim": "White Knight, a manna gum eucalyptus in Tasmania, died likely due to more frequent heatwaves and reduced rainfall from climate change.",
+  "verdict": "overstated",
+  "corrected_claim": "White Knight, a giant manna gum in Fingal, Tasmania, has died, the likely cause being more frequent heatwaves and reduced rainfall.",
+  "quote": "This tree has died, the likely cause being more frequent heatwaves and reduced rainfall.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Source does not attribute the heatwaves/rainfall to climate change."
+ },
+ {
+  "claim": "In 2016, DNA testing revealed that a woman abandoned as a baby identified her deceased mother and father through forensic analysis of saliva on old stamps and envelopes.",
+  "verdict": "overstated",
+  "corrected_claim": "In 2016 Anthea Ring, abandoned as a baby, used DNA matching to discover her deceased mother's identity, and DNA captured from saliva on old stamps and envelopes proved who her biological father was.",
+  "quote": "In 2016 Anthea Ring, abandoned as a baby, ... was able to use a DNA sample and DNA matching database to discover her deceased mother's identity ... capture DNA from saliva left on old stamps and envelopes ... proved that a man named Patrick Coyne was her biological father.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Mother was identified via a DNA database, not stamps; page does not say father was deceased."
+ },
+ {
+  "claim": "Torvalds said if GNU Hurd or 386BSD had been available in 1991, he probably wouldn't have created Linux.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Linus Torvalds has stated that if the GNU kernel or 386BSD had been available in 1991, he probably would not have created Linux.",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": ""
+ },
+ {
+  "claim": "Endosymbiotic bacteria became mitochondria and chloroplasts — all complex life descended from bacterial mergers.",
+  "verdict": "overstated",
+  "corrected_claim": "Mitochondria and chloroplasts descend from formerly free-living prokaryotes taken inside other cells by endosymbiosis, and eukaryotic cells may themselves have arisen from such symbiotic mergers.",
+  "quote": "are descended from formerly free-living prokaryotes ... taken one inside the other in endosymbiosis ... may have resulted from symbiotic mergers",
+  "source_url": "https://en.wikipedia.org/wiki/Endosymbiotic_theory",
+  "note": "Page says the origin of eukaryotes 'may have' come from symbiotic mergers (archaeal host), not that all complex life came from bacterial mergers."
+ },
+ {
+  "claim": "Crazy ants (Nylanderia fulva) are displacing fire ants in the southern U.S.—they're immune to fire ant venom and overwhelm colonies with sheer numbers.",
+  "verdict": "overstated",
+  "corrected_claim": "Tawny crazy ants displace other ant species, including red imported fire ants — they detoxify fire ant venom with their own formic acid, the first known example of an insect detoxifying another's venom.",
+  "quote": "Tawny crazy ants were found to displace other ant species in their native Argentina and later the US, including the red imported fire ant. ... This is the first known example of an insect detoxifying another insect's venom",
+  "source_url": "https://en.wikipedia.org/wiki/Rasberry_crazy_ant",
+  "note": "They detoxify venom rather than being immune; 'overwhelm with sheer numbers' not stated."
+ },
+ {
+  "claim": "Caffeine withdrawal is a recognized medical condition with symptoms including headache, fatigue, decreased alertness, and depressed mood.",
+  "verdict": "overstated",
+  "corrected_claim": "Caffeine withdrawal has formal diagnostic criteria, with symptoms including headache, fatigue, difficulty concentrating, depressed mood/irritability and flu-like symptoms.",
+  "quote": "The diagnostic criteria for caffeine withdrawal require a previous prolonged daily use of caffeine ... difficulty concentrating (reflecting reversal of the neuroadapted state), depressed mood/ irritability ... flu-like symptoms, headache, and fatigue.",
+  "source_url": "https://en.wikipedia.org/wiki/Caffeine",
+  "note": "'Decreased alertness' not listed; page frames it as diagnostic criteria"
+ },
+ {
+  "claim": "A contronym (or auto-antonym) is a word with opposite meanings — like 'dust' (to remove dust OR to sprinkle dust).",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Dust can mean \"to remove dust\" (e.g. to clean a house) or \"to add dust\" (e.g. to dust a cake with powdered sugar).",
+  "source_url": "https://en.wikipedia.org/wiki/Auto-antonym",
+  "note": "Definition: a word with two opposite meanings"
+ },
+ {
+  "claim": "The Trust Game reveals humans are more trusting than game theory predicts — senders typically transfer 50% of their endowment despite the risk of receiving nothing back.",
+  "verdict": "overstated",
+  "corrected_claim": "In the trust game, people trust more than game theory predicts: experiments rarely end in the 'no trust' equilibrium, and the first player usually sends money even when expecting nothing back.",
+  "quote": "The experiments rarely end in the subgame perfect Nash equilibrium of \"no trust\". ... the first participant will usually send an endowment even when they are not expecting anything back",
+  "source_url": "https://en.wikipedia.org/wiki/Trust_game",
+  "note": "Page gives no 50% figure for senders."
+ },
+ {
+  "claim": "African baobabs in Zimbabwe have been carbon-dated to 2,419 years old—among the oldest flowering trees on Earth.",
+  "verdict": "overstated",
+  "corrected_claim": "An African baobab in Matabeleland, Zimbabwe, is listed among the world's oldest non-clonal trees at 2,419 years old.",
+  "quote": "African Baobab (Adansonia digitata) | 2,419 | | Matabeleland, Zimbabwe |",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": "Page lists the age but does not say carbon-dated or call baobabs the oldest flowering trees."
+ },
+ {
+  "claim": "DNA profiling has been used to establish the right of succession to British aristocratic titles, including the Baron Moynihan and Pringle baronets cases.",
+  "verdict": "overstated",
+  "corrected_claim": "DNA testing has been used to establish the right of succession to British titles.",
+  "quote": "DNA testing has been used to establish the right of succession to British titles.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "Page does not mention Baron Moynihan or the Pringle baronets."
+ },
+ {
+  "claim": "Linux was first released on September 17, 1991 — Torvalds enrolled in a Unix course at Helsinki using a Minix textbook, got frustrated with Minix's licensing, and wrote his own kernel.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "While attending the University of Helsinki in the fall of 1990, Torvalds enrolled in a Unix course. ... This textbook included a copy of Tanenbaum's Minix operating system. ... Frustrated by the licensing of Minix, which at the time limited it to educational use only, he began to work on his operating system kernel ... first released on 17 September 1991",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": ""
+ },
+ {
+  "claim": "Wolbachia infects up to 60% of insect species — one of the most successful reproductive parasites in the world.",
+  "verdict": "overstated",
+  "corrected_claim": "An estimated 25 to 70% of all insect species are potential hosts of Wolbachia, possibly the most widespread reproductive parasite bacterium in the biosphere.",
+  "quote": "as many as 25 to 70% of all insect species are estimated to be potential hosts ... possibly the most widespread reproductive parasite bacterium in the biosphere",
+  "source_url": "https://en.wikipedia.org/wiki/Wolbachia",
+  "note": "Page gives 25-70% potential hosts, not 'infects up to 60%'."
+ },
+ {
+  "claim": "The Japanese beetle, which took 50 years to spread across the eastern U.S., has voracious larvae that destroy lawns and adults that defoliate over 300 plant species.",
+  "verdict": "overstated",
+  "corrected_claim": "Japanese beetle larvae live in lawns eating grass roots, and the beetle is a noted pest of roughly 300 plant species in North America and parts of Europe.",
+  "quote": "During the larval stage, the Japanese beetle lives in lawns and other grasslands, where it eats the roots of grasses. ... it is a noted pest to roughly 300 species of plants.",
+  "source_url": "https://en.wikipedia.org/wiki/Japanese_beetle",
+  "note": "50-year spread not on page; 300 refers to the beetle generally"
+ },
+ {
+  "claim": "Theobromine, the main stimulant in chocolate, is toxic to dogs because they metabolize it much more slowly than humans.",
+  "verdict": "overstated",
+  "corrected_claim": "In large enough amounts, chocolate's theobromine is toxic to cats, dogs, horses, parrots and small rodents because they cannot metabolize it effectively.",
+  "quote": "In sufficient amounts, the theobromine found in chocolate is toxic to animals such as cats, dogs, horses, parrots, and small rodents because they are unable to metabolize the chemical effectively.",
+  "source_url": "https://en.wikipedia.org/wiki/Chocolate",
+  "note": "'Main stimulant' and comparison to humans not stated"
+ },
+ {
+  "claim": "The word 'sanction' can mean both 'to approve' and 'to punish' — context determines the meaning.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Sanction can mean \"to give approval\" or \"to impose a penalty upon\".",
+  "source_url": "https://en.wikipedia.org/wiki/Auto-antonym",
+  "note": ""
+ },
+ {
+  "claim": "Dutch auctions (descending price) are strategically equivalent to first-price sealed-bid — both require strategic shading, bidding below your value to increase profit if you win.",
+  "verdict": "overstated",
+  "corrected_claim": "A Dutch (descending-price) auction is strategically similar to a first-price sealed-bid auction.",
+  "quote": "is strategically similar to a first-price sealed-bid auction.",
+  "source_url": "https://en.wikipedia.org/wiki/Dutch_auction",
+  "note": "Page does not discuss bid shading or bidding below value."
+ },
+ {
+  "claim": "The oldest verified olive tree is 1,163 years old (±131 years) in the Sisters Olive Trees of Noah, Lebanon—previously claimed to be 6,000 years.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "In 2024 research was published showing that one of the trees in the Sisters Olive Trees of Noah ... to be 1,163 years old, plus or minus 131 years, by carbon dating. Previously they had been reputed to be around 6,000 years old. Previously the oldest age verified by carbon dating was 900 years for a tree in the Gethsemane garden in Jerusalem.",
+  "source_url": "https://en.wikipedia.org/wiki/List_of_superlative_trees",
+  "note": ""
+ },
+ {
+  "claim": "The claim that Anna Anderson was Grand Duchess Anastasia was definitively disproved through DNA testing in 1994—the samples showed no relation to the Romanov family.",
+  "verdict": "overstated",
+  "corrected_claim": "In 1994, tests on Anna Anderson's tissue after her death showed she bore no relation to the Romanovs, refuting her claim to be Grand Duchess Anastasia.",
+  "quote": "In 1994, the claim that Anna Anderson was Grand Duchess Anastasia Nikolaevna of Russia was tested ... was tested after her death using samples of her tissue ... and showed that she bore no relation to the Romanovs.",
+  "source_url": "https://en.wikipedia.org/wiki/DNA_profiling",
+  "note": "'Definitively disproved' wording is stronger than page; testing used post-mortem tissue."
+ },
+ {
+  "claim": "Eric Raymond noted that Linux 'evolved in a completely different way' — rather than careful design by small groups, it was 'casually hacked on by huge numbers of volunteers' using weekly releases and rapid feedback.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Linux evolved in a completely different way. From nearly the beginning, it was rather casually hacked on by huge numbers of volunteers ... Quality was maintained not by rigid standards or autocracy but by the naively simple strategy of releasing every week and getting feedback from hundreds of users within days",
+  "source_url": "https://en.wikipedia.org/wiki/Linux",
+  "note": ""
+ },
+ {
+  "claim": "Bacteria can survive in clouds, traveling thousands of kilometers before raining down to colonize new environments.",
+  "verdict": "overstated",
+  "corrected_claim": "Airborne microorganisms are involved in cloud formation and precipitation and can travel between continents, then return to Earth's surface through precipitation and dry deposition.",
+  "quote": "Airborne microorganisms are also involved in cloud formation and precipitation ... Airborne microorganisms can travel between continents ... from the atmosphere to the Earth's surface due to precipitation and dry deposition",
+  "source_url": "https://en.wikipedia.org/wiki/Airborne_microorganism",
+  "note": "Page does not specifically say bacteria survive in clouds and colonize new environments"
+ },
+ {
+  "claim": "Insects are eaten in 80% of the world's nations by people in roughly 3,000 ethnic groups—the practice of eating insects is called entomophagy.",
+  "verdict": "correct",
+  "corrected_claim": "",
+  "quote": "Eighty percent of the world's nations eat insects of 1,000 to 2,000 species. ... Around 3,000 ethnic groups practice entomophagy. ... is the practice of eating insects.",
+  "source_url": "https://en.wikipedia.org/wiki/Entomophagy",
+  "note": ""
+ },
+ {
+  "claim": "White chocolate isn't technically chocolate because it contains no cocoa solids—only cocoa butter, milk, and sugar.",
+  "verdict": "overstated",
+  "corrected_claim": "White chocolate is made with only cocoa butter and milk—its cocoa solids are replaced by milk solids, which gives it its ivory color.",
+  "quote": "Making chocolate with only cocoa butter and milk produces white chocolate. ... In white chocolate, they are all replaced by milk solids, hence its ivory color.",
+  "source_url": "https://en.wikipedia.org/wiki/Chocolate",
+  "note": "'Not technically chocolate' not stated"
+ }
+]
