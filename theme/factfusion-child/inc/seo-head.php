@@ -234,6 +234,15 @@ function ffc_schema_graph( $graph, $view, $fact, $img ) {
 		if ( 'DefinedTerm' === $type ) {
 			continue; // A fact is not a dictionary term.
 		}
+		if ( 'Organization' === $type && $org_id === $id && defined( 'FFC_CONTACT_EMAIL' ) ) {
+			$node['email']        = FFC_CONTACT_EMAIL;
+			$node['contactPoint'] = array(
+				'@type'       => 'ContactPoint',
+				'contactType' => 'customer support',
+				'email'       => FFC_CONTACT_EMAIL,
+				'url'         => home_url( user_trailingslashit( 'contact' ) ),
+			);
+		}
 		if ( $fact && 'fact' === $view && ( str_ends_with( $id, '#webpage' ) || 'Article' === $type ) ) {
 			list( $published, $modified ) = ffc_fact_dates( $fact );
 			$node['datePublished']        = ffc_iso( $published );

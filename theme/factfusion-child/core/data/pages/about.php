@@ -58,5 +58,5 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you have a question or a suggestion, please use the <a href="{{contact_url}}">contact page</a>.</p>
+<p>If you have a question or a suggestion, please use the <a href="{{contact_url}}">contact page</a> or email us at <a href="mailto:contact@factfusionai.com">contact@factfusionai.com</a>.</p>
 <!-- /wp:paragraph -->

@@ -102,7 +102,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We write our own fact wording and link to sources rather than copying them. If you believe something on this site infringes your copyright, send a notice through our <a href="{{contact_url}}">contact page</a> with:</p>
+<p>We write our own fact wording and link to sources rather than copying them. If you believe something on this site infringes your copyright, send a notice through our <a href="{{contact_url}}">contact page</a> or by email to <a href="mailto:contact@factfusionai.com">contact@factfusionai.com</a> with:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -156,7 +156,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Questions about these terms can be sent through our <a href="{{contact_url}}">contact page</a>.</p>
+<p>Questions about these terms can be sent through our <a href="{{contact_url}}">contact page</a> or email us at <a href="mailto:contact@factfusionai.com">contact@factfusionai.com</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"className":"ff-meta"} -->
