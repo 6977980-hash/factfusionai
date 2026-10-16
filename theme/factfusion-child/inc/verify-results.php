@@ -17,6 +17,41 @@ defined( 'ABSPATH' ) || exit;
 
 const FFC_VERIFY_READY   = 'ffc_verify_ready';
 const FFC_VERIFY_APPLIED = 'ffc_verify_applied';
+const FFC_VERIFY_DRAFTED = 'ffc_unsourced_drafted';
+
+/**
+ * One time: pending imported facts without a real source go to Draft, so only sourced facts
+ * wait for a source check. Dataset quality B is AI-written with a guessed link, C has no link.
+ * Nothing is deleted; the moved ids are kept in the option so they can be brought back.
+ */
+add_action(
+	'admin_init',
+	static function () {
+		global $wpdb;
+		if ( get_option( FFC_VERIFY_DRAFTED ) || ! class_exists( 'FactFusion_DB' ) || ! function_exists( 'ffc_bulk_normalize' ) ) {
+			return;
+		}
+		$unsourced = array();
+		foreach ( (array) json_decode( (string) file_get_contents( FFC_BULK_FILE ), true ) as $fact ) {
+			if ( 'A' !== ( $fact['q'] ?? '' ) ) {
+				$unsourced[ ffc_bulk_normalize( $fact['c'] ) ] = true;
+			}
+		}
+		$table = FactFusion_DB::table( 'facts' );
+		$ids   = array();
+		// phpcs:disable WordPress.DB.DirectDatabaseQuery, WordPress.DB.PreparedSQL
+		foreach ( $wpdb->get_results( $wpdb->prepare( 'SELECT id, claim FROM %i WHERE status = %s', $table, 'pending' ) ) as $row ) {
+			if ( isset( $unsourced[ ffc_bulk_normalize( $row->claim ) ] ) ) {
+				$ids[] = (int) $row->id;
+			}
+		}
+		foreach ( array_chunk( $ids, 500 ) as $chunk ) {
+			$wpdb->query( $wpdb->prepare( 'UPDATE %i SET status = %s WHERE status = %s AND id IN (' . implode( ',', $chunk ) . ')', $table, 'draft', 'pending' ) );
+		}
+		// phpcs:enable
+		update_option( FFC_VERIFY_DRAFTED, array( 'date' => gmdate( 'Y-m-d H:i' ), 'ids' => $ids ), false );
+	}
+);
 
 /** Verified-ready facts: fact id => array( quote, url, batch ). */
 function ffc_verify_ready() {
@@ -26,6 +61,12 @@ function ffc_verify_ready() {
 /** Verified-ready fact ids, or an empty array when no batch has been applied yet. */
 function ffc_verify_ready_ids() {
 	return array_map( 'intval', array_keys( ffc_verify_ready() ) );
+}
+
+/** SQL that keeps only verified-ready facts (column $col); matches nothing before the first batch. */
+function ffc_verify_ready_sql( $col = 'f.id' ) {
+	$ids = ffc_verify_ready_ids();
+	return $ids ? " AND {$col} IN (" . implode( ',', $ids ) . ')' : ' AND 0';
 }
 
 /** Batch files, newest name last: batch name => path. */
@@ -134,7 +175,20 @@ function ffc_verify_page() {
 		<p>Each batch below was checked against its source. Applying it changes only <strong>pending</strong> facts:
 			correct ones become ready for Today's 5, overstated ones get the corrected claim and become ready, wrong ones are archived.
 			Once a batch is applied, Today's 5 picks only from checked facts.</p>
-		<p>Ready for Today's 5 now: <strong><?php echo (int) count( ffc_verify_ready() ); ?></strong> facts.</p>
+		<?php
+		global $wpdb;
+		// phpcs:disable WordPress.DB.DirectDatabaseQuery, WordPress.DB.PreparedSQL
+		$ffc_pending = (int) $wpdb->get_var( $wpdb->prepare( 'SELECT COUNT(*) FROM %i WHERE status = %s', FactFusion_DB::table( 'facts' ), 'pending' ) );
+		$ffc_ready   = (int) $wpdb->get_var( $wpdb->prepare( 'SELECT COUNT(*) FROM %i WHERE status = %s' . ffc_verify_ready_sql( 'id' ), FactFusion_DB::table( 'facts' ), 'pending' ) );
+		// phpcs:enable
+		$ffc_drafted = (array) get_option( FFC_VERIFY_DRAFTED, array() );
+		?>
+		<p>Checked and waiting in Today's 5 and the Review queue: <strong><?php echo (int) $ffc_ready; ?></strong> facts.
+			Pending facts not yet checked or not confirmed by their source: <strong><?php echo (int) ( $ffc_pending - $ffc_ready ); ?></strong>.
+			<?php if ( $ffc_drafted ) : ?>
+				Moved to Draft because they have no real source: <strong><?php echo (int) count( (array) ( $ffc_drafted['ids'] ?? array() ) ); ?></strong> (<?php echo esc_html( $ffc_drafted['date'] ?? '' ); ?> UTC, not deleted).
+			<?php endif; ?>
+		</p>
 		<table class="widefat striped" style="max-width:820px">
 			<thead><tr><th>Batch</th><th>Correct</th><th>Overstated</th><th>Wrong</th><th>Unconfirmed</th><th></th></tr></thead>
 			<tbody>
