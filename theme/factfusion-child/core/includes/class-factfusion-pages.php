@@ -233,7 +233,8 @@ final class FactFusion_Pages {
 		$subject = sprintf( __( '[%1$s] Contact form: %2$s', 'factfusion-ai' ), $site, $name );
 		$body    = sprintf( "Name: %s\nEmail: %s\n\n%s\n", $name, $email, $message );
 		// Only the validated address goes into the header; the name stays in the body.
-		$sent = wp_mail( get_option( 'admin_email' ), $subject, $body, array( 'Reply-To: ' . $email ) );
+		$to   = defined( 'FFC_CONTACT_EMAIL' ) ? FFC_CONTACT_EMAIL : get_option( 'admin_email' );
+		$sent = wp_mail( $to, $subject, $body, array( 'Reply-To: ' . $email ) );
 
 		$done( $sent ? 'sent' : 'mail' );
 	}
