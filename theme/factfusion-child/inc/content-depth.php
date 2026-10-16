@@ -473,12 +473,16 @@ function ffc_depth_how_we_know( $fact ) {
 		if ( '' === $quote ) {
 			continue;
 		}
-		$items .= sprintf(
-			'<li><blockquote class="ff-quote"><p>%1$s</p></blockquote><p class="ff-meta">%2$s <a href="%3$s">%4$s</a></p></li>',
+		// Wikipedia text is CC BY-SA: a quote from it carries the licence next to its link.
+		$host    = (string) wp_parse_url( $source->url, PHP_URL_HOST );
+		$licence = preg_match( '/(^|\.)wikipedia\.org$/i', $host ) ? sprintf( ' (<a href="%1$s" rel="license noopener">CC BY-SA 4.0</a>)', esc_url( FFC_CREDITS_BYSA_URL ) ) : '';
+		$items  .= sprintf(
+			'<li><blockquote class="ff-quote"><p>%1$s</p></blockquote><p class="ff-meta">%2$s <a href="%3$s">%4$s</a>%5$s</p></li>',
 			esc_html( '“' . $quote . '”' ),
 			esc_html__( 'From', 'factfusion-ai' ),
 			esc_url( $source->url ),
-			esc_html( $source->source_name )
+			esc_html( $source->source_name ),
+			$licence
 		);
 	}
 	if ( $items ) {
