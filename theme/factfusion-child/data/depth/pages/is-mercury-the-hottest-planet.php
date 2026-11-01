@@ -62,6 +62,18 @@
 <!-- /wp:details -->
 
 <!-- wp:details -->
+<details class="wp-block-details"><summary>What is the hottest planet in the solar system?</summary><!-- wp:paragraph -->
+<p>Venus, NASA says. Its surface reaches about 872 degrees Fahrenheit (467 Celsius), hot enough to melt lead.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>How hot is Mercury?</summary><!-- wp:paragraph -->
+<p>According to NASA, Mercury's day temperatures can reach highs of about 800°F (430°C).</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details -->
 <details class="wp-block-details"><summary>How cold does Mercury get?</summary><!-- wp:paragraph -->
 <p>According to NASA, without an atmosphere to retain heat at night, Mercury's temperatures can dip as low as -290°F (-180°C).</p>
 <!-- /wp:paragraph --></details>
